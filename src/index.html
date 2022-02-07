@@ -1,10 +1,149 @@
 <!DOCTYPE html>
-<html lang="hu">
-  <head>
-    <title>Emelt info érettségi tananyagok</title>
-  </head>
-  
-  <body>
-    Hello
-  </body>
-</html>
+  <html lang="hu">
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+      <title>Emelt info érettségi tananyagok</title>
+    </head>
+
+    <body>
+
+      <header>
+        <!--Desktop Dropdown-->
+          <ul id="dropdownDesktop" class="dropdown-content">
+            <li><a href="/">Kezdőlap<i class="material-icons  grey-text">home</i></a></li>
+            <li class="divider"></li>
+            <li><a href="sites/ppt/">Prezentáció - PPT<i class="material-icons  purple-text">perm_media</i></a></li>
+            <li><a href="sites/word/">Szövegszerkesztés - WORD<i class="material-icons  blue-text text-darken-4">text_format</i></a></li>
+            <li><a href="sites/html/">Weboldal - HTML, CSS<i class="material-icons  cyan-text">web</i></a></li>
+            <li class="divider"></li>
+            <li><a href="">Táblázatkezelés - EXCEL<i class="material-icons  green-text">insert_chart</i></a></li>
+            <li class="divider"></li>
+            <li><a href="">Adatbáziskezelés - ACCESS<i class="material-icons  red-text">dns</i></a></li>
+            <li class="divider"></li>
+            <li><a href="">Programozás - PYTHON<i class="material-icons  yellow-text text-darken-2">code</i></a></li>
+            <li><a href="">Programozás - C++<i class="material-icons  yellow-text text-darken-2">code</i></a></li>
+          </ul>
+
+        <!--Navigation-->
+        <nav>
+          <div class="nav-wrapper purple darken-4">
+            <a href="/" class="brand-logo">Emelt info</a>
+            <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+              <li><a href="/" class="hoverable">Kezdőlap</a></li>
+              <li style="width: 20em;"><a class="dropdown-trigger " data-target="dropdownDesktop" >Tananyagok<i class="material-icons right">arrow_drop_down</i></a></li>
+            </ul>
+            <ul class="sidenav" id="mobile-nav">
+              <li><a href="/">Kezdőlap<i class="material-icons  grey-text">home</i></a></li>
+              <li class="divider"></li>
+              <li><a href="sites/ppt/">Prezentáció - PPT<i class="material-icons  purple-text">perm_media</i></a></li>
+              <li><a href="sites/word/">Szövegszerkesztés - WORD<i class="material-icons  blue-text text-darken-4">text_format</i></a></li>
+              <li><a href="sites/html/">Weboldal - HTML, CSS<i class="material-icons  cyan-text">web</i></a></li>
+              <li class="divider"></li>
+              <li><a href="">Táblázatkezelés - EXCEL<i class="material-icons  green-text">insert_chart</i></a></li>
+              <li class="divider"></li>
+              <li><a href="">Adatbáziskezelés - ACCESS<i class="material-icons  red-text">dns</i></a></li>
+              <li class="divider"></li>
+              <li><a href="">Programozás - PYTHON<i class="material-icons  yellow-text text-darken-2">code</i></a></li>
+              <li><a href="">Programozás - C++<i class="material-icons  yellow-text text-darken-2">code</i></a></li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+
+      <br><br><br><br><br>
+
+      <main>
+        <div class="container">
+          <div class="row">
+            <div class="col s2">
+              <ul class="collection with-header center-align">
+                <li class="collection-header"><h4>Dátum</h4></li>
+                <li class="collection-item light-green">1. 02.08.</li>
+                <li class="collection-item">Alvin</li>
+                <li class="collection-item">Alvin</li>
+              </ul>
+            </div>
+            <div class="col s10">
+              <ul class="collection with-header">
+                <li class="collection-header center-align"><h4>Február</h4></li>
+                <li class="collection-item light-green"><div>Programozás bevezető - Python alapok, érettségi típus feladatok<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+                <li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+                <li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+                <li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+              </ul>
+            </div>
+          </div>
+        </div><!-- ./container -->
+      </main>
+
+      <canvas style="float:left;position:absolute;z-index:-1" class="background"></canvas>
+      
+      <!--Scripts-->
+      <!--Materialize CSS-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+      <script>M.AutoInit();</script>
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          var elems = document.querySelectorAll('.sidenav');
+          var instances = M.Sidenav.init(elems, options);
+        });
+      </script>
+
+      <!--Particle JS-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.2/particles.min.js"></script>
+      <script>
+        let rc = [];
+        let randomColor;
+        function yourFunction(){
+          
+          for(let i = 0; i < 10; i++){
+            randomColor = Math.floor(Math.random()*16777215).toString(16);
+            rc[i] = '#'+randomColor;
+          }
+        }
+        yourFunction();
+        
+        let particles = Particles.init({
+            selector: '.background',
+            maxParticles:250,
+            
+
+            responsive: [
+            {
+              breakpoint: 1920,
+              options: {
+                color:[rc[0],rc[1],rc[2],rc[3],rc[4],rc[5],rc[6]],
+                maxParticles:250,
+                minDistance: 120,
+                speed:1.5,
+                sizeVariations:4,
+                connectParticles: true,
+              }
+            },{
+              breakpoint: 768,
+              options: {
+                maxParticles: 300,
+                minDistance: 120,
+                speed:1,
+                sizeVariations:5,
+                connectParticles: false
+              }
+            }, {
+              breakpoint: 425,
+              options: {
+                maxParticles: 100,
+                connectParticles: false
+              }
+            }]
+          });
+          
+          window.onclick = particles.resumeAnimation(); 
+
+      </script>
+    </body>
+  </html>

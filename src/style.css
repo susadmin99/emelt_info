@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  float: left;
+  z-index: -0;
+}
+
+table {
+  z-index: 1;
+}
