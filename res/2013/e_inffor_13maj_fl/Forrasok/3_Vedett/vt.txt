@@ -1,0 +1,210 @@
+id	kategoria	nev	igid	terulet
+1	NP	Aggteleki Nemzeti Park 	1	20200,1
+2	NP	Balaton-felvidéki Nemzeti Park 	2	59370,5
+3	NP	Bükki Nemzeti Park 	3	42283,4
+4	NP	Duna–Dráva Nemzeti Park 	4	49751,6
+5	NP	Duna–Ipoly Nemzeti Park 	5	60676,0
+6	NP	Fertő–Hanság Nemzeti Park 	6	23744,4
+7	NP	Hortobágyi Nemzeti Park 	7	80957,2
+8	NP	Kiskunsági Nemzeti Park 	8	50640,9
+9	NP	Körös–Maros Nemzeti Park 	9	50940,6
+10	NP	Őrségi Nemzeti Park 	10	44061,4
+11	TK	Bihari-sík Tájvédelmi Körzet 	7	17140,8
+12	TK	Boronka-melléki Tájvédelmi Körzet 	4	8502,7
+13	TK	Borsodi-Mezőség Tájvédelmi Körzet 	3	18402,7
+14	TK	Budai Tájvédelmi Körzet 	5	10501,0
+15	TK	Dél-Mezőföldi Tájvédelmi Körzet 	4	7714,7
+16	TK	Gerecsei Tájvédelmi Körzet 	5	8676,3
+17	TK	Gödöllői Dombvidék Tájvédelmi Körzet 	5	11478,4
+18	TK	Hajdúsági Tájvédelmi Körzet 	7	7068,7
+19	TK	Hevesi Füves Puszták Tájvédelmi Körzet 	3	16123,5
+20	TK	Hollókői Tájvédelmi Körzet 	3	149,5
+21	TK	Karancs–Medves Tájvédelmi Körzet 	3	6657,2
+22	TK	Kelet-cserháti Tájvédelmi Körzet 	3	7359,8
+23	TK	Kelet-Mecsek Tájvédelmi Körzet 	4	9358,6
+24	TK	Kesznyéteni Tájvédelmi Körzet 	3	5853,5
+25	TK	Kőszegi Tájvédelmi Körzet 	10	4370,7
+26	TK	Közép-tiszai Tájvédelmi Körzet 	7	9338,5
+27	TK	Lázbérci Tájvédelmi Körzet 	3	3734,8
+28	TK	Magas-bakonyi Tájvédelmi Körzet 	2	8732,1
+29	TK	Mártélyi Tájvédelmi Körzet 	8	2196,0
+30	TK	Mátrai Tájvédelmi Körzet 	3	12393,8
+31	TK	Mura-menti Tájvédelmi Körzet 	2	1904,1
+32	TK	Nyugat-Mecsek Tájvédelmi Körzet 	4	10340,1
+33	TK	Ócsai Tájvédelmi Körzet 	5	3645,3
+34	TK	Pannonhalmi Tájvédelmi Körzet 	6	8271,5
+35	TK	Pusztaszeri Tájvédelmi Körzet 	8	22327,8
+36	TK	Sághegyi Tájvédelmi Körzet 	10	238,2
+37	TK	Sárréti Tájvédelmi Körzet 	5	2214,4
+38	TK	Sárvíz-völgye Tájvédelmi Körzet 	5	3479,7
+39	TK	Somló Tájvédelmi Körzet 	2	568,5
+40	TK	Soproni Tájvédelmi Körzet 	6	4890,7
+41	TK	Szatmár-beregi Tájvédelmi Körzet 	7	22005,6
+42	TK	Szigetközi Tájvédelmi Körzet 	6	9679,2
+43	TK	Tápió-Hajta Vidéke Tájvédelmi Körzet 	5	4128,0
+44	TK	Tarnavidéki Tájvédelmi Körzet 	3	9495,2
+45	TK	Tokaj–Bodrogzug Tájvédelmi Körzet 	1	5286,1
+46	TK	Vértesi Tájvédelmi Körzet 	5	15209,6
+47	TK	Zempléni Tájvédelmi Körzet 	1	26765,4
+48	TK	Zselici Tájvédelmi Körzet 	4	8289,1
+49	TT	Abaújkéri Aranyos-völgy Természetvédelmi Terület 	1	160,1
+50	TT	Adonyi Természetvédelmi Terület 	5	1,0
+51	TT	Alcsúti arborétum Természetvédelmi Terület 	5	40,3
+52	TT	Ásotthalmi láprét Természetvédelmi Terület 	8	87,4
+53	TT	Attyai-láprét Természetvédelmi Terület 	2	14,8
+54	TT	Babócsai Basa-kert Természetvédelmi Terület 	4	12,6
+55	TT	Bácsalmási Gyapjas Gyűszűvirág Termőhelye Természetvédelmi Terület 	8	3,9
+56	TT	Bakonygyepesi zergebogláros Természetvédelmi Terület 	2	24,0
+57	TT	Baktalórántházai-erdő Természetvédelmi Terület 	7	309,4
+58	TT	Baláta-tó Természetvédelmi Terület 	4	447,5
+59	TT	Balatonfüredi-erdő Természetvédelmi Terület 	2	869,0
+60	TT	Balatonkenesei-tátorjános Természetvédelmi Terület 	2	2,5
+61	TT	Bátorligeti-legelő Természetvédelmi Terület 	7	23,4
+62	TT	Bátorligeti-ősláp Természetvédelmi Terület 	7	52,7
+63	TT	Belsőbárándi-tátorjános Természetvédelmi Terület 	5	49,7
+64	TT	Bécsi-domb Természetvédelmi Terület 	6	7,9
+65	TT	Bél-kő Természetvédelmi Terület 	3	97,5
+66	TT	Bihari-legelő Természetvédelmi Terület 	7	771,5
+67	TT	Bodrogszegi Várhegy Természetvédelmi Terület 	1	1,6
+68	TT	Bölcskei-nőszirmos Természetvédelmi Terület 	4	111,2
+69	TT	Budai Sas-hegy Természetvédelmi Terület 	5	29,7
+70	TT	Budakalászi Kemotaxonómiai Botanikus Kert Természetvédelmi Terület 	5	4,2
+71	TT	Budapesti botanikus kert Természetvédelmi Terület 	5	2,7
+72	TT	Bükkhát Természetvédelmi Terület 	4	452,2
+73	TT	Cégénydányádi-park Természetvédelmi Terület 	7	12,9
+74	TT	Ceglédi-rét Természetvédelmi Terület 	5	16,4
+75	TT	Császártöltési Vörös mocsár Természetvédelmi Terület 	8	930,3
+76	TT	Csévharaszti-borókás Természetvédelmi Terület 	5	131,7
+77	TT	Csokonyavisontai fás legelő Természetvédelmi Terület 	4	433,1
+78	TT	Csólyospálosi földtani feltárás Természetvédelmi Terület 	8	1,2
+79	TT	Csombárdi-rét Természetvédelmi Terület 	4	53,4
+80	TT	Csongrádi Kónyaszék Természetvédelmi Terület 	8	451,1
+81	TT	Dabasi-turjános Természetvédelmi Terület 	5	146,5
+82	TT	Darvas-tó lefejtett bauxitlencse Természetvédelmi Terület 	2	34,4
+83	TT	Dávodi Földvári tó Természetvédelmi Terület 	4	74,3
+84	TT	Debreceni Nagyerdő Természetvédelmi Terület 	7	1104,3
+85	TT	Dénesmajori Csigás-erdő Természetvédelmi Terület 	9	5,2
+86	TT	Devecseri Széki-erdő Természetvédelmi Terület 	2	297,3
+87	TT	Dinnyési-fertő Természetvédelmi Terület 	5	529,0
+88	TT	Dunaalmási-kőfejtők Természetvédelmi Terület 	5	230,7
+89	TT	Dunaszekcsői Löszfal Természetvédelmi Terület 	4	6,8
+90	TT	Edelényi magyar nőszirmos Természetvédelmi Terület 	1	3,1
+91	TT	Erdőbényei fás legelő Természetvédelmi Terület 	1	214,6
+92	TT	Erdőteleki arborétum Természetvédelmi Terület 	3	7,3
+93	TT	Erdőtelki-égerláp Természetvédelmi Terület 	3	18,1
+94	TT	Érdi Kakukk-hegy Természetvédelmi Terület 	5	9,3
+95	TT	Érsekhalmi Hét-völgy Természetvédelmi Terület 	8	26,9
+96	TT	Farkasgyepűi kísérleti erdő Természetvédelmi Terület 	2	359,5
+97	TT	Fekete-hegy Természetvédelmi Terület 	4	94,6
+98	TT	Fényi-erdő Természetvédelmi Terület 	7	297,7
+99	TT	Fenyőfői-ősfenyves Természetvédelmi Terület 	2	578,6
+100	TT	Fóti-Somlyó Természetvédelmi Terület 	5	217,3
+101	TT	Füzérradványi-park Természetvédelmi Terület 	1	159,5
+102	TT	Gellérthegy Természetvédelmi Terület 	5	39,7
+103	TT	Gödöllői Királyi Kastélypark Természetvédelmi Terület 	5	27,6
+104	TT	Gyöngyösi Sár-hegy Természetvédelmi Terület 	3	189,4
+105	TT	Hajdúbagosi földikutya-rezervátum Természetvédelmi Terület 	7	265,7
+106	TT	Hajósi homokpuszta Természetvédelmi Terület 	8	185,9
+107	TT	Hajósi kaszáló és löszpartok Természetvédelmi Terület 	8	123,2
+108	TT	Háros-szigeti Ártéri-erdő Természetvédelmi Terület 	5	59,4
+109	TT	Hencidai Csere-erdő Természetvédelmi Terület 	7	106,0
+110	TT	Hévízi-tó Természetvédelmi Terület 	2	60,7
+111	TT	Hódoséri Ciklámenes Természetvédelmi Terület 	2	24,5
+112	TT	Ikva-patak menti Természetvédelmi Terület 	6	18,0
+113	TT	Ipolytarnóci ősmaradványok Természetvédelmi Terület 	3	509,5
+114	TT	Jászszentlászlói Kalmár-erdő Természetvédelmi Terület 	8	8,9
+115	TT	Jeli arborétum Természetvédelmi Terület 	10	75,3
+116	TT	Jókai-kert Természetvédelmi Terület 	5	3,2
+117	TT	Kállósemjéni Mohos-tó Természetvédelmi Terület 	7	95,0
+118	TT	Kámoni arborétum Természetvédelmi Terület 	10	25,1
+119	TT	Kapszeg-tó Természetvédelmi Terület 	4	158,0
+120	TT	Kaszonyi-hegy Természetvédelmi Terület 	7	156,7
+121	TT	Kecskeri-puszta Természetvédelmi Terület 	7	1262,7
+122	TT	Keleméri mohos tavak Természetvédelmi Terület 	1	56,8
+123	TT	Kelemér-Serényfalva Természetvédelmi Terület 	1	331,5
+124	TT	Kéleshalmi-homokbuckák Természetvédelmi Terület 	8	176,3
+125	TT	Kerecsendi-erdő Természetvédelmi Terület 	3	119,6
+126	TT	Keszthelyi-kastélypark Természetvédelmi Terület 	2	8,0
+127	TT	Kiskőrösi-turjános Természetvédelmi Terület 	8	641,2
+128	TT	Kiskunhalas-Fejetéki Mocsár Természetvédelmi Terület 	8	33,7
+129	TT	Kőlyuktető Természetvédelmi Terület 	3	118,2
+130	TT	Körmendi-kastélypark Természetvédelmi Terület 	10	37,8
+131	TT	Kőszegi-tőzegmohás láp Természetvédelmi Terület 	10	3,8
+132	TT	Kunfehértói holdrutás erdő Természetvédelmi Terület 	8	116,4
+133	TT	Kunpeszéri Szalag-erdő Természetvédelmi Terület 	8	119,3
+134	TT	Látrányi Puszta Természetvédelmi Terület 	2	224,1
+135	TT	Liget-patak menti Természetvédelmi Terület 	6	27,6
+136	TT	Long erdő Természetvédelmi Terület 	1	1004,7
+137	TT	Magyarország földrajzi középpontja Természetvédelmi Terület 	5	4,6
+138	TT	Márkházapusztai fás legelő Természetvédelmi Terület 	3	271,7
+139	TT	Martonvásári-park Természetvédelmi Terület 	5	69,2
+140	TT	Megyaszói-tátorjános Természetvédelmi Terület 	1	35,3
+141	TT	Megyer-hegyi Tengerszem Természetvédelmi Terület 	1	1,1
+142	TT	Mohácsi történelmi emlékhely Természetvédelmi Terület 	4	7,5
+143	TT	Nagybereki Fehér-víz Természetvédelmi Terület 	2	1582,8
+144	TT	Nagycenki-hársfasor Természetvédelmi Terület 	6	11,0
+145	TT	Nagy-mező, Arany-hegy Természetvédelmi Terület 	4	104,0
+146	TT	Nemesmedves történelmi emlékhely Természetvédelmi Terület 	10	58,0
+147	TT	Nyirádi Sár-álló Természetvédelmi Terület 	2	396,9
+148	TT	Pacsmagi-tavak Természetvédelmi Terület 	4	485,1
+149	TT	Pákozdi-ingókövek Természetvédelmi Terület 	5	255,7
+150	TT	Pálvölgyi-barlang felszíni védőterülete Természetvédelmi Terület 	5	4,7
+151	TT	Pannonhalmi arborétum Természetvédelmi Terület 	6	25,6
+152	TT	Peregi Parkerdő Természetvédelmi Terület 	5	11,5
+153	TT	Péteri-tavi madárrezervátum Természetvédelmi Terület 	8	780,7
+154	TT	Pusztaszeri Fülöpszék Természetvédelmi Terület 	8	41,6
+155	TT	Pusztaszeri Hétvezér Emlékmű Természetvédelmi Terület 	8	4,3
+156	TT	Rácalmási-szigetek Természetvédelmi Terület 	5	385,8
+157	TT	Rétszilasi-tavak Természetvédelmi Terület 	5	1493,8
+158	TT	Rinyaszentkirályi-erdő Természetvédelmi Terület 	4	62,8
+159	TT	Rudabányai őshominida-lelőhely Természetvédelmi Terület 	1	2,0
+160	TT	Sárosfői halastavak Természetvédelmi Terület 	2	267,9
+161	TT	Sárvári arborétum Természetvédelmi Terület 	10	9,2
+162	TT	Siroki Nyírjes-tó Természetvédelmi Terület 	3	200,6
+163	TT	Somlóvásárhelyi Holt-tó Természetvédelmi Terület 	2	15,3
+164	TT	Somogyvári Kupavár-hegy Természetvédelmi Terület 	2	29,9
+165	TT	Soproni botanikus kert Természetvédelmi Terület 	6	17,3
+166	TT	Sóshartyáni Hencse-hegy Természetvédelmi Terület 	3	104,7
+167	TT	Sóstó-legelő Természetvédelmi Terület 	1	71,0
+168	TT	Sümegi Fehér-kövek Természetvédelmi Terület 	2	307,9
+169	TT	Sümegi Mogyorós-domb Természetvédelmi Terület 	2	64,6
+170	TT	Szakadáti-legelő Természetvédelmi Terület 	4	1,5
+171	TT	Szársomlyói Természetvédelmi Terület 	4	226,0
+172	TT	Szarvasi arborétum Természetvédelmi Terület 	9	45,4
+173	TT	Szarvasi Történelmi Emlékpark Természetvédelmi Terület 	9	0,7
+174	TT	Szeghalmi Kék-tó Természetvédelmi Terület 	9	112,2
+175	TT	Székesfehérvári homokbánya Természetvédelmi Terület 	5	120,5
+176	TT	Szelestei arborétum Természetvédelmi Terület 	10	15,4
+177	TT	Szelidi-tó Természetvédelmi Terület 	8	408,8
+178	TT	Szemlőhegyi-barlang felszíni védőterülete Természetvédelmi Terület 	5	1,1
+179	TT	Szendrőládi rétek Természetvédelmi Terület 	1	1,5
+180	TT	Szentegáti-erdő Természetvédelmi Terület 	4	250,2
+181	TT	Szentendrei rózsa termőhelye Természetvédelmi Terület 	5	0,4
+182	TT	Szentgáli-tiszafás Természetvédelmi Terület 	2	213,0
+183	TT	Szomolyai-kaptárkövek Természetvédelmi Terület 	3	30,9
+184	TT	Szőlőskei-erdő Természetvédelmi Terület 	3	26,8
+185	TT	Tállyai Patócs-hegy Természetvédelmi Terület 	1	3,2
+186	TT	Tapolcafői-láprétek Természetvédelmi Terület 	2	14,2
+187	TT	Tapolcai-tavasbarlang felszíni védőterülete Természetvédelmi Terület 	2	1,7
+188	TT	Tarcali Turzó-dűlő Természetvédelmi Terület 	1	10,7
+189	TT	Tardi-legelő Természetvédelmi Terület 	3	286,0
+190	TT	Tatai Kálvária-domb Természetvédelmi Terület 	5	2,8
+191	TT	Tiszadobi-ártér Természetvédelmi Terület 	7	1021,2
+192	TT	Tiszadorogmai Göbe-erdő Természetvédelmi Terület 	7	172,2
+193	TT	Tiszaigari arborétum Természetvédelmi Terület 	7	19,4
+194	TT	Tiszakürti Arborétum Természetvédelmi Terület 	7	59,4
+195	TT	Tiszatelek-Tiszaberceli-ártér Természetvédelmi Terület 	7	1506,4
+196	TT	Tiszavasvári Fehér-szik Természetvédelmi Terület 	7	184,9
+197	TT	Turai-legelő Természetvédelmi Terület 	5	13,6
+198	TT	Úrkúti-őskarszt Természetvédelmi Terület 	2	5,4
+199	TT	Uzsai csarabos erdő Természetvédelmi Terület 	2	110,2
+200	TT	Vácrátóti arborétum Természetvédelmi Terület 	5	28,6
+201	TT	Vajai-tó Természetvédelmi Terület 	7	76,5
+202	TT	Várpalotai homokbánya Természetvédelmi Terület 	2	1,0
+203	TT	Velencei-tavi madárrezervátum Természetvédelmi Terület 	5	420,3
+204	TT	Vértesszőlősi előembertelep Természetvédelmi Terület 	5	35,1
+205	TT	Villányi Templom-hegy Természetvédelmi Terület 	4	3,4
+206	TT	Zádor híd környéke Természetvédelmi Terület 	7	88,6
+207	TT	Zalakomári madárrezervátum Természetvédelmi Terület 	2	261,6
+208	TT	Zirci arborétum Természetvédelmi Terület 	2	18,2
+209	TE	Aggtelek-Rudabánya-Szendrői hegység földtani alapszelvényei Természeti Emlék	1	0,0

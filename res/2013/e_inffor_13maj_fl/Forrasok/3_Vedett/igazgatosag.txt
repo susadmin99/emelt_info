@@ -1,0 +1,11 @@
+id	nev
+1	Aggteleki Nemzeti Park Igazgatóság 
+2	Balaton-felvidéki Nemzeti Park Igazgatóság 
+3	Bükki Nemzeti Park Igazgatóság 
+4	Duna-Dráva Nemzeti Park Igazgatóság 
+5	Duna-Ipoly Nemzeti Park Igazgatóság 
+6	Fertő-Hanság Nemzeti Park Igazgatóság 
+7	Hortobágyi Nemzeti Park Igazgatóság 
+8	Kiskunsági Nemzeti Park Igazgatóság 
+9	Körös-Maros Nemzeti Park Igazgatóság 
+10	Őrségi Nemzeti Park Igazgatóság 
