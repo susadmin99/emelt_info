@@ -1,0 +1,1983 @@
+eloadoid	nev	zenekar
+1	10CC	1
+2	1910 Fruitgum Company	1
+3	2 Brothers On The 4th Floor	1
+4	2 Unlimited	1
+5	2Pac ft. Dr. Dre	0
+6	3 Doors Down	1
+7	30 SECONDS TO MARS	1
+8	3JS	1
+9	4 Non Blondes	1
+10	5 Seconds of Summer	1
+11	5000 Volts	1
+12	A Balladeer	1
+13	ABBA	1
+14	ABC	1
+15	Abel	1
+16	AC/DC	1
+17	Acda en De Munnik	1
+18	Ace	1
+19	Ace of Base	1
+20	Adam & the Ants	1
+21	Adam Lambert	0
+22	Adamo	0
+23	Adele	0
+24	Adiemus	0
+25	Adriano Celentano	0
+26	Aerosmith	1
+27	Afric Simone	0
+28	After Tea	1
+29	Agnes Obel	0
+30	Agnetha Fältskog	0
+31	A-Ha	1
+32	Air	0
+33	Air Bubble	1
+34	Air Supply	1
+35	Al Green	0
+36	Al Jarreau	0
+37	Al Martino	0
+38	Al Stewart	0
+39	Alain Clark	0
+40	Alan Price	0
+41	Alan Walker	0
+42	Alanis Morissette	0
+43	Alannah Myles	0
+44	Albert Hammond	0
+45	Alessandro Safina	0
+46	Alessi Brothers	1
+47	Alex Harvey	0
+48	Alexander Curly	0
+49	Alexis Jordan	0
+50	Alice & Battiato	1
+51	Alice Cooper	0
+52	Alice in Chains	1
+53	Alicia Keys	0
+54	Alides Hidding	0
+55	Alison Moyet	0
+56	Alizee	0
+57	All Saints	1
+58	All-4-One	1
+59	Allisons	1
+60	Alphaville	1
+61	Alquin	1
+62	Alvin Stardust	0
+63	Amalia Rodrigues	0
+64	Amanda Lear	0
+65	Amanda Marshall	0
+66	Amen Corner	1
+67	America	1
+68	American Breed	1
+69	Amii Stewart	0
+70	Amy Macdonald	0
+71	Amy Winehouse	0
+72	Anastacia	0
+73	André Hazes	0
+74	André Hazes Jr.	0
+75	Andre Rieu	0
+76	André van Duin	0
+77	Andrea Bocelli	0
+78	Andrew Gold	0
+79	Andy Kim	0
+80	Andy Williams	0
+81	Animals & Eric Burdon	1
+82	Anita Garbo	0
+83	Anita Meyer	1
+84	Anita Ward	1
+85	Anna & Kate McGarrigle	1
+86	Anne Marie David	0
+87	Anne Murray	0
+88	Anneke Grönloh	0
+89	Annie Lennox	0
+90	Annie Lennox & Al Green	0
+91	Anouk	0
+92	Anouk ft Douwe Bob	0
+93	Aphrodite's Child	1
+94	Arcade Fire	1
+95	Arctic Monkeys	1
+96	Aretha Franklin	0
+97	Argent	1
+98	Arjan Brass	0
+99	Arlo Guthrie	0
+100	Armand	0
+101	Armin van Buuren feat. Kensington	0
+102	Armin van Buuren feat. Trevor Guthrie	0
+103	Armin van Buuren ft. Josh Cumbee	0
+104	Arne Jansen	0
+105	Art Garfunkel	0
+106	Art Sullivan & Kiki	0
+107	Arthur Brown	0
+108	Arthur Conley	0
+109	Ashford & Simpson	1
+110	Associates	1
+111	Astrid Nijgh	0
+112	Astrud Gilberto	0
+113	Atomic Kitten	1
+114	Average White Band	1
+115	Avicii	0
+116	Avicii feat. Aloe Blacc	0
+117	Avicii feat. Robbie Williams	0
+118	Axis	1
+119	Axwell & Ingrosso	1
+120	B.B. King	0
+121	Baccara	1
+122	Bachman-Turner Overdrive	1
+123	Backstreet Boys	1
+124	Bad Company	1
+125	Bad English ft. John Waite	1
+126	Bananarama	1
+127	Band Aid	1
+128	Bangles	1
+129	BAP	1
+130	Bar Kays	1
+131	Barbra Streisand	0
+132	Barbra Streisand & Neil Diamond	0
+133	Barclay James Harvest	1
+134	Barry & Eileen	1
+135	Barry Manilow	0
+136	Barry McGuire	0
+137	Barry Ryan	0
+138	Barry White	0
+139	Bastille	1
+140	Baz Luhrman	0
+141	Beastie Boys	1
+142	Beck	0
+143	Bee Gees	1
+144	Belinda Carlisle	0
+145	Ben Cramer	0
+146	Ben E. King	0
+147	Ben Howard	0
+148	Ben Saunders	0
+149	Benny Neyman	0
+150	Berlin	1
+151	Bert Kaempfert	0
+152	Bertolf	0
+153	Beth Hart	0
+154	Beth Hart & Joe Bonamassa	0
+155	Bette Midler	0
+156	BEVERLY CRAVEN	0
+157	Beyoncé	0
+158	Beyoncé ft. Jay-Z	0
+159	Big Wheel	1
+160	Bill & Buster	1
+161	Bill Haley & His Comets	1
+162	Bill Medley & Jennifer Warnes	0
+163	Bill Withers	0
+164	Billie Eillish	0
+165	Billie Holiday	0
+166	Billy Idol	0
+167	Billy J. Kramer & The Dakotas	0
+168	Billy Jo Spears	0
+169	Billy Joe Royal	0
+170	Billy Joel	0
+171	Billy Ocean	0
+172	Billy Paul	0
+173	Billy Preston	0
+174	Billy Stewart	0
+175	Billy Swan	0
+176	Billy Vaughn Orchestra	1
+177	Bing Crosby	0
+178	Bing Crosby & Grace Kelly	0
+179	Bintangs	1
+180	Birdy	0
+181	BJ Thomas	0
+182	Björk	0
+183	Black	0
+184	Black Sabbath	1
+185	Blackstreet ft. Dr. Dre	1
+186	Blaudzun	0
+187	Blind Faith	1
+188	Blind Melon	1
+189	BLINK 182	1
+190	Bloem	0
+191	BLØF	1
+192	BLØF & Geike	1
+193	Bløf & Nielson	1
+194	BLøF ft. Ilse DeLange	1
+195	Blondie	1
+196	Blood Sweat & Tears	1
+197	Blue Cheer	1
+198	Blue Diamonds	1
+199	Blue Haze	1
+200	Blue Mink	1
+201	Blue Öyster Cult	1
+202	Blur	1
+203	Bob & Earl	1
+204	Bob Carlisle	0
+205	Bob Dylan	1
+206	Bob Marley & The Wailers	1
+207	Bob Moore	0
+208	Bob Seger	0
+209	Bob Seger & The Silver Bullet Band	0
+210	Bobbie Gentry	0
+211	Bobby Brown	0
+212	Bobby Goldsboro	0
+213	Bobby McFerrin	0
+214	Bobby Rydell	0
+215	Bobby Vinton	0
+216	Bojoura	0
+217	Bolland & Bolland	1
+218	BOMFUNK MC'S	1
+219	Bon Jovi	1
+220	Boney M	1
+221	Bonnie Raitt	0
+222	Bonnie St. Claire	0
+223	Bonnie Tyler	0
+224	Booker T. & The MG's	1
+225	Boris Gardiner	0
+226	Boston	1
+227	Bots	1
+228	Boudewijn de Groot	1
+229	Boys Town Gang	1
+230	Boyzone	1
+231	Boz Scaggs	0
+232	Bökkers	1
+233	Brainbox	1
+234	Bram Tchaikovsky	0
+235	Bram Vermeulen	0
+236	Bread	1
+237	Brenda Lee	0
+238	Brian Hyland	0
+239	Brian May	0
+240	Brighouse and Rastrick Brass Band	1
+241	Brigitte Kaandorp & Herman Finkers	0
+242	Britney Spears	0
+243	Bronski Beat	1
+244	Brooke Fraser	0
+245	Brotherhood of man	1
+246	Bruce Hornsby & The Range	1
+247	Bruce Springsteen	0
+248	Bruno Mars	0
+249	Bryan Adams	0
+250	Bryan Adams & Barbra Streisand	0
+251	Bryan Adams & Melanie C	0
+252	Bryan Adams & Tina Turner	0
+253	Bryan Adams, Rod Stewart & Sting	0
+254	Bryan Ferry	0
+255	Bucks Fizz	1
+256	Buckshot Lefonque	1
+257	Buddy Holly	0
+258	Buena Vista Social Club	1
+259	Buffalo Springfield	1
+260	Buffoons	1
+261	Buggles	1
+262	BUSH	1
+263	BZN	1
+264	C. Jérome	0
+265	Calum Scott	0
+266	Calvin Harris	0
+267	Calvin Harris ft. Dua Lipa	0
+268	Camila Cabello ft. Young Thug	0
+269	Candlewick Green	0
+270	Candy Dulfer & Dave Stewart	0
+271	Canned Heat	0
+272	Captain & Tennille	0
+273	Carel Kraayenhof	0
+274	Carl Douglas	0
+275	Carly Rae Jepsen	0
+276	Carly Simon	0
+277	Caro Emerald	0
+278	Carole King	0
+279	Carpenters	1
+280	Cashmere	0
+281	Cat Stevens	0
+282	Cat Stevens, Ronan Keating	0
+283	Catherine Ferry	0
+284	Causes	1
+285	Celine Dion	0
+286	Chaka Khan	0
+287	Champaign	1
+288	Charlene	0
+289	Charles & Eddie	1
+290	Charles Aznavour	0
+291	Charles Trenet	0
+292	Charlie Daniels Band	1
+293	Charlie Rich	0
+294	Charly Lownoise en Mental Theo	1
+295	Chas and Dave	1
+296	Cheap Trick	1
+297	Chef'Special	1
+298	Cher	0
+299	Chi Coltrane	0
+300	Chi- Lites	1
+301	Chic	1
+302	Chicago	1
+303	Chicken Shack	1
+304	Chicory Tip	1
+305	China Crisis	1
+306	Chris Andrews	0
+307	Chris Barber's Jazz Band	1
+308	Chris De Burgh	0
+309	Chris Farlowe	0
+310	Chris Isaak	0
+311	Chris Montez	0
+312	Chris Rea	0
+313	Chris Stapleton	0
+314	Christie	1
+315	Christina Aguilera	0
+316	Christopher Cross	0
+317	Chubby Checker	0
+318	Chuck Berry	0
+319	Cilla Black	0
+320	Circus Custers	1
+321	Cirque du Soleil	1
+322	City To City	1
+323	Clannad	1
+324	Clarence 'Frogman' Henry	0
+325	Claudia de Breij	0
+326	Claw Boys Claw	1
+327	Clean Bandit	1
+328	Cliff Richard	0
+329	Cliff Richard & The Shadows	0
+330	Cliff Richard & The Young Ones	1
+331	Clouseau	1
+332	Clout	1
+333	Coasters & King Curtis	1
+334	Cock Robin	1
+335	Cockney Rebel	0
+336	Coldplay	1
+337	Coldplay & Avicii	1
+338	Coldplay ft. Beyoncé	1
+339	Colin Blunstone	0
+340	Collective Consciousness Society	1
+341	Connie Francis	0
+342	Consortium	1
+343	Conny Froboess	0
+344	Conny Vandenbos	0
+345	Coolio ft. L.V.	0
+346	Cornelis Vreeswijk	0
+347	Corry & Rekels	1
+348	Corry Brokken	0
+349	Counting Crows	1
+350	Counting Crows & Bløf	1
+351	Country Joe and the Fish	1
+352	Crash Test Dummies	1
+353	Cream	1
+354	Creedence Clearwater Revival	1
+355	Crispian St. Peters	0
+356	Crosby, Stills & Nash	1
+357	Crosby, Stills, Nash & Young	1
+358	Crowded House	1
+359	Crystal Fighters	1
+360	Crystal Gayle	0
+361	Cuby & The Blizzards	1
+362	Culture Club	1
+363	Cunningham	0
+364	Curiosity Killed The Cat	1
+365	Curtis Mayfield	0
+366	Curved Air	1
+367	Cutting Crew	1
+368	Cyndi Lauper	0
+369	Daft Punk	1
+370	Daft Punk ft. Pharrell & Nile Rodgers	1
+371	Dalida	0
+372	Damien Rice	0
+373	Dan Fogelberg	0
+374	Dan Hartman	0
+375	Dana	0
+376	DANDY WARHOLS	1
+377	Daniel Lohues	0
+378	Daniel Powter	0
+379	Danyel Gérard	0
+380	Danny & the Juniors	1
+381	Danny de Munk	0
+382	Danny Mirror	0
+383	Danny Vera	0
+384	Darts	1
+385	Darude	0
+386	Dave	0
+387	Dave Berry	0
+388	Dave Davies	0
+389	Dave Dee Dozy Beaky Mick & Tich	1
+390	Dave Edmunds	1
+391	Dave Stewart	0
+392	David Bowie	0
+393	David Bowie & Mick Jagger	0
+394	David Bowie & Pat Metheny Group	0
+395	David Cassidy	0
+396	David Garrick	0
+397	David Glen Eisley	0
+398	David Gray	0
+399	David Guetta & Kelly Rowland	0
+400	David Guetta & Sia	0
+401	David McWilliams	0
+402	David Soul	0
+403	David Sylvian	0
+404	Davina Michelle	0
+405	Dawn and Tony Orlando	1
+406	DC Lewis	0
+407	De Dijk	1
+408	De Dijk & Solomon Burke	1
+409	De Jazzpolitie	1
+410	De Jeugd van Tegenwoordig	0
+411	De Kast	1
+412	De Poema's	1
+413	De Staat	1
+414	Dead or Alive	1
+415	Dean Friedman	0
+416	Dean Martin	0
+417	DeBarge	1
+418	Deep Blue Something	1
+419	Deep Purple	1
+420	Del Shannon	0
+421	Delaney, Bonnie & Friends	1
+422	Delegation	1
+423	Delerium	1
+424	Demis Roussos	0
+425	Deniece Williams	0
+426	Depeche Mode	1
+427	Derek & The Dominos	1
+428	Desireless	0
+429	Desmond Dekker	0
+430	Des'ree	0
+431	Detroit Emeralds	1
+432	DEUS	1
+433	Dexy's Midnight Runners & The Emerald Express	1
+434	Diana Ross	0
+435	Diana Ross & Lionel Richie	0
+436	Diana Ross & The Supremes	0
+437	Dido	0
+438	Diesel	1
+439	Diggy Dex	0
+440	Dillinger	1
+441	Dimitri van Toren	0
+442	Dionne Warwick	0
+443	Dire Straits	1
+444	DI-RECT	1
+445	Disturbed	1
+446	DJ Paul Elstak	0
+447	DJ Tiësto	0
+448	Do	0
+449	Doe Maar	1
+450	Dolly Dots	1
+451	Dolly Parton	0
+452	Don Henley	0
+453	Don McLean	0
+454	Don Mercedes	0
+455	Don Partridge	0
+456	Don Quishocking	1
+457	Don Rosenbaum	0
+458	Donald Fagen	0
+459	Donna Hightower	0
+460	Donna Summer	0
+461	Donovan	0
+462	Doris Day	0
+463	Dorus	0
+464	Dotan	0
+465	Doug Ashdown	0
+466	Douwe Bob	0
+467	Douwe Bob & Jacqueline Govaert	0
+468	Dr Hook	1
+469	Dr. Buzzard Or. Savannah Band	1
+470	Dr. Dre Ft. Snoop Dogg, Kurupt & Nate Dogg	0
+471	Drafi Deutscher	0
+472	Drs. P	0
+473	Drukwerk	0
+474	Dua Lipa	0
+475	Dubliners	1
+476	Duffy	0
+477	Duke Ellington	0
+478	Duncan Browne	0
+479	Duncan Laurence	0
+480	Duran Duran	1
+481	Dusty Springfield	0
+482	Dutch	1
+483	Eagle Eye Cherry	0
+484	Eagles	1
+485	Eagles Of Death Metal	1
+486	Earth & Fire	1
+487	Earth Wind & Fire ft. The Emotions	1
+488	Earth, Wind & Fire	1
+489	Echo & The Bunnymen	1
+490	Ed Sheeran	0
+491	Eddie Cochran	0
+492	Eddie Floyd	0
+493	Eddie Hodges	0
+494	Eddie Howell	0
+495	Eddie Money	0
+496	Eddie Vedder	0
+497	Eddy Grant	0
+498	Ede Staal	0
+499	Edison Lighthouse	1
+500	Edith Piaf	0
+501	Editors	1
+502	Edward Sharpe & The Magnetic Zeros	1
+503	Edwin Hawkins Singers	1
+504	EELS	1
+505	Egbert Douwe	0
+506	Ekseption	1
+507	El Debarge	0
+508	Elaine Paige & Barbara Dickson	0
+509	Elbow	1
+510	Electric Light Orchestra	1
+511	Electric Light Orchestra & Olivia Newton-John	1
+512	Electronicas	1
+513	Elkie Brooks	0
+514	Ella Fitzgerald	0
+515	Ella Fitzgerald & Louis Armstrong	0
+516	Ellen Foley	0
+517	Ellen Ten Damme & 3JS	1
+518	Ellie Goulding	0
+519	Elton John	0
+520	Elton John & Kiki Dee	0
+521	Elvin Bishop	0
+522	Elvis Costello	0
+523	Elvis Presley	0
+524	Elvis vs. JXL	0
+525	Emeli Sandé	0
+526	Emerson, Lake & Palmer	1
+527	Emilia	0
+528	Eminem	0
+529	Eminem feat. Dido	0
+530	Eminem ft. Rihanna	0
+531	Emmylou Harris	0
+532	Engelbert Humperdinck	0
+533	England Dan	1
+534	Enigma	1
+535	Ennio Morricone	0
+536	Enrique Iglesias	0
+537	Enrique Iglesias & Whitney Houston	0
+538	Enya	0
+539	Eric Carmen	0
+540	Eric Clapton	0
+541	Eros Ramazzotti	0
+542	Eros Ramazzotti & Anastacia	0
+543	Eros Ramazzotti & Tina Turner	0
+544	Eruption	1
+545	Esther & Abi Ofarim	1
+546	Etta James	0
+547	Eumir Deodato	0
+548	Europe	1
+549	Eurythmics	1
+550	Euson	0
+551	Eva Cassidy	0
+552	Eva De Roovere	0
+553	Evanescence	1
+554	Everything But The Girl	1
+555	Exile	0
+556	Extreme	1
+557	F.R. David	0
+558	Faces	1
+559	Fairground Attraction	1
+560	Fairport Convention	1
+561	Faith No More	1
+562	Faithless	1
+563	Falco	0
+564	Family Of The Year	1
+565	Fat Matress	1
+566	Fatal Flowers	1
+567	Fatboy Slim	0
+568	Fats Domino	1
+569	Fay Lovsky	0
+570	Feargal Sharkey	0
+571	Ferre Grignard	0
+572	Fiction Factory	1
+573	Fine Young Cannibals	1
+574	Fink	0
+575	Firefall	1
+576	First Aid Kit	1
+577	Fischer Z	0
+578	Fish	1
+579	Five Americans	1
+580	Flash & The Pan	1
+581	Fleetwood Mac	1
+582	Floor Jansen & Henk Poort	0
+583	Florence And The Machine	1
+584	Fluitsma & Van Tijn	1
+585	Focus	1
+586	Foo Fighters	1
+587	Fools Garden	1
+588	Foreigner	1
+589	Fortunes	1
+590	Foster The People	1
+591	Four Tops	1
+592	Foxy	0
+593	France Gall	1
+594	Françoise Hardy	0
+595	Frank Boeijen Groep	1
+596	Frank Duval	0
+597	Frank Ifield	0
+598	Frank Sinatra	0
+599	Frank Zappa	0
+600	Frankie Goes To Hollywood	1
+601	Frankie Laine	0
+602	Frankie Miller	0
+603	Frankie Valli	0
+604	Frans Bauer	0
+605	Frans Bauer & Marianne Weber	0
+606	Frans Halsema	0
+607	Frans Halsema & Jenny Arean	0
+608	Franz Ferdinand	1
+609	Fred Neil	0
+610	Freddie & The Dreamers	1
+611	Freddie Aguilar	0
+612	Freddie Cannon	0
+613	Freddie Mercury	0
+614	Freddie Mercury & Montserrat Caballé	0
+615	Freddy Fender	0
+616	Freddy Quinn	0
+617	Free	1
+618	Freek de Jonge	0
+619	Freiheit	1
+620	Frida Boccara	0
+621	Fugees	1
+622	Full House	1
+623	Fun.	1
+624	Fungus	1
+625	Gabriel Rios	0
+626	Gabriella Cilmi	0
+627	Gare Du Nord	1
+628	Garland Jeffreys	0
+629	Gary Brooker	0
+630	Gary Jules	0
+631	Gary Moore	0
+632	Gary Puckett & Union Gap	1
+633	Gavin DeGraw	0
+634	Gavin James	0
+635	Gazebo	0
+636	Ge Reinders	0
+637	Gene Kelly	0
+638	Gene Pitney	0
+639	Genesis	1
+640	George Baker Selection	1
+641	George Benson	0
+642	George Ezra	0
+643	George Gershwin	0
+644	George Harrison	0
+645	George McCrae	0
+646	George Michael	0
+647	George Michael & Aretha Franklin	0
+648	George Michael & Elton John	0
+649	George Michael & Mary J Blige	0
+650	George Michael & Queen	0
+651	Georges Moustaki	0
+652	Georgie Fame	0
+653	Gerard Cox	0
+654	Gerard Joling	0
+655	Gerard Lenorman	0
+656	Gerhard Wendland	0
+657	Gerry & the Pacemakers	1
+658	Gerry Rafferty	0
+659	Gers Pardoel	0
+660	Gibson Brothers	1
+661	GIGI D'AGOSTINO	0
+662	Gilbert Becaud	0
+663	Gilbert O'Sullivan	0
+664	Gino Vannelli	0
+665	Gipsy Kings	1
+666	Gladys Knight & The Pips	0
+667	Glen Campbell	0
+668	Glenn Medeiros	0
+669	Glenn Miller	0
+670	Glennis Grace	0
+671	Gloria Estefan	0
+672	Gloria Gaynor	0
+673	Gnarls Barkley	1
+674	Godley & Creme	1
+675	Golden Earring	1
+676	Goldie	0
+677	Goo Goo Dolls	1
+678	Goombay Dance Band	1
+679	Gordon	0
+680	Gordon Lightfoot	0
+681	GORILLAZ	1
+682	Gorki	0
+683	Gossip	1
+684	Gotye	0
+685	Grace Jones	0
+686	Graham Nash	0
+687	Grand Funk Railroad	1
+688	Grapefruit	1
+689	Greatest Show On Earth	1
+690	Green Day	1
+691	Greenfield & Cook	1
+692	Gregory Porter	0
+693	Greyhound	1
+694	Grover Washington jr.	0
+695	Gruppo Sportivo	1
+696	Gudrun Jankis	0
+697	Guns N' Roses	1
+698	Gusttavo Lima	0
+699	Guus Meeuwis	0
+700	Guus Meeuwis & Gers Pardoel	0
+701	Guus Meeuwis & Vagant	0
+702	Guy Fletcher	0
+703	Guy Mitchell	0
+704	Guys & Dolls	1
+705	Haddaway	0
+706	Haevn	1
+707	Hall & Oates	1
+708	Handsome Poets	1
+709	Hank The Knife & The Jets	1
+710	Hans de Booy	0
+711	Harold Faltermeyer	0
+712	Harold Melvin & The Blue Notes	1
+713	Harpo	0
+714	Harry Belafonte	0
+715	Harry Chapin	0
+716	Harry Klorkestein	0
+717	Harry Nilsson	0
+718	Harry Styles	0
+719	Hazel O'Connor	0
+720	Heart	1
+721	Heaven 17	1
+722	Hedgehoppers Anonymous	1
+723	Helen Shapiro	0
+724	Helene Fischer	0
+725	Henk Westbroek	0
+726	Henk Wijngaard	0
+727	Hep Stars	1
+728	Herb Alpert	0
+729	Herbert Gronemeyer	0
+730	Herman Brood	0
+731	Herman Brood & Henny Vrienten	0
+732	Herman Brood & His Wild Romance	0
+733	Herman van Keeken	0
+734	Herman van Veen	0
+735	Herman's Hermits	1
+736	Hero	1
+737	Het	1
+738	Het Goede Doel	1
+739	Honeybus	1
+740	Honeycombs	1
+741	Hot Butter	1
+742	Hot Chocolate	1
+743	House Of Pain	1
+744	Hozier	0
+745	Höllenboer	1
+746	Hues Corporation	1
+747	Huey Lewis & the News	0
+748	Hunters	1
+749	Ian Dury & Blockheads	1
+750	Icehouse	1
+751	Iggy Pop	0
+752	Iggy Pop Ft. Kate Pierson	0
+753	Ike & Tina Turner	1
+754	Ilse DeLange	0
+755	Imaani	0
+756	Imagination	1
+757	Imagine Dragons	1
+758	Incognito	1
+759	Indeep	1
+760	INXS	1
+761	Irene Cara	0
+762	Iron Butterfly	1
+763	Iron Maiden	1
+764	Is Ook Schitterend	1
+765	Isaac Hayes	0
+766	Ivan Heylen	0
+767	J. Geils Band	1
+768	J. Vincent Edwards	0
+769	J.J. Cale	0
+770	Jack Jersey	0
+771	Jack Johnson	0
+772	Jackie DeShannon	0
+773	Jackie Wilson	0
+774	Jackson 5	1
+775	Jackson Browne	0
+776	Jackson Browne & Clarence Clemons	0
+777	Jacques Brel	0
+778	Jacques Dutronc	0
+779	Jacques Herb	0
+780	James & Bobby Purify	1
+781	James Arthur	0
+782	James Bay	0
+783	James Blake	0
+784	James Blunt	0
+785	James Brown	0
+786	James Ingram & Patti Austin	0
+787	James Morrison	0
+788	James Morrison & Nelly Furtado	0
+789	James Taylor	0
+790	James Taylor & Mark Knopfler	0
+791	Jamie Cullum	0
+792	Jamiroquai	1
+793	Jan Hammer	0
+794	Jan Smit	0
+795	Janet Jackson	0
+796	Janis Ian	0
+797	Janis Joplin	0
+798	Japan	1
+799	Jason Donovan	0
+800	Jason Mraz	0
+801	Jason Mraz & Colbie Caillat	0
+802	Jason Paige	0
+803	Jay & The Americans	1
+804	JAY Z	0
+805	Jay Z & Kanye West	0
+806	Jay Z ft. Alicia Keys	0
+807	Jean Michel Jarre	0
+808	Jeannie C. Riley	0
+809	Jeff Beck	0
+810	Jeff Buckley	0
+811	Jeff Wayne	0
+812	Jeff Wayne & Justin Hayward	0
+813	Jefferson Airplane	1
+814	Jennifer Lopez	0
+815	Jennifer Paige	0
+816	Jennifer Rush	0
+817	Jermaine Jackson	0
+818	Jermaine Jackson & Pia Zadora	0
+819	Jeroen van der Boom	0
+820	Jeroen van Koningsbrugge	0
+821	Jerry Lee Lewis	0
+822	Jesse Green	0
+823	Jessie J	0
+824	Jethro Tull	1
+825	Jets	0
+826	Jett Rebel	0
+827	Jewel	0
+828	Jewel Akens	0
+829	Jim Croce	0
+830	Jim Diamond	0
+831	Jim Gilstrap	0
+832	Jim Reeves	0
+833	Jimi Hendrix	0
+834	Jimi Hendrix Experience	1
+835	Jimmy 'Bo' Horne	0
+836	Jimmy Cliff	0
+837	Jimmy Fontana	0
+838	Jimmy Ruffin	0
+839	JJ Cale	0
+840	Joan Armatrading	0
+841	Joan Baez	0
+842	Joan Jett & The Blackhearts	1
+843	Joe Bonamassa	0
+844	Joe Cocker	0
+845	Joe Cocker & Jennifer Warnes	0
+846	Joe Dassin	0
+847	Joe Jackson	0
+848	Joe South	0
+849	Joey Dee & The Starlighters	1
+850	Joey Dyser	0
+851	JOHAN	0
+852	John Denver	0
+853	John Farnham	0
+854	John Fred & The Playboy Band	0
+855	John Hiatt	0
+856	John Legend	0
+857	John Lennon	0
+858	John Lennon & Plastic Ono Band	0
+859	John Leyton	0
+860	John Mayall	0
+861	John Mayer	0
+862	John Mayer & Taylor Swift	0
+863	John Miles	0
+864	John Newman	0
+865	John Parr	0
+866	John Paul Young	0
+867	John Rowles	0
+868	John Travolta	0
+869	John Travolta & Olivia Newton-John	0
+870	John Waite	0
+871	Johnny & Orquestra Rodrigues	0
+872	Johnny & the Hurricanes	1
+873	Johnny Bristol	0
+874	Johnny Cash	0
+875	Johnny Guitar Watson	0
+876	Johnny Hallyday	0
+877	Johnny Hates Jazz	1
+878	Johnny Kidd & The Pirates	1
+879	Johnny Lion	0
+880	Johnny Logan	0
+881	Johnny Mathis & Deniece Williams	0
+882	Johnny Nash	0
+883	Johnny Tillotson	0
+884	Jon & Vangelis	0
+885	Jon Allen	0
+886	Jon Anderson	0
+887	Jon Secada	0
+888	Jona Lewie	0
+889	Jonathan Jeremiah	0
+890	Jonathan Richman & The Modern Lovers	1
+891	Joni Mitchell	0
+892	Joost Nuissl	0
+893	Jose Feliciano	0
+894	Joshua Kadison	0
+895	Journey	1
+896	Joy Division	0
+897	Juanes	0
+898	Judie Tzuke	0
+899	Judy Collins	0
+900	Judy Garland	0
+901	Jules de Corte	0
+902	Juliane Werding	0
+903	Julie Covington	0
+904	Julie Driscoll & The Brian Auger Trinity	1
+905	Julie Rogers	0
+906	Julien Clerc	0
+907	Julio Iglesias	0
+908	June Lodge & Mohammed	0
+909	Justin Bieber	0
+910	Justin Timberlake	0
+911	Kadanz	1
+912	Kaiser Chiefs	1
+913	Kajagoogoo	1
+914	Kaleo	1
+915	Kalin Twins	1
+916	Kamahl	0
+917	Kane	0
+918	Kane & Ilse DeLange	0
+919	Kane Gang	1
+920	Kansas	1
+921	Kaoma	1
+922	Karen Young	0
+923	Karin Bloemen	0
+924	Kate Bush	0
+925	Katie Melua	0
+926	Katrina & the Waves	1
+927	Katy Perry	0
+928	Katy Perry ft. Skip Marley	0
+929	Kayak	1
+930	KC & The Sunshine Band	1
+931	Keane	1
+932	Keith West	1
+933	Kelly Clarkson	0
+934	Kelly Family	1
+935	Kensington	1
+936	Kenny B.	0
+937	Kenny Loggins, Stevie Nicks	0
+938	Kenny Rogers	0
+939	Kenny Rogers & Dolly Parton	0
+940	Kenny Rogers & Sheena Easton	0
+941	Kevin Ayers	0
+942	Kid Creole & the Coconuts	1
+943	Kid Rock	0
+944	Kids from Fame	1
+945	Kiki Dee	0
+946	Killing Joke	1
+947	Kim Carnes	0
+948	Kim Wilde	0
+949	Kincade	1
+950	Kinderen voor Kinderen	1
+951	King	1
+952	King Crimson	1
+953	King Curtis	0
+954	Kings Of Leon	1
+955	Kingston Trio	1
+956	Kiss	1
+957	Klaatu	1
+958	Klein Orkest	1
+959	Kodaline	1
+960	Kool & The Gang	1
+961	Koos Alberts	0
+962	Koot & Bie	1
+963	Korn	1
+964	Kovacs	0
+965	Kraftwerk	1
+966	Krezip	1
+967	Krystl	0
+968	K's choice	1
+969	KT Tunstall	0
+970	Kylie Minogue	0
+971	Kyteman	0
+972	Kyu Sakamoto	0
+973	Labelle	0
+974	Labi Siffre	0
+975	Labrinth feat. Emeli Sandé	1
+976	Lace	0
+977	Lady Antebellum	1
+978	Lady Gaga	0
+979	Lady Gaga & Bradley Cooper	0
+980	Lady Gaga, Bradley Cooper	0
+981	Laid Back	1
+982	Lana Del Rey	0
+983	Lange Frans & Baas B.	1
+984	Lange Frans & Thé Lau	1
+985	Latin Quarter	1
+986	Laura Branigan	0
+987	Laura Jansen	0
+988	Laura Pausini	0
+989	Lauren Daigle	0
+990	LeAnn Rimes	0
+991	Led Zeppelin	1
+992	Lee Towers	0
+993	Leen Jongewaard	0
+994	Leen Jongewaard & Hetty Blok	0
+995	Leif Garrett	0
+996	Lemon Pipers	1
+997	Lenny Kravitz	0
+998	Lenny Kuhr	0
+999	Leo Sayer	0
+1000	Leon de Graaff	0
+1001	Leonard Cohen	0
+1002	Les Reed Orchestra	1
+1003	Level 42	1
+1004	Lewis Capaldi	0
+1005	Lex Uiting	0
+1006	Liesbeth List	0
+1007	Lighthouse Family	1
+1008	Limahl	0
+1009	Limp Bizkit	1
+1010	Linda Ronstadt	0
+1011	Linda Roos & Jessica	1
+1012	Linkin Park	1
+1013	Lionel Richie	0
+1014	Lionel Richie & Trijntje Oosterhuis	0
+1015	Lipps Inc	1
+1016	Liquido	1
+1017	Lisa Lois	0
+1018	Lisa Stansfield	0
+1019	Little Jimmy Osmond	0
+1020	Little Peggy March	0
+1021	Little Richard	0
+1022	Little River Band	1
+1023	Little Steven	0
+1024	Live	1
+1025	Liverpool Express	1
+1026	Livin' Blues	1
+1027	Living Colour	1
+1028	Lloyd Price	0
+1029	Lobo	0
+1030	London Grammar	1
+1031	Londonbeat	1
+1032	Long John Baldry	0
+1033	Long Tall Ernie and The Shakers	1
+1034	Lorde	0
+1035	Loreen	0
+1036	Lori Spee	0
+1037	Los Angeles	1
+1038	Los Bravos	1
+1039	Los Del Rio	1
+1040	Los Incas	1
+1041	Los Índios Tabajaras	1
+1042	Los Lobos	1
+1043	Lou Christie	0
+1044	Lou Rawls	0
+1045	Lou Rawls & Dianne Reeves	0
+1046	Lou Reed	0
+1047	Louis Armstrong	0
+1048	Louis Neefs	0
+1049	Louis Prima	0
+1050	Love Affair	1
+1051	Love Unlimited	1
+1052	Lovin' Spoonful	1
+1053	Lowell George	0
+1054	LP	0
+1055	LTD	1
+1056	Lucie Silvas	0
+1057	Lucifer	1
+1058	Lucille Starr	0
+1059	Luis Fonsi ft. Daddy Yankee	0
+1060	Luisa Fernandez	0
+1061	Lukas Graham	0
+1062	Lulu	0
+1063	Luv'	1
+1064	Lynn Anderson	0
+1065	Lynsey de Paul	0
+1066	Lynyrd Skynyrd	0
+1067	M	0
+1068	M.A.S.H.	1
+1069	Maaike Ouboter	0
+1070	Maarten van Roozendaal	0
+1071	Mac & Katie Kissoon	1
+1072	Macklemore & Ryan Lewis Ft. Ray Dalton	0
+1073	Macklemore ft. Ryan Lewis	0
+1074	Madness	1
+1075	Madonna	0
+1076	Maggie MacNeal	0
+1077	Magna Carta	1
+1078	Mai Tai	1
+1079	Maitre Gims	0
+1080	Major Lazer	1
+1081	Majority One	1
+1082	Malando	0
+1083	Mama Cass	0
+1084	Manfred Mann	1
+1085	Manfred Mann's Earth band	1
+1086	Manhattans	1
+1087	Manic Street Preachers	1
+1088	Mannenkoor Karrespoor	1
+1089	Manu Chao	0
+1090	Marbles	1
+1091	Marc Cohn	0
+1092	Marcels	1
+1093	Marcia Hines	0
+1094	Marco Borsato	0
+1095	Marco Borsato & Ali B	0
+1096	Marco Borsato & Do	0
+1097	Marco Borsato & Lucie Silvas	0
+1098	Marco Borsato & Trijntje Oosterhuis	0
+1099	Margaret Singana	0
+1100	Margie Ball	0
+1101	Margriet Eshuijs	0
+1102	Maria Mc Kee	0
+1103	Maria Mena	0
+1104	Mariah Carey	0
+1105	Marianne Faithfull	0
+1106	Marianne Rosenberg	0
+1107	Marie Osmond	0
+1108	Marillion	1
+1109	MARILYN MANSON	0
+1110	Marilyn Martin	0
+1111	Mark & Clark Band	1
+1112	Mark Knopfler	0
+1113	Mark Ronson Ft. Amy Winehouse	0
+1114	Mark Ronson ft. Bruno Mars	0
+1115	Mark Ronson ft. Miley Cyrus	0
+1116	Marlene Dietrich	0
+1117	Marlon Roudette	0
+1118	Maroon 5	1
+1119	Maroon 5 & Christina Aguilera	1
+1120	Marshall Hain	1
+1121	Martin Garrix	0
+1122	Martin Garrix & Bebe Rexha	0
+1123	Martin Garrix & Dua Lipa	0
+1124	Martin Garrix feat. Bonn	0
+1125	Marty Wilde	0
+1126	Marvin Gaye	0
+1127	Marvin Gaye & Kim Weston	0
+1128	Marvin Gaye & Tammi Terrell	0
+1129	Marvin Hamlisch	0
+1130	Marvin, Welch & Farrar	1
+1131	Mary Hopkin	0
+1132	Mary MacGregor	0
+1133	Mary Wells	0
+1134	Mason Williams	0
+1135	Massada	1
+1136	Massive Attack	1
+1137	Matia Bazar	1
+1138	Matt Bianco	1
+1139	Matt Dusk	0
+1140	Matt Simons	0
+1141	Matthew Wilder	0
+1142	Matthews Southern Comfort	1
+1143	Matthias Reim	0
+1144	Maureen McGovern	0
+1145	Max Werner	0
+1146	Maxine Nightingale	0
+1147	Maywood	1
+1148	MC Hammer	0
+1149	McCoys	1
+1150	McGuinn, Clark & Hillman	1
+1151	McGuinness Flint	1
+1152	Meat Loaf	0
+1153	Mecano	1
+1154	Mel & Kim	1
+1155	Melanie	0
+1156	Melanie & Edwin Hawkins singers	0
+1157	Melissa Etheridge	0
+1158	Men At Work	1
+1159	Metallica	1
+1160	Mezzoforte	1
+1161	MFSB & The Three Degrees	1
+1162	MGMT	1
+1163	Michael Bolton	0
+1164	Michael Bublé	0
+1165	Michael Jackson	0
+1166	Michael Jackson & Justin Timberlake	0
+1167	Michael Kiwanuka	0
+1168	Michael McDonald	0
+1169	Michael Nesmith & First National Band	1
+1170	Michael Prins	0
+1171	Michael Zager Band	1
+1172	Michel Delpech	0
+1173	Michel Fugain	0
+1174	Michel Polnareff	0
+1175	Michel Sardou	0
+1176	Michel Teló	0
+1177	Mick Jagger	0
+1178	Middle of the road	1
+1179	Midnight Oil	1
+1180	Mighty Sparrow and Byron Lee	0
+1181	Mika	0
+1182	Mike & The Mechanics	0
+1183	Mike Batt	0
+1184	Mike Oldfield	0
+1185	Mike Oldfield & Maggie Reilly	0
+1186	Miley Cyrus	0
+1187	Milk & Honey	1
+1188	Milky Chance	1
+1189	Milli Vanilli	1
+1190	Millie Small	0
+1191	Milow	0
+1192	Mink DeVille	0
+1193	Minnie Riperton	0
+1194	Miriam Makeba	0
+1195	Miss Montreal	1
+1196	Mo	0
+1197	Moby	0
+1198	Moby Grape	1
+1199	Mocedades	1
+1200	Modern Talking	1
+1201	Moments & Whatnauts	1
+1202	Monty Python	1
+1203	Mort Shuman	0
+1204	Mory Kante	0
+1205	Moses	0
+1206	Mother's Finest	1
+1207	Motions	1
+1208	Motörhead	1
+1209	Mott The Hoople	1
+1210	Mouth & MacNeal	1
+1211	Mr. Acker Bilk	0
+1212	Mr. Big	1
+1213	Mr. Bloe	0
+1214	Mr. Mister	1
+1215	Mr. Probz	0
+1216	Mud	1
+1217	Muddy Waters	0
+1218	Mumford & Sons	1
+1219	Mungo Jerry	0
+1220	Murray Head	0
+1221	Muse	1
+1222	Nadieh	0
+1223	Nana Mouskouri	0
+1224	Nancy & Frank Sinatra	0
+1225	Nancy Sinatra	0
+1226	Nat 'King' Cole	0
+1227	Natalie Cole	0
+1228	Natalie Imbruglia	0
+1229	Natasha Bedingfield	0
+1230	Nathaniel Rateliff	0
+1231	Nazareth	1
+1232	Neet Oet Lottum	1
+1233	Neil Diamond	0
+1234	Neil Sedaka	0
+1235	Neil Young	0
+1236	Nelly Furtado	0
+1237	Nena	0
+1238	Nena & Kim Wilde	0
+1239	New Order	1
+1240	New Vaudeville Band	1
+1241	Niall Horan	0
+1242	Nick & Simon	1
+1243	Nick & Thomas	1
+1244	Nick Cave & The Bad Seeds	1
+1245	Nick Cave And The Bad Seeds + Kylie Minogue	1
+1246	Nick Lowe	0
+1247	Nick MacKenzie	0
+1248	Nickelback	1
+1249	Nicole (Hohloch)	0
+1250	Niels Geusebroek	0
+1251	Nielson	0
+1252	Nielson & Miss Montreal	0
+1253	Nightwish	1
+1254	Nik Kershaw	0
+1255	Nils Lofgren	0
+1256	Nina Hagen	0
+1257	Nina Simone	0
+1258	Nini Rosso	0
+1259	Nino Ferrer	0
+1260	Nirvana	1
+1261	Nits	1
+1262	No Doubt	1
+1263	No Mercy	1
+1264	Noel Harrison	0
+1265	Norah Jones	0
+1266	Normaal	1
+1267	Norman Greenbaum	0
+1268	Nothing But Thieves	1
+1269	Nova	1
+1270	Novastar	1
+1271	Oasis	1
+1272	Ocean	1
+1273	Odyssey	0
+1274	Of Monsters and Men	1
+1275	Offspring	1
+1276	Oleta Adams	0
+1277	Oliver	0
+1278	Olivia Newton-John	0
+1279	OMI	0
+1280	One direction	1
+1281	One Republic	1
+1282	Opus	1
+1283	Orchestral Manoeuvres In The Dark	1
+1284	Orleans	1
+1285	Oscar Harris	0
+1286	Otis Redding	0
+1287	Outkast	1
+1288	Outlaws	1
+1289	Outsiders	1
+1290	Owen Paul	0
+1291	Owl City	1
+1292	Ozzy Osbourne	0
+1293	Pacific Gas & Electric	1
+1294	Paco	1
+1295	Panic! at the Disco	1
+1296	Paolo Conte	0
+1297	Paolo Nutini	0
+1298	Paper Lace	1
+1299	Partner	1
+1300	Partridge Family	1
+1301	Party Animals	1
+1302	Passenger	1
+1303	Passepartout	1
+1304	Pat Benatar	0
+1305	Pat Boone	0
+1306	Patricia Paay	0
+1307	Patrick Bruel	0
+1308	Patrick Hernandez	0
+1309	Patsy Cline	0
+1310	Patsy Gallant	0
+1311	Patti Labelle & Michael McDonald	0
+1312	Patti Smith	0
+1313	Patty Pravo	0
+1314	Paul Anka	0
+1315	Paul Carrack	0
+1316	Paul Da Vinci	0
+1317	Paul De Leeuw	0
+1318	Paul De Leeuw & Alderliefste	0
+1319	Paul de Leeuw & André Hazes	0
+1320	Paul de Leeuw & Simone Kleinsma	0
+1321	Paul Elstak	0
+1322	Paul Hardcastle	0
+1323	Paul Jones	0
+1324	Paul Kalkbrenner	0
+1325	Paul Mauriat	0
+1326	Paul McCartney	0
+1327	Paul McCartney & Michael Jackson	0
+1328	Paul McCartney & Stevie Wonder	0
+1329	Paul McCartney & Wings	0
+1330	Paul McCartney And The Frog Chorus	0
+1331	Paul Simon	0
+1332	Paul Weller	0
+1333	Paul Young	0
+1334	Peabo Bryson & Roberta Flack	1
+1335	Peaches & Herb	1
+1336	Pearl Jam	1
+1337	Peggy Lee	0
+1338	Percy Sledge	0
+1339	Peret	0
+1340	Pet Shop Boys	1
+1341	Pete Seeger	0
+1342	Peter & Gordon	1
+1343	Peter Fox	0
+1344	Peter Frampton	0
+1345	Peter Gabriel	0
+1346	Peter Gabriel & Kate Bush	0
+1347	Peter Koelewijn	0
+1348	Peter Maffay	0
+1349	Peter Sarstedt	0
+1350	Peter Schaap	0
+1351	Peter Schilling	0
+1352	Peter Skellern	0
+1353	Peter Tosh	0
+1354	Petula Clark	0
+1355	Ph.D.	1
+1356	Pharrell	0
+1357	Phil Collins	0
+1358	Phil Lynott	0
+1359	Phil Oakley and Giorgio Moroder	0
+1360	Philip Bailey	0
+1361	Philip Bailey & Phil Collins	0
+1362	Pia Douwes	0
+1363	Piet Veerman	0
+1364	Piglets	1
+1365	Pilot	1
+1366	Pink	0
+1367	Pink Floyd	1
+1368	Pink ft. Nate Ruess	0
+1369	Pino D'angio	0
+1370	Pixies	1
+1371	PLACEBO	1
+1372	Placido Domingo & John Denver	0
+1373	Plain White T'S	1
+1374	Plastic Bertrand	0
+1375	Platters	1
+1376	Poco	1
+1377	Pointer Sisters	1
+1378	Polle Eduard	0
+1379	Poppys	1
+1380	Portishead	1
+1381	Portugal. The Man	1
+1382	Power Station	1
+1383	Prince	0
+1384	Prince & The Revolution	0
+1385	Procol Harum	1
+1386	Prodigy	1
+1387	Propaganda	1
+1388	PSY	0
+1389	PULP	1
+1390	Pussycat	1
+1391	Q65	1
+1392	Queen	1
+1393	Queen & David Bowie	1
+1394	Queens Of The Stone Age	1
+1395	Queensrÿche	1
+1396	R. Dean Taylor	0
+1397	R. Kelly	0
+1398	R.E.M.	1
+1399	Racey	1
+1400	Racing Cars	1
+1401	Racoon	1
+1402	Radiohead	1
+1403	Radios	1
+1404	Raffaela Carra	0
+1405	Rage Against The Machine	1
+1406	Rag'n'Bone Man	0
+1407	Rah Band	1
+1408	Ralph McTell	0
+1409	Ram Jam	1
+1410	Rammstein	1
+1411	Ramones	1
+1412	Ramses Shaffy	0
+1413	Ramses Shaffy & Liesbeth List	0
+1414	Ramses Shaffy & Liesbeth List & Alderliefste	0
+1415	Randy Crawford	0
+1416	Randy Newman	0
+1417	Randy Vanwarmer	0
+1418	Rare Earth	1
+1419	Ray Charles	0
+1420	Ray Conniff Singers	1
+1421	Ray Parker jr.	0
+1422	Ray Peterson	0
+1423	Ray Stevens	0
+1424	Raymond Frogatt	0
+1425	Raymond van het Groenewoud	0
+1426	Razorlight	1
+1427	Reamonn	1
+1428	Red Box	1
+1429	Red Hot Chili Peppers	1
+1430	Redbone	1
+1431	Rein de Vries	0
+1432	Reinhard Mey	0
+1433	Rene Froger	0
+1434	Rene Klijn	0
+1435	REO Speedwagon	1
+1436	Riccardo Cocciante	0
+1437	Richard Barnes	0
+1438	Richard Harris	0
+1439	Richard Marx	0
+1440	Rick Astley	0
+1441	Rick James	0
+1442	Ricky Nelson	0
+1443	Rihanna	0
+1444	Rihanna feat. Mikky Ekko	0
+1445	Ringo Starr	0
+1446	Rita Coolidge	0
+1447	Rita Hovink	0
+1448	Ritchie Valens	0
+1449	Rob de Nijs	0
+1450	Rob Hoeke	0
+1451	Rob Hoeke Rhythm	1
+1452	Robbie Williams	0
+1453	Robbie Williams & Gary Barlow	0
+1454	Robbie Williams & Pet Shop Boys	0
+1455	Robert Long	0
+1456	Robert Miles	0
+1457	Robert Palmer	0
+1458	Robert Plant	0
+1459	Roberta Flack	0
+1460	Roberto Jacketti & the Scooters	1
+1461	Robin Beck	0
+1462	Robin Gibb	0
+1463	Robin S	0
+1464	Robin Thicke ft. Pharrell	0
+1465	Rocco Granata	0
+1466	Rod Mckuen	0
+1467	Rod Stewart	0
+1468	Rod Stewart & Tina Turner	0
+1469	Ro-d-ys	1
+1470	Roger Daltrey	0
+1471	Roger Glover & Guests	1
+1472	Roger Miller	0
+1473	Roger Whittaker	0
+1474	Roland Kaiser	0
+1475	Romantics	1
+1476	Ronan Keating	0
+1477	Ronnie & De Ronnies	1
+1478	Room eleven	1
+1479	Rory Block	0
+1480	Rose Royce	0
+1481	Rowwen Hèze	0
+1482	Roxette	1
+1483	Roxy Music	1
+1484	Roy Orbison	0
+1485	Rudi Carrell	0
+1486	Rufus & Chaka Khan	1
+1487	Rufus Wainwright	0
+1488	Rumer	0
+1489	Run DMC & Aerosmith	1
+1490	Rupert Holmes	0
+1491	Rush	1
+1492	Ruth Jacott	0
+1493	Ry Cooder	0
+1494	Ryan Paris	0
+1495	Sade	0
+1496	Sailor	1
+1497	Salt-N-Pepa	1
+1498	Sam & Dave	1
+1499	Sam Brown	0
+1500	Sam Cooke	0
+1501	Sam Hunt	0
+1502	Sam Smith	0
+1503	Sam the Sham	0
+1504	Sammy Davis Jr.	0
+1505	Sandie Shaw	0
+1506	Sandpipers	1
+1507	Sandra	0
+1508	Sandra Kim	0
+1509	Sandra van Nieuwland	0
+1510	Sandy Coast	1
+1511	Santa Esmeralda	1
+1512	Santabarbara	0
+1513	Santana	0
+1514	Santana & John Lee Hooker	0
+1515	Santana & Willie Nelson	0
+1516	Santana feat. Product G&B	0
+1517	Santana Ft. Rob Thomas	0
+1518	Sarah Brightman & Andrea Bocelli	0
+1519	Saybia	1
+1520	Scissor Sisters	1
+1521	Scorpions	1
+1522	Scott Fitzgerald & Yvonne Keeley	0
+1523	Scott McKenzie	0
+1524	Script	1
+1525	Seal	0
+1526	Seal & Adamski	0
+1527	Seekers	1
+1528	Serge Gainsbourg & Jane Birkin	1
+1529	Sergio Mendes	0
+1530	Sex Pistols	1
+1531	Shakatak	1
+1532	Shakin' Stevens	0
+1533	Shakira	0
+1534	Shangri Las	1
+1535	Shania Twain	0
+1536	Sharif Dean	0
+1537	Shawn Elliot	0
+1538	Shawn Mendes	0
+1539	Sheena Easton	0
+1540	Sheila and Black Devotion	1
+1541	Sheppard	1
+1542	Sherbet	1
+1543	Sheryl Crow	0
+1544	Shirley & Company	1
+1545	Shirley Bassey	0
+1546	Shirley Zwerus	0
+1547	Shocking Blue	1
+1548	Sia	0
+1549	Sid Vicious	0
+1550	Simon & Garfunkel	1
+1551	Simple Minds	1
+1552	Simply Red	0
+1553	Sinead O'Connor	0
+1554	Sir Douglas Quintet	1
+1555	Sister Sledge	1
+1556	Sixpence None The Richer	1
+1557	Skik	1
+1558	Skunk Anansie	1
+1559	Skylark	1
+1560	Slade	1
+1561	Slayer	1
+1562	Slik	1
+1563	Small Faces	1
+1564	SMASH MOUTH	1
+1565	Smashing Pumpkins	1
+1566	Smiths	1
+1567	Smokey Robinson (& The Miracles)	1
+1568	Smokie	1
+1569	Snap	1
+1570	Snelle	0
+1571	Sniff 'n The Tears	1
+1572	Snow Patrol	1
+1573	Snowy White	0
+1574	Soft Cell	1
+1575	Solid Harmonie	1
+1576	Sonny & Cher	1
+1577	Soul Sister	1
+1578	Soundgarden	1
+1579	Space Monkey	1
+1580	Spandau Ballet	1
+1581	Spargo	1
+1582	Sparks	1
+1583	Spelbrekers	1
+1584	Spice Girls	1
+1585	Spider Murphy Gang	1
+1586	Spin Doctors	1
+1587	Spinvis	0
+1588	Split Enz	1
+1589	Splitsing	1
+1590	Spooky & Sue	1
+1591	Springwater	1
+1592	Stampeders	1
+1593	Stan Ridgway	0
+1594	Starland Vocal Band	1
+1595	Stars on 45	1
+1596	Starship	1
+1597	Status Quo	1
+1598	Stealers Wheel	1
+1599	Steeleye Span	1
+1600	Steely Dan	1
+1601	Stef Bos	0
+1602	Stephanie Mills	0
+1603	Stephen Bishop	0
+1604	Stephen Stills	0
+1605	Steppenwolf	1
+1606	Stereophonics	1
+1607	Steve Harley & Cockney Rebel	1
+1608	Steve Miller Band	1
+1609	Steve Rowland and the Family Dogg	1
+1610	Steve Winwood	0
+1611	Stevie Ann	0
+1612	Stevie Nicks	0
+1613	Stevie Ray Vaughan	0
+1614	Stevie Wonder	0
+1615	Stevie Wonder & Babyface	0
+1616	Sting	0
+1617	Sting & Branford Marsalis	0
+1618	Stone Roses	1
+1619	STONE TEMPLE PILOTS	1
+1620	Strawbs	1
+1621	Stray Cats	1
+1622	Stretch	1
+1623	Stromae	0
+1624	Style Council	1
+1625	Stylistics, The	1
+1626	Styx	1
+1627	Sue Thompson	0
+1628	Sugarhill Gang	1
+1629	Sugarloaf	1
+1630	Supersister	1
+1631	Supertramp	1
+1632	Surfers	1
+1633	Survivor	1
+1634	Sutherland Brothers And Quiver	1
+1635	Suzan & Freek	1
+1636	Suzanne Vega	0
+1637	Suzi Quatro	0
+1638	Suzi Quatro & Chris Norman	0
+1639	Swedish House Mafia	1
+1640	Sweet Sensation	1
+1641	Swinging Blue Jeans	1
+1642	Swinging Soul Machine	1
+1643	Sylvain Poons & Oetze Verschoor	1
+1644	Syndicate of Sound	1
+1645	System Of A Down	1
+1646	T Rex	1
+1647	Take That	1
+1648	Talk Talk	1
+1649	Talking Heads	1
+1650	Tame Impala	1
+1651	Tammy Wynette	0
+1652	Tanita Tikaram	0
+1653	Tavares	1
+1654	Taylor Swift	0
+1655	Taylor Swift ft. Ed Sheeran	0
+1656	Teach-In	1
+1657	Tears For Fears	1
+1658	Tee Set	1
+1659	Temple Of The Dog	1
+1660	Temptations	1
+1661	Ten Pole Tudor	1
+1662	Ten Sharp	1
+1663	Ten Years After	1
+1664	Tenacious D	1
+1665	Terence Trent D'Arby	0
+1666	Terry Jacks	0
+1667	The 5th Dimension	1
+1668	The Alan Parsons Project	1
+1669	The Allman Brothers Band	1
+1670	The Amazing Stroopwafels	1
+1671	The Animals	1
+1672	The Archies	1
+1673	The Association	1
+1674	The B-52'S	1
+1675	The Babys	1
+1676	The Band	1
+1677	The Baseballs	1
+1678	The Bay City Rollers	1
+1679	The Beach Boys	1
+1680	The Beatles	1
+1681	The Bellamy Brothers	1
+1682	The Black Crowes	1
+1683	The Black Eyed Peas	1
+1684	The Black Keys	1
+1685	The Blue Nile	1
+1686	The Blues Brothers	1
+1687	The Boomtown Rats	1
+1688	The Box Tops	1
+1689	The Boxer Rebellion	1
+1690	The Buoys	1
+1691	The Byrds	1
+1692	The Cars	1
+1693	The Casuals	1
+1694	The Cats	1
+1695	The Chainsmokers ft Coldplay	1
+1696	The Chemical Brothers	1
+1697	The Chiffons	1
+1698	The Christians	1
+1699	The Clash	1
+1700	The Classics	1
+1701	The Commodores	1
+1702	The Common Linnets	1
+1703	The Communards	1
+1704	The Connells	1
+1705	The Contours	1
+1706	The Corrs	1
+1707	The Cranberries	1
+1708	The Crusaders & Randy Crawford	1
+1709	The Crystals	1
+1710	The Cult	1
+1711	The Cure	1
+1712	The Dave Brubeck Quartet	1
+1713	The Dave Clark Five	1
+1714	The Dizzy Man's Band	1
+1715	The Doobie Brothers	1
+1716	The Doors	1
+1717	The Drifters	1
+1718	The Easybeats	1
+1719	The Equals	1
+1720	The Everly Brothers	1
+1721	The Flirtations	1
+1722	The Floaters	1
+1723	The Flower Pot Men	1
+1724	The Flying Pickets	1
+1725	The Foundations	1
+1726	The Four Aces	1
+1727	The Four Seasons	1
+1728	The Fray	1
+1729	The Guess Who	1
+1730	The Herd	1
+1731	The Hollies	1
+1732	The Housemartins	1
+1733	The Human League	1
+1734	The InCrowd	1
+1735	The Isley Brothers	1
+1736	The Ivy League	1
+1737	The Jacksons	1
+1738	The Jacksons & Jackson 5	1
+1739	The Jam	1
+1740	The Jumping Jewels	1
+1741	The Killers	1
+1742	The Kinks	1
+1743	The Knack	1
+1744	The Kooks	1
+1745	The Korgis	1
+1746	The Les Humphries Singers	1
+1747	The Lumineers	1
+1748	The Maisonettes	1
+1749	The Mamas & The Papas	1
+1750	The Manhattan Transfer	1
+1751	The Marmalade	1
+1752	The Mavericks	1
+1753	The Monkees	1
+1754	The Moody Blues	1
+1755	The Motors	1
+1756	The Move	1
+1757	The New Seekers	1
+1758	The New Shining	1
+1759	The Nitty Gritty Dirt Band	1
+1760	The Nolan Sisters	1
+1761	The O'Jays	1
+1762	The Opposites	1
+1763	The Osmonds	1
+1764	The Pasadenas	1
+1765	The People's Choice	1
+1766	The Pogues	1
+1767	The Police	1
+1768	The Pretenders	1
+1769	The Pretty Things	1
+1770	The Proclaimers	1
+1771	The Rascals	1
+1772	The Raspberries	1
+1773	The Real Thing	1
+1774	The Righteous Brothers	1
+1775	The Robert Cray Band	1
+1776	The Rolling Stones	1
+1777	The Ronettes	1
+1778	The Royal Guardsmen	1
+1779	The Rubettes	1
+1780	The Scene	1
+1781	The Scorpions	1
+1782	The Script	1
+1783	The Script & will.i.am	1
+1784	The Searchers	1
+1785	The Selecter	1
+1786	The Shadows	1
+1787	The Shirelles	1
+1788	The Shirts	1
+1789	The Shoes	1
+1790	The Shorts	1
+1791	The Shuffles	1
+1792	The Smiths	1
+1793	The Specials	1
+1794	The Spencer Davis Group	1
+1795	The Spinners	1
+1796	The Stories	1
+1797	The Stranglers	1
+1798	The Supremes	1
+1799	The Sweet	1
+1800	The Temper Trap	1
+1801	The Temptations	1
+1802	The Teskey Brothers	1
+1803	The The	1
+1804	The Tom Robinson Band	1
+1805	The Tom Tom Club	1
+1806	The Trammps	1
+1807	The Tremeloes	1
+1808	The Troggs	1
+1809	The Turtles	1
+1810	The Ventures	1
+1811	The Verve	1
+1812	The Walker Brothers	1
+1813	The Walkers	1
+1814	The War On Drugs	1
+1815	The Waterboys	1
+1816	The Weeknd	0
+1817	The Weeknd ft. Daft Punk	0
+1818	The White Stripes	1
+1819	The Who	1
+1820	The Wiz Stars	1
+1821	The Yardbirds	1
+1822	The Zombies	1
+1823	Thelma Houston	0
+1824	Them	1
+1825	Therapy?	1
+1826	Thin Lizzy	1
+1827	Third World	1
+1828	Thomas Dolby	0
+1829	Three Degrees	1
+1830	Three Dog Night	1
+1831	Thunderclap Newman	1
+1832	Tielman Brothers	1
+1833	Tim Buckley	0
+1834	Tim Finn	0
+1835	Tim Hardin	1
+1836	Timbaland & OneRepublic	0
+1837	Time Bandits	1
+1838	Timi Yuro	0
+1839	Timmy Thomas	0
+1840	Tina Charles	0
+1841	Tina Turner	0
+1842	Tina Turner & David Bowie	0
+1843	Tol Hansse	0
+1844	Tom Browne	0
+1845	Tom Jones	0
+1846	Tom Jones & Art Of Noise	0
+1847	Tom Jones & Mousse T.	0
+1848	Tom Odell	0
+1849	Tom Petty	0
+1850	Tom Petty and the Heartbreakers	1
+1851	Tom Waits	0
+1852	Tom Walker	0
+1853	Tommy Dorsey and the Sentimentalists	1
+1854	Tommy James and the Shondells	1
+1855	Tommy Roe	0
+1856	Tones And I	0
+1857	Toni Braxton	0
+1858	Tony Christie	0
+1859	Tony Ronald	0
+1860	Toon Hermans	0
+1861	Toontje Lager	1
+1862	Toots Thielemans	0
+1863	Tori Amos	0
+1864	Tornados	1
+1865	Total Touch	1
+1866	Toto	1
+1867	Toto Cutugno	0
+1868	Tozzi & Raf	1
+1869	T'Pau	0
+1870	Tracey Ullman	0
+1871	Tracy Chapman	0
+1872	Traffic	1
+1873	Train	1
+1874	Traveling Wilburys	1
+1875	Triggerfinger	1
+1876	Trijntje Oosterhuis	0
+1877	Trini Lopez	0
+1878	Trinity	1
+1879	Trio Hellenique	1
+1880	Triumvirat	1
+1881	Trockener Kecks	1
+1882	Tsjechov	0
+1883	Tumbleweeds	1
+1884	Twarres	1
+1885	Twenty One Pilots	1
+1886	Twice As Much	1
+1887	Typhoon	1
+1888	U2	1
+1889	U2 & BB King	1
+1890	U2 & Mary J Blige	1
+1891	UB40	1
+1892	UB40 & Chrissie Hynde	1
+1893	UK	1
+1894	Ultravox	1
+1895	Umberto Tozzi	0
+1896	Underworld	1
+1897	Unit 4 + 2	1
+1898	Unit Gloria	1
+1899	Uriah Heep	1
+1900	USA for Africa	1
+1901	Vader Abraham	0
+1902	Valensia	0
+1903	Van Dik Hout	1
+1904	Van Halen	1
+1905	Van McCoy	0
+1906	Van Morrison	0
+1907	Van Orly	0
+1908	Van Velzen	0
+1909	Vandenberg's Moonkings	1
+1910	Vanessa Carlton	0
+1911	Vanessa Carlton & Counting Crows	0
+1912	Vanessa Williams	0
+1913	Vangelis	0
+1914	Vaya con Dios	1
+1915	Veldhuis & Kemper	1
+1916	Velvet Underground	1
+1917	Venice	1
+1918	Vera Lynn	0
+1919	Veronica Unlimited	1
+1920	Vicki Brown & New London Chorale	0
+1921	Vicki Sue Robinson	0
+1922	Vicky Leandros	0
+1923	Village People	1
+1924	Viola Wills	0
+1925	Visage	1
+1926	Vitesse	1
+1927	VOF de Kunst	1
+1928	Volbeat	1
+1929	Volumia!	1
+1930	Waldo De Los Rios	0
+1931	Walk The Moon	1
+1932	Wallace Collection	1
+1933	Wally Tax	0
+1934	War On Drugs	1
+1935	Warm Sounds	1
+1936	Wax	1
+1937	Waylon	1
+1938	Wayne Fontana & the Mindbenders	1
+1939	Weather Girls	1
+1940	Weezer	1
+1941	Wes	0
+1942	West Side Story/Leonard Bernstein	0
+1943	Wet Wet Wet	1
+1944	Wham	1
+1945	Whistling Jack Smith	0
+1946	WHITE LIES	1
+1947	White Plains	1
+1948	White Soxx	1
+1949	Whitesnake	1
+1950	Whitney Houston	0
+1951	Wild Cherry	0
+1952	Will And The People	1
+1953	Will Tura	0
+1954	Willeke Alberti	0
+1955	Willie Nelson	0
+1956	Willie Nelson & Julio Iglesias	0
+1957	Wilson Pickett	0
+1958	Willy Alberti	0
+1959	Wim Sonneveld	0
+1960	Windjammer	1
+1961	Wings	1
+1962	Within Temptation	1
+1963	Wolfmother	1
+1964	Womack & Womack	1
+1965	Won Ton Ton	1
+1966	Xavier Rudd	0
+1967	XTC	1
+1968	Yann Tiersen	0
+1969	Yarbrough & Peoples	1
+1970	Yazoo	1
+1971	Yes	1
+1972	Young Gun Silver Fox	1
+1973	Youp van 't Hek	0
+1974	Youssou N'Dour & Neneh Cherry	0
+1975	Yvonne Elliman	0
+1976	Zager & Evans	1
+1977	Zangeres Zonder Naam	0
+1978	Zen	1
+1979	Zijlstra	0
+1980	Zucchero Fornaciari	0
+1981	ZZ en de Maskers	1
+1982	ZZ Top	1

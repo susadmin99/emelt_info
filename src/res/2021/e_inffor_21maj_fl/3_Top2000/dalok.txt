@@ -1,0 +1,4504 @@
+dalid	eloadoid	cim	megjelenes
+1	1	Donna	1973
+2	1	Dreadlock Holiday	1978
+3	1	Feel The Love (Oomachasaooma)	1983
+4	1	Good Morning Judge	1977
+5	1	I'm Mandy Fly Me	1976
+6	1	I'm Not In Love	1975
+7	1	Silly Love	1974
+8	1	The Things We Do For Love	1976
+9	1	The Wall Street Shuffle	1974
+10	2	Simon Says	1968
+11	3	Never Alone	1993
+12	4	No Limit	1993
+13	5	California Love	1996
+14	5	Changes	1998
+15	5	Dear Mama	1998
+16	6	Here Without You	2004
+17	6	Kryptonite	2000
+18	7	KINGS AND QUEENS	2009
+19	8	De Stroom	2011
+20	8	Geloven In Het Leven	2010
+21	8	Watermensen	2008
+22	9	What's Up	1993
+23	10	Youngblood	2018
+24	11	I'm On Fire	1975
+25	12	Swim With Sam	2006
+26	31	Hunting High And Low	1986
+27	31	Take On Me	1985
+28	31	The Sun Always Shines On T.V.	1986
+29	13	Chiquitita	1979
+30	13	Dancing Queen	1976
+31	13	Does Your Mother Know	1979
+32	13	Eagle	1978
+33	13	Fernando	1975
+34	13	Gimme Gimme Gimme	1979
+35	13	Happy New Year	1980
+36	13	Head Over Heels	1982
+37	13	Honey Honey	1974
+38	13	I Do I Do I Do I Do I Do	1975
+39	13	I Have A Dream	1979
+40	13	Knowing Me Knowing You	1977
+41	13	Lay All Your Love On Me	1980
+42	13	Mamma Mia	1975
+43	13	Money Money Money	1976
+44	13	One Of Us	1981
+45	13	Ring Ring	1973
+46	13	S.O.S.	1975
+47	13	Summer Night City	1978
+48	13	Super Trouper	1980
+49	13	Take A Chance On Me	1977
+50	13	Thank You For The Music	1978
+51	13	The Day Before You Came	1982
+52	13	The Name Of The Game	1977
+53	13	The Winner Takes It All	1980
+54	13	Voulez-Vous	1979
+55	13	Waterloo	1974
+56	14	All Of My Heart	1982
+57	14	Poison Arrow	1982
+58	14	The Look Of Love	1982
+59	15	Onderweg	2000
+60	16	Back in black	1980
+61	16	Highway To Hell	1979
+62	16	Thunderstruck	1990
+63	16	Whole Lotta Rosie	1978
+64	16	You Shook Me All Night Long	1980
+65	17	Slaap Zacht Elisabeth	1998
+66	17	Als Het Vuur Gedoofd Is	1997
+67	17	Dag Esmee	1997
+68	17	Dan Leef Ik Toch Nog Een Keer	2007
+69	17	De Kapitein Deel II	2000
+70	17	Eva	2010
+71	17	Het Regent Zonnestralen	1998
+72	17	Lopen Tot De Zon Komt	1997
+73	17	Mooi Liedje	1997
+74	17	Niet Of Nooit Geweest	1998
+75	17	Ren Lenny Ren	2002
+76	17	Voetstuk Staan	2012
+77	16	Let There Be Rock	1977
+78	18	How Long	1974
+79	19	All That She Wants	1993
+80	20	Stand And Deliver	1981
+81	21	Ghost Town	2015
+82	22	C'est Ma Vie	1976
+83	22	Dolce Paola	1965
+84	22	Inch' Allah	1967
+85	22	Tombe La Neige	1964
+86	22	Vous Permettez Monsieur	1964
+87	23	All I Ask	2015
+88	23	Chasing Pavements	2008
+89	23	Hello	2015
+90	23	Hometown Glory	2009
+91	23	Make You Feel My Love	2008
+92	23	Million Years Ago	2016
+93	23	Rolling In The Deep	2010
+94	23	Rumour Has It	2011
+95	23	Send My Love (To Your New Lover)	2016
+96	23	Set Fire To The Rain	2011
+97	23	Skyfall	2012
+98	23	Someone Like You	2011
+99	23	Turning Tables	2011
+100	23	Water Under The Bridge	2016
+101	23	When We Were Young	2015
+102	24	Adiemus	1995
+103	25	Azzuro	1969
+104	25	Prisencolinen Sinainciusol	1973
+105	26	Crazy	1993
+106	26	Cryin'	1993
+107	26	Dream On	1973
+108	26	I Don't Want To Miss A Thing	1997
+109	26	Love In An Elevator	1989
+110	27	Ramaya	1975
+111	28	Not Just A Flower In Your Hair	1967
+112	29	Riverside	2011
+113	30	Wrap Your Arms Around Me	1983
+114	32	All I Need	1998
+115	33	Racing Car	1976
+116	34	All Out Of Love	1980
+117	35	Let's Stay Together	1971
+118	36	Roof Garden	1982
+119	37	Spanish Eyes	1966
+120	37	Volare (Nel Blu Dipinto Di Blu)	1976
+121	38	On The Border	1977
+122	38	Year Of The Cat	1977
+123	39	Blow Me Away	2008
+124	39	Father & Friend	2008
+125	39	Love Is Everywhere	2010
+126	40	I Put A Spell On You	1966
+127	40	Simon Smith & The Amazing Dancing Bear	1967
+128	40	The House That Jack Built	1967
+129	41	Faded	2016
+130	42	Ironic	1996
+131	42	Thank U	1998
+132	42	Uninvited	1999
+133	42	You Oughta Know	1996
+134	43	Black Velvet	1990
+135	44	I Don't Wanna Die In An Air Disaster	1974
+136	44	I'm A Train	1974
+137	44	It Never Rains In Southern California	1972
+138	44	The Free Electric Band	1973
+139	45	Luna	2000
+140	46	Oh Lori	1977
+141	47	To Make My Life Beautiful	1972
+142	48	Guus	1975
+143	48	I'll Never Drink Again	1972
+144	49	Happiness	2011
+145	50	I Treni Di Tozeur	1984
+146	51	Elected	1972
+147	51	Halo Of Flies	1973
+148	51	Hello Hurray	1973
+149	51	How You Gonna See Me Now	1979
+150	51	Poison	1989
+151	51	School's Out	1972
+152	52	Rooster	1992
+153	52	Would?	1992
+154	53	Empire State Of Mind (part II) Broken Down	2009
+155	53	Fallin'	2001
+156	53	Girl On Fire	2012
+157	53	If I Ain't Got You	2003
+158	53	No One	2007
+159	54	Hollywood Seven	1980
+160	55	All Cried Out	1985
+161	55	That Ole Devil Called Love	1985
+162	56	Moi Lolita	2001
+163	57	Never Ever	1997
+164	58	I Swear	1994
+165	59	Are You Sure	1961
+166	60	Big In Japan	1984
+167	60	Forever Young	1984
+168	60	Sounds Like A Melody	1984
+169	61	Wheelchair Groupie	1975
+170	62	Pretend	1981
+171	63	Uma Casa Portugesa	1956
+172	64	Follow Me	1978
+173	65	Beautiful Goodbye	1996
+174	66	Gin House Blues	1967
+175	66	If Paradise Is Half As Nice	1969
+176	67	A Horse With No Name	1972
+177	67	I Need You	1972
+178	67	Sister Golden Hair	1975
+179	67	Ventura Highway	1972
+180	68	Bend Me Shape Me	1968
+181	69	Knock On Wood	1979
+182	70	Mr Rock & Roll	2008
+183	70	Run	2009
+184	70	This Is The Life	2008
+185	71	Back To Black	2007
+186	71	Love Is A Losing Game	2007
+187	71	Our Day Will Come	2011
+188	71	Rehab	2006
+189	71	Tears dry on their own	2007
+190	71	You Know I'm No Good	2007
+191	72	I'm Outta Love	2000
+192	72	Left Outside Alone	2004
+193	72	Paid My Dues	2001
+194	73	'n Beetje Verliefd	1981
+195	73	'n Vriend	1980
+196	73	Bloed, Zweet En Tranen	2002
+197	73	De Vlieger	1977
+198	73	Diep In Mijn Hart	1982
+199	73	Eenzame Kerst	1976
+200	73	Geef Mij Je Angst	1983
+201	73	Het Is Koud Zonder Jou	1980
+202	73	Het laatste rondje	1984
+203	73	Ik Meen 't	1985
+204	73	Kleine Jongen	1990
+205	73	Zeg Maar Niets Meer	1982
+206	73	Zij Gelooft In Mij	1981
+207	74	Leef	2016
+208	75	Second Waltz	1994
+209	76	Als Je Huilt	1982
+210	76	Bim Bam	1982
+211	76	De Tamme Boerenzoon	1974
+212	76	Doorgaan	1975
+213	76	Willempie	1976
+214	77	Con Te Partiro	1996
+215	77	Vivere	1994
+216	77	Vivo Per Lei	1996
+217	78	Lonely Boy	1977
+218	78	Never Let Her Slip Away	1978
+219	78	Thank You For Being A Friend	1978
+220	79	Baby I Love You	1969
+221	80	(Where Do I Begin) Love Story	1971
+222	80	Battle Hymn Of The Republic	1968
+223	80	Music To Watch Girls By	1967
+224	81	San Franciscan Nights	1967
+225	81	When I Was Young	1967
+226	82	Miracles	1977
+227	83	The Alternative Way	1976
+228	83	They Don't Play Our Lovesong Anymore	1981
+229	83	Why Tell Me Why	1981
+230	84	Ring My Bell	1979
+231	85	Complainte Pour Ste. Catherine	1976
+232	86	Tu Te Reconnaitras	1973
+233	87	You Needed Me	1978
+234	88	Brandend Zand	1962
+235	88	Paradiso	1962
+236	89	No More I Love You's	1995
+237	89	Why	1992
+238	90	Put A Little Love In Your Heart	1988
+239	91	Birds	2013
+240	91	For Bitter Or Worse	2009
+241	91	Girl	2004
+242	91	I Don't Wanna Hurt	2008
+243	91	I'm A Cliche	2011
+244	91	Jerusalem	2005
+245	91	Lost	2005
+246	91	Michel	2000
+247	91	Modern World	2008
+248	91	Nobody's Wife	1997
+249	91	One Word	2005
+250	91	Places To Go	2014
+251	91	R U Kiddin' Me	1999
+252	91	Sacrifice	1998
+253	91	Save Me	2011
+254	91	Three Days In A Row	2009
+255	91	What Have You Done	2011
+256	91	Woman	2009
+257	92	Hold Me	2014
+258	93	I Want To Live	1969
+259	93	It's Five O' Clock	1970
+260	93	Rain And Tears	1968
+261	94	Everything Now	2017
+262	94	Reflektor	2013
+263	94	We Used To Wait	2010
+264	95	Do I Wanna Know?	2013
+265	95	Fluorescent Adolescent	2007
+266	95	I BET YOU LOOK GOOD ON THE DANCEFLOOR	2005
+267	95	When The Sun Goes Down	2006
+268	95	Why'd You Only Call Me When You're High?	2013
+269	96	(You Make Me Feel Like) A Natural Woman	1967
+270	96	I Say A Little Prayer	1968
+271	96	Respect	1967
+272	96	Spanish Harlem	1971
+273	96	Think	1980
+274	97	Hold Your Head Up	1972
+275	98	Leonie	1976
+276	99	City Of New Orleans	1972
+277	100	Ben Ik Te Min	1967
+278	100	Blommenkinders	1967
+279	101	Heading Up High	2015
+280	102	This Is What It Feels Like	2013
+281	103	Sunny Days	2017
+282	104	Meisjes Met Rode Haren	1972
+283	105	Bright Eyes	1979
+284	106	Et Si Tu Pars	1977
+285	107	Fire	1968
+286	108	Sweet Soul Music	1967
+287	109	Solid	1985
+288	110	Breakfast	1985
+289	111	Ik Doe Wat Ik Doe	1973
+290	112	The Girl From Ipanema	1964
+291	113	Whole Again	2001
+292	114	Pick Up The Pieces	1975
+293	115	Addicted To You	2014
+294	115	Hey Brother	2013
+295	115	Levels	2011
+296	116	Wake Me Up	2013
+297	117	The Days	2014
+298	118	Ela Ela	1972
+299	118	Someone	1972
+300	119	Sun Is Shining	2015
+301	120	Ain't Nobody Home	1971
+302	120	The Thrill Is Gone	1969
+303	121	Yes Sir, I Can Boogie	1977
+304	122	Looking Out For Number One	1976
+305	122	You Ain't Seen Nothing Yet	1974
+306	123	As Long As You Love Me	1997
+307	123	Everybody	1997
+308	123	I Want It That Way	1999
+309	123	Quit Playing Games	1996
+310	124	Can't Get Enough	1974
+311	124	Feel Like Making Love	1975
+312	125	Time Stood Still	1991
+313	126	Robert De Niro Is Waiting	1984
+314	126	Venus	1986
+315	127	Do They Know It's Christmas?	1984
+316	128	Eternal Flame	1989
+317	128	Hazy Shade Of Winter	1988
+318	128	Manic Monday	1986
+319	128	Walk Like An Egyptian	1986
+320	129	Kristallnaach	1983
+321	130	Soulfinger	1967
+322	131	Evergreen	1977
+323	131	Guilty	1980
+324	131	Memory	1982
+325	131	Papa Can You Hear Me?	1983
+326	131	Second Hand Rose	1966
+327	131	Tell Him	1997
+328	131	The Way We Were	1973
+329	131	Woman In Love	1980
+330	132	You Don't Bring Me Flowers	1978
+331	133	Titles	1976
+332	134	If You Go	1975
+333	135	Can't Smile Without You	1978
+334	135	Copacabana	1978
+335	135	Mandy	1974
+336	136	Eve Of Destruction	1965
+337	137	Eloise	1968
+338	138	Can't Get Enough Of Your Love, Babe	1974
+339	138	Let The Music Play	1976
+340	138	Never, Never Gonna Give You Up	1974
+341	138	You're The First The Last My Everything	1974
+342	139	Good Grief	2016
+343	139	Pompeii	2013
+344	139	Things We Lost In The Fire	2013
+345	139	World Gone Mad	2017
+346	140	Everybody's Free (To Wear Sunscreen)	1999
+347	141	Fight For Your Right (To Party)	1986
+348	141	Intergalactic	1998
+349	141	No Sleep Till Brooklyn	1987
+350	141	Sabotage	1994
+351	142	Loser	1994
+352	143	Don't Forget To Remember	1969
+353	143	Holiday	1967
+354	143	How Can You Mend A Broken Heart	1971
+355	143	How Deep Is Your Love	1977
+356	143	I've Gotta Get A Message To You	1968
+357	143	I Started A Joke	1969
+358	143	Jive Talkin'	1975
+359	143	Lonely Days	1970
+360	143	Massachusetts	1967
+361	143	More Than A Woman	1977
+362	143	My World	1972
+363	143	New York Mining Disaster 1941	1967
+364	143	Night Fever	1978
+365	143	Nights On Broadway	1975
+366	143	Spicks And Specks	1967
+367	143	Spirits Having Flown	1979
+368	143	Stayin' Alive	1978
+369	143	To Love Somebody	1967
+370	143	Too Much Heaven	1978
+371	143	Tragedy	1979
+372	143	Words	1968
+373	143	World	1967
+374	143	You Should Be Dancing	1976
+375	143	You Win Again	1987
+376	144	Circle In The Sand	1988
+377	144	Heaven Is A Place On Earth	1988
+378	145	De Clown	1971
+379	146	Stand By Me	1987
+380	147	Keep Your Head Up	2011
+381	147	The Fear	2012
+382	148	Kill For A Broken Heart	2011
+383	149	Ik Weet Niet Hoe	1980
+384	149	Waarom Fluister Ik Je Naam Nog	1985
+385	150	Take My Breath Away	1986
+386	151	Afrikaan Beat	1962
+387	152	Another Day	2008
+388	152	Mary	2012
+389	153	L.A. Song	1999
+390	153	Leave The Light On	2004
+391	154	Why Don't You Do Right?	2018
+392	155	Beast Of Burden	1984
+393	155	From A Distance	1991
+394	155	The Rose	1980
+395	155	To Deserve You	1996
+396	155	Wind Beneath My Wings	1980
+397	156	Promise Me	1990
+398	157	Halo	2009
+399	157	If I Were A Boy	2008
+400	157	Listen	2007
+401	157	Love On Top	2011
+402	157	Run The World (Girls)	2011
+403	157	Single Ladies (put a ring on it)	2008
+404	158	Crazy In Love	2002
+405	159	If I Stay Too Long	1969
+406	160	Hold On To What You've Got	1971
+407	161	Rock Around The Clock	1955
+408	161	See You Later Alligator	1956
+409	162	(I've Had) The Time Of My Life	1987
+410	163	Ain't No Sunshine	1971
+411	163	Lovely Day	1978
+412	164	Bad Guy	2019
+413	165	Strange Fruit	1939
+414	165	Summertime	1936
+415	166	Eyes Without A Face	1984
+416	166	White Wedding	1982
+417	167	Bad To Me	1963
+418	167	Little Children	1964
+419	168	Blanket On The Ground	1975
+420	169	Hush	1968
+421	170	Goodnight Saigon	1983
+422	170	Honesty	1978
+423	170	James	1976
+424	170	Just The Way You Are	1977
+425	170	Leningrad	1989
+426	170	My Life	1979
+427	170	New York State Of Mind	1976
+428	170	Piano Man	1974
+429	170	Scenes From An Italian Restaurant	1977
+430	170	She's Always A Woman	1978
+431	170	The Longest Time	1984
+432	170	Uptown Girl	1983
+433	170	We didn't start the fire	1989
+434	171	Love Really Hurts Without You	1976
+435	171	Loverboy	1985
+436	171	Red Light Spells Danger	1977
+437	171	Suddenly	1985
+438	171	When The Going Gets Tough, The Tough Get Going	1986
+439	172	Me and Mrs. Jones	1973
+440	173	It Will Come In Time	1980
+441	173	That's The Way God Planned It	1969
+442	173	With You I'm Born Again	1980
+443	174	Summertime	1966
+444	175	I Can Help	1974
+445	176	Sail Along Silvery Moon	1958
+446	176	Wheels	1961
+447	177	White Christmas	1954
+448	178	True Love	1957
+449	179	Traveling In The USA	1970
+450	180	People Help The People	2011
+451	180	Skinny Love	2011
+452	181	Raindrops Keep Falling On My Head	1970
+453	182	Human Behaviour	1993
+454	182	It's Oh So Quiet	1995
+455	183	Wonderful Life	1987
+456	184	Paranoid	1970
+457	185	No Diggity	1996
+458	186	Promises Of No Man's Land	2014
+459	187	Well Allright	1969
+460	188	No Rain	1993
+461	189	All The Small Things	1999
+462	190	Even Aan M'n Moeder Vragen	1980
+463	195	Denis	1978
+464	195	Hanging On The Telephone	1979
+465	195	Heart Of Glass	1979
+466	195	I'm Gonna Love You Too	1978
+467	195	The Tide Is High	1980
+468	196	Spinning Wheel	1969
+469	196	You've Made Me So Very Happy	1969
+470	197	Summertime Blues	1968
+471	198	Ramona	1960
+472	199	Smoke Gets In Your Eyes	1972
+473	200	Good Morning Freedom	1970
+474	200	Melting Pot	1970
+475	200	The Banner Man	1971
+476	201	(Don't Fear) The Reaper	1976
+477	202	Song 2	1997
+478	191	Aan De Kust	1999
+479	191	Aanzoek Zonder Ringen	2006
+480	191	Alles Is Liefde	2007
+481	191	Beter	2011
+482	191	Blauwe Ruis	2002
+483	191	Dansen Aan Zee	2000
+484	191	Dichterbij Dan Ooit	2001
+485	191	Een Manier Om Thuis Te Komen	2006
+486	191	Harder Dan Ik Hebben Kan	1999
+487	191	Hemingway	2007
+488	191	Hier	2000
+489	191	Hou Vol Hou Vast	2011
+490	191	Later Als Ik Groter Ben	2012
+491	191	Liefs Uit Londen	1998
+492	191	Meer Kan Het Niet Zijn	2011
+493	191	Mooie Dag	2002
+494	191	Oktober	2008
+495	191	Omarm	2003
+496	191	Wat Zou Je Doen	1998
+497	191	Zaterdag	1999
+498	191	Zo Stil	2012
+499	192	Zoutelande	2017
+500	193	Mannenharten	2013
+501	194	Open Je Ogen	2014
+502	203	Harlem Shuffle	1969
+503	204	Butterfly Kisses	1997
+504	205	Blowin' In The Wind	1963
+505	205	Don't Think Twice It's All Right	1963
+506	205	Hurricane	1975
+507	205	I Threw It All Away	1969
+508	205	I Want You	1966
+509	205	I'll Be Your Baby Tonight	1967
+510	205	Just Like A Woman	1966
+511	205	Knockin' On Heaven's Door	1973
+512	205	Lay Lady Lay	1969
+513	205	Like A Rolling Stone	1965
+514	205	Rainy Day Women # 12 & 35	1966
+515	205	Subterranean Homesick Blues	1965
+516	205	The Times They Are A-Changin'	1964
+517	206	Buffalo Soldier	1983
+518	206	Could You Be Loved	1980
+519	206	Get Up Stand Up	1973
+520	206	Is This Love	1979
+521	206	Jamming	1977
+522	206	No Woman No Cry	1975
+523	206	One Love - People Get Ready	1984
+524	206	Redemption Song	1980
+525	206	Stir It Up	1979
+526	206	Three Little Birds	1977
+527	207	Mexico	1961
+528	208	Mainstreet	1977
+529	208	Still The Same	1978
+530	209	Against The Wind	1980
+531	210	Ode To Billie Joe	1967
+532	211	My Prerogative	1989
+533	212	Honey	1968
+534	213	Don't Worry Be Happy	1988
+535	214	Loop De Loop	1963
+536	215	Hurt	1973
+537	215	Roses Are Red	1962
+538	215	Sealed With A Kiss	1972
+539	216	Frank Mills	1969
+540	217	You're In The Army Now	1981
+541	218	Freestyler	2000
+542	219	(You Want To) Make A Memory	2007
+543	219	Always	1994
+544	219	Bed Of Roses	1993
+545	219	In These Arms	1993
+546	219	It's My Life	2000
+547	219	Keep The Faith	1992
+548	219	Livin' On A Prayer	1986
+549	219	Wanted Dead Or Alive	1987
+550	219	You Give Love A Bad Name	1986
+551	220	Daddy Cool	1976
+552	220	Ma Baker	1977
+553	220	Rasputin	1978
+554	220	Rivers Of Babylon	1978
+555	220	Sunny	1977
+556	221	I Can't Make You Love Me	1991
+557	222	I Won't Stand Between Them	1970
+558	223	It's A Heartache	1978
+559	223	Lost In France	1977
+560	223	Total Eclipse Of The Heart	1983
+561	224	Green Onions	1962
+562	224	Time Is Tight	1969
+563	225	I Want To Wake Up With You	1986
+564	226	Amanda	1986
+565	226	Don't Look Back	1978
+566	226	More Than A Feeling	1977
+567	227	Zeven Dagen Lang	1976
+568	228	Als De Rook Om Je Hoofd Is Verdwenen	1972
+569	228	Avond	1997
+570	228	De Nachtwacht	1970
+571	228	De Vondeling Van Ameland	2004
+572	228	Een Tip Van De Sluier	1980
+573	228	Een Wonderkind Van 50	1996
+574	228	Een Meisje Van 16	1965
+575	228	Het Land Van Maas En Waal	1967
+576	228	Ik Ben Ik	1974
+577	228	Jimmy	1973
+578	228	Kinderballade	1977
+579	228	Picknick	1967
+580	228	Prikkebeen	1968
+581	228	Tante Julia	1974
+582	228	Testament	1967
+583	228	Verdronken Vlinder	1966
+584	228	Welterusten Mijnheer De President	1966
+585	229	Can't Take My Eyes Off Of You	1982
+586	230	No Matter What	1998
+587	231	Lido Shuffle	1977
+588	231	Lowdown	1977
+589	231	What Can I Say	1977
+590	233	Down Man	1969
+591	233	Smile	1970
+592	233	Summertime	1969
+593	234	Sarah Smiles	1978
+594	235	De Wedstrijd	1991
+595	236	Baby I'm A Want You	1971
+596	236	Everything I Own	1972
+597	236	If	1971
+598	236	Lost Without Your Love	1977
+599	236	The Guitar Man	1972
+600	237	I'm Sorry	1960
+601	238	Ginny Come Lately	1962
+602	238	Itsy Bitsy...	1960
+603	238	Sealed With A Kiss	1962
+604	239	Too Much Love Will Kill You	1992
+605	240	The Floral Dance	1978
+606	241	Duet	1990
+607	242	Baby One More Time	1999
+608	243	Smalltown Boy	1984
+609	243	Why?	1984
+610	244	Something In The Water	2011
+611	245	Save Your Kisses	1976
+612	246	The Way It Is	1986
+613	247	Badlands	1978
+614	247	Born In The USA	1985
+615	247	Born To Run	1975
+616	247	Brilliant Disguise	1987
+617	247	Dancing In The Dark	1985
+618	247	Fire (Live)	1986
+619	247	Glory Days	1985
+620	247	Human Touch	1992
+621	247	Hungry Heart	1980
+622	247	I'm On Fire	1985
+623	247	Jungleland	1975
+624	247	Meeting Across The River	1975
+625	247	My Hometown	1986
+626	247	No Surrender	1984
+627	247	Secret Garden	1995
+628	247	Streets Of Philadelphia	1994
+629	247	The Rising	2002
+630	247	The River	1981
+631	247	Thunder Road	1975
+632	247	Tougher Than The Rest	1987
+633	247	Trapped (Live)	1985
+634	247	Waitin' On A Sunny Day	2003
+635	247	War	1980
+636	247	We Take Care Of Our Own	2012
+637	247	Working On A Dream	2008
+638	248	24k Magic	2016
+639	248	Grenade	2010
+640	248	Just The Way You Are	2010
+641	248	Locked Out of Heaven	2012
+642	248	Marry You	2011
+643	248	The Lazy Song	2011
+644	248	Treasure	2013
+645	248	When I Was Your Man	2013
+646	249	(Everything I Do) I Do It For You	1991
+647	249	Have You Ever Really Loved A Woman	1995
+648	249	Heaven	1985
+649	249	Please Forgive Me	1993
+650	249	Run To You	1985
+651	249	Summer Of '69	1990
+652	250	I Finally Found Someone	1997
+653	251	When You're Gone	1998
+654	252	It's Only Love	1985
+655	253	All For Love	1994
+656	254	Let's Stick Together	1976
+657	255	Making Your Mind Up	1981
+658	256	Another Day	1997
+659	257	Because I Love You	1956
+660	257	Peggy Sue	1957
+661	257	That'll Be The Day	1957
+662	257	Well Alright	1958
+663	258	Chan Chan	1997
+664	259	Expecting To Fly	1968
+665	259	For What It's Worth	1967
+666	260	It's The End	1968
+667	260	Tomorrow Is Another Day	1967
+668	261	Video Killed The Radio Star	1979
+669	262	GLYCERINE	1994
+670	263	Just An Illusion	1983
+671	263	Mon Amour	1976
+672	263	Pearly Dumm	1980
+673	263	Sweet Silver Anny	1973
+674	232	Iederene Hef Een Reden	2016
+675	264	C'est Moi	1974
+676	265	Dancing On My Own	2016
+677	266	Summer	2014
+678	267	One Kiss	2018
+679	268	Havana	2017
+680	269	Who Do You Think You Are	1974
+681	270	Lily Was Here	1989
+682	271	On The Road Again	1968
+683	272	Do That To Me One More Time	1980
+684	273	Adios Nonino	2002
+685	274	Kung Fu Fighting	1974
+686	275	Call Me Maybe	2012
+687	276	Coming Around Again	1987
+688	276	It's Hard To Be Tender	1989
+689	276	You're So Vain	1973
+690	277	A Night Like This	2009
+691	277	Back It Up	2009
+692	277	Liquid Lunch	2013
+693	277	Riviera Life	2011
+694	277	Stuck	2010
+695	277	Tangled Up	2013
+696	277	That Man	2010
+697	278	It's Too Late	1971
+698	278	You've Got A Friend	1971
+699	279	(They Long To Be) Close To You	1970
+700	279	I Won't Last A Day Without You	1974
+701	279	Jambalaya	1974
+702	279	Top Of The World	1973
+703	279	Yesterday Once More	1973
+704	280	Love's What I Want	1979
+705	281	Banapple Gas	1976
+706	281	Lady d'Arbanville	1970
+707	281	Matthew And Son	1967
+708	281	Morning Has Broken	1972
+709	282	Father And Son	1971
+710	283	Un Deux Trois	1976
+711	284	Teach Me How To Dance With You	2014
+712	285	Because You Loved Me	1996
+713	285	I'm Alive	2002
+714	285	Immortality	1998
+715	285	My Heart Will Go On	1998
+716	285	Pour Que Tu M'Aimes Encore	1995
+717	285	The Power Of Love	1994
+718	285	Think Twice	1995
+719	286	I'm Every Woman	1979
+720	287	How 'Bout Us	1981
+721	288	I've Never Been To Me	1982
+722	289	Would I Lie To You	1992
+723	290	For Me Formidable	1963
+724	290	La Mamma	1964
+725	290	She	1974
+726	290	The Old Fashioned Way	1973
+727	290	Yesterday When I Was Young	1970
+728	291	La Mer	1952
+729	292	The Devil Went Down To Georgia	1979
+730	293	The Most Beautiful Girl	1974
+731	294	Wonderfull Days	1995
+732	295	Ain't No Pleasing You	1982
+733	296	I Want You To Want Me	1979
+734	297	Amigo	2016
+735	297	Birds	2011
+736	297	In Your Arms	2014
+737	297	Nicotine	2017
+738	297	On Shoulders	2014
+739	297	Try Again	2017
+740	298	Believe	1998
+741	298	Gypsies Tramps And Thieves	1971
+742	298	If I Could Turn Back Time	1989
+743	299	Go Like Elijah	1973
+744	299	You Were My Friend	1973
+745	300	Have You Seen Her	1971
+746	301	Good Times	1979
+747	301	Le Freak	1978
+748	302	25 Or 6 To 4	1970
+749	302	Baby What A Big Surprise	1977
+750	302	Feeling Stronger Every Day	1973
+751	302	Hard To Say I'm Sorry	1982
+752	302	I'm A Man	1969
+753	302	If You Leave Me Now	1976
+754	302	Wishing You Were Here	1974
+755	302	You're The Inspiration	1985
+756	303	I'd Rather Go Blind	1969
+757	304	Son Of My Father	1972
+758	305	Wishful Thinking	1984
+759	306	To Whom It Concerns	1965
+760	306	Yesterday Man	1965
+761	307	Ice Cream	1958
+762	307	Petite Fleur	1959
+763	308	The Head And The Heart	1984
+764	308	The Lady In Red	1986
+765	309	Out Of Time	1966
+766	310	Blue Hotel	1987
+767	310	Wicked Game	1991
+768	311	Let's Dance	1963
+769	312	Driving Home For Christmas	1986
+770	312	Fool If You Think It's Over	1978
+771	312	Josephine	1985
+772	312	On The Beach	1986
+773	313	Tennessee Whiskey	2015
+774	314	Yellow River	1970
+775	315	Beautiful	2003
+776	315	Hurt	2006
+777	316	Sailing	1981
+778	317	Let's Twist Again	1962
+779	317	Lovely Lovely	1965
+780	317	The Twist	1962
+781	318	Come On	1962
+782	318	Johnny B. Goode	1958
+783	318	No Particular Place To Go	1964
+784	318	Roll Over Beethoven	1956
+785	319	Anyone Who Had A Heart	1964
+786	319	Love's Just a Broken Heart	1966
+787	319	You're My World	1964
+788	320	Monica	1987
+789	321	Alegria	1997
+790	322	The Road Ahead (Miles Of The Unknown)	1999
+791	323	In A Lifetime	1986
+792	323	Theme From Harry's game	1983
+793	324	(I Don't Know Why I Love You) But I Do	1961
+794	325	Mag Ik Dan Bij Jou	2011
+795	326	Rosie	1992
+796	327	Rather Be	2014
+797	328	Bachelor Boy	1963
+798	328	Congratulations	1968
+799	328	Do You Wanna Dance	1962
+800	328	Don't Talk To Him	1963
+801	328	I Could Easily Fall (In Love With You)	1960
+802	328	It'll Be Me	1962
+803	328	Living Doll	1959
+804	328	Lucky Lips	1963
+805	328	Miss You Nights	1976
+806	328	Move It	1958
+807	328	Please Don't Tease	1960
+808	328	Power To All Our Friends	1973
+809	328	Some People	1987
+810	328	Summer Holiday	1963
+811	328	The Best Of Me	1989
+812	328	The Day I Met Marie	1967
+813	328	We Don't Talk Anymore	1979
+814	329	The Young Ones	1962
+815	330	Living Doll	1986
+816	331	Anne	1989
+817	331	Daar Gaat Ze	1990
+818	331	Domino	1990
+819	331	Passie	1995
+820	332	Substitute	1978
+821	333	Yakety Yak	1958
+822	334	The Promise You Made	1986
+823	334	Thought You Were On My Side	1986
+824	335	Sebastian	1973
+825	336	A Head Full Of Dreams	2016
+826	336	Adventure Of A Lifetime	2015
+827	336	Amsterdam	2002
+828	336	Atlas	2013
+829	336	Charlie Brown	2011
+830	336	Christmas Lights	2010
+831	336	Clocks	2003
+832	336	Everglow	2015
+833	336	Every Teardrop Is A Waterfall	2011
+834	336	Fix You	2005
+835	336	God Put A Smile Upon Your Face	2002
+836	336	Green Eyes	2002
+837	336	Hurts Like Heaven	2012
+838	336	In My Place	2002
+839	336	Life In Technicolor II	2009
+840	336	Lost	2008
+841	336	Lovers In Japan	2009
+842	336	Magic	2014
+843	336	Paradise	2011
+844	336	Politik	2002
+845	336	Speed Of Sound	2005
+846	336	Talk	2005
+847	336	The Hardest Part	2006
+848	336	The Scientist	2002
+849	336	Trouble	2000
+850	336	Up & Up	2016
+851	336	Violet Hill	2008
+852	336	Viva La Vida	2008
+853	336	Yellow	2000
+854	337	A Sky Full Of Stars	2014
+855	338	Hymn For The Weekend	2015
+856	339	I Don't Believe In Miracles	1972
+857	339	Wonderful	1973
+858	340	Tap Turns On The Water	1971
+859	341	Everybody's Somebody's Fool	1960
+860	343	Zwei Kleine Italiener	1962
+861	344	Een Roosje M'n Roosje	1974
+862	344	Ik Ben Gelukkig Zonder Jou	1966
+863	344	Paleis Met Gouden Muren	1966
+864	344	Sjakie Van De Hoek	1975
+865	342	All The Love In The World	1969
+866	345	Gangsta's Paradise	1995
+867	346	Bakker De Baksteen	1976
+868	346	Veronica	1972
+869	347	Huilen Is Voor Jou Te Laat	1970
+870	348	La Mamma	1964
+871	349	A Long December	1996
+872	349	Accidentally In Love	2004
+873	349	Mr. Jones	1994
+874	349	Round Here	1993
+875	350	Holiday In Spain	2004
+876	351	I Feel I'm Fixing To Die Rag	1970
+877	352	Mmm Mmm Mmm Mmm	1993
+878	353	Sunshine Of Your Love	1968
+879	353	White Room	1968
+880	354	Bad Moon Rising	1969
+881	354	Born On The Bayou	1972
+882	354	Down On The Corner	1969
+883	354	Fortunate Son	1969
+884	354	Have You Ever Seen The Rain	1971
+885	354	Hey Tonight	1970
+886	354	I Put A Spell On You	1972
+887	354	I Heard It Through The Grapevine	1973
+888	354	Long As I Can See The Light	1970
+889	354	Lookin' Out My Back Door	1970
+890	354	Proud Mary	1969
+891	354	Suzie Q	1968
+892	354	Sweet Hitchhiker	1971
+893	354	Travelin' Band	1970
+894	354	Up Around The Bend	1970
+895	354	Who'll Stop The Rain	1970
+896	355	Pied Piper	1966
+897	355	You Were On My Mind	1966
+898	356	Marrakesh Express	1969
+899	356	Suite: Judy Blue Eyes	1969
+900	357	Almost Cut My Hair	1970
+901	357	Carry On	1970
+902	357	Helpless	1970
+903	357	Our House	1970
+904	357	Teach Your Children	1970
+905	358	Better Be Home Soon	1988
+906	358	Don't Dream It's Over	1987
+907	358	Four Seasons In One Day	1992
+908	358	Into Temptation	1989
+909	358	Weather With You	1991
+910	359	Plage	2011
+911	360	Don't It Make My Brown Eyes Blue	1977
+912	361	Another Day Another Road	1967
+913	361	Appleknockers Flophouse	1969
+914	361	Back Home	1966
+915	361	Somebody Will Know Someday	1967
+916	361	Window Of My Eyes	1968
+917	362	Do You Really Want To Hurt Me	1982
+918	362	Karma Chameleon	1983
+919	363	Norma Jean Wants To Be A Moviestar	1975
+920	364	Down To Earth	1987
+921	365	Move On Up	1970
+922	366	Back Street Luv	1971
+923	367	I Just Died In Your Arms Tonight	1986
+924	368	Girls Just Want To Have Fun	1984
+925	368	Time After Time	1984
+926	368	True Colors	1986
+927	369	Around The World	1997
+928	369	Harder Better Faster Stronger	2001
+929	369	One More Time	2000
+930	370	Get Lucky	2013
+931	371	Gigi L'Amoroso	1974
+932	371	Paroles	1973
+933	372	9 Crimes	2006
+934	372	The Blower's Daughter	2005
+935	373	Longer	1980
+936	373	Netherlands	1977
+937	374	Relight My Fire	1980
+938	375	All Kinds Of Everything	1970
+939	376	Bohemian Like You	2001
+940	377	Hier Kom Ik Weg	2008
+941	377	Op 't Platteland	2014
+942	377	Prachtig Mooie Dag	2011
+943	378	Bad Day	2005
+944	380	At The Hop	1957
+945	381	Ik Voel Me Zo Verdomd Alleen	1984
+946	382	I Remember Elvis Presley	1977
+947	383	Roller Coaster	2019
+948	379	Butterfly	1971
+949	384	Come Back My Love	1978
+950	385	Sandstorm	2001
+951	386	Dansez Maintenant	1975
+952	387	Now	1965
+953	387	This Strange Effect	1965
+954	388	Death Of A Clown	1967
+955	389	Don Juan	1969
+956	389	Hold Tight	1966
+957	389	The Legend Of Xanadu	1968
+958	389	Zabadak	1967
+959	390	I Hear You Knocking	1970
+960	391	What Becomes Of The Broken Hearted	1981
+961	392	Absolute Beginners	1986
+962	392	Ashes To Ashes	1980
+963	392	Blackstar	2015
+964	392	Blue Jean	1984
+965	392	Changes	1971
+966	392	China Girl	1983
+967	392	Fame	1975
+968	392	Golden Years	1976
+969	392	Heroes	1976
+970	392	Lazarus	2016
+971	392	Let's Dance	1983
+972	392	Life On Mars	1973
+973	392	Rebel Rebel	1974
+974	392	Sound And Vision	1977
+975	392	Space Oddity	1969
+976	392	Starman	1972
+977	392	The Jean Genie	1973
+978	392	The Man Who Sold The World	1970
+979	392	Where Are We Now	2013
+980	392	Wild Is The Wind	1976
+981	392	Young Americans	1975
+982	392	Ziggy Stardust	1972
+983	393	Dancing In The Street	1985
+984	394	This Is Not America	1985
+985	395	How Can I Be Sure	1972
+986	396	Dear Mrs. Applebee	1966
+987	397	Sweet Victory	2012
+988	398	Babylon	2000
+989	399	When Love Takes Over	2009
+990	400	Titanium	2011
+991	401	Can I Get There By Candlelight	1969
+992	401	The Days Of Pearly Spencer	1967
+993	402	Don't Give Up On Us	1977
+994	403	Forbidden Colours	1984
+995	404	Duurt Te Lang	2018
+996	405	Tie A Yellow Ribbon	1973
+997	406	Mijn Gebed	1970
+998	407	Als Het Golft	2000
+999	407	Als Ze Er Niet Is	1994
+1000	407	Binnen Zonder Kloppen	1985
+1001	407	Bloedend Hart	1982
+1002	407	Dansen Op De Vulkaan	1987
+1003	407	De Blues Verlaat Je Nooit	2012
+1004	407	Groot Hart	1985
+1005	407	Ik Kan Het Niet Alleen	1989
+1006	407	Kan Ik Iets Voor Je Doen?	2011
+1007	407	Laat Het Vanavond Gebeuren	1997
+1008	407	Mag Het Licht Uit	1987
+1009	407	Mijn Van Straat Geredde Roos	2008
+1010	407	Mooier Dan Nu	2009
+1011	407	Nergens Goed Voor	1989
+1012	407	Niemand In De Stad	1989
+1013	407	Onderuit	1987
+1014	407	Recht In De Ogen	2005
+1015	408	Hold On Tight	2010
+1016	409	Liefdesliedjes	1993
+1017	410	Hollereer	2008
+1018	410	Sterrenstof	2010
+1019	410	Watskeburt?!	2005
+1020	411	Eltse Grins Foarby	1997
+1021	411	Hart Van Mijn Gevoel	1999
+1022	411	In Nije Dei	1997
+1023	411	Woorden Zonder Woorden	1998
+1024	412	Mijn Houten Hart	1999
+1025	412	Zij Maakt Het Verschil	2001
+1026	413	The Fantastic Journey of the Underground Man	2009
+1027	413	Witch Doctor	2014
+1028	414	You Spin Me Round	1985
+1029	415	Lydia	1979
+1030	416	Everybody Loves Somebody	1964
+1031	416	How Do You Like Your Eggs In The Morning	1951
+1032	417	Rhythm Of The Night	1985
+1033	418	Breakfast At Tiffany's	1996
+1034	419	Black Night	1970
+1035	419	Child In Time	1970
+1036	419	Smoke On The Water	1973
+1037	419	Woman From Tokyo	1973
+1038	420	Runaway	1961
+1039	421	Free The People	1970
+1040	422	Put A Little Love On Me	1980
+1041	423	Silence (TiĂ«sto Remix)	1997
+1042	424	Forever And Ever	1973
+1043	424	My Friend The Wind	1973
+1044	425	Let's Hear It For The Boy	1984
+1045	426	Blasphemous Rumours	1984
+1046	426	Enjoy The Silence	1990
+1047	426	Just Can't Get Enough	1985
+1048	426	People Are People	1984
+1049	426	Personal Jesus	1990
+1050	426	SOMEBODY	1984
+1051	427	Layla	1971
+1052	430	Life	1998
+1053	428	Voyage Voyage	1987
+1054	429	The Israelites	1969
+1055	431	Feel The Need In Me	1973
+1056	432	HOTELLOUNGE	1994
+1057	433	Come On Eileen	1982
+1058	444	Inside My Head	2002
+1059	444	This is who we are	2010
+1060	444	Times Are Changing	2009
+1061	434	Ain't No Mountain High Enough	1970
+1062	434	Chain Reaction	1985
+1063	434	I'm Coming Out	1980
+1064	434	Love Hangover	1976
+1065	434	My Old Piano	1980
+1066	434	Theme From Mahogany (Do You Know Where You're Going To)	1976
+1067	434	Upside Down	1980
+1068	434	When You Tell Me That You Love Me	1992
+1069	434	Why Do Fools Fall In Love	1981
+1070	435	Endless Love	1981
+1071	436	Baby Love	1964
+1072	436	Reflections	1967
+1073	436	Where Did Our Love Go	1964
+1074	437	Life For Rent	2003
+1075	437	White Flag	2003
+1076	438	Sausolito Summernight	1980
+1077	439	De Zon Op	2018
+1078	439	Treur Niet (ode aan het leven)	2015
+1079	440	Cocaine In My Brain	1977
+1080	441	Een Lied Voor Kinderen	1973
+1081	441	Hé Kom Aan	1973
+1082	442	All The Love In The World	1983
+1083	442	Anyone Who Had A Heart	1964
+1084	442	Heartbreaker	1982
+1085	442	What The World Needs Now Is Love	1967
+1086	443	Brothers In Arms	1985
+1087	443	Calling Elvis	1991
+1088	443	Money For Nothing	1985
+1089	443	On Every Street	1991
+1090	443	Private Investigations	1982
+1091	443	Romeo And Juliet	1980
+1092	443	So Far Away	1985
+1093	443	Sultans Of Swing	1978
+1094	443	Telegraph Road	1982
+1095	443	Tunnel Of Love	1980
+1096	443	Twisting By The Pool	1983
+1097	443	Walk Of Life	1985
+1098	443	Water Of Love	1978
+1099	443	Why Worry	1995
+1100	443	Your Latest Trick	1985
+1101	445	The Sound Of Silence	2016
+1102	446	Rainbow In The Sky	1995
+1103	447	Traffic	2003
+1104	448	Heaven	2002
+1105	449	1 Nacht Alleen	1983
+1106	449	Belle Helene	1982
+1107	449	De Bom	1982
+1108	449	Doris Day	1982
+1109	449	Is Dit Alles	1982
+1110	449	Nederwiet	1983
+1111	449	Pa	1983
+1112	449	Sinds 1 Dag Of 2 (32 Jaar)	1981
+1113	449	Smoorverliefd	1981
+1114	450	All The Roses	1982
+1115	450	Love Me Just A Little Bit More	1983
+1116	450	Radio	1979
+1117	451	9 To 5	1981
+1118	451	I Will Always Love You	1983
+1119	451	Jolene	1974
+1120	451	You Are	1983
+1121	452	New York Minute	1989
+1122	452	The Boys Of Summer	1985
+1123	453	American Pie	1972
+1124	453	Crying	1980
+1125	453	Vincent	1972
+1126	454	Rocky	1976
+1127	455	Rosie	1968
+1128	456	De Oude School	1974
+1129	457	Swimming Into Deep Water	1972
+1130	458	I.G.Y. (What A Beautiful World)	1982
+1131	458	New Frontier	1983
+1132	458	The Nightfly	1982
+1133	459	If You Hold My Hand	1973
+1134	460	Could It Be Magic	1976
+1135	460	I Feel Love	1977
+1136	460	Lady Of The Night	1974
+1137	460	Last Dance	1978
+1138	460	MacArthur Park	1978
+1139	460	State Of Independence	1982
+1140	460	The Hostage	1974
+1141	461	Atlantis	1969
+1142	461	Colours	1965
+1143	461	Mellow Yellow	1966
+1144	461	Sunshine Superman	1966
+1145	461	Universal Soldier	1965
+1146	462	A Guy Is A Guy	1952
+1147	462	Que Sera Sera (Whatever Will Be Will Be)	1956
+1148	463	Twee Motten	1957
+1149	464	Fall	2014
+1150	464	Home	2014
+1151	464	Hungry	2015
+1152	464	Let The River In	2015
+1153	465	Winter In America	1978
+1154	466	Jacob's Song	2016
+1155	466	Slow Down	2016
+1156	466	You Don't Have To Stay	2013
+1157	467	I Do	2018
+1158	468	Baby Makes Her Blue Jeans Talk	1982
+1159	468	Sharing The Night	1979
+1160	468	Sylvia's Mother	1972
+1161	468	When You're In Love With A Beautiful Woman	1979
+1162	469	Cherchez La Femme	1977
+1163	470	The Next Episode	2000
+1164	471	Marmor, Stein Und Eiser Bricht	1965
+1165	472	Dodenrit	1974
+1166	472	Veerpont	1973
+1167	473	Je Loog Tegen Mij	1981
+1168	474	Be The One	2016
+1169	474	Homesick	2017
+1170	475	Wild Rover	1964
+1171	476	Mercy	2008
+1172	476	Rockferry	2009
+1173	476	Warwick Avenue	2008
+1174	477	Take The A Train	1941
+1175	478	Wild Places	1979
+1176	479	Arcade	2019
+1177	480	A View To A Kill	1985
+1178	480	Ordinary World	1993
+1179	480	Save A Prayer	1985
+1180	480	The Reflex	1984
+1181	480	The Wild Boys	1984
+1182	481	Goin' Back	1966
+1183	481	I Just Don't Know What To Do With Myself	1964
+1184	481	I Close My Eyes (And Count To Ten)	1968
+1185	481	Son Of A Preacher Man	1968
+1186	481	Summer Is Over	1965
+1187	481	The Look Of Love	1967
+1188	481	You Don't Have To Say You Love Me	1966
+1189	482	This Is Welfare	1983
+1190	483	Save Tonight	1998
+1191	484	Busy Being Fabulous	2007
+1192	484	Desperado	1973
+1193	484	Hotel California	1977
+1194	484	How Long	2007
+1195	484	I can't tell you why	1979
+1196	484	Lyin' Eyes	1975
+1197	484	New Kid In Town	1977
+1198	484	One Of These Nights	1975
+1199	484	Peaceful Easy Feelin'	1972
+1200	484	Take It Easy	1972
+1201	484	Take It To The Limit	1975
+1202	484	Tequila Sunrise	1973
+1203	484	The Last Resort	1976
+1204	484	Wasted Time	1976
+1205	484	Witchy Woman	1972
+1206	485	Save A Prayer	2015
+1207	486	Maybe Tomorrow Maybe Tonight	1973
+1208	486	Memories	1972
+1209	486	Ruby Is The One	1970
+1210	486	Seasons	1970
+1211	486	Song Of The Marching Children	1971
+1212	486	Storm And Thunder	1971
+1213	486	Weekend	1979
+1214	487	Boogie Wonderland	1979
+1215	488	After The Love Has Gone	1979
+1216	488	Fantasy	1978
+1217	488	September	1979
+1218	488	Shining Star	1975
+1219	488	Star	1979
+1220	489	Killing Moon	1984
+1221	490	Castle On The Hill	2017
+1222	490	Don't	2014
+1223	490	Galway Girl	2017
+1224	490	Give Me Love	2012
+1225	490	Happier	2017
+1226	490	I See Fire	2014
+1227	490	Lego House	2012
+1228	490	Perfect	2017
+1229	490	Photograph	2015
+1230	490	Shape Of You	2017
+1231	490	Sing	2014
+1232	490	Supermarket Flowers	2017
+1233	490	The A Team	2011
+1234	490	Thinking Out Loud	2014
+1235	491	C'mon Everybody	1958
+1236	491	Three Steps To Heaven	1960
+1237	492	Knock On Wood	1966
+1238	493	I'm Gonna Knock On Your Door	1961
+1239	494	The Man From Manhattan	1976
+1240	495	Baby Hold On	1978
+1241	496	Hard Sun	2007
+1242	496	Society	2007
+1243	497	Gimme Hope Jo'anna	1988
+1244	497	I Don't Wanna Dance	1982
+1245	498	Het het nog nooit zo donker west	1984
+1246	499	Love Grows	1970
+1247	500	Milord	1960
+1248	500	Non Je Ne Regrette Rien	1961
+1249	501	A Ton of Love	2013
+1250	501	An End Has A Start	2007
+1251	501	Munich	2005
+1252	501	Ocean Of Night	2015
+1253	501	Papillon	2009
+1254	501	Smokers Outside The Hospital Doors	2007
+1255	501	The Racing Rats	2008
+1256	502	Home	2011
+1257	503	Oh Happy Day	1969
+1258	504	NOVOCAINE FOR THE SOUL	1996
+1259	505	Kom Uit De Bedstee M'n Liefste	1968
+1260	506	Air	1969
+1261	506	The 5th	1969
+1262	507	Who's Johnny	1986
+1263	508	I Know Him So Well	1985
+1264	509	GROUNDS FOR DIVORCE	2008
+1265	509	Lippy Kids	2011
+1266	509	Magnificent (She Says)	2016
+1267	509	One Day Like This	2008
+1268	510	Can't Get It Out Of My Head	1975
+1269	510	Don't Bring Me Down	1979
+1270	510	Eldorado / Finale	1974
+1271	510	Evil Woman	1975
+1272	510	Livin' Thing	1976
+1273	510	Mr. Blue Sky	1978
+1274	510	Rock 'N Roll Is King	1983
+1275	510	Roll Over Beethoven	1973
+1276	510	Showdown	1974
+1277	510	Strange Magic	1976
+1278	510	Turn To Stone	1977
+1279	511	Xanadu	1980
+1280	512	Vogeltjesdans	1980
+1281	513	Pearl's A Singer	1977
+1282	514	Everytime We Say Goodbye	1956
+1283	515	Summertime	1958
+1284	516	We Belong To The Night	1979
+1285	516	What's A Matter Baby	1979
+1286	517	Wat Is Dromen	2010
+1287	518	Love Me Like You Do	2015
+1288	519	Blue Eyes	1982
+1289	519	Border Song	1970
+1290	519	Can You Feel The Love Tonight	1994
+1291	519	Candle In The Wind	1997
+1292	519	Circle Of Life	1994
+1293	519	Daniel	1973
+1294	519	Don't Let The Sun Go Down On Me	1974
+1295	519	Goodbye Yellow Brick Road	1973
+1296	519	I'm Still Standing	1983
+1297	519	Nikita	1985
+1298	519	Rocket man	1972
+1299	519	Sacrifice	1990
+1300	519	Song For Guy	1979
+1301	519	Sorry Seems To Be The Hardest Word	1976
+1302	519	Tiny Dancer	1971
+1303	519	Your Song	1971
+1304	520	Don't Go Breaking My Heart	1976
+1305	521	Fooled Around And Fell In Love	1976
+1306	522	Good Year For The Roses	1981
+1307	522	I Want You	1986
+1308	522	Oliver's Army	1979
+1309	522	She	1999
+1310	523	(You're The) Devil In Disguise	1963
+1311	523	Always On My Mind	1972
+1312	523	An American Trilogy	1972
+1313	523	Are You Lonesome Tonight	1961
+1314	523	Blue Suede Shoes	1956
+1315	523	Burning Love	1972
+1316	523	Can't Help Falling In Love	1961
+1317	523	Don't Be Cruel	1956
+1318	523	Good Luck Charm	1962
+1319	523	Guitar Man	1968
+1320	523	Heartbreak Hotel	1956
+1321	523	Hound Dog	1959
+1322	523	I Just Can't Help Believin'	1971
+1323	523	In The Ghetto	1969
+1324	523	It's Now Or Never	1960
+1325	523	Jailhouse Rock	1957
+1326	523	Kiss Me Quick	1963
+1327	523	Little Sister	1962
+1328	523	Love Me Tender	1956
+1329	523	Moody Blue	1977
+1330	523	My Boy	1975
+1331	523	One Night	1959
+1332	523	Suspicious Minds	1969
+1333	523	Wooden Heart	1961
+1334	524	A Little Less Conversation	2002
+1335	525	Clown	2012
+1336	525	Next To Me	2012
+1337	525	Read All About It Pt. III	2013
+1338	526	Lucky Man	1971
+1339	526	Peter Gunn Theme	1980
+1340	527	Big Big World	1998
+1341	528	Cleanin' Out My Closet	2002
+1342	528	LOSE YOURSELF	2002
+1343	528	My Name Is	1999
+1344	528	The Real Slim Shady	2000
+1345	528	Without Me	2002
+1346	529	Stan	2000
+1347	530	The Monster	2013
+1348	531	You Never Can Tell (C'est La Vie)	1977
+1349	532	A Man Without Love	1968
+1350	532	Release Me	1967
+1351	532	There Goes My Everything	1967
+1352	533	I'd Really Love To See You Tonight	1976
+1353	534	Sadeness Part 1	1990
+1354	535	Once Upon A Time In The West	1976
+1355	536	Bailamos	1999
+1356	536	Hero	2001
+1357	537	Could I Have This Kiss Forever	2000
+1358	538	Only Time	2000
+1359	538	Orinoco Flow (Sail Away)	1988
+1360	539	All By Myself	1976
+1361	540	After Midnight	1970
+1362	540	Cocaine	1978
+1363	540	Forever Man	1985
+1364	540	I Shot The Sheriff	1974
+1365	540	Layla	1992
+1366	540	Let It Grow	1974
+1367	540	Tears In Heaven	1992
+1368	540	Wonderful Tonight	1977
+1369	541	Ma Che Bello Questo Amore	1988
+1370	541	Musica E	1989
+1371	541	Se Bastasse Una Canzone	1990
+1372	541	Un' Emozione Per Sempre	2003
+1373	542	I Belong To You	2005
+1374	543	Cose Della Vita	1998
+1375	544	I Can't Stand The Rain	1978
+1376	544	One Way Ticket	1979
+1377	545	Cinderella Rockafella	1968
+1378	546	At Last	1960
+1379	546	I Just Want To Make Love To You	1996
+1380	546	I'd Rather Go Blind	1967
+1381	547	Also Sprache Zarathustra	1973
+1382	548	Carrie	1987
+1383	548	The Final Countdown	1986
+1384	549	Here Comes The Rain Again	1983
+1385	549	Love Is A Stranger	1983
+1386	549	Sweet Dreams (Are Made Of This)	1983
+1387	549	There Must Be An Angel (Playing With My Heart)	1985
+1388	550	Both Sides Now	1971
+1389	551	Fields Of Gold	1996
+1390	551	Songbird	1997
+1391	552	Fantastig Toch	2007
+1392	553	Bring Me To Life	2003
+1393	553	My Immortal	2003
+1394	554	Missing (Todd Terry Remix)	1995
+1395	555	Kiss You All Over	1978
+1396	556	More Than Words	1991
+1397	557	Words	1982
+1398	558	Stay With Me	1972
+1399	559	Perfect	1988
+1400	560	Si Tu Dois Partir, Va-T-En	1969
+1401	561	EPIC	1989
+1402	562	God Is A DJ	1998
+1403	562	Insomnia	1996
+1404	562	We Come 1	2001
+1405	563	Jeanny	1986
+1406	563	Rock Me Amadeus	1986
+1407	564	Hero	2014
+1408	565	Magic Forest	1969
+1409	566	Younger Days	1987
+1410	567	Praise You	1998
+1411	568	Blue Moment	1955
+1412	568	Blueberry Hill	1957
+1413	568	I'm Walking	1957
+1414	568	Margie	1959
+1415	568	Red Sails In The Sunset	1963
+1416	568	There Goes My heart Again	1963
+1417	569	Christmas Was A Friend Of Mine	1982
+1418	570	A Good Heart	1985
+1419	571	Ring, Ring, I've Got To Sing	1966
+1420	572	Feels Like Heaven	1984
+1421	573	She Drives Me Crazy	1989
+1422	574	Looking Too Closely	2014
+1423	575	Strange Way	1979
+1424	576	My Silver Lining	2014
+1425	577	So Long	1980
+1426	577	The Worker	1979
+1427	578	A Gentleman's Excuse Me	1990
+1428	579	Western Union	1967
+1429	580	Hey St. Peter	1977
+1430	581	Albatross	1969
+1431	581	As Long As You Follow	1988
+1432	581	Big Love	1987
+1433	581	Black Magic Woman	1968
+1434	581	Don't Stop	1977
+1435	581	Dreams	1977
+1436	581	Everywhere	1987
+1437	581	Go Your Own Way	1977
+1438	581	Landslide	1975
+1439	581	Little Lies	1987
+1440	581	Man Of The World	1969
+1441	581	Need Your Love So Bad	1968
+1442	581	Oh Well!	1969
+1443	581	Rhiannon	1976
+1444	581	Sara	1980
+1445	581	Seven Wonders	1987
+1446	581	Songbird	1977
+1447	581	The Chain	1977
+1448	581	The Green Manalishi	1970
+1449	581	Tusk	1979
+1450	581	You Make Loving Fun	1978
+1451	582	Phantom of the Opera	2019
+1452	583	Dog Days Are Over	2009
+1453	583	Ship To Wreck	2015
+1454	584	15 Miljoen Mensen	1996
+1455	585	Hocus Pocus	1971
+1456	585	House Of The King	1971
+1457	585	Sylvia	1972
+1458	586	All My Life	2002
+1459	586	Best Of You	2005
+1460	586	Everlong	1997
+1461	586	Everlong (Acoustic)	1997
+1462	586	Learn To Fly	2000
+1463	586	The Pretender	2007
+1464	586	These Days	2011
+1465	586	Times Like These	2003
+1466	586	Walk	2011
+1467	586	Wheels	2009
+1468	587	Lemon Tree	1996
+1469	588	Cold As Ice	1977
+1470	588	Feels Like The First Time	1997
+1471	588	I Want To Know What Love Is	1984
+1472	588	That Was Yesterday	1985
+1473	588	Waiting For A Girl Like You	1982
+1474	589	Here It Comes Again	1965
+1475	589	You've Got Your Troubles	1965
+1476	590	Pumped Up Kicks	2011
+1477	591	Bernadette	1967
+1478	591	If I Were A Carpenter	1968
+1479	591	Reach Out I'll Be There	1966
+1480	592	Get Off	1978
+1481	593	Poupée De Cire, Poupée De Son	1965
+1482	594	Tous Les Garcons Et Les Filles	1963
+1483	595	De Verzoening	1987
+1484	595	Hier Komt De Storm	1988
+1485	595	Kronenburg Park	1985
+1486	595	Linda	1983
+1487	595	Winter In Hamburg	1987
+1488	595	Zeg Me Dat Het Niet Zo Is	1990
+1489	595	Zwart Wit	1984
+1490	596	Angel Of Mine	1981
+1491	597	I Remember You	1962
+1492	598	Fly Me To The Moon	1964
+1493	598	I've Got You Under My Skin	1956
+1494	598	It Was A Very Good Year	1968
+1495	598	My Way	1969
+1496	598	Strangers In The Night	1966
+1497	598	That's Life	1966
+1498	598	Theme From New York, New York	1980
+1499	599	Dancin' Fool	1979
+1500	600	Relax	1984
+1501	600	The Power Of Love	1984
+1502	600	Two Tribes	1984
+1503	601	High Noon	1952
+1504	601	Rawhide	1958
+1505	602	Darling	1978
+1506	603	Grease	1978
+1507	604	Heb Je Even Voor Mij	2004
+1508	605	De Regenboog	1997
+1509	606	Voor Haar	1977
+1510	606	Zondagmiddag Buitenveldert	1969
+1511	607	Vluchten Kan Niet Meer	1977
+1512	608	Take Me Out	2003
+1513	609	The Dolphins	1966
+1514	610	I'm Telling You Now	1963
+1515	611	Anak	1980
+1516	612	Tallahassie Lassie	1959
+1517	613	Living On My Own	1993
+1518	613	The Great Pretender	1987
+1519	614	Barcelona	1987
+1520	615	Before The Next Teardrop Falls	1975
+1521	616	Junge Komm Bald Wieder	1963
+1522	617	All Right Now	1970
+1523	618	Leven Na De Dood	1997
+1524	619	Keeping The Dream Alive	1989
+1525	619	Play It Cool	1988
+1526	620	Cent Mille Chansons	1969
+1527	621	Killing Me Softly	1996
+1528	622	Standing On The Inside	1976
+1529	623	Some Nights	2012
+1530	623	We Are Young	2013
+1531	624	Kaap'ren Vaaren	1974
+1532	625	Broad Daylight	2006
+1533	626	Sweet About Me	2008
+1534	627	Beautiful Day	2007
+1535	628	Matador	1980
+1536	629	No More Fear Of Flying	1979
+1537	630	Mad World	2003
+1538	631	Out In The Fields	1985
+1539	631	Still Got The Blues (For You)	1990
+1540	632	Young Girl	1968
+1541	633	Chariot	2006
+1542	633	Not Over You	2011
+1543	633	Soldier	2012
+1544	634	The Book Of Love	2015
+1545	635	I Like Chopin	1983
+1546	636	Bloasmuziek	1999
+1547	637	Singing In The Rain	1952
+1548	638	24 Hours From Tulsa	1964
+1549	638	Mecca	1963
+1550	638	Something's Gotta Hold Of My Heart	1968
+1551	639	Firth Of Fifth	1973
+1552	639	Follow You Follow Me	1978
+1553	639	Hold On My Heart	1992
+1554	639	HOME BY THE SEA	1983
+1555	639	I Can't Dance	1992
+1556	639	Invisible Touch	1986
+1557	639	Jesus He knows me	1992
+1558	639	Land Of Confusion	1986
+1559	639	Mama	1983
+1560	639	No Son Of Mine	1991
+1561	640	Little Green Bag	1969
+1562	640	Una Paloma Blanca	1975
+1563	641	Give Me The Night	1980
+1564	642	Budapest	2014
+1565	642	Shotgun	2018
+1566	643	Rhapsody In Blue	1924
+1567	644	Bangla Desh	1971
+1568	644	Give Me Love	1973
+1569	644	Got My Mind Set On You	1987
+1570	644	My Sweet Lord	1970
+1571	644	What Is Life	1971
+1572	645	Rock Your Baby	1974
+1573	646	A Different Corner	1986
+1574	646	Careless Whisper	1984
+1575	646	Cowboys And Angels	1991
+1576	646	Faith	1987
+1577	646	Father Figure	1988
+1578	646	Freedom! '90	1990
+1579	646	I Can't Make You Love Me	1997
+1580	646	Jesus To A Child	1996
+1581	646	Killer/Papa Was a Rollin' Stone	1993
+1582	646	Kissing a Fool	1988
+1583	646	Praying For Time	1990
+1584	646	You Have Been Loved	1997
+1585	647	I Knew You Were Waiting (For Me)	1987
+1586	648	Don't Let The Sun Go Down On Me	1991
+1587	649	As	1999
+1588	650	Somebody To Love (Live)	1993
+1589	651	Le Meteque	1969
+1590	652	Rosetta	1971
+1591	652	The Ballad Of Bonnie And Clyde	1968
+1592	652	Yeh Yeh	1965
+1593	653	't Is Weer Voorbij Die Mooie Zomer	1973
+1594	653	1948	1972
+1595	654	No More Boleros	1989
+1596	655	La Ballade Des Gens Heureux	1976
+1597	655	Voici Les Cles	1977
+1598	656	Tanze Mit Mir In Den Morgen	1962
+1599	657	Ferry 'Cross The Mersey	1964
+1600	657	How Do You Do It	1963
+1601	657	You'll Never Walk Alone	1963
+1602	658	Baker Street	1978
+1603	658	City To City	1978
+1604	659	Ik Neem Je Mee	2011
+1605	660	Non Stop Dance	1977
+1606	660	Que Sera Mi Vida	1980
+1607	661	L'AMOUR TOUJOURS	2001
+1608	662	L'important C'est La Rose	1967
+1609	662	Nathalie	1964
+1610	663	Alone Again	1972
+1611	663	Clair	1972
+1612	663	Get Down	1973
+1613	663	Matrimony	1972
+1614	663	Nothing Rhymed	1971
+1615	664	Hurts To Be In Love	1985
+1616	664	People Gotta Move	1974
+1617	664	Powerful People	1974
+1618	664	Wild Horses	1987
+1619	665	Bamboleo	1988
+1620	666	Help Me Make It Through The Night	1971
+1621	666	Midnight Train To Georgia	1973
+1622	667	Rhinestone Cowboy	1975
+1623	667	Wichita Lineman	1968
+1624	668	Nothings Gonna Change My Love For You	1988
+1625	669	In The Mood	1940
+1626	669	Moonlight Serenade	1939
+1627	670	Afscheid	2011
+1628	671	Anything For You	1989
+1629	671	Can't Stay Away From You	1988
+1630	671	Conga	1986
+1631	671	Don't Wanna Lose You Now	1989
+1632	671	Dr. Beat	1984
+1633	672	I Will Survive	1979
+1634	672	Never Can Say Goodbye	1975
+1635	672	Reach Out I'll Be There	1975
+1636	673	Crazy	2006
+1637	674	An Englishman In New York	1980
+1638	674	Cry	1985
+1639	675	Another 45 Miles	1969
+1640	675	Back Home	1970
+1641	675	Bombay	1976
+1642	675	Buddy Joe	1972
+1643	675	Dong-Dong-Di-Ki-Di-Gi-Dong	1968
+1644	675	Going To The Run	1991
+1645	675	Hold Me Now	1994
+1646	675	Holy Holy Life	1971
+1647	675	I've Just Lost Somebody	1968
+1648	675	Just A Little Bit Of Peace In My Heart	1968
+1649	675	Long Blond Animal	1980
+1650	675	Please Go	1965
+1651	675	Radar Love	1973
+1652	675	She Flies On Strange Wings	1971
+1653	675	Sleepwalkin'	1976
+1654	675	Sound Of The Screaming Day	1967
+1655	675	That Day	1966
+1656	675	Twilight Zone	1982
+1657	675	Weekend Love	1979
+1658	675	When The Lady Smiles	1984
+1659	676	Making Up Again	1978
+1660	677	Iris	1999
+1661	678	Sun Of Jamaica	1980
+1662	679	Kon Ik Maar Even Bij Je Zijn	1991
+1663	680	If You Could Read My Mind	1971
+1664	680	Sundown	1974
+1665	681	Clint Eastwood	2001
+1666	681	Feel Good Inc	2005
+1667	682	Mia	1992
+1668	683	Heavy Cross	2009
+1669	684	Somebody That I Used To Know	2011
+1670	685	I've Seen That Face Before	1981
+1671	685	La Vie En Rose	1977
+1672	686	Chicago	1971
+1673	687	Some Kind Of Wonderful	1975
+1674	688	Deep Water	1969
+1675	689	Real Cool World	1970
+1676	690	21 Guns	2009
+1677	690	American Idiot	2004
+1678	690	Basket Case	1994
+1679	690	Boulevard Of Broken Dreams	2004
+1680	690	Good Riddance (Time Of Your Life)	1997
+1681	690	HOLIDAY	2005
+1682	690	Wake Me Up When September Ends	2005
+1683	690	When I Come Around	1995
+1684	691	Only Lies	1971
+1685	692	Liquid Spirit (Claptone Remix)	2015
+1686	693	Black And White	1971
+1687	694	Just The Two Of Us	1981
+1688	695	Beep Beep Love	1977
+1689	696	Let Kiss	1965
+1690	697	Don't Cry	1991
+1691	697	Estranged	1994
+1692	697	Knockin On Heaven's Doorr	1992
+1693	697	Live And Let Die	1991
+1694	697	November Rain	1992
+1695	697	Paradise City	1989
+1696	697	Patience	1989
+1697	697	Sweet Child O'Mine	1987
+1698	697	Welcome To The Jungle	1987
+1699	698	Balada (TchĂŞ Tcherere TchĂŞ TchĂŞ)	2012
+1700	699	Als Ze Danst	2011
+1701	699	Armen Open	2011
+1702	699	Brabant	2003
+1703	699	Dat Komt Door Jou	2009
+1704	699	De Weg	2005
+1705	699	Geef Mij Je Angst	2005
+1706	699	Het Kan Hier Zo Mooi Zijn	2013
+1707	699	Ik Wil Nog Niet Naar Huis	2008
+1708	699	Proosten	2007
+1709	699	Tranen Gelachen	2007
+1710	700	Nergens Zonder Jou	2011
+1711	701	't Dondert En 't Bliksemt	1998
+1712	701	Het Is Een Nacht	1995
+1713	701	Per Spoor (Kedeng Kedeng)	1996
+1714	702	Mary In The Morning	1971
+1715	703	Heartaches By The Number	1960
+1716	703	My Truly Truly Fair	1951
+1717	704	There's A Whole Lot Of Loving	1975
+1718	705	What Is Love	1992
+1719	706	Finding Out More	2015
+1720	707	Kiss On My List	1981
+1721	707	Maneater	1982
+1722	707	Rich Girl	1977
+1723	708	Sky On Fire	2012
+1724	709	Guitar King	1975
+1725	710	Annabel	1983
+1726	710	Een Vrouw Zoals Jij	1983
+1727	711	Axel F	1985
+1728	712	Don't Leave me This Way	1975
+1729	712	Satisfaction Guaranteed (Or Take Your Love Back)	1974
+1730	713	Moviestar	1975
+1731	714	Island In The Sun	1957
+1732	715	W.O.L.D.	1974
+1733	716	Oh Oh Den Haag	1982
+1734	717	Everybody's Talking	1969
+1735	717	Without You	1972
+1736	718	Sign Of The Times	2017
+1737	719	Will You	1981
+1738	720	All I Wanna Do Is Make Love To You	1990
+1739	720	Alone	1987
+1740	720	Barracuda	1977
+1741	720	Crazy On You	1976
+1742	720	Magic man	1976
+1743	721	Temptation	1983
+1744	722	It's Good News This Week	1965
+1745	723	Queen For Tonight	1963
+1746	723	Walking Back To Happiness	1962
+1747	724	Atemlos Durch Die Nacht	2013
+1748	725	Zelfs Je Naam Is Mooi	1998
+1749	726	Met De Vlam In De Pijp	1978
+1750	727	Sunny Girl	1968
+1751	728	Bittersweet Samba	1966
+1752	728	This Guy's In Love With You	1968
+1753	729	Der Weg	2002
+1754	729	Halt Mich	1988
+1755	729	Mensch	2003
+1756	730	I Love You Like Myself	1979
+1757	730	Still Believe	1978
+1758	731	Als Je Wint	1984
+1759	732	Never Be Clever	1979
+1760	732	Saturday Night	1978
+1761	733	Pappie Loop Toch Niet Zo Snel	1971
+1762	734	Anne	1986
+1763	734	Hilversum 3	1984
+1764	734	Liefde Van Later	1969
+1765	734	Opzij Opzij	1979
+1766	734	Suzanne	1969
+1767	734	Toveren	1987
+1768	735	A Must To Avoid	1965
+1769	735	I'm Henry VIII I Am	1965
+1770	735	No Milk Today	1966
+1771	735	Theres A Kind Of Hush	1967
+1772	736	Toen ik je zag	1997
+1773	737	Ik Heb Geen Zin Om Op Te Staan	1965
+1774	738	Alles Geprobeerd	1986
+1775	738	Belgie	1982
+1776	738	Hou Van Mij	1983
+1777	738	Vriendschap	1983
+1778	739	I Can't Let Maggie Go	1968
+1779	740	Have I The Right	1964
+1780	741	Popcorn	1972
+1781	742	Emma	1974
+1782	742	It Started With A Kiss	1982
+1783	742	So You Win Again	1977
+1784	742	You Sexy Thing	1975
+1785	743	Jump Around	1992
+1786	744	Take Me To Church	2014
+1787	746	Rock The Boat	1974
+1788	747	Stuck With You	1986
+1789	747	The Power Of Love	1985
+1790	748	Russian Spy & I	1966
+1791	745	Busje Komt Zo	1995
+1792	749	Hit Me With Your Rhythm Stick	1978
+1793	749	Sex & Drugs & Rock & Roll	1978
+1794	750	Crazy	1987
+1795	751	Lust For Life	1977
+1796	751	The Passenger	1976
+1797	752	Candy	1990
+1798	753	Nutbush City Limits	1974
+1799	753	Proud Mary	1971
+1800	753	River Deep, Mountain High	1966
+1801	754	Blue bittersweet	2013
+1802	754	Beautiful Distraction	2010
+1803	754	Hurricane	2012
+1804	754	I Love You	2007
+1805	754	I Still Cry	2000
+1806	754	I'm Not So Tough	1998
+1807	754	Lay Your Weapons Down	2018
+1808	754	Miracle	2009
+1809	754	Next To Me	2010
+1810	754	Puzzle Me	2009
+1811	754	So Incredible	2008
+1812	754	The Great Escape	2007
+1813	754	We Are One	2012
+1814	754	Winter Of Love	2012
+1815	754	World Of Hurt	1998
+1816	755	Where Are You	1998
+1817	756	Body Talk	1981
+1818	756	Just An Illusion	1982
+1819	757	Bad Liar	2018
+1820	757	Believer	2017
+1821	757	Demons	2014
+1822	757	I Bet My Life	2014
+1823	757	It's Time	2013
+1824	757	Natural	2018
+1825	757	On top of the world	2013
+1826	757	Radioactive	2012
+1827	757	Thunder	2017
+1828	757	Whatever It Takes	2017
+1829	758	Don't You Worry 'Bout A Thing	1992
+1830	759	Last Night A DJ Saved My Life	1983
+1831	760	Need You Tonight	1987
+1832	760	Never Tear Us Apart	1988
+1833	760	Original Sin	1984
+1834	760	Suicide Blonde	1990
+1835	761	Fame	1983
+1836	761	Flashdance (What A Feeling)	1983
+1837	762	In-A-Gadda-Da-Vida	1970
+1838	763	Can I Play With Madness	1988
+1839	763	Fear Of The Dark	1993
+1840	763	Run To The Hills	1982
+1841	764	Voltooid Verleden Tijd	1997
+1842	765	Theme From Shaft	1971
+1843	766	De Wilde Boerendochter	1974
+1844	767	Centerfold	1982
+1845	768	Thanks	1969
+1846	769	Cajun Moon	1973
+1847	770	In The Still Of The Night	1974
+1848	770	Papa was a poor man	1974
+1849	771	Banana Pancakes	2005
+1850	771	Sitting, Waiting, Wishing	2005
+1851	771	Upside Down	2006
+1852	772	When You Walk In The Room	1964
+1853	773	Reet Petite	1987
+1854	774	ABC	1970
+1855	774	Can You Feel It	1981
+1856	774	I Want You Back	1970
+1857	775	Doctor My Eyes	1972
+1858	775	The Load Out / Stay	1977
+1859	775	The Pretender	1976
+1860	776	You're A Friend Of Mine	1986
+1861	777	Le Moribond	1961
+1862	777	Marieke	1961
+1863	777	Mijn Vlakke Land	1965
+1864	777	Ne me Quitte Pas	1959
+1865	777	Voir Un Ami Pleurer	1961
+1866	778	Il Est Cinq Heures Paris S'Ă‰veille	1968
+1867	779	Manuela	1971
+1868	780	I'm Your Puppet	1976
+1869	781	Say You Won't Let Go	2016
+1870	782	Hold Back The River	2014
+1871	782	Let It Go	2015
+1872	783	Limit To Your Love	2011
+1873	784	1973	2007
+1874	784	Bonfire Heart	2013
+1875	784	Goodbye My Lover	2005
+1876	784	Stay The Night	2010
+1877	784	Wisemen	2005
+1878	784	You're Beautiful	2005
+1879	785	Get Up (I Feel Like Being a) Sex Machine	1970
+1880	785	I Got You I Feel Good	1966
+1881	785	It's A Man's Man's Man's World	1966
+1882	786	Baby Come To Me	1983
+1883	787	Slave To The Music	2011
+1884	787	Wonderful World	2006
+1885	787	You Give Me Something	2007
+1886	788	Broken Strings	2008
+1887	789	Fire And Rain	1970
+1888	789	You've Got A Friend	1971
+1889	790	Sailing To Philadelphia	2000
+1890	791	All At Sea	2004
+1891	791	Everlasting Love	2004
+1892	792	Deeper Underground	1998
+1893	792	Seven Days In Sunny June	2005
+1894	792	Too Young To Die	1993
+1895	792	Virtual Insanity	1996
+1896	793	Crockett's Theme	1987
+1897	794	Als De Morgen Is Gekomen	2006
+1898	794	Als Je Lacht	2008
+1899	794	Cupido	2006
+1900	794	Dan Volg Je Haar Benen	2007
+1901	794	Ik Zing Dit Lied Voor Jou Alleen	1997
+1902	794	Laura	2005
+1903	794	Stilte In De Storm	2008
+1904	794	Vrienden Voor Het Leven	2005
+1905	795	What Have You Done For Me Lately	1986
+1906	796	At Seventeen	1975
+1907	796	Fly Too High	1979
+1908	796	The Other Side Of The Sun	1980
+1909	797	Cry Baby	1971
+1910	797	Me And Bobby McGee	1971
+1911	797	Mercedes Benz	1970
+1912	797	Try (Just A Little Bit Harder)	1967
+1913	798	Nightporter	1980
+1914	799	Too Many Broken Hearts	1989
+1915	800	Butterfly	2009
+1916	800	I Won't Give Up	2012
+1917	800	I'm Yours	2008
+1918	800	Make It Mine	2009
+1919	801	Lucky	2009
+1920	802	Gotta Catch 'M All (Pokemon Theme Song)	1997
+1921	803	Cara Mia	1965
+1922	804	Numb/Encore	2004
+1923	805	Niggas In Paris	2011
+1924	806	Empire State Of Mind (part 2)	2009
+1925	807	Oxygene IV	1977
+1926	808	Harper Valley PTA	1968
+1927	809	Hi Ho Silver Lining	1967
+1928	810	Grace	1994
+1929	810	Hallelujah	1994
+1930	810	Last Goodbye	1994
+1931	811	Forever Autumn	1978
+1932	812	The Eve Of The War	1978
+1933	813	Somebody To Love	1967
+1934	813	White Rabbit	1967
+1935	814	Let's Get Loud	2000
+1936	815	Crush	1998
+1937	816	The Power Of Love	1985
+1938	817	Do What You Do	1985
+1939	818	When The Rain Begins To Fall	1984
+1940	819	Jij Bent Zo	2007
+1941	820	Wit Licht	2015
+1942	821	Great Balls Of Fire	1957
+1943	821	Whole Lotta Shakin Going On	1957
+1944	822	Nice And Slow	1976
+1945	823	Domino	2011
+1946	823	Price Tag	2011
+1947	824	Bourrée	1969
+1948	824	Locomotive Breath	1972
+1949	825	Pied Piper	1966
+1950	826	Louise	2014
+1951	826	Tonight	2014
+1952	827	Foolish Games	1997
+1953	828	The Birds And The Bees	1965
+1954	829	Bad Bad Leroy Brown	1973
+1955	829	I Got A Name	1975
+1956	829	I'll Have To Say I Love You In A Song	1974
+1957	829	Time In A Bottle	1972
+1958	829	You Don't Mess Around With Jim	1972
+1959	830	I Should Have Known Better	1984
+1960	831	Swing Your Daddy	1975
+1961	832	Adios amigo	1962
+1962	832	Distant Drums	1966
+1963	832	He'll Have To Go	1960
+1964	832	I Love You Because	1964
+1965	833	Hey Joe	1967
+1966	833	Little Wing	1967
+1967	833	Purple Haze	1967
+1968	833	Voodoo Child (Slight Return)	1968
+1969	834	All Along The Watchtower	1968
+1970	834	The Wind Cries Mary	1967
+1971	835	Dance Across The Floor	1978
+1972	836	Reggae Night	1983
+1973	836	Wild World	1970
+1974	837	Il Mondo	1994
+1975	838	What Becomes Of The Broken Hearted	1966
+1976	839	After Midnight	1972
+1977	839	Call Me The Breeze	1972
+1978	839	Cocaine	1976
+1979	840	Rosie	1980
+1980	841	The Night They Drove Ol 'Dixie Down	1971
+1981	842	I Love Rock 'N' Roll	1982
+1982	843	Dust Bowl	2011
+1983	844	Delta Lady	1969
+1984	844	Feelin' Alright	1972
+1985	844	Many Rivers To Cross	1982
+1986	844	N'oubliez Jamais	1997
+1987	844	Summer In The City	1994
+1988	844	The Letter	1970
+1989	844	Unchain My Heart	1987
+1990	844	With A Little Help From My Friends	1968
+1991	844	You Are So Beautiful	1974
+1992	844	You Can Leave Your Hat On	1986
+1993	845	Up Where We Belong	1982
+1994	846	L'été  Indien	1975
+1995	846	Les Champs Elysées	1969
+1996	847	A Slow Song	1982
+1997	847	Be My Number Two	1984
+1998	847	Happy Ending	1984
+1999	847	Is She Really Going Out With Him	1988
+2000	847	Real Men	1982
+2001	847	Steppin' Out	1982
+2002	848	Games People Play	1969
+2003	849	Ya Ya	1962
+2004	850	100 Years	1975
+2005	851	Tumble And Fall	2001
+2006	852	Annie's Song	1976
+2007	852	Calypso	1975
+2008	852	Leaving On A Jet Plane	1969
+2009	852	Take Me Home, Country Roads	1971
+2010	852	Thank God I'm a Country Boy	1975
+2011	853	You're The Voice	1987
+2012	854	Judy In Disguise	1968
+2013	855	Have A Little Faith In Me	1989
+2014	856	All of me	2013
+2015	856	Ordinary People	2005
+2016	856	Save Room	2007
+2017	856	This Time	2009
+2018	857	Imagine	1971
+2019	857	Instant Karma	1970
+2020	857	Jealous Guy	1971
+2021	857	Mother	1971
+2022	857	Woman	1981
+2023	857	Working Class Hero	1970
+2024	858	Give Peace A Chance	1969
+2025	858	Happy X-Mas	1972
+2026	859	Johnny Remember Me	1961
+2027	860	Room To Move	1970
+2028	861	Daughters	2005
+2029	861	Free Fallin'	2008
+2030	861	Gravity	2006
+2031	861	Heartbreak Warfare	2009
+2032	861	In The Blood	2017
+2033	861	New Light	2018
+2034	861	Perfectly Lonely	2010
+2035	861	Shadow Days	2012
+2036	861	Slow Dancing in a Burning Room	2006
+2037	861	Stop This Train	2006
+2038	861	Waiting On The World To Change	2006
+2039	861	Who Says	2009
+2040	862	Half Of My Heart	2010
+2041	863	Music	1976
+2042	864	Love me again	2013
+2043	865	St. Elmo's Fire	1985
+2044	866	Love Is In The Air	1977
+2045	867	If I Only Had Time	1968
+2046	868	Greased Lightning	1978
+2047	868	Sandy	1978
+2048	869	You're The One That I Want	1978
+2049	869	Summer Nights	1978
+2050	870	Missing You	1984
+2051	871	Hey Mal Yo	1975
+2052	872	Red River Rock	1960
+2053	873	Hang On In There Baby	1974
+2054	874	A Boy Named Sue	1969
+2055	874	A Thing Called Love	1972
+2056	874	Folsom Prison Blues	1968
+2057	874	Hurt	2002
+2058	874	I WALK THE LINE	1957
+2059	874	One	2000
+2060	874	Ring Of Fire	1963
+2061	874	San Quentin	1969
+2062	874	Solitary Man	2000
+2063	875	A Real Mother For Ya	1977
+2064	876	Pour Moi La Vie Va Commencer	1963
+2065	877	Turn Back The Clock	1988
+2066	878	Shakin' All Over	1960
+2067	879	Sophietje	1965
+2068	880	Hold Me Now	1987
+2069	880	What's Another Year	1980
+2070	881	Too Much Too Little Too Late	1978
+2071	882	Tears On My Pillow	1975
+2072	883	Poetry In Motion	1961
+2073	884	I Hear You Now	1980
+2074	884	I'll Find My Way Home	1982
+2075	885	In Your Light	2009
+2076	886	Surrender	1982
+2077	887	Just Another Day	1992
+2078	888	Stop The Cavalry	1980
+2079	889	Happiness	2011
+2080	889	Lost	2010
+2081	890	Egyptian Reggae	1977
+2082	891	Big Yellow Taxi	1970
+2083	891	Both Sides Now	1968
+2084	892	Ik Ben Blij Dat Ik Je Niet Vergeten Ben	1975
+2085	893	Che Sara	1971
+2086	893	No Dogs Allowed	1970
+2087	893	The Windmills Of Your Mind	1969
+2088	894	Jessie	1994
+2089	895	Don't Stop Believin'	1981
+2090	895	OPEN ARMS	1981
+2091	896	Atmosphere	1979
+2092	896	Love Will Tear Us Apart	1980
+2093	896	Transmission	1979
+2094	897	La Camisa Negra	2005
+2095	898	Stay With Me Till Dawn	1979
+2096	899	Send In The Clowns	1975
+2097	900	Somewhere Over The Rainbow	1939
+2098	901	Ik Zou Wel Eens Willen Weten...	1955
+2099	902	Geh Nicht In Die Stadt	1984
+2100	902	Stimmen Im Wind	1986
+2101	903	Don't Cry For Me Argentina	1977
+2102	904	This Wheel's On Fire	1968
+2103	905	The Wedding	1964
+2104	906	Ce n'Est Rien	1974
+2105	906	Elle Voulait Qu'on l'Appelle Venise	1976
+2106	906	Helene	1987
+2107	906	Ma Préference	1978
+2108	906	Si On Chantait	1974
+2109	906	This Melody	1976
+2110	907	Por Un Poco De Tu Amor	1979
+2111	907	Quiereme Mucho	1979
+2112	907	Un Canto A Galicia	1972
+2113	908	Someone Loves You Honey	1982
+2114	909	Love Yourself	2016
+2115	909	Sorry	2015
+2116	909	What Do You Mean	2015
+2117	910	Can't Stop The Feeling	2016
+2118	910	Cry Me A River	2002
+2119	910	Mirrors	2013
+2120	968	Everything for free	1998
+2121	968	Not An Addict	1996
+2122	911	Dagen Dat Ik Je Vergeet	1989
+2123	911	In Het Donker (Zien Ze Je Niet)	1983
+2124	911	Intimiteit	1984
+2125	912	I PREDICT A RIOT	2005
+2126	912	Ruby	2007
+2127	913	Too Shy	1983
+2128	914	Way Down We Go	2016
+2129	915	When	1958
+2130	916	The Elephant Song	1975
+2131	917	Damn Those Eyes	1999
+2132	917	No Surrender	2009
+2133	917	Rain Down On Me	2002
+2134	917	Shot Of A Gun	2008
+2135	918	Before You Let Me Go	2003
+2136	919	Closest Thing To Heaven	1984
+2137	920	Carry on wayward son	1976
+2138	920	Dust In The Wind	1978
+2139	921	Lambada	1989
+2140	922	Hot Shot	1978
+2141	923	Geen Kind Meer	1996
+2142	923	Zuid-Afrika	1991
+2143	924	Babooshka	1980
+2144	924	Cloudbusting	1985
+2145	924	Running Up That Hill	1985
+2146	924	The Man With The Child In His Eyes	1978
+2147	924	Them Heavy People	1979
+2148	924	Wuthering Heights	1978
+2149	925	If You Were A Sailboat	2007
+2150	925	Nine Million Bicycles	2005
+2151	925	Piece By Piece	2005
+2152	925	Shy Boy	2007
+2153	925	Spider's Web	2005
+2154	925	The Closest Thing To Crazy	2004
+2155	926	Love Shine A Light	1997
+2156	926	Walking On Sunshine	1985
+2157	927	Firework	2010
+2158	927	Hot N Cold	2008
+2159	927	I Kissed A Girl	2008
+2160	927	Roar	2013
+2161	928	Chained To The Rhythm	2017
+2162	929	Lyrics	1973
+2163	929	Mammoth	1973
+2164	929	Ruthless Queen	1979
+2165	929	Starlight Dancer	1977
+2166	929	Wintertime	1974
+2167	930	Get Down Tonight	1975
+2168	930	I'm Your Boogie Man	1977
+2169	930	Please Don't Go	1979
+2170	930	That's The Way I Like It	1975
+2171	931	Bedshaped	2004
+2172	931	Bend And Break	2005
+2173	931	Everybody's Changing	2004
+2174	931	Is It Any Wonder	2006
+2175	931	Silenced By The Night	2012
+2176	931	Somewhere Only We Know	2004
+2177	931	Sovereign Light Cafe	2012
+2178	931	This Is The Last Time	2005
+2179	932	Excerpt From A Teenage Opera	1967
+2180	933	Because Of You	2006
+2181	933	Breakaway	2004
+2182	934	David's Song	1979
+2183	936	Parijs	2015
+2184	937	Whenever I Call You Friend	1978
+2185	938	Coward Of The County	1980
+2186	938	Ruby Don't Take Your Love To Town	1969
+2187	939	Islands In The Stream	1983
+2188	940	We've Got Tonight	1983
+2189	935	All For Nothing	2014
+2190	935	Bridges	2017
+2191	935	Do I Ever	2016
+2192	935	Done With It	2015
+2193	935	Home Again	2012
+2194	935	Riddles	2015
+2195	935	Sorry	2016
+2196	935	Streets	2014
+2197	935	Uncharted	2019
+2198	935	War	2014
+2199	941	Stranger In Blue Suede Shoes	1969
+2200	942	Annie I'm Not Your Daddy	1982
+2201	943	All Summer Long	2008
+2202	944	Starmaker	1983
+2203	945	I've Got The Music In Me	1974
+2204	946	Love Like Blood	1985
+2205	947	Bette Davis Eyes	1981
+2206	947	Universal Song	1984
+2207	948	Cambodia	1981
+2208	948	Chequered Love	1981
+2209	948	Kids in America	1981
+2210	948	Never Trust A Stranger	1988
+2211	949	Dreams Are Ten A Penny	1973
+2212	950	Ik Heb Zo Waanzinnig Gedroomd	1981
+2213	951	Love And Pride	1985
+2214	952	Starless	1974
+2215	953	Memphis Soul Stew	1967
+2216	954	Back Down South	2011
+2217	954	Pyro	2010
+2218	954	Sex On Fire	2008
+2219	954	Use Somebody	2008
+2220	955	Tom Dooley	1959
+2221	956	I Was Made For Loving You	1979
+2222	956	Sure Know Something	1979
+2223	957	A Routine Day	1979
+2224	958	Laat Mij Maar Alleen	1982
+2225	958	Over De Muur	1984
+2226	959	All I Want	2012
+2227	960	Celebration	1980
+2228	960	Cherish	1985
+2229	960	Fresh	1985
+2230	960	Joanna	1984
+2231	961	Zijn Het Je Ogen	1988
+2232	962	Zoek Jezelf	1975
+2233	963	Freak On A Leash	1998
+2234	964	Diggin'	2015
+2235	964	My Love	2015
+2236	965	Autobahn	1975
+2237	965	The Model	1978
+2238	966	All My Life	2008
+2239	966	I Would Stay	2000
+2240	966	Sweet Goodbyes	2009
+2241	967	Golden Days	2010
+2242	969	Black Horse And The Cherry Tree	2005
+2243	969	Suddenly I See	2006
+2244	970	Can't Get You Out Of My Head	2001
+2245	971	Sorry	2009
+2246	972	Sukiyaki	1963
+2247	973	Lady Marmalade	1975
+2248	974	(Something Inside) So Strong	1987
+2249	974	It Must Be Love	1972
+2250	975	Beneath Your Beautiful	2012
+2251	976	I'm A Gambler	1969
+2252	977	Need You Now	2010
+2253	978	Alejandro	2010
+2254	978	Bad Romance	2009
+2255	978	Paparazzi	2009
+2256	978	Poker Face	2009
+2257	979	Always Remember Us This Way	2019
+2258	980	Shallow	2018
+2259	981	Sunshine Reggae	1983
+2260	982	Video Games	2011
+2261	983	Het Land Van	2005
+2262	984	Zing Voor Me	2010
+2263	985	Radio Africa	1985
+2264	986	Self Control	1984
+2265	987	Queen Of Elba	2012
+2266	987	Single Girls	2009
+2267	987	Use Somebody	2010
+2268	987	Wicked World	2010
+2269	988	La Solitudine	1993
+2270	988	Strani Amori	1994
+2271	989	You Say	2019
+2272	990	How Do I Live	1998
+2273	991	Black Dog	1971
+2274	991	Dazed And Confused	1969
+2275	991	Immigrant Song	1971
+2276	991	Kashmir	1975
+2277	991	Rock 'N' Roll	1971
+2278	991	Since I've Been Loving You	1970
+2279	991	Stairway To Heaven	1971
+2280	991	Whole Lotta Love	1969
+2281	992	You Never Walk Alone	1976
+2282	993	Op Een Mooie Pinksterdag	1967
+2283	994	M'n Opa	1967
+2284	995	I Was Made For Dancing	1979
+2285	996	Green Tambourine	1968
+2286	997	Always On The Run	1991
+2287	997	Are You Gonna Go My Way	1993
+2288	997	Fly Away	1998
+2289	997	I'll Be Waiting	2008
+2290	997	It Ain't Over Till It's Over	1991
+2291	997	Let Love Rule	1989
+2292	998	De Troubadour	1969
+2293	999	Long Tall Glasses	1974
+2294	999	Orchard Road	1983
+2295	999	When I Need You	1977
+2296	1000	Pittsburgh In The Rain	1971
+2297	1001	Famous Blue Raincoat	1971
+2298	1001	Hallelujah	1984
+2299	1001	So Long Marianne	1968
+2300	1001	Suzanne	1968
+2301	1001	Take This Waltz	1988
+2302	1001	You Want It Darker	2016
+2303	1002	Man Of Action	1970
+2304	1003	It's Over	1987
+2305	1003	Lessons In Love	1986
+2306	1003	Love Games	1981
+2307	1003	Running In The Family	1987
+2308	1004	Someone You Loved	2019
+2309	1005	Nao 't Zuuje	2017
+2310	1006	Te Veel Te Vaak	1974
+2311	1007	High	1998
+2312	1008	Never Ending Story	1984
+2313	1009	Behind Blue Eyes	2004
+2314	1010	Blue Bayou	1977
+2315	1010	Don't Know Much	1989
+2316	1010	It's So Easy	1977
+2317	1011	Ademnood	1995
+2318	1012	Breaking The Habit	2004
+2319	1012	In The End	2000
+2320	1012	Numb	2003
+2321	1012	One More Light	2016
+2322	1013	All Night Long	1983
+2323	1013	Dancing On The Ceiling	1986
+2324	1013	Hello	1984
+2325	1013	My Destiny	1992
+2326	1013	Penny Lover	1984
+2327	1013	Stuck On You	1984
+2328	1014	Face In The Crowd	2008
+2329	1015	Funky Town	1980
+2330	1016	Narcotic	1998
+2331	1017	Hallelujah	2009
+2332	1018	All Around The World	1989
+2333	1019	Long Haired Lover From Liverpool	1973
+2334	1020	I Will Follow Him	1963
+2335	1021	Long Tall Sally	1956
+2336	1021	Tutti Frutti	1957
+2337	1022	Forever Blue	1995
+2338	1022	Home On A Monday	1977
+2339	1022	It's A Long Way There	1976
+2340	1022	Reminiscing	1978
+2341	1023	Bitter Fruit	1987
+2342	1024	I Alone	1995
+2343	1024	Lightning Crashes	1995
+2344	1024	Overcome	2001
+2345	1024	Run To The Water (Live)	2000
+2346	1024	Selling The Drama	1995
+2347	1024	The Dolphin's Cry	1999
+2348	1025	You Are My Love	1976
+2349	1026	Wang Wang Doodle	1971
+2350	1027	Love Rears Its Ugly Head	1990
+2351	1028	Personality	1959
+2352	1029	Me And You And A Dog Named Boo	1971
+2353	1030	Strong	2014
+2354	1031	I've Been Thinking About You	1990
+2355	1032	(Walk Me Out) In The Morning Dew	1981
+2356	1033	Do You Remember	1977
+2357	1034	Royals	2013
+2358	1035	Euphoria	2012
+2359	1036	How Many Times	1982
+2360	1037	La Malaguena	1973
+2361	1038	Black Is Black	1966
+2362	1039	Macarena	1996
+2363	1040	El Condor Pasa	1970
+2364	1041	Maria Elena	1964
+2365	1042	La Bamba	1987
+2366	1043	I'm Gonna Make You Mine	1969
+2367	1044	Lady Love	1977
+2368	1044	See You When I Get There	1977
+2369	1045	Fine Brown Frame	1989
+2370	1046	Intro/Sweet Jane	1974
+2371	1046	Perfect Day	1972
+2372	1046	Satellite Of Love	1972
+2373	1046	Walk On The Wild Side	1973
+2374	1047	Hello Dolly	1964
+2375	1047	What A Wonderful World	1968
+2376	1048	Margrietje	1972
+2377	1049	Buona Sera	1958
+2378	1050	Everlasting Love	1968
+2379	1050	Rainbow Valley	1968
+2380	1051	I'm So Glad I'm A Woman	1981
+2381	1051	Love Theme	1974
+2382	1051	Walking In The Rain	1972
+2383	1052	Darling Be Home Soon	1967
+2384	1052	Daydream	1966
+2385	1052	Rain On The Roof	1966
+2386	1052	Summer In The City	1966
+2387	1053	Cheek To Cheek	1979
+2388	1054	Lost On You	2016
+2389	1055	(Everytime I Turn) Back In Love Again	1978
+2390	1055	Shine On	1981
+2391	1056	What You're Made Of	2004
+2392	1057	House For Sale	1975
+2393	1058	Colinda	1965
+2394	1058	The French song	1964
+2395	1059	Despacito	2017
+2396	1060	Lay Love On You	1978
+2397	1061	7 Years	2015
+2398	1062	The Man Who Sold The World	1974
+2399	1063	You're The Greatest Lover	1978
+2400	1064	Rose Garden	1971
+2401	1065	Sugar Me	1972
+2402	1065	Won't Somebody Dance With Me	1973
+2403	1066	Free Bird	1974
+2404	1066	Sweet Home Alabama	1974
+2405	1067	Popmuzik	1979
+2406	1068	Suicide Is Painless	1970
+2407	1069	Dat ik je mis	2013
+2408	1070	Red mij niet	2001
+2409	1071	Freedom	1972
+2410	1072	Can't Hold Us	2012
+2411	1073	Same Love	2013
+2412	1073	Thrift Shop	2013
+2413	1074	Baggy Trousers	1980
+2414	1074	Embarrassment	1981
+2415	1074	Night Boat To Cairo	1980
+2416	1074	One Step Beyond	1979
+2417	1074	Our House	1982
+2418	1075	Borderline	1986
+2419	1075	Crazy For You	1985
+2420	1075	Dress You Up	1985
+2421	1075	Frozen	1998
+2422	1075	Holiday	1984
+2423	1075	Hung Up	2005
+2424	1075	Into The Groove	1985
+2425	1075	La Isla Bonita	1987
+2426	1075	Like A Prayer	1989
+2427	1075	Like A Virgin	1984
+2428	1075	Live To Tell	1986
+2429	1075	Material Girl	1985
+2430	1075	Open Your Heart	1986
+2431	1075	Papa Don't Preach	1986
+2432	1075	Ray Of Light	1998
+2433	1075	The Power Of Goodbye	1998
+2434	1075	Vogue	1990
+2435	1076	Terug Naar De Kust	1976
+2436	1076	When You're Gone	1975
+2437	1077	Airport Song	1970
+2438	1077	Lord Of The Ages	1973
+2439	1077	Took A Long Time	1976
+2440	1078	Am I Losing You Forever	1985
+2441	1079	J'me Tire	2013
+2442	1080	Lean On	2015
+2443	1081	Because I Love	1971
+2444	1082	Ole Guapa	1948
+2445	1083	Dream A Little Dream Of Me	1968
+2446	1084	Do Wah Diddy Diddy	1964
+2447	1084	Ha Ha, Said The Clown	1967
+2448	1084	Mighty Quinn	1968
+2449	1084	Pretty Flamingo	1966
+2450	1085	Blinded By The Light	1976
+2451	1085	Davy's On The Road Again	1978
+2452	1085	Father Of Day Father Of Night	1973
+2453	1086	Kiss And Say Goodbye	1976
+2454	1087	If You Tolerate This Your Children Will Be Next	1998
+2455	1087	Motorcycle Emptiness	1992
+2456	1088	Lekker op de Trekker	1991
+2457	1089	Me Gustas Tu	2001
+2458	1090	Only One Woman	1968
+2459	1090	The Walls Fell Down	1969
+2460	1091	Walking In Memphis	1991
+2461	1092	Blue Moon	1961
+2462	1093	Many Rivers To Cross	1982
+2463	1094	Afscheid Nemen Bestaat Niet	2003
+2464	1094	Binnen	1999
+2465	1094	De Bestemming	1998
+2466	1094	De Waarheid	1996
+2467	1094	Dochters	2008
+2468	1094	Dromen Zijn Bedrog	1994
+2469	1094	Ik Leef Niet Meer Voor Jou	1996
+2470	1094	Je Hoeft Niet Naar Huis Vannacht	1995
+2471	1094	Margherita	1996
+2472	1094	Mooi	2015
+2473	1094	Rood	2006
+2474	1094	Speeltuin	1998
+2475	1094	Stop De Tijd	2008
+2476	1094	Vrij Zijn	1996
+2477	1094	Waarom Nou Jij	1994
+2478	1094	Waterkant	2010
+2479	1094	Wit Licht	2008
+2480	1094	Zij	2002
+2481	1095	Wat Zou Je Doen	2004
+2482	1096	Voorbij	2004
+2483	1097	Everytime I Think Of You	2007
+2484	1098	Ik zou het zo weer overdoen	2013
+2485	1098	Wereld Zonder Jou	1997
+2486	1099	We Are Growing	1989
+2487	1100	Goodbye To Love	1965
+2488	1101	Black Pearl	1982
+2489	1102	Show Me Heaven	1990
+2490	1103	All This Time	2008
+2491	1103	I'm In Love	2009
+2492	1103	Just Hold Me	2006
+2493	1104	All I Want For Christmas Is You	1994
+2494	1104	Hero	1993
+2495	1104	I'll Be There	1992
+2496	1104	Without You	1994
+2497	1105	As Tears Go By	1964
+2498	1105	Summer Nights	1965
+2499	1105	The Ballad Of Lucy Jordan	1979
+2500	1106	Ich Bin Wie Du	1976
+2501	1107	Paper Roses	1973
+2502	1108	Kayleigh	1985
+2503	1108	Lavender	1985
+2504	1109	Beautiful People	1996
+2505	1110	Move Closer	1986
+2506	1111	Worn Down Piano	1977
+2507	1112	What It Is	2000
+2508	1113	Valerie	2007
+2509	1114	Uptown Funk	2014
+2510	1115	Nothing Breaks Like A Heart	2018
+2511	1116	Lili Marlene	1946
+2512	1116	Sag Mir Wo Die Blumen Sind	1963
+2513	1117	New Age	2012
+2514	1118	Memories	2019
+2515	1118	Misery	2010
+2516	1118	She Will Be Loved	2004
+2517	1118	Sugar	2015
+2518	1118	This Love	2004
+2519	1119	Moves Like Jagger	2011
+2520	1120	Dancing In The City	1978
+2521	1121	Animals	2013
+2522	1122	In The Name Of Love	2016
+2523	1123	Scared To Be Lonely	2017
+2524	1124	High On Life	2018
+2525	1125	Abergavenny	1968
+2526	1126	I Heard It Through The Grapevine	1969
+2527	1126	Let's Get It On	1973
+2528	1126	Sexual Healing	1982
+2529	1126	What's Going On	1971
+2530	1127	It Takes Two	1967
+2531	1128	Ain't No Mountain High Enough	1967
+2532	1129	The Entertainer	1974
+2533	1130	Faithful	1971
+2534	1130	Lady Of The Morning	1971
+2535	1131	Goodbye	1969
+2536	1131	Knock Knock Who's There	1970
+2537	1131	Those Were The Days	1968
+2538	1132	Torn Between Two Lovers	1977
+2539	1133	My Guy	1964
+2540	1134	Classical Gas	1968
+2541	1135	Latin Dance	1978
+2542	1135	Sajang Ă‰	1980
+2543	1136	Teardrop	1998
+2544	1136	Unfinished Sympathy	1991
+2545	1137	Ti Sento	1986
+2546	1138	More Than I Can Bear	1985
+2547	1138	Whose Side Are You On	1984
+2548	1139	Two Shots Of A Happy And One Shot Of Sad	2005
+2549	1140	Catch & Release	2014
+2550	1140	With You	2013
+2551	1141	Break My Stride	1984
+2552	1142	Woodstock	1970
+2553	1143	Verdammt Ich Lieb' Dich	1990
+2554	1144	The Morning After	1973
+2555	1145	Rain In May	1981
+2556	1146	Right Back Where We Started From	1976
+2557	1147	Late At Night	1980
+2558	1147	Mother How Are You Today	1980
+2559	1147	Rio	1981
+2560	1148	U Can't Touch This	1990
+2561	1149	Hang On Sloopy	1965
+2562	1150	Don't You Write Her Off Like That	1979
+2563	1151	When I'm Dead And Gone	1971
+2564	1152	Alive	2006
+2565	1152	Bat Out Of Hell	1977
+2566	1152	I'd Do Anything For Love (But I Won't Do That)	1993
+2567	1152	Paradise By The Dashboard Light	1978
+2568	1152	Two Out Of Three Ain't Bad	1977
+2569	1152	You Took The Words Right Out Of My Mouth	1979
+2570	1153	Hijo De La Luna	1990
+2571	1154	Respectable	1987
+2572	1155	Beautiful People	1969
+2573	1155	Ruby Tuesday	1970
+2574	1156	Lay Down	1970
+2575	1157	Like The Way I Do	1989
+2576	1157	Like The Way I Do (live) Edit	1993
+2577	1158	Down Under	1982
+2578	1159	Enter Sandman	1991
+2579	1159	Fade To Black	1984
+2580	1159	Master of Puppets	1986
+2581	1159	Nothing Else Matters	1992
+2582	1159	One	1994
+2583	1159	Sad But True	1992
+2584	1159	The Memory Remains	1997
+2585	1159	The Unforgiven	1991
+2586	1159	The Unforgiven III	2008
+2587	1159	Unforgiven II	1997
+2588	1159	Whiskey In The Jar	1998
+2589	1160	Garden Party	1983
+2590	1161	The Sound Of Philadelphia	1974
+2591	1162	KIDS	2007
+2592	1163	How Am I Supposed To Live Without You	1990
+2593	1164	Everything	2007
+2594	1164	Feeling Good	2005
+2595	1164	Haven't Met You Yet	2009
+2596	1164	Hold On	2010
+2597	1164	Home	2005
+2598	1164	It's a beautiful day	2013
+2599	1164	Lost	2007
+2600	1165	Bad	1987
+2601	1165	Beat It	1983
+2602	1165	Ben	1972
+2603	1165	Billie Jean	1983
+2604	1165	Black Or White	1991
+2605	1165	Dirty Diana	1987
+2606	1165	Don't Stop 'til You Get Enough	1979
+2607	1165	Earth Song	1995
+2608	1165	Gone Too Soon	1993
+2609	1165	Heal The World	1992
+2610	1165	Human Nature	1983
+2611	1165	I Just Can't Stop Loving You	1987
+2612	1165	Leave Me Alone	1989
+2613	1165	Liberian Girl	1989
+2614	1165	Man In The Mirror	1988
+2615	1165	Off The Wall	1979
+2616	1165	One Day In Your Life	1981
+2617	1165	P.Y.T.	1984
+2618	1165	Remember The Time	1992
+2619	1165	Rock With You	1979
+2620	1165	Smooth Criminal	1988
+2621	1165	Stranger In Moscow	1996
+2622	1165	The Way You Make Me Feel	1987
+2623	1165	They Don't Care About Us	1996
+2624	1165	Thriller	1983
+2625	1165	Wanna Be Startin' Somethin'	1983
+2626	1165	Will You Be There	1993
+2627	1165	You Are Not Alone	1995
+2628	1166	Love Never Felt So Good	2014
+2629	1167	Cold Little Heart	2016
+2630	1167	Home Again	2012
+2631	1167	Love And Hate	2016
+2632	1168	Sweet Freedom	1986
+2633	1169	Silver Moon	1971
+2634	1170	Close to you	2013
+2635	1171	Let's All Chant	1978
+2636	1172	Pour Un Flirt	1971
+2637	1173	Le Printemps	1977
+2638	1173	Une Belle Histoire	1972
+2639	1174	La Poupee Qui Fait Non	1966
+2640	1174	Love Me, Please Love Me	1966
+2641	1175	Les Lacs Du Connemara	1982
+2642	1176	Ai Se Eu Te Pego!	2011
+2643	1177	Memo From Turner	1970
+2644	1178	Chirpy Chirpy Cheep Cheep	1971
+2645	1178	Sacramento (A Wonderful Town)	1972
+2646	1178	Soley, Soley	1971
+2647	1179	Beds Are Burning	1988
+2648	1180	Only A Fool	1969
+2649	1181	Big Girl (You Are Beautiful)	2007
+2650	1181	Grace Kelly	2007
+2651	1181	Relax Take It Easy	2007
+2652	1182	The Living Years	1989
+2653	1183	Lady Of The Dawn	1979
+2654	1184	In Dulci Jubilo	1976
+2655	1184	Tubular Bells	1974
+2656	1185	Moonlight Shadow	1983
+2657	1185	To France	1984
+2658	1186	Wrecking Ball	2013
+2659	1187	Hallelujah	1979
+2660	1188	Stolen Dance	2014
+2661	1189	Girl I'm Gonna Miss You	1989
+2662	1190	My Boy Lollipop	1964
+2663	1191	Ayo Technology	2008
+2664	1191	You And Me (In My Pocket)	2011
+2665	1191	You Don't Know	2009
+2666	1192	Demasiado Corazon	1984
+2667	1192	Spanish Stroll	1977
+2668	1193	Lovin You	1975
+2669	1194	Pata Pata	1967
+2670	1195	Just A Flirt	2008
+2671	1196	Fred Astaire	1981
+2672	1197	Porcelain	1999
+2673	1197	Why Does My Heart Feel So Bad?	1999
+2674	1198	It's A Beautiful Day Today	1969
+2675	1199	Eres Tu	1973
+2676	1200	You're My Heart You're My Soul	1985
+2677	1201	Girls	1975
+2678	1202	Always Look On The Bright Side Of Life	1981
+2679	1203	Le Lac Majeur	1973
+2680	1204	Yeke Yeke	1988
+2681	1205	We Just	1985
+2682	1206	Piece Of The Rock	1978
+2683	1207	Wasted Words	1965
+2684	1207	Why Don't You Take It	1966
+2685	1209	All The Young Dudes	1972
+2686	1208	Ace Of Spades	1980
+2687	1210	Hello A	1972
+2688	1210	How Do You Do	1971
+2689	1210	Ik Zie Een Ster	1974
+2690	1211	Stranger On The Shore	1962
+2691	1212	Romeo	1977
+2692	1212	To Be With You	1992
+2693	1213	Groovin' With Mr. Bloe	1970
+2694	1214	Broken Wings	1986
+2695	1214	Kyrie	1986
+2696	1215	Nothing Really Matters	2014
+2697	1215	Waves	2013
+2698	1216	Dynamite	1974
+2699	1216	Lonely This Christmas	1974
+2700	1216	Tigerfeet	1974
+2701	1217	Mannish Boy	1988
+2702	1218	Babel	2013
+2703	1218	Guiding Light	2018
+2704	1218	Hopeless Wanderer	2013
+2705	1218	I Will Wait	2012
+2706	1218	Little Lion Man	2010
+2707	1218	Lover Of The Light	2012
+2708	1218	The Cave	2010
+2709	1219	In The Summertime	1970
+2710	1220	One Night In Bangkok	1985
+2711	1221	Bliss	2001
+2712	1221	Feeling Good	2001
+2713	1221	Knights Of Cydonia	2006
+2714	1221	Madness	2012
+2715	1221	Mercy	2015
+2716	1221	Plug In Baby	2001
+2717	1221	Psycho	2015
+2718	1221	Resistance	2009
+2719	1221	Sing For Absolution	2003
+2720	1221	Starlight	2006
+2721	1221	Supermassive Black Hole	2006
+2722	1221	Time Is Running Out	2003
+2723	1221	Undisclosed Desires	2009
+2724	1221	Unintended	2009
+2725	1221	Uprising	2009
+2726	1222	Windforce 11	1987
+2727	1223	Only Love	1985
+2728	1224	Something Stupid	1967
+2729	1225	These Boots Are Made For Walking	1966
+2730	1226	Those Lazy Hazy Crazy Days Of Summer	1963
+2731	1226	Unforgettable	1951
+2732	1226	When I Fall In Love	1957
+2733	1227	Miss You Like Crazy	1989
+2734	1228	Torn	1997
+2735	1229	Unwritten	2004
+2736	1230	Son Of A Bitch	2015
+2737	1231	Love Hurts	1976
+2738	1232	Hald Mich 's Vas	2004
+2739	1233	Beautiful Noise	1976
+2740	1233	Cracklin' Rosie	1970
+2741	1233	Crunchy Granola Suite	1971
+2742	1233	Girl You'll Be A Woman Soon	1971
+2743	1233	Hello Again	1981
+2744	1233	Holly Holy	1969
+2745	1233	I Am... I Said	1971
+2746	1233	I'm A Believer	1971
+2747	1233	Longfellow Serenade	1974
+2748	1233	Love On The Rocks	1980
+2749	1233	Morningside	1973
+2750	1233	Play Me	1972
+2751	1233	Pretty Amazing Grace	2008
+2752	1233	September Morn'	1979
+2753	1233	Song Sung Blue	1972
+2754	1233	Sweet Caroline	1969
+2755	1234	Breaking Up Is Hard To Do	1962
+2756	1234	Oh! Carol	1960
+2757	1234	One Way Ticket	1959
+2758	1235	Alabama	1972
+2759	1235	Harvest	1972
+2760	1235	Harvest Moon	1991
+2761	1235	Heart Of Gold	1972
+2762	1235	Like A Hurricane	1977
+2763	1235	Old Man	1972
+2764	1235	Only Love Can Break Your Heart	1970
+2765	1235	Rockin' In The Free World	1989
+2766	1235	Southern Man	1970
+2767	1235	The Needle and the Damage Done	1972
+2768	1236	All Good Things (Come To An End)	2007
+2769	1237	99 Luftballons	1983
+2770	1237	Nur Getraumt	1983
+2771	1238	Anyplace, Anywhere, Anytime	2003
+2772	1239	Blue Monday	1983
+2773	1240	Winchester Cathedral	1966
+2774	1241	This Town	2016
+2775	1242	De Dag Dat Alles Beter Is	2009
+2776	1242	Het Masker	2009
+2777	1242	Hoe Lang	2008
+2778	1242	Kijk Omhoog	2007
+2779	1242	Pak Maar M'n Hand	2007
+2780	1242	Rosanne	2008
+2781	1242	Vallende Sterren	2009
+2782	1242	Vrij	2012
+2783	1242	Ze Lijkt Net Niet Op Jou	2012
+2784	1243	Sterker Nu Dan Ooit	2011
+2785	1244	Into My Arms	1996
+2786	1245	Where The Wild Roses Grow	1995
+2787	1246	I Love The Sound Of Breaking Glass	1978
+2788	1247	Hello Goodmorning	1980
+2789	1248	how you remind me	2001
+2790	1248	Rockstar	2007
+2791	1249	Ein Bisschen Frieden	1982
+2792	1250	Take Your Time Girl	2013
+2793	1250	Year Of Summer (acoustic)	2013
+2794	1251	Ijskoud	2018
+2795	1251	Sexy Als Ik Dans	2014
+2796	1252	Hoe	2013
+2797	1253	Élan	2015
+2798	1253	Ghost Love Score	2004
+2799	1254	I Won't Let The Sun Go Down On Me	1984
+2800	1254	The Riddle	1984
+2801	1254	Wouldn't It Be Good	1984
+2802	1255	Shine Silently	1979
+2803	1256	Unbeschreiblich Weiblich	1979
+2804	1257	Ain't Got No, I Got Life	1968
+2805	1257	Don't Let Me Be Misunderstood	1964
+2806	1257	Feeling Good	1965
+2807	1257	My Baby Just Cares For Me	1987
+2808	1258	Il Silenzio	1965
+2809	1259	Agata	1970
+2810	1260	About A Girl	1993
+2811	1260	All Apologies	1993
+2812	1260	Come As You Are	1991
+2813	1260	Heart Shaped Box	1993
+2814	1260	In Bloom	1991
+2815	1260	Lithium	1991
+2816	1260	Polly	1991
+2817	1260	Rape Me	1993
+2818	1260	Smells Like Teen Spirit	1991
+2819	1260	The Man Who Sold The World	1994
+2820	1260	Where Did You Sleep Last Night (unplugged)	1994
+2821	1261	In The Dutch Mountains	1987
+2822	1261	Nescio	1983
+2823	1262	Don't Speak	1996
+2824	1263	When I Die	1997
+2825	1264	Windmills Of Your Mind	1968
+2826	1265	Don't Know Why	2002
+2827	1265	Sunrise	2004
+2828	1266	Alie	1977
+2829	1266	De Boer Dat Is De Keerl	1993
+2830	1266	Deurdonderen (live)	1982
+2831	1266	Oerend Hard	1977
+2832	1267	Spirit In The Sky	1970
+2833	1268	Amsterdam	2017
+2834	1268	Sorry	2017
+2835	1269	Aurora	1982
+2836	1270	Because	2008
+2837	1270	Mars Needs A Woman	2008
+2838	1270	Wrong	1999
+2839	1271	Champagne Supernova	1996
+2840	1271	Don't Look Back In Anger	1996
+2841	1271	LIVE FOREVER	1994
+2842	1271	Wonderwall	1995
+2843	1272	Put Your Hand In The Hand	1971
+2844	1273	Going Back To My Roots	1981
+2845	1274	Little Talks	2012
+2846	1275	Pretty Fly (For A White Guy)	1999
+2847	1275	Self Esteem	1995
+2848	1276	Get Here	1990
+2849	1276	Window Of Hope	1993
+2850	1277	Good Morning Starshine	1969
+2851	1278	Hopelessly Devoted To You	1978
+2852	1278	I Honestly Love You	1974
+2853	1278	Sam	1977
+2854	1279	Cheerleader	2015
+2855	1280	Story Of My Life	2013
+2856	1281	Counting Stars	2013
+2857	1281	Secrets	2010
+2858	1282	Live Is Life	1985
+2859	1283	Forever Live And Die	1986
+2860	1283	Enola Gay	1980
+2861	1283	Joan Of Arc (Maid Of Orleans)	1982
+2862	1284	Dance With Me	1975
+2863	1284	Still The One	1976
+2864	1285	Try A Little Love	1970
+2865	1286	(Sittin' On) The Dock Of The Bay	1968
+2866	1286	Hard To Handle	1968
+2867	1286	I've Been Loving You Too Long	1965
+2868	1286	I've Got Dreams To Remember	1968
+2869	1286	Try A Little Tenderness	1966
+2870	1287	Hey Ya!	2004
+2871	1287	Ms. Jackson	2001
+2872	1288	There Goes Another Love Song	1975
+2873	1289	Lying All The Time	1966
+2874	1289	Monkey On Your Back	1967
+2875	1289	The Summer Is Here	1967
+2876	1289	Touch	1966
+2877	1290	My Favorite Waste Of Time	1986
+2878	1291	Fireflies	2009
+2879	1292	No More Tears	1990
+2880	1366	Beautiful Trauma	2017
+2881	1293	Are You Ready	1970
+2882	1294	Amor De Mis Amores	1989
+2883	1295	High Hopes	2018
+2884	1296	Gli Impermeabili	1987
+2885	1296	Max	1988
+2886	1297	Iron Sky	2014
+2887	1297	New shoes	2006
+2888	1298	The Night Chicago Died	1974
+2889	1299	Kayuta Hill	1978
+2890	1300	I Think I Love You	1970
+2891	1301	Have You Ever Been Mellow	1996
+2892	1302	Holes	2013
+2893	1302	Let Her Go	2012
+2894	1302	The Wrong Direction	2013
+2895	1303	De Doodgewoonste Dingen	1977
+2896	1304	Love Is A Battlefield	1984
+2897	1305	Bernadine	1957
+2898	1305	Love Letters In The Sand	1957
+2899	1305	Speedy Gonzales	1962
+2900	1306	Je Bent Niet Hip	1967
+2901	1307	Casser La Voix (Live)	1992
+2902	1307	J'M'Attendais Pas Ă€ Toi	2006
+2903	1308	Born To Be Alive	1979
+2904	1309	Crazy	1961
+2905	1310	From New York To LA	1977
+2906	1311	On My Own	1986
+2907	1312	Because The Night	1978
+2908	1313	La Bambola	1968
+2909	1314	Dance On Little Girl	1961
+2910	1314	Diana	1957
+2911	1314	Having My Baby	1974
+2912	1314	Lonely Boy	1959
+2913	1314	Put Your Head On My Shoulder	1959
+2914	1315	Dedicated	2005
+2915	1316	Your Baby Ain't Your Baby Anymore	1974
+2916	1317	Blijf Bij Mij	1993
+2917	1317	Blijf Tot De Zon Je Komt Halen	2007
+2918	1317	Ik Heb Je Lief	1997
+2919	1317	Ik Wil Niet Dat Je Liegt	1993
+2920	1317	Vlieg Met Me Mee	1992
+2921	1317	Voorbij	1994
+2922	1318	Une Belle Histoire (Een Mooi Verhaal)	2006
+2923	1319	Droomland	1993
+2924	1320	Zonder Jou	1995
+2925	1321	Luv U More	1995
+2926	1322	19	1985
+2927	1323	I've Been A Bad Bad Boy	1967
+2928	1324	SKY AND SAND	2008
+2929	1325	Love Is Blue	1968
+2930	1326	Another Day	1971
+2931	1326	Dance Tonight	2007
+2932	1326	Hi Hi Hi	1972
+2933	1326	Hope Of Deliverance	1993
+2934	1326	Listen To What The Man Said	1975
+2935	1326	London Town	1978
+2936	1327	Say Say Say	1983
+2937	1327	The Girl Is Mine	1982
+2938	1328	Ebony And Ivory	1982
+2939	1329	Band On The Run	1974
+2940	1329	Mrs. Vandebilt	1974
+2941	1330	We All Stand Together	1985
+2942	1331	50 Ways To Leave Your Lover	1976
+2943	1331	Boy In The Bubble	1987
+2944	1331	Diamonds On The Soles Of Her Shoes	1986
+2945	1331	Graceland	1986
+2946	1331	Homeless	1986
+2947	1331	Kodachrome	1973
+2948	1331	Late In The Evening	1980
+2949	1331	Mother & Child Reunion	1972
+2950	1331	Still Crazy After All These Years	1975
+2951	1331	You Can Call Me Al	1986
+2952	1332	Wild wood	1998
+2953	1332	You Do Something To Me	1995
+2954	1333	Come Back And Stay	1983
+2955	1333	Every Time You Go Away	1985
+2956	1333	Love Of The Common People	1984
+2957	1333	Wherever I Lay My Hat (That's My Home)	1983
+2958	1334	Tonight I Celebrate My Love	1983
+2959	1335	Reunited	1979
+2960	1336	Alive	1992
+2961	1336	Black	1992
+2962	1336	Daughter	1993
+2963	1336	Even Flow	1991
+2964	1336	Jeremy	1991
+2965	1336	Just Breathe	2009
+2966	1336	Oceans	1991
+2967	1336	Rearviewmirror	1993
+2968	1337	Fever	1959
+2969	1337	Is That All There Is?	1969
+2970	1338	My Special Prayer	1969
+2971	1338	When A Man Loves A Woman	1966
+2972	1339	Borriquito	1971
+2973	1340	Always On My Mind	1987
+2974	1340	Go West	1993
+2975	1340	It's A Sin	1987
+2976	1340	West End Girls	1986
+2977	1341	We Shall Overcome	1962
+2978	1342	A World Without Love	1964
+2979	1342	To Know You Is To Love You	1965
+2980	1342	True Love Ways	1965
+2981	1343	Haus Am See	2009
+2982	1344	Baby I Love Your Way	1976
+2983	1344	Show Me The Way	1976
+2984	1345	Biko	1980
+2985	1345	In Your Eyes	1986
+2986	1345	Sledgehammer	1986
+2987	1345	Solsbury Hill	1977
+2988	1346	Don't Give Up	1986
+2989	1347	Je Wordt Ouder Papa	1977
+2990	1347	KL 204 (Als Ik God Was)	1978
+2991	1347	Kom Van Dat Dak Af	1960
+2992	1348	Du	1971
+2993	1349	Where Do You Go To My Lovely	1969
+2994	1350	Adem Mijn Adem	1975
+2995	1351	Major Tom (VĂ¶llig LosgelĂ¶st)	1983
+2996	1352	You're A Lady	1972
+2997	1353	(You Gotta Walk) Don't Look Back	1979
+2998	1354	Down Town	1964
+2999	1354	This Is My Song	1967
+3000	1355	I Won't Let You Down	1981
+3001	1356	Happy	2013
+3002	1357	A Groovy Kind Of Love	1988
+3003	1357	Against All Odds	1984
+3004	1357	Another Day In Paradise	1989
+3005	1357	Can't Stop Loving You	2002
+3006	1357	I Wish It Would Rain Down	1990
+3007	1357	In The Air Tonight	1981
+3008	1357	One More Night	1985
+3009	1357	Something Happened On The Way To Heaven	1990
+3010	1357	Sussudio	1985
+3011	1357	Take Me Home	1985
+3012	1357	That's Just The Way It Is	1990
+3013	1357	Two Hearts	1988
+3014	1357	You Can't Hurry Love	1982
+3015	1357	You'll Be In My Heart	1999
+3016	1358	Old Town	1982
+3017	1359	Together In Electric Dreams	1984
+3018	1360	Walking On The Chinese Wall	1985
+3019	1361	Easy Lover	1985
+3020	1362	Mijn Leven Is Van Mij	1999
+3021	1363	Sailing Home	1987
+3022	1364	Johnny Reggae	1971
+3023	1365	Magic	1975
+3024	1366	Dear Mr President	2006
+3025	1366	Family Portrait	2002
+3026	1366	Raise Your Glass	2010
+3027	1366	Sober	2008
+3028	1366	Try	2012
+3029	1366	What About Us	2017
+3030	1367	Another Brick In The Wall	1979
+3031	1367	Arnold Layne	1971
+3032	1367	Comfortably Numb	1979
+3033	1367	Echoes	1971
+3034	1367	Hey You	1979
+3035	1367	High Hopes	1994
+3036	1367	Money	1973
+3037	1367	One Of These Days	1971
+3038	1367	See Emily Play	1967
+3039	1367	Shine On You Crazy Diamond	1975
+3040	1367	The Great Gig In The Sky	1972
+3041	1367	Time	1973
+3042	1367	Us And Them	1973
+3043	1367	Wish You Were Here	1975
+3044	1368	Just Give Me A Reason	2012
+3045	1369	Ma Quale Idea	1981
+3046	1370	Monkey Gone To Heaven	1989
+3047	1371	PURE MORNING	1998
+3048	1372	Perhaps Love	1981
+3049	1373	Hey There Delilah	2007
+3050	1374	Ca Plane Pour Moi	1978
+3051	1375	Great Pretender	1957
+3052	1375	Only You	1957
+3053	1375	Smoke Gets In Your Eyes	1959
+3054	1376	Rose Of Cimarron	1976
+3055	1377	Fire	1979
+3056	1377	I'm So Excited	1984
+3057	1378	Ik Wil Jou	1979
+3058	1379	Isabelle Je t'Aime	1972
+3059	1379	Non, Non, Rien N'a Changé	1971
+3060	1380	Glory Box	1994
+3061	1381	Feel It Still	2017
+3062	1382	Some Like It Hot	1985
+3063	1383	1999	1982
+3064	1383	Alphabet St.	1988
+3065	1383	Controversy	1981
+3066	1383	Diamonds and Pearls	1991
+3067	1383	Gold	1995
+3068	1383	I Could Never Take The Place Of Your Man	1987
+3069	1383	I Would Die 4 U	1984
+3070	1383	If I Was Your Girlfriend	1987
+3071	1383	Kiss	1986
+3072	1383	Let's Go Crazy	1984
+3073	1383	Little Red Corvette	1983
+3074	1383	Most Beautiful Girl In The World	1994
+3075	1383	Raspberry Beret	1985
+3076	1383	Sign 'O' The Times	1987
+3077	1383	Sometimes It Snows In April	1986
+3078	1383	The Cross	1987
+3079	1383	When Doves Cry	1984
+3080	1384	Purple Rain	1984
+3081	1385	A Salty Dog	1969
+3082	1385	A Whiter Shade Of Pale	1967
+3083	1385	Conquistador	1972
+3084	1385	Grand Hotel	1973
+3085	1385	Homburg	1967
+3086	1386	Breathe	1996
+3087	1386	Firestarter	1996
+3088	1386	No Good (Start The Dance)	1994
+3089	1386	Out Of Space	1993
+3090	1386	Smack My Bitch Up	1997
+3091	1387	Duel (Eye To Eye)	1985
+3092	1387	P-Machinery	1985
+3093	1388	Gangnam Style	2012
+3094	1389	COMMON PEOPLE	1995
+3095	1390	Mississippi	1975
+3096	1390	My Broken Souvenirs	1977
+3097	1391	Ann	1966
+3098	1391	The Life I Live	1966
+3099	1391	World Of Birds	1967
+3100	1392	'39	1975
+3101	1392	A Kind Of Magic	1986
+3102	1392	A Winter's Tale	1996
+3103	1392	Another One Bites The Dust	1980
+3104	1392	Bicycle Race	1978
+3105	1392	Bohemian Rhapsody	1975
+3106	1392	Breakthru	1989
+3107	1392	Crazy Little Thing Called Love	1979
+3108	1392	Don't Stop Me Now	1979
+3109	1392	Fat Bottomed Girls	1978
+3110	1392	Friends Will Be Friends	1986
+3111	1392	Hammer to Fall	1984
+3112	1392	Heaven For Everyone	1995
+3113	1392	I Want It All	1989
+3114	1392	I Want To Break Free	1984
+3115	1392	I'm Going Slightly Mad	1991
+3116	1392	Innuendo	1991
+3117	1392	Killer Queen	1974
+3118	1392	Love Of My Life	1975
+3119	1392	One Vision	1985
+3120	1392	Radio Ga Ga	1984
+3121	1392	Save Me	1980
+3122	1392	Somebody To Love	1976
+3123	1392	Spread Your Wings	1978
+3124	1392	Thank God It's Christmas	1984
+3125	1392	The Invisible Man	1989
+3126	1392	The Miracle	1989
+3127	1392	The Show Must Go On	1991
+3128	1392	These Are the Days Of Our Lives	1991
+3129	1392	Tie Your Mother Down	1977
+3130	1392	We Are The Champions	1977
+3131	1392	We Will Rock You	1977
+3132	1392	Who Wants To Live Forever	1986
+3133	1392	You Don't Fool Me	1996
+3134	1392	You're My Best Friend	1976
+3135	1393	Under Pressure	1981
+3136	1394	Go With The Flow	2003
+3137	1394	I Sat by the Ocean	2013
+3138	1394	Make It Wit Chu	2008
+3139	1394	No One Knows	2002
+3140	1395	Silent Lucidity	1991
+3141	1396	Gotta See Jane	1968
+3142	1397	I Believe I Can Fly	1997
+3143	1397	If I Could Turn Back The Hands Of Time	1999
+3144	1398	Drive	1992
+3145	1398	Everybody Hurts	1993
+3146	1398	Find the River	1992
+3147	1398	It's The End Of The World As We Know It	1987
+3148	1398	Losing My Religion	1991
+3149	1398	Man On The Moon	1992
+3150	1398	Nightswimming	1992
+3151	1398	Shiny Happy People	1991
+3152	1398	The One I Love	1991
+3153	1399	Lay Your Love On Me	1979
+3154	1400	They Shoot Horses Don't They	1977
+3155	1401	Brick By Brick	2014
+3156	1401	Brother	2006
+3157	1401	Don't Give Up The Fight	2011
+3158	1401	Feel Like Flying	2000
+3159	1401	Freedom	2012
+3160	1401	Laugh About It	2005
+3161	1401	Liverpool Rain	2012
+3162	1401	Love You More	2005
+3163	1401	Lucky All My Life	2008
+3164	1401	No Mercy	2011
+3165	1401	Oceaan	2012
+3166	1401	Shoes Of Lightning	2013
+3167	1401	Took A Hit	2011
+3168	1402	Creep	1992
+3169	1402	Fake Plastic Trees	1995
+3170	1402	High & Dry	1995
+3171	1402	Karma Police	1997
+3172	1402	No Surprises	1997
+3173	1402	Paranoid Android	1997
+3174	1402	Street Spirit	1994
+3175	1403	She Goes Nana	1993
+3176	1404	A Far L Amore Commincua Tu	1977
+3177	1406	Human	2016
+3178	1406	Skin	2017
+3179	1405	Killing In The Name	1992
+3180	1407	Clouds Across The Moon	1985
+3181	1408	Streets Of London	1972
+3182	1409	Black Betty	1978
+3183	1410	Deutschland	2019
+3184	1410	Du Hast	1997
+3185	1410	Engel	1997
+3186	1410	Mutter	2001
+3187	1410	Sonne	2001
+3188	1411	Blitzkrieg Bop	1976
+3189	1411	Rock 'n Roll Highschool	1980
+3190	1412	5 Uur	1966
+3191	1412	Laat Me	1978
+3192	1412	Sammy	1966
+3193	1412	Wij Zullen Doorgaan	1975
+3194	1412	Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder	1971
+3195	1413	Pastorale	1969
+3196	1413	Shaffy Cantate	1965
+3197	1414	Laat Me/Vivre	2005
+3198	1415	Almaz	1986
+3199	1415	One Day I'll Fly Away	1980
+3200	1416	Birmingham	1974
+3201	1416	Love Story	1968
+3202	1416	Rider In The Rain	1978
+3203	1416	Short People	1977
+3204	1417	Just When I Needed You The Most	1979
+3205	1418	Get Ready	1970
+3206	1419	Crying time	1966
+3207	1419	Georgia On My Mind	1960
+3208	1419	Here We Go Again	1967
+3209	1419	Hit the road Jack	1961
+3210	1419	I Can't Stop Loving You	1962
+3211	1420	Harmony	1973
+3212	1421	Ghostbusters	1984
+3213	1422	Tell Laura I Love Her	1960
+3214	1423	Bridget The Midget	1971
+3215	1424	Callow-La-Vita	1968
+3216	1425	Cha Cha Cha	1981
+3217	1425	Je Veux De L'amour	1980
+3218	1425	Liefde Voor Muziek	1991
+3219	1425	Meisjes	1977
+3220	1425	Twee Meisjes	1996
+3221	1426	America	2006
+3222	1427	Supergirl	2000
+3223	1428	For America	1987
+3224	1429	BY THE WAY	2002
+3225	1429	Californication	2000
+3226	1429	Can't Stop	2002
+3227	1429	Dani California	2006
+3228	1429	Dark Necessities	2016
+3229	1429	Give It Away	1992
+3230	1429	Otherside	2000
+3231	1429	Road Trippin'	2000
+3232	1429	Scar Tissue	1999
+3233	1429	Snow (Hey Oh)	2006
+3234	1429	Tell Me Baby	2006
+3235	1429	Under The Bridge	1991
+3236	1430	The Witch Queen Of New Orleans	1971
+3237	1430	We Were All Wounded At Wounded Knee	1973
+3238	1431	Patsy	1965
+3239	1432	Als De Dag Van Toen	1975
+3240	1432	Gute Nacht Freunde	1974
+3241	1433	Alles Kan Een Mens Gelukkig Maken	1989
+3242	1433	This Is The Moment	1992
+3243	1434	Mr. Blue	1993
+3244	1435	Keep On Loving You	1981
+3245	1436	Per Lei	1995
+3246	1436	Sincerita	1984
+3247	1437	Take To The Mountains	1970
+3248	1438	MacArthur Park	1968
+3249	1439	Right Here Waiting	1989
+3250	1440	Never Gonna Give You Up	1987
+3251	1441	Super Freak	1981
+3252	1442	Hello Mary Lou	1961
+3253	1443	Diamonds	2012
+3254	1443	FourFiveSeconds	2015
+3255	1443	Man Down	2011
+3256	1444	Stay	2013
+3257	1445	It Don't Come Easy	1971
+3258	1445	Photograph	1973
+3259	1446	We're All Alone	1977
+3260	1447	Laat Me Alleen	1977
+3261	1448	Donna	1958
+3262	1448	La Bamba	1958
+3263	1469	Just Fancy	1967
+3264	1469	Take Her Home	1967
+3265	1449	Alles Wat Ademt	1985
+3266	1449	Banger Hart	1996
+3267	1449	Dag Zuster Ursula	1973
+3268	1449	Foto Van Vroeger	1980
+3269	1449	Het Werd Zomer	1977
+3270	1449	Jan Klaassen De Trompetter	1973
+3271	1449	Malle Babbe	1975
+3272	1449	Open Einde	1987
+3273	1449	Ritme Van De Regen	1963
+3274	1449	Zet Een Kaars Voor Je Raam	1976
+3275	1449	Zondag	1980
+3276	1450	Down South (Part I)	1970
+3277	1450	Drinking On My Bed	1968
+3278	1451	Margio	1966
+3279	1452	Advertising Space	2005
+3280	1452	Angels	1998
+3281	1452	Candy	2012
+3282	1452	Come Undone	2003
+3283	1452	Eternity	2001
+3284	1452	Feel	2002
+3285	1452	Let Me Entertain You	1998
+3286	1452	Millennium	1998
+3287	1452	Morning Sun	2009
+3288	1452	Mr. Bojangles	2001
+3289	1452	Rock DJ	2000
+3290	1452	She's The One	1999
+3291	1452	Somethin' Stupid	2001
+3292	1452	Supreme	2001
+3293	1452	The Road To Mandalay	2001
+3294	1452	You Know Me	2009
+3295	1453	Shame	2010
+3296	1454	She's Madonna	2007
+3297	1455	Flink Zijn	1977
+3298	1455	Iedereen Doet 't	1986
+3299	1455	Kalverliefde	1974
+3300	1455	Liefste Mijn Liefste	1974
+3301	1455	MIEN	1974
+3302	1456	Children	1996
+3303	1457	Addicted To Love	1986
+3304	1457	Best Of Both Worlds	1978
+3305	1457	Can We Still Be Friends	1979
+3306	1457	Every Kinda People	1978
+3307	1457	Looking For Clues	1981
+3308	1457	Riptide	1986
+3309	1458	Big Log	1983
+3310	1459	Killing Me Softly With His Song	1973
+3311	1459	The First Time Ever I Saw Your Face	1972
+3312	1460	I Save The Day	1984
+3313	1461	First Time	1988
+3314	1462	Saved By The Bell	1969
+3315	1463	Show Me Love	1992
+3316	1464	Blurred Lines	2013
+3317	1465	Marina	1959
+3318	1466	Soldiers Who Want To Be Heroes	1971
+3319	1467	Baby Jane	1983
+3320	1467	Da Ya Think I'm Sexy	1978
+3321	1467	Hot Legs	1978
+3322	1467	I Don't Want To Talk About It	1977
+3323	1467	Maggie May	1971
+3324	1467	Reason To Believe	1971
+3325	1467	Sailing	1975
+3326	1467	The Killing Of Georgie	1976
+3327	1467	Tom Traubert's Blues (Waltzing Matilda)	1976
+3328	1467	You Wear It Well	1972
+3329	1467	You're In My Heart	1977
+3330	1468	It Takes Two	1990
+3331	1470	Giving It All Away	1973
+3332	1470	Say It Ain't So Joe	1977
+3333	1470	Without Your Love	1981
+3334	1471	Love Is All	1975
+3335	1472	King Of The Road	1965
+3336	1473	I Don't Believe In If Anymore	1970
+3337	1473	New World In The Morning	1970
+3338	1473	The Last Farewell	1975
+3339	1474	Santa Maria	1980
+3340	1475	Talking In Your Sleep	1984
+3341	1475	What I Like About You	1980
+3342	1476	If Tomorrow Never Comes	2002
+3343	1476	When You Say Nothing At All	1999
+3344	1477	Beestjes	1967
+3345	1478	Hey Hey Hey	2008
+3346	1479	Lovin' Whiskey	1988
+3347	1480	Car Wash	1977
+3348	1480	Love Don't Live Here Anymore	1978
+3349	1480	Wishing On A Star	1978
+3350	1481	Auto Vliegtuug	1999
+3351	1481	Bestel Mar	1992
+3352	1481	De Neus Umhoeg	1995
+3353	1481	De Peel In Brand	2005
+3354	1481	Limburg (Kwestie Van Geduld)	1996
+3355	1481	November	2000
+3356	1481	Vlinder	2003
+3357	1482	It Must Have Been Love	1990
+3358	1482	Listen To Your Heart	1989
+3359	1482	The Look	1989
+3360	1483	Avalon	1982
+3361	1483	Dance Away	1979
+3362	1483	Do The Strand	1973
+3363	1483	If There's Something	1972
+3364	1483	Jealous Guy	1981
+3365	1483	Love Is The Drug	1976
+3366	1483	More Than This	1982
+3367	1483	Virginia Plain	1972
+3368	1484	In Dreams	1963
+3369	1484	It's Over	1964
+3370	1484	Oh, Pretty Woman	1964
+3371	1484	Only The Lonely	1960
+3372	1484	You Got It	1989
+3373	1485	Samen Een Straatje Om	1976
+3374	1486	Ain't Nobody	1984
+3375	1487	Going To A Town	2007
+3376	1488	Slow	2010
+3377	1489	Walk This Way	1986
+3378	1490	Escape (The Pina Colada Song)	1980
+3379	1490	Him	1980
+3380	1491	Spirit Of Radio	1980
+3381	1492	Leun Op Mij	1999
+3382	1492	Vrede	1993
+3383	1493	He'll Have To Go	1976
+3384	1493	Little Sister	1979
+3385	1494	Dolce Vita	1983
+3386	1495	No Ordinary Love	1992
+3387	1495	Smooth Operator	1984
+3388	1495	The Sweetest Taboo	1985
+3389	1496	Girls Girls Girls	1975
+3390	1496	Sailor	1975
+3391	1496	Traffic Jam	1974
+3392	1497	Push It	1988
+3393	1498	Soul Man	1967
+3394	1499	Stop	1988
+3395	1500	A Change Is Gonna Come	1964
+3396	1500	Wonderful World	1986
+3397	1501	Take Your Time	2015
+3398	1502	I'm Not The Only One	2014
+3399	1502	Stay With Me	2014
+3400	1502	Writing's On The Wall	2015
+3401	1503	Wooly Bully	1965
+3402	1504	Baretta's Theme	1976
+3403	1504	Candy Man	1972
+3404	1504	Mr. Bojangles	1967
+3405	1505	Puppet On A String	1967
+3406	1506	Guantanamera	1966
+3407	1507	I'll Never Be Maria Magdalena	1985
+3408	1508	J'Aime La Vie	1986
+3409	1509	Keep Your Head Up	2012
+3410	1510	Capital Punishment	1969
+3411	1510	Just A Friend	1971
+3412	1510	The Eyes Of Jenny	1981
+3413	1510	True Love That's A Wonder	1971
+3414	1511	Don't Let Me Be Misunderstood	1977
+3415	1512	Charly	1973
+3416	1513	Black Magic Woman	1970
+3417	1513	Europa (Earth's Cry Heaven Smile)	1976
+3418	1513	Jingo Lo-Ba	1970
+3419	1513	Oye Como Va	1971
+3420	1513	Samba Pa Ti	1970
+3421	1513	She's Not There	1978
+3422	1514	The Healer	1990
+3423	1515	They All Went To Mexico	1983
+3424	1516	Maria Maria	2000
+3425	1517	Smooth	2000
+3426	1518	Time To Say Goodbye (Con Te PartirĂ˛)	1997
+3427	1519	I Surrender	2004
+3428	1519	The Day After Tomorrow	2002
+3429	1519	The Second You Sleep	2002
+3430	1520	I Don't Feel Like Dancin'	2007
+3431	1521	Send me an angel	1991
+3432	1521	Still Loving You	1987
+3433	1521	Wind Of Change	1991
+3434	1522	If I Had Words	1977
+3435	1523	San Francisco (Be Sure To Wear Some Flowers In Your Hair)	1967
+3436	1524	Millionaires	2013
+3437	1525	Crazy	1991
+3438	1525	Kiss From A Rose	1995
+3439	1526	Killer	1990
+3440	1527	A World Of Our Own	1965
+3441	1527	The Carnival Is Over	1965
+3442	1528	Je T'Aime Moi Non Plus	1969
+3443	1529	Mas Que Nada	1966
+3444	1530	Anarchy In The U.K.	1976
+3445	1530	GOD SAVE THE QUEEN	1979
+3446	1531	Down On The Street	1984
+3447	1532	This Ole House	1981
+3448	1533	Hips Don't Lie	2007
+3449	1533	Underneath Your Clothes	2002
+3450	1533	Whenever Wherever	2002
+3451	1534	Leader Of The Pack	1976
+3452	1535	From This Moment On	1997
+3453	1535	Man I Feel Like A Woman	1999
+3454	1535	That Don't Impress Me Much	1999
+3455	1535	You're Still The One	1998
+3456	1536	Do You Love Me	1973
+3457	1537	Shame And Scandal In The Family	1965
+3458	1538	In My Blood	2018
+3459	1538	Mercy	2016
+3460	1538	Stitches	2015
+3461	1538	There's Nothing Holdin'Me Back	2017
+3462	1539	For Your Eyes Only	1981
+3463	1540	Singing In The Rain	1977
+3464	1541	Geronimo	2014
+3465	1542	Howzat	1976
+3466	1543	All I Wanna Do	1994
+3467	1544	Shame Shame Shame	1975
+3468	1545	Goldfinger	1965
+3469	1545	Something	1970
+3470	1545	This Is My Life	1979
+3471	1546	Heel Even	1981
+3472	1547	Mighty Joe	1969
+3473	1547	Never Marry A Railroad Man	1970
+3474	1547	Venus	1969
+3475	1548	Chandelier	2013
+3476	1548	The Greatest	2016
+3477	1549	My Way	1998
+3478	1550	Bridge Over Troubled Water	1970
+3479	1550	Cecilia	1970
+3480	1550	El Condor Pasa	1970
+3481	1550	Homeward Bound	1966
+3482	1550	I Am A Rock	1966
+3483	1550	Mrs. Robinson	1968
+3484	1550	My Little Town	1975
+3485	1550	Scarborough Fair	1966
+3486	1550	The Boxer	1969
+3487	1550	The Sound Of Silence	1966
+3488	1551	Alive And Kicking	1985
+3489	1551	Belfast Child	1989
+3490	1551	Don't You (Forget About Me)	1985
+3491	1551	New Gold Dream	1982
+3492	1551	Promised You A Miracle	1982
+3493	1551	Someone Somewhere In Summertime	1982
+3494	1551	Waterfront	1983
+3495	1552	Fairground	1995
+3496	1552	Holding Back The Years	1985
+3497	1552	Home	2003
+3498	1552	If You Don't Know Me By Now	1989
+3499	1552	Money's Too Tight To Mention	1985
+3500	1552	So Not Over You	2007
+3501	1552	Stars	1991
+3502	1552	Stay	2007
+3503	1552	Sunrise	2003
+3504	1553	Nothing Compares 2 U	1990
+3505	1553	Troy	1987
+3506	1554	Mendocino	1969
+3507	1555	Lost In Music	1979
+3508	1555	We Are Family	1979
+3509	1556	Kiss Me	1999
+3510	1557	Op Fietse	1997
+3511	1558	Hedonism	1997
+3512	1558	Weak	1995
+3513	1559	Wildflower	1974
+3514	1560	Coz I Luv You	1971
+3515	1560	Far Far Away	1974
+3516	1560	Get Down And Get With It	1971
+3517	1560	How Does It Feel	1975
+3518	1560	Merry Xmas Everybody	1973
+3519	1561	Angel Of Death	1986
+3520	1562	For Ever And Ever	1976
+3521	1563	All Or Nothing	1966
+3522	1563	Itchycoo Park	1967
+3523	1563	Lazy Sunday	1968
+3524	1563	Tin Soldier	1968
+3525	1564	All Star	1999
+3526	1565	1979	1996
+3527	1565	Bullet With Butterfly Wings	1995
+3528	1565	Disarm	1993
+3529	1565	Tonight, Tonight	1995
+3530	1566	Bigmouth Strikes Again	1986
+3531	1566	This Charming Man	1983
+3532	1567	Tears Of A Clown	1970
+3533	1568	I'll Meet You At Midnight	1976
+3534	1568	Lay Back In The Arms Of Someone	1977
+3535	1568	Living Next Door To Alice	1977
+3536	1568	Needles And Pins	1977
+3537	1569	Rhythm Is A Dancer	1992
+3538	1570	Reünie	2019
+3539	1571	Driver's Seat	1980
+3540	1572	Chasing Cars	2006
+3541	1572	Chocolate	2010
+3542	1572	Crack The Shutters	2008
+3543	1572	Just Say Yes	2009
+3544	1572	Run	2004
+3545	1572	Set The Fire To The Third Bar	2006
+3546	1572	Shut Your Eyes	2007
+3547	1572	This Isn't Everything You Are	2011
+3548	1573	Bird Of Paradise	1984
+3549	1574	Tainted Love	1981
+3550	1575	I'll Be There For You	1997
+3551	1576	I Got You Babe	1965
+3552	1576	Little Man	1966
+3553	1576	The Beat Goes On	1967
+3554	1577	The Way To Your Heart	1988
+3555	1578	Black Hole Sun	1994
+3556	1579	Can't Stop Running	1983
+3557	1580	Gold	1983
+3558	1580	Only When You Leave	1984
+3559	1580	Through The Barricades	1986
+3560	1580	True	1983
+3561	1581	Just For You	1981
+3562	1581	You And Me	1980
+3563	1582	This Town Ain't Big Enough For Both Of Us	1974
+3564	1583	Katinka	1962
+3565	1584	Mama	1997
+3566	1584	Wannabe	1996
+3567	1585	Skandal Im Sperrbezirk	1982
+3568	1586	Two Princes	1993
+3569	1587	Bagagedrager	2002
+3570	1587	Kom Terug	2012
+3571	1587	Voor Ik Vergeet	2002
+3572	1588	I Hope I Never	1981
+3573	1588	Message To My Girl	1984
+3574	1589	Wind En Zeilen	1985
+3575	1590	Swinging On A Star	1974
+3576	1591	I Wil Return	1971
+3577	1592	Hit The Road Jack	1976
+3578	1593	Camouflage	1986
+3579	1594	Afternoon Delight	1976
+3580	1595	Stars On 45	1981
+3581	1596	Nothing's Gonna Stop Us Now	1987
+3582	1596	We Built This City	1985
+3583	1597	Down Down	1975
+3584	1597	Ice In The Sun	1968
+3585	1597	In The Army Now	1986
+3586	1597	Pictures Of Matchstick Men	1968
+3587	1597	Rockin' All Over The World	1977
+3588	1597	Roll Over Lay Down (live)	1975
+3589	1597	The Wanderer	1984
+3590	1597	Whatever You Want	1979
+3591	1598	Late Again	1973
+3592	1598	Stuck In The Middle With You	1973
+3593	1599	All Around My Hat	1976
+3594	1600	Do It Again	1972
+3595	1600	Reelin' In The Years	1973
+3596	1600	Rikki Don't Lose That Number	1974
+3597	1601	Hilton Barcelona	1994
+3598	1601	Ik Heb Je Lief	1992
+3599	1601	Is Dit Nu Later	1990
+3600	1601	Papa	1991
+3601	1602	Never Knew Love Like This Before	1980
+3602	1603	On And On	1977
+3603	1604	Love The One You're With	1971
+3604	1605	Born To Be Wild	1968
+3605	1606	DAKOTA	2005
+3606	1606	Maybe Tomorrow	2003
+3607	1607	Make Me Smile (Come Up And See Me)	1975
+3608	1608	Abracadabra	1982
+3609	1608	Fly Like An Eagle	1976
+3610	1608	Rock 'n Me	1976
+3611	1608	The Joker	1973
+3612	1609	Sympathy	1970
+3613	1610	Higher Love	1986
+3614	1610	While You See A Chance	1981
+3615	1611	Poetry Man	2005
+3616	1612	Stand Back	1983
+3617	1613	Pride And Joy	1983
+3618	1614	As	1976
+3619	1614	Don't You Worry 'Bout A Thing	1974
+3620	1614	Happy Birthday	1981
+3621	1614	I Just Called To Say I Love You	1984
+3622	1614	I Wish	1977
+3623	1614	Isn't She Lovely	1976
+3624	1614	Master Blaster (Jammin')	1980
+3625	1614	Sir Duke	1977
+3626	1614	Superstition	1973
+3627	1614	Yester Me Yester You Yesterday	1969
+3628	1614	You Are The Sunshine Of My Life	1973
+3629	1615	How Come How Long	1997
+3630	1616	Desert Rose	2000
+3631	1616	Englishman In New York	1988
+3632	1616	Fields Of Gold	1993
+3633	1616	Fragile	1988
+3634	1616	If You Love Somebody Set Them Free	1985
+3635	1616	Russians	1985
+3636	1616	Shape of my heart	1993
+3637	1617	Moon Over Bourbon Street	1985
+3638	1618	Fools Gold	1991
+3639	1619	Plush	1993
+3640	1620	Part Of The Union	1973
+3641	1621	Runaway Boys	1980
+3642	1622	Why Did You Do It	1976
+3643	1623	Alors On Danse	2010
+3644	1623	Formidable	2013
+3645	1623	Papaoutai	2013
+3646	1623	Tous Les Memes	2013
+3647	1624	My Ever Changing Moods	1984
+3648	1625	Can't Give You Anything But My Love	1975
+3649	1626	Babe	1979
+3650	1626	Boat On The River	1980
+3651	1627	Norman	1962
+3652	1628	Rapper's Delight	1979
+3653	1629	Don't Call Us We'll Call You	1975
+3654	1630	Radio	1972
+3655	1630	She Was Naked	1970
+3656	1631	Breakfast In America	1979
+3657	1631	Cannonball	1985
+3658	1631	Crime Of The Century	1974
+3659	1631	Dreamer	1974
+3660	1631	Fool's Overture	1977
+3661	1631	Give A Little Bit	1977
+3662	1631	Goodbye Stranger	1979
+3663	1631	Hide In Your Shell	1974
+3664	1631	It's Raining Again	1982
+3665	1631	Rudy	1974
+3666	1631	School	1974
+3667	1631	Take The Long Way Home	1979
+3668	1631	The Logical Song	1979
+3669	1632	Windsurfing	1978
+3670	1633	Burning Heart	1986
+3671	1633	Eye Of The Tiger	1982
+3672	1634	Arms Of Mary	1976
+3673	1635	Als het avond is	2018
+3674	1635	Blauwe dag	2019
+3675	1636	Luka	1987
+3676	1637	If You Can't Give Me Love	1978
+3677	1638	Stumblin' In	1978
+3678	1639	Don't You Worry Child	2012
+3679	1640	Sad Sweet Dreamer	1974
+3680	1641	Hippy Hippy Shake	1964
+3681	1642	Spooky's Day Off	1969
+3682	1643	Zuiderzeeballade	1962
+3683	1644	Little Girl	1966
+3684	1645	Chop Suey!	2001
+3685	1646	Get It On	1971
+3686	1646	Hot Love	1971
+3687	1869	China In Your Hand	1987
+3688	1647	Back For Good	1995
+3689	1647	Patience	2006
+3690	1647	The Flood	2010
+3691	1648	It's My Life	1984
+3692	1648	Life's What You Make It	1985
+3693	1648	Living In Another World	1986
+3694	1648	Such A Shame	1984
+3695	1649	Once In A Lifetime	1981
+3696	1649	Psycho Killer	1978
+3697	1649	Road To Nowhere	1985
+3698	1649	Slippery People (Live)	1985
+3699	1650	Let It Happen	2015
+3700	1650	The Less I Know The Better	2015
+3701	1651	Stand By Your Man	1975
+3702	1652	Good Tradition	1988
+3703	1652	Twist In My Sobriety	1988
+3704	1653	Don't Take Away The Music	1976
+3705	1653	Heaven Must Be Missing An Angel	1976
+3706	1653	More Than A Woman	1978
+3707	1654	LOVE STORY	2009
+3708	1654	Shake It Off	2014
+3709	1655	Everything Has Changed	2013
+3710	1656	Ding A Dong	1975
+3711	1657	Change	1982
+3712	1657	Everybody Wants To Rule The World	1985
+3713	1657	Mad World	1982
+3714	1657	Shout	1985
+3715	1657	Sowing The Seeds Of Love	1989
+3716	1657	Woman In Chains	1989
+3717	1658	Ma Belle Amie	1969
+3718	1658	She Likes Weeds	1970
+3719	1659	Hunger Strike	1991
+3720	1660	Treat Her Like A Lady	1985
+3721	1661	Wunderbar	1981
+3722	1662	You	1991
+3723	1663	I'm Going Home	1971
+3724	1664	Tribute	2003
+3725	1665	Dance Little Sister	1987
+3726	1665	Sign Your Name	1988
+3727	1666	Seasons In The Sun	1974
+3728	1667	Aquarius / Let The Sunshine In	1969
+3729	1668	Don't Answer Me	1984
+3730	1668	Eye In The Sky	1982
+3731	1668	Old And Wise	1982
+3732	1668	The Turn Of A Friendly Card	1980
+3733	1669	Jessica	1976
+3734	1669	Ramblin' Man	1973
+3735	1670	Ik Ga Naar Frankrijk	1984
+3736	1670	Oude Maasweg	1982
+3737	1671	Bring It On Home To Me	1965
+3738	1671	It's My Life	1965
+3739	1671	Ring Of Fire	1969
+3740	1671	The House Of The Rising Sun	1964
+3741	1671	We've Got To Get Out Of This Place	1965
+3742	1672	Sugar Sugar	1969
+3743	1673	Along Comes Mary	1966
+3744	1674	Love Shack	1989
+3745	1675	A Piece Of The Action	1978
+3746	1675	Everytime I Think Of You	1979
+3747	1675	Isn't It Time	1977
+3748	1676	The Weight	1968
+3749	1677	Umbrella	2010
+3750	1678	Saturday Night	1976
+3751	1679	Barbara Ann	1966
+3752	1679	California Girls	1965
+3753	1679	Cottonfields	1969
+3754	1679	Do It Again	1968
+3755	1679	God Only Knows	1966
+3756	1679	Good Vibrations	1966
+3757	1679	Help me Rhonda	1965
+3758	1679	Heroes And Villains	1967
+3759	1679	I Can Hear Music	1969
+3760	1679	I Get Around	1964
+3761	1679	Kokomo	1989
+3762	1679	Sloop John B	1966
+3763	1679	Tears in the morning	1970
+3764	1679	Then I Kissed Her	1967
+3765	1679	Wouldn't It Be Nice	1966
+3766	1680	A Day In The Life	1967
+3767	1680	A Hard Day's Night	1964
+3768	1680	Across The Universe	1970
+3769	1680	All you need is love	1967
+3770	1680	All My Loving	1964
+3771	1680	And I Love Her	1964
+3772	1680	Baby's In Black	1965
+3773	1680	Back In The USSR	1968
+3774	1680	Ballad Of John & Yoko	1969
+3775	1680	Blackbird	1968
+3776	1680	Can't Buy Me Love	1964
+3777	1680	Come Together	1969
+3778	1680	Day Tripper	1965
+3779	1680	Don't Let Me Down	1969
+3780	1680	Eight Days A Week	1965
+3781	1680	Eleanor Rigby	1966
+3782	1680	For No One	1966
+3783	1680	Get Back	1969
+3784	1680	Girl	1965
+3785	1680	Hello Goodbye	1967
+3786	1680	Help!	1965
+3787	1680	Here Comes The Sun	1969
+3788	1680	Here There And Everywhere	1966
+3789	1680	Hey Jude	1968
+3790	1680	I Am The Walrus	1967
+3791	1680	I Saw Her Standing There	1963
+3792	1680	If I Fell	1965
+3793	1680	In My Life	1965
+3794	1680	I Feel Fine	1965
+3795	1680	I Should Have Known Better	1964
+3796	1680	I Want To Hold Your Hand	1964
+3797	1680	Lady Madonna	1968
+3798	1680	Let It Be	1970
+3799	1680	Long Tall Sally	1964
+3800	1680	Love Me Do	1963
+3801	1680	Lucy In The Sky With Diamonds	1967
+3802	1680	Magical Mystery Tour	1967
+3803	1680	Michelle	1966
+3804	1680	No Reply	1965
+3805	1680	Norwegian Wood (This Bird Has Flown)	1965
+3806	1680	Ob La Di, Ob La Da	1969
+3807	1680	Paperback Writer	1966
+3808	1680	Penny Lane	1967
+3809	1680	Please, Please Me	1964
+3810	1680	Rock And Roll Music	1965
+3811	1680	Sgt Pepper's Lonely Hearts Club Band	1967
+3812	1680	She Loves You	1963
+3813	1680	She's Leaving Home	1967
+3814	1680	Something	1969
+3815	1680	Strawberry Fields Forever	1967
+3816	1680	The Fool On The Hill	1967
+3817	1680	The Long And Winding Road	1970
+3818	1680	Ticket To Ride	1965
+3819	1680	Twist And Shout	1963
+3820	1680	We Can Work It Out	1965
+3821	1680	When I'm Sixty-Four	1967
+3822	1680	While My Guitar Gently Weeps	1968
+3823	1680	Yellow Submarine	1966
+3824	1680	Yesterday	1965
+3825	1681	If I Said You Had A Beautiful Body	1979
+3826	1681	Let Your Love Flow	1976
+3827	1682	Hard to handle	1990
+3828	1682	Remedy	1992
+3829	1683	I Gotta Feeling	2009
+3830	1683	Where Is The Love	2003
+3831	1684	Gold On The Ceiling	2011
+3832	1684	Little Black Submarines	2011
+3833	1684	Lonely Boy	2011
+3834	1685	Tinseltown In The Rain	1984
+3835	1686	Everybody Needs Somebody To Love	1989
+3836	1687	I Don't Like Mondays	1979
+3837	1688	The Letter	1967
+3838	1689	Diamonds	2013
+3839	1690	Give Up Your Guns	1972
+3840	1691	All I Really Want To Do	1965
+3841	1691	Eight Miles High	1966
+3842	1691	Jesus Is Just Allright	1970
+3843	1691	Mr Spaceman	1966
+3844	1691	Mr. Tambourine Man	1965
+3845	1691	My Back Pages	1967
+3846	1691	Turn! Turn! Turn!	1965
+3847	1692	Drive	1984
+3848	1693	Jesamine	1968
+3849	1694	Be My Day	1974
+3850	1694	Lea	1968
+3851	1694	Let's Dance	1972
+3852	1694	Marian	1969
+3853	1694	One Way Wind	1971
+3854	1694	Rock 'n Roll	1974
+3855	1694	Scarlet Ribbons	1969
+3856	1694	Sure He's A Cat	1967
+3857	1694	The End Of The Show	1980
+3858	1694	Times Were When	1968
+3859	1694	Vaya Con Dios	1972
+3860	1694	Where Have I Been Wrong	1970
+3861	1694	Why	1969
+3862	1695	Something Just Like This	2017
+3863	1696	GALVANIZE	2005
+3864	1696	HEY BOY HEY GIRL	1999
+3865	1697	He's So Fine	1963
+3866	1698	Words	1990
+3867	1699	London Calling	1979
+3868	1699	Rock The Casbah	1982
+3869	1699	Should I Stay Or Should I Go	1991
+3870	1699	The magnificent seven	1980
+3871	1700	My Lady Of Spain	1972
+3872	1701	Brick House	1978
+3873	1701	Easy	1978
+3874	1701	Nightshift	1985
+3875	1701	Sail On	1979
+3876	1701	Still	1979
+3877	1701	Three Times A Lady	1978
+3878	1702	Calm After The Storm	2014
+3879	1702	Love Goes On	2014
+3880	1702	We Don't Make The Wind Blow	2015
+3881	1703	Don't Leave Me This Way	1986
+3882	1704	'74-'75	1995
+3883	1705	Do You Love Me	1963
+3884	1706	Breathless	2000
+3885	1706	Radio	2000
+3886	1707	Linger	1993
+3887	1707	Ode To My Family	1994
+3888	1707	Zombie	1994
+3889	1708	Streetlife	1979
+3890	1709	Da Doo Ron Ron	1963
+3891	1710	She Sells Sanctuary	1986
+3892	1711	A Forest	1980
+3893	1711	Boys Don't Cry	1986
+3894	1711	Close To Me	1985
+3895	1711	Friday I'm In Love	1992
+3896	1711	In Between Days	1985
+3897	1711	Lovesong	1989
+3898	1711	Lullaby	1989
+3899	1712	Take Five	1962
+3900	1713	Bits And Pieces	1964
+3901	1713	Everybody Knows	1967
+3902	1713	Glad All Over	1964
+3903	1714	The Opera	1975
+3904	1714	The Show	1973
+3905	1715	China Grove	1973
+3906	1715	Listen To The Music	1972
+3907	1715	Long Train Runnin'	1973
+3908	1715	What A Fool Believes	1978
+3909	1716	Break On Through	1967
+3910	1716	Crystal Ship	1967
+3911	1716	L.A. Woman	1971
+3912	1716	Light My Fire	1967
+3913	1716	Love Her Madly	1971
+3914	1716	People Are Strange	1967
+3915	1716	Riders On The Storm	1971
+3916	1716	Roadhouse Blues	1970
+3917	1716	The End	1967
+3918	1716	Touch Me	1969
+3919	1716	Waiting For The Sun	1971
+3920	1717	Kissing In The Back Row Of The Movies	1974
+3921	1717	Save The Last Dance For Me	1961
+3922	1717	Under The Boardwalk	1964
+3923	1717	Up On The Roof	1962
+3924	1718	Friday On My Mind	1966
+3925	1718	Hello How Are You	1968
+3926	1719	Baby Come Back	1968
+3927	1720	All I Have To Do Is Dream	1958
+3928	1720	Bye Bye Love	1957
+3929	1720	Cathy's Clown	1960
+3930	1720	Claudette	1958
+3931	1720	Crying In The Rain	1962
+3932	1720	Ebony Eyes	1961
+3933	1720	Let It Be Me	1960
+3934	1720	On The Wings Of A Nightingale	1984
+3935	1720	Wake Up Little Susie	1958
+3936	1721	Nothing But A Heartache	1968
+3937	1721	Someone Out There	1968
+3938	1722	Float On	1977
+3939	1723	Let's Go To San Fransisco	1967
+3940	1724	Only You	1984
+3941	1725	Baby Now That I've Found You	1967
+3942	1726	Tell Me Why	1951
+3943	1727	December 1963 (Oh What A Night)	1976
+3944	1728	How To Save A Life	2007
+3945	1729	American Woman	1970
+3946	1729	Clap For The Wolfman	1974
+3947	1730	From The Underworld	1967
+3948	1731	Bus Stop	1966
+3949	1731	Carrie Anne	1967
+3950	1731	He Ain't Heavy... He's My Brother	1969
+3951	1731	King Midas In Reverse	1967
+3952	1731	Look Through Any Window	1965
+3953	1731	Man Without A Heart	1970
+3954	1731	Sorry Suzanne	1969
+3955	1731	The Air That I Breathe	1974
+3956	1731	The Baby	1972
+3957	1731	The Day That Curly Billy Show Down Crazy Sam McGee	1973
+3958	1732	Caravan Of Love	1987
+3959	1733	Don't You Want Me	1982
+3960	1734	I'll Be Free	1966
+3961	1735	Behind A Painted Smile	1969
+3962	1735	The Highways of My Life	1973
+3963	1736	Tossin And Turnin	1965
+3964	1737	Blame It On The Boogie	1978
+3965	1738	Shake Your Body (Down To The Ground)	1979
+3966	1739	A Town Called Malice	1980
+3967	1740	Wheels	1961
+3968	1741	Human	2008
+3969	1741	Mr. Brightside	2005
+3970	1741	SOMEBODY TOLD ME	2004
+3971	1742	All Day And All Of The Night	1964
+3972	1742	Celluloid Heroes	1973
+3973	1742	Come Dancing	1983
+3974	1742	Dandy	1966
+3975	1742	Days	1968
+3976	1742	Dead End Street	1966
+3977	1742	Dedicated Follower Of Fashion	1966
+3978	1742	Lola	1970
+3979	1742	Lola (live)	1980
+3980	1742	Mr. Pleasant	1967
+3981	1742	Shangrila	1969
+3982	1742	Sunny Afternoon	1966
+3983	1742	Till The End Of The Day	1965
+3984	1742	Tired Of Waiting For You	1965
+3985	1742	Waterloo Sunset	1967
+3986	1742	Where Have All The Good Times Gone	1965
+3987	1742	You Really Got Me	1964
+3988	1743	My Sharona	1979
+3989	1744	Naive	2006
+3990	1744	She Moves In Her Own Way	2006
+3991	1745	Everybody's Got To Learn Sometime	1980
+3992	1746	Mexico	1972
+3993	1746	To My Father's House	1970
+3994	1747	Ho Hey	2013
+3995	1748	Heartache Avenue	1983
+3996	1749	California Dreamin'	1966
+3997	1749	Dedicated To The One I Love	1967
+3998	1749	I Saw Her Again	1966
+3999	1749	Monday, Monday	1966
+4000	1749	Twelve Thirty	1967
+4001	1750	Chanson D'Amour	1976
+4002	1751	I See The Rain	1967
+4003	1751	Ob La Di, Ob La Da	1968
+4004	1751	Rainbow	1970
+4005	1751	Reflections Of My Life	1970
+4006	1752	Dance The Night Away	1998
+4007	1753	A Little Bit Me A Little Bit You	1967
+4008	1753	Daydream Believer	1967
+4009	1753	I'm A Believer	1966
+4010	1753	Last Train To Clarksville	1966
+4011	1754	Boulevard De La Madeleine	1966
+4012	1754	Go Now	1965
+4013	1754	Had To Fall In Love	1978
+4014	1754	I'm Just A Singer (In A Rock And Roll Band)	1973
+4015	1754	Nights In White Satin	1968
+4016	1754	Question	1970
+4017	1754	Ride My See-Saw	1968
+4018	1754	The Story In Your Eyes	1971
+4019	1754	Tuesday Afternoon	1968
+4020	1755	Airport	1978
+4021	1756	Blackberry Way	1968
+4022	1756	Fire Brigade	1968
+4023	1756	Flowers In The Rain	1967
+4024	1756	I Can Hear The Grass Now	1967
+4025	1757	I'd Like To Teach The World To Sing	1972
+4026	1758	Can't Make Up My Mind	2012
+4027	1759	Mr. Bojangles	1971
+4028	1760	I'm In The Mood For Dancing	1980
+4029	1761	Backstabbers	1972
+4030	1761	I Love Music	1976
+4031	1762	Slapeloze Nachten	2013
+4032	1763	Crazy Horses	1972
+4033	1763	Down By The Lazy River	1973
+4034	1764	Tribute (Right On)	1988
+4035	1765	Do It Anyway You Wanna	1975
+4036	1766	Fairytale of New York	1987
+4037	1767	Can't Stand Losing You	1979
+4038	1767	Don't Stand So Close To Me	1980
+4039	1767	Every Breath You Take	1983
+4040	1767	Every Little Thing She Does Is Magic	1981
+4041	1767	Message In A Bottle	1979
+4042	1767	Roxanne	1979
+4043	1767	So Lonely	1979
+4044	1767	Walking On The Moon	1979
+4045	1768	2000 Miles	1983
+4046	1768	Back On The Chain Gang	1982
+4047	1768	Brass In Pocket	1980
+4048	1768	Don't Get Me Wrong	1986
+4049	1768	Hymn To Her	1987
+4050	1768	I Go To Sleep	1981
+4051	1769	Don't Bring Me Down	1964
+4052	1770	I'm Gonna Be (500 Miles)	1988
+4053	1771	Groovin'	1967
+4054	1772	Don't Wanna Say Goodbye	1972
+4055	1773	You To Me Are Everything	1976
+4056	1774	Unchained Melody	1965
+4057	1774	You've Lost That Lovin' Feeling	1965
+4058	1775	Don't Be Afraid Of The Dark	1988
+4059	1775	Right Next Door	1987
+4060	1776	(I Can't Get No) Satisfaction	1965
+4061	1776	19th Nervous Breakdown	1966
+4062	1776	2.000 Light Years From Home	1967
+4063	1776	Angie	1973
+4064	1776	As Tears Go By	1966
+4065	1776	Beast Of Burden	1978
+4066	1776	Brown Sugar	1971
+4067	1776	Dead Flowers	1971
+4068	1776	Fool To Cry	1976
+4069	1776	Get Off Of My Cloud	1965
+4070	1776	Get Your Kicks On Route 66	1964
+4071	1776	Gimme Shelter	1969
+4072	1776	Heart Of Stone	1965
+4073	1776	Honky Tonk Women	1969
+4074	1776	Hot Stuff	1976
+4075	1776	It's All Over Now	1964
+4076	1776	It's Only Rock 'n Roll	1974
+4077	1776	Jumping Jack Flash	1968
+4078	1776	Lady Jane	1966
+4079	1776	Let's Spend The Night Together	1967
+4080	1776	Little Red Rooster	1965
+4081	1776	Long Long While	1966
+4082	1776	Memory Motel	1976
+4083	1776	Midnight Rambler	1969
+4084	1776	Miss You	1978
+4085	1776	Mothers Little Helper	1966
+4086	1776	Paint It Black	1966
+4087	1776	Play With Fire	1965
+4088	1776	Ruby Tuesday	1967
+4089	1776	She's A Rainbow	1967
+4090	1776	Star Star	1974
+4091	1776	Start Me Up	1981
+4092	1776	Street Fighting Man	1968
+4093	1776	Sympathy For The Devil	1973
+4094	1776	Tell Me (You're Coming Back)	1965
+4095	1776	That's How Strong My Love Is	1965
+4096	1776	The Last Time	1965
+4097	1776	Time Is On My Side	1965
+4098	1776	Time Waits For No One	1974
+4099	1776	Tumbling Dice	1972
+4100	1776	Under My Thumb	1966
+4101	1776	Undercover Of The Night	1983
+4102	1776	Waiting On A Friend	1981
+4103	1776	We Love You	1967
+4104	1776	Wild Horses	1971
+4105	1776	You Can't Always Get What You Want	1969
+4106	1777	Be My Baby	1963
+4107	1778	Snoopy VS The Red Baron	1967
+4108	1779	I can do it	1975
+4109	1779	Jukebox Jive	1974
+4110	1779	Sugar Baby Love	1974
+4111	1779	You're The Reason Why	1976
+4112	1780	Blauw	1991
+4113	1780	Iedereen Is Van De Wereld	1991
+4114	1781	Hello Josephine	1965
+4115	1782	Breakeven	2009
+4116	1782	For The First Time	2010
+4117	1782	If You Could See Me Now	2013
+4118	1782	If You Ever Come Back	2011
+4119	1782	No Good In Goodbye	2014
+4120	1782	Nothing	2011
+4121	1782	Six Degrees of Separation	2012
+4122	1782	Superheroes	2014
+4123	1782	The Man Who Can't Be Moved	2008
+4124	1783	Hall Of Fame	2012
+4125	1784	Goodbye My Love	1965
+4126	1784	Needles And Pins	1964
+4127	1784	Take It Or Leave It	1966
+4128	1785	On My Radio	1980
+4129	1786	36-24-36	1961
+4130	1786	Apache	1960
+4131	1786	Guitar Tango	1962
+4132	1786	Theme From 'Deer Hunter'	1979
+4133	1786	Wonderful Land	1962
+4134	1787	Will You Still Love Me Tomorrow	1960
+4135	1788	Tell Me Your Plans	1978
+4136	1789	Na Na Na	1967
+4137	1789	Osaka	1970
+4138	1790	Comment Ca Va	1983
+4139	1791	Sha La La I Need You	1969
+4140	1792	How Soon Is Now?	1984
+4141	1792	There Is A Light That Never Goes Out	1986
+4142	1793	A message To You Rudy	1980
+4143	1794	Gimme Some Lovin'	1966
+4144	1794	I'm A Man	1967
+4145	1794	Keep On Running	1966
+4146	1794	Time Seller	1967
+4147	1795	Working My Way Back To You	1980
+4148	1796	Brother Louie	1973
+4149	1797	Golden Brown	1982
+4150	1797	No More Heroes	1978
+4151	1798	Stop In The Name Of Love	1965
+4152	1798	You Can't Hurry Love	1966
+4153	1799	Action	1975
+4154	1799	Blockbuster	1973
+4155	1799	Fox On The Run	1975
+4156	1799	Funny Funny	1971
+4157	1799	Little Willy	1972
+4158	1799	Love Is Like Oxygen	1978
+4159	1799	Poppa Joe	1972
+4160	1799	The Ballroom Blitz	1973
+4161	1799	The Six Teens	1974
+4162	1800	SWEET DISPOSITION	2010
+4163	1801	My Girl	1964
+4164	1801	Papa Was A Rollin' Stone	1972
+4165	1802	Pain and Misery	2019
+4166	1803	Uncertain Smile	1984
+4167	1804	Listen To The Radio	1984
+4168	1805	Wordy Rappinghood	1981
+4169	1806	Disco Inferno	1977
+4170	1806	Shout	1975
+4171	1806	Zing Went The Strings Of My Heart	1975
+4172	1807	Even The Bad Times Are Good	1967
+4173	1807	Silence Is Golden	1967
+4174	1808	Wild Thing	1966
+4175	1808	With A Girl Like You	1966
+4176	1809	Happy Together	1967
+4177	1810	Walk Don't Run	1960
+4178	1811	Bitter Sweet Symphony	1997
+4179	1811	The drugs don't work	1997
+4180	1812	No Regrets	1976
+4181	1812	The Sun Ain't Gonna Shine Anymore	1966
+4182	1813	There's No More Corn On The Brasos	1971
+4183	1814	Pain	2017
+4184	1814	Red Eyes	2013
+4185	1814	Under The Pressure	2014
+4186	1815	The Whole Of The Moon	1986
+4187	1816	Can't Feel My Face	2015
+4188	1817	I Feel It Coming	2016
+4189	1818	Seven Nation Army	2003
+4190	1819	A Legal Matter	1966
+4191	1819	Baba O'Riley	1971
+4192	1819	Behind Blue Eyes	1971
+4193	1819	Happy Jack	1966
+4194	1819	I'm A Boy	1966
+4195	1819	My Generation	1965
+4196	1819	Overture	1969
+4197	1819	Pictures Of Lily	1967
+4198	1819	Pinball Wizard	1969
+4199	1819	See Me, Feel Me	1970
+4200	1819	Substitute	1966
+4201	1819	Who Are You	1978
+4202	1819	Won't Get Fooled Again	1971
+4203	1820	A Brand New Day	1978
+4204	1821	For Your Love	1965
+4205	1822	Time Of The Season	1969
+4206	1823	Don't Leave Me This Way	1977
+4207	1824	Baby Please Don't Go	1965
+4208	1824	Gloria	1967
+4209	1824	Here Comes The Night	1965
+4210	1824	It's All Over Now, Baby Blue	1966
+4211	1825	Diane	1995
+4212	1826	Boys Are Back In Town	1976
+4213	1826	STILL IN LOVE WITH YOU	1974
+4214	1826	Whisky In The Jar	1973
+4215	1827	Now That We Found Love	1979
+4216	1827	Try Jah Love	1982
+4217	1828	I Scare Myself	1984
+4218	1829	Dirty Ol' Man	1973
+4219	1829	Runner	1979
+4220	1829	When I Will See You Again	1974
+4221	1830	Mama Told Me Not To Come	1970
+4222	1831	Something In The Air	1969
+4223	1832	Little Bird	1967
+4224	1833	Pleasant Street	1968
+4225	1834	Fraction Too Much Friction	1984
+4226	1835	How Can We Hang On To A Dream	1967
+4227	1835	Simple Song Of Freedom	1970
+4228	1836	Apologize	2008
+4229	1837	I'm Specialized In You	1983
+4230	1837	Listen To The Man With The Golden Voice	1983
+4231	1838	Hurt	1961
+4232	1839	Why Can't We Live Together	1973
+4233	1840	I Love To Love	1976
+4234	1841	Let's Stay Together	1983
+4235	1841	Private Dancer	1984
+4236	1841	The Best	1989
+4237	1841	We Don't Need Another Hero	1985
+4238	1841	What's Love Got To Do With It	1984
+4239	1842	Tonight (live)	1988
+4240	1843	Big City	1978
+4241	1844	Funkin' For Jamaica	1981
+4242	1845	Delilah	1968
+4243	1845	Green Green Grass Of Home	1966
+4244	1845	It's Not Unusual	1965
+4245	1846	Kiss	1988
+4246	1847	Sex Bomb	1999
+4247	1848	Another Love	2012
+4248	1848	Grow Old With Me	2013
+4249	1849	A Face In The Crowd	1990
+4250	1849	Free Fallin'	1989
+4251	1849	I Won't Back Down	1989
+4252	1849	Into The Great Wide Open	1992
+4253	1849	Refugee	1980
+4254	1850	Learning To Fly	1991
+4255	1850	Mary Jane's Last Dance	1993
+4256	1851	IN THE NEIGHBORHOUD	1983
+4257	1851	Tom Traubert's Blues	1976
+4258	1852	Leave A Light On	2018
+4259	1853	On The Sunny Side Of The Street	1944
+4260	1854	Crimson & Clover	1969
+4261	1855	Sheila	1962
+4262	1856	Dance Monkey	2019
+4263	1857	Unbreak My Heart	1996
+4264	1858	Is This The Way To Amarillo	1971
+4265	1859	Help (Get Me Some help)	1971
+4266	1860	24 Rozen	1967
+4267	1860	Mien Waar Is M'n Feestneus	1968
+4268	1861	Stiekem Gedanst	1983
+4269	1862	Bluesette	1978
+4270	1863	Cornflake Girl	1994
+4271	1863	Winter	1992
+4272	1864	Telstar	1962
+4273	1865	Somebody Else's Lover	1996
+4274	1866	99	1980
+4275	1866	Africa	1982
+4276	1866	Hold The Line	1979
+4277	1866	I'll Be Over You	1986
+4278	1866	Mushanga	1988
+4279	1866	Pamela	1988
+4280	1866	Rosanna	1982
+4281	1866	Stop Loving You	1988
+4282	1867	L Italiano	1983
+4283	1868	Gente Di Mare	1987
+4284	1870	Breakaway	1983
+4285	1871	Baby Can I Hold You	1988
+4286	1871	Fast Car	1988
+4287	1871	Talkin''Bout A Revolution	1988
+4288	1872	A Hole In My Shoe	1967
+4289	1873	50 Ways To Say Goodbye	2012
+4290	1873	Bruises	2012
+4291	1873	Drive By	2012
+4292	1873	Drops Of Jupiter	2001
+4293	1873	Hey Soul Sister	2010
+4294	1874	Handle With Care	1988
+4295	1875	I Follow Rivers	2012
+4296	1876	Better Think Twice	2012
+4297	1876	De Zee	1996
+4298	1876	Do You Know The Way To San José?	2007
+4299	1876	Knocked Out	2012
+4300	1876	Nu Dat Jij Er Bent	2003
+4301	1876	That's What Friends Are For	2007
+4302	1877	If I Had A Hammer	1963
+4303	1877	La Bamba	1963
+4304	1878	002 345 709 That's My Number	1976
+4305	1879	Danse De Zorba	1965
+4306	1880	Waterfall	1978
+4307	1881	Met Hart En Ziel	1990
+4308	1882	Vanmorgen Vloog Ze Nog	1988
+4309	1883	Somewhere Between	1975
+4310	1884	Wer Bisto	2000
+4311	1885	Heathens	2016
+4312	1885	Stressed Out	2016
+4313	1886	Sitting On A Fence	1966
+4314	1886	True Story	1966
+4315	1887	Hemel Valt	2015
+4316	1887	Zandloper	2014
+4317	1888	All I Want Is You	1988
+4318	1888	Angel Of Harlem	1988
+4319	1888	Bad	1984
+4320	1888	Beautiful Day	2000
+4321	1888	Bullet The Blue Sky	1987
+4322	1888	City Of Blinding Lights	2005
+4323	1888	Elevation	2001
+4324	1888	Every Breaking Wave	2014
+4325	1888	Gloria (live)	1983
+4326	1888	I Still Haven't Found What I'm Looking For	1987
+4327	1888	I Will Follow (live)	1982
+4328	1888	Magnificent	2009
+4329	1888	Mysterious Ways	1991
+4330	1888	New Year's Day	1983
+4331	1888	One	1992
+4332	1888	Ordinary Love	2013
+4333	1888	Pride (In The Name Of Love)	1984
+4334	1888	Running To Stand Still	1987
+4335	1888	Sometimes You Can't Make It On Your Own	2004
+4336	1888	Stay (So Close Far Away)	1993
+4337	1888	Stuck In A Moment	2000
+4338	1888	Sunday Bloody Sunday	1985
+4339	1888	Sweetest Thing	1998
+4340	1888	The Saints Are Coming	2006
+4341	1888	The Unforgettable Fire	1984
+4342	1888	Vertigo	2004
+4343	1888	Walk On	2000
+4344	1888	Where The Streets Have No Name	1987
+4345	1888	With Or Without You	1987
+4346	1889	When Love Comes To Town	1989
+4347	1890	One	2006
+4348	1891	Can't Help Falling In Love	1993
+4349	1891	Food For Thought	1983
+4350	1891	Kingston Town	1990
+4351	1891	Red Red Wine	1983
+4352	1891	Sing Our Own Song	1986
+4353	1892	I Got You Babe	1985
+4354	1893	Rendez-Vous 6:02	1979
+4355	1894	Dancing With Tears In My Eyes	1984
+4356	1894	Vienna	1981
+4357	1895	Gloria	1979
+4358	1895	Ti Amo	1978
+4359	1896	Born Slippy	1996
+4360	1897	Concrete And Clay	1965
+4361	1898	The Last Seven Days	1969
+4362	1899	Easy Livin'	1973
+4363	1900	We Are The World	1985
+4364	1901	Het Kleine Cafe Aan De Haven	1976
+4365	1902	Gaia	1993
+4366	1903	Laat Het Los	1996
+4367	1903	Meer Dan Een Ander	1994
+4368	1903	Stil In Mij	1994
+4369	1903	Wanhoop Niet	2007
+4370	1904	Jump	1984
+4371	1904	Runnin' With The Devil	1980
+4372	1904	Why Can't This Be Love	1987
+4373	1905	The Hustle	1975
+4374	1906	Bright Side Of The Road	1979
+4375	1906	Brown Eyed Girl	1967
+4376	1906	Have I Told You Lately (That I Love You)	1989
+4377	1906	Into The Mystic	1970
+4378	1906	Moondance	1970
+4379	1907	Calling Out	2003
+4380	1908	Baby Get Higher	2006
+4381	1908	Love Song	2009
+4382	1908	When Summer Ends	2008
+4383	1909	Burning Heart	1983
+4384	1910	A Thousand Miles	2002
+4385	1911	Big Yellow Taxi	2002
+4386	1912	Save The Best For Last	1992
+4387	1913	Chariots Of Fire	1982
+4388	1913	Conquest Of Paradise	1995
+4389	1914	Heading For A Fall	1992
+4390	1914	Nah Neh Nah	1990
+4391	1914	What's A Woman	1990
+4392	1915	Ik Wou Dat Ik Jou Was	2003
+4393	1916	Sweet Jane	1974
+4394	1917	The Family Tree	1999
+4395	1918	We'll Meet Again	1939
+4396	1919	What Kind Of Dance Is This	1977
+4397	1920	Stay With Me Till The Morning	1986
+4398	1921	Turn The Beat Around	1976
+4399	1922	Apres Toi	1972
+4400	1923	Y.M.C.A.	1978
+4401	1924	If You Could Read My Mind	1981
+4402	1925	Fade To Grey	1981
+4403	1926	Rosalyn	1982
+4404	1927	Een Kopje Koffie	1987
+4405	1927	Suzanne	1983
+4406	1928	Lola Montez	2013
+4407	1928	Sad Mans Tongue	2007
+4408	1929	Afscheid	1998
+4409	1929	Hou Me Vast	1998
+4410	1930	Mozart Symphony Nr 40	1971
+4411	1931	Shut Up And Dance	2014
+4412	1932	Daydream	1969
+4413	1933	Let's dance	1977
+4414	1933	Miss Wonderful	1974
+4415	1934	Thinking Of A Place	2017
+4416	1935	Birds And Bees	1967
+4417	1936	Bridge To Your Heart	1987
+4418	1937	Outlaw In 'Em	2018
+4419	1937	Wicked Way	2009
+4420	1938	A Groovy Kind Of Love	1966
+4421	1939	It's Raining Men	1983
+4422	1940	Buddy Holly	1994
+4423	1941	Alane	1997
+4424	1942	Maria	1961
+4425	1943	Angel Eyes	1988
+4426	1943	Goodnight Girl	1992
+4427	1943	Love Is All Around	1994
+4428	1944	Club Tropicana	1983
+4429	1944	Freedom	1984
+4430	1944	I'm Your Man	1985
+4431	1944	Last Christmas	1984
+4432	1944	Wake Me Up Before You Go-Go	1984
+4433	1945	I Was Kaiser Bills Batman	1967
+4434	1946	FAREWELL TO THE FAIRGROUND	2009
+4435	1946	Time To Give	2018
+4436	1947	When You Are A King	1971
+4437	1948	Versailles	1981
+4438	1949	Here i go again	1987
+4439	1949	Is This Love	1987
+4440	1950	All At Once	1985
+4441	1950	Greatest Love Of All	1986
+4442	1950	How Will I Know	1986
+4443	1950	I Have Nothing	1993
+4444	1950	I Wanna Dance With Somebody	1987
+4445	1950	I Will Always Love You	1992
+4446	1950	One Moment In Time	1988
+4447	1951	Play That Funky Music	1976
+4448	1952	Lion In The Morning Sun	2012
+4449	1953	Ik Ben Zo Eenzaam Zonder Jou	1963
+4450	1954	Samen Zijn	1987
+4451	1954	Spiegelbeeld	1963
+4452	1954	Telkens Weer	1975
+4453	1955	Always On My Mind	1984
+4454	1956	To All The Girls I've Loved Before	1984
+4455	1958	De Glimlach Van Een Kind	1968
+4456	1957	Land Of A 1000 Dances	1966
+4457	1959	Het Dorp	1974
+4458	1959	Margootje	1965
+4459	1959	Tearoom Tango	1966
+4460	1960	Harborlight	1977
+4461	1961	Jet	1974
+4462	1961	Live And Let Die	1973
+4463	1961	Maybe I'm Amazed	1977
+4464	1961	Mull Of Kintyre	1977
+4465	1961	My Love	1973
+4466	1961	Silly Love Songs	1976
+4467	1962	Faster	2011
+4468	1962	Ice Queen	2001
+4469	1962	Mother Earth	2002
+4470	1962	Stand My Ground	2004
+4471	1963	Woman	2005
+4472	1964	Teardrops	1988
+4473	1965	I Lie And I Cheat	1988
+4474	1966	Follow The Sun	2015
+4475	1967	Making Plans For Nigel	1979
+4476	1967	Senses Working Overtime	1982
+4477	1968	Comptine D'un Autre Été	2001
+4478	1969	Don't Stop The Music	1981
+4479	1970	Don't Go	1982
+4480	1971	Close To The Edge	1972
+4481	1971	I've Seen All Good People	1971
+4482	1971	Owner Of A Lonely Heart	1983
+4483	1971	Roundabout	1972
+4484	1971	Yours Is No Disgrace	1971
+4485	1972	Long Way Back	2016
+4486	1973	Flappie	1981
+4487	1974	7 Seconds	1994
+4488	1975	If I Can't Have You	1978
+4489	1976	In The Year 2525	1969
+4490	1977	Mexico	1969
+4491	1978	Hair	1968
+4492	1979	Durgerdam Slaapt	2002
+4493	1980	Baila (Sexy Thing)	2001
+4494	1980	Cosi Celeste	1997
+4495	1980	Diamante	1986
+4496	1980	Il Volo	1996
+4497	1980	Senza Una Donna	1988
+4498	1981	Ik Heb Genoeg Van Jou	1965
+4499	1981	La Comparsa	1964
+4500	1982	Gimme All Your Lovin'	1984
+4501	1982	LA Grange	1973
+4502	1982	Legs	1985
+4503	1982	Sharp Dressed Man	1985
