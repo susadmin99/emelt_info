@@ -1,152 +1,191 @@
 <!DOCTYPE html>
-  <html lang="hu">
-    <head>
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-      <link rel="stylesheet" href="/emelt_info/style.css">
+<html lang="hu">
 
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<head>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link rel="stylesheet" href="/emelt_info/style.css">
 
-      <title>Emelt info érettségi tananyagok</title>
-    </head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <body>
-      
+  <title>Emelt info érettségi tananyagok</title>
+</head>
 
-      <header>
-        <!--Desktop Dropdown-->
-        <ul id="dropdownDesktop" class="dropdown-content">
+<body>
+
+
+  <header>
+    <!--Desktop Dropdown-->
+    <ul id="dropdownDesktop" class="dropdown-content">
+      <li><a href="/emelt_info/">Kezdőlap<i class="material-icons  grey-text">home</i></a></li>
+      <li class="divider"></li>
+      <li><a href="/emelt_info/sites/ppt/">Prezentáció - PPT<i class="material-icons  purple-text">perm_media</i></a>
+      </li>
+      <li><a href="/emelt_info/sites/word/">Szövegszerkesztés - WORD<i
+            class="material-icons  blue-text text-darken-4">text_format</i></a></li>
+      <li><a href="/emelt_info/sites/web/">Weboldal - HTML, CSS<i class="material-icons  cyan-text">web</i><span
+            class="new badge">1</span></a></li>
+      <li class="divider"></li>
+      <li><a href="/emelt_info/sites/excel/">Táblázatkezelés - EXCEL<i
+            class="material-icons  green-text">insert_chart</i><span class="new badge">1</span></a></li>
+      <li class="divider"></li>
+      <li><a href="/emelt_info/sites/access">Adatbáziskezelés - ACCESS<i class="material-icons  red-text">dns</i><span
+            class="new badge">1</span></a></li>
+      <li class="divider"></li>
+      <li><a href="/emelt_info/sites/prog/">Programozás<i
+            class="material-icons  yellow-text text-darken-2">code</i><span class="new badge">2</span></a></li>
+      <li class="divider"></li>
+      <li><a href="/emelt_info/sites/szobeli/">Szóbeli<i class="material-icons  teal-text text-accent-4">people</i></a>
+      </li>
+      <li class="divider"></li>
+      <li><a href="/emelt_info/sites/archivum/">Archívum<i class="material-icons  black-text ">archive</i><span
+            class="new badge">9</span></a></li>
+    </ul>
+
+    <!--Navigation-->
+    <nav>
+      <div class="nav-wrapper blue darken-4">
+        <a href="/emelt_info/" class="brand-logo">Emelt info</a>
+        <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="/emelt_info/" class="hoverable">Kezdőlap</a></li>
+          <li style="width: 25em;"><a class="dropdown-trigger " data-target="dropdownDesktop">Tananyagok<i
+                class="material-icons right">arrow_drop_down</i></a></li>
+        </ul>
+        <ul class="sidenav" id="mobile-nav">
           <li><a href="/emelt_info/">Kezdőlap<i class="material-icons  grey-text">home</i></a></li>
           <li class="divider"></li>
-          <li><a href="/emelt_info/sites/ppt/">Prezentáció - PPT<i class="material-icons  purple-text">perm_media</i></a></li>
-          <li><a href="/emelt_info/sites/word/">Szövegszerkesztés - WORD<i class="material-icons  blue-text text-darken-4">text_format</i></a></li>
-          <li><a href="/emelt_info/sites/web/">Weboldal - HTML, CSS<i class="material-icons  cyan-text">web</i><span class="new badge">1</span></a></li>
+          <li><a href="/emelt_info/sites/ppt/">Prezentáció - PPT<i
+                class="material-icons  purple-text">perm_media</i></a></li>
+          <li><a href="/emelt_info/sites/word/">Szövegszerkesztés - WORD<i
+                class="material-icons  blue-text text-darken-4">text_format</i></a></li>
+          <li><a href="/emelt_info/sites/web/">Weboldal - HTML, CSS<i class="material-icons  cyan-text">web</i></a></li>
           <li class="divider"></li>
-          <li><a href="/emelt_info/sites/excel/">Táblázatkezelés - EXCEL<i class="material-icons  green-text">insert_chart</i><span class="new badge">1</span></a></li>
+          <li><a href="/emelt_info/sites/excel/">Táblázatkezelés - EXCEL<i
+                class="material-icons  green-text">insert_chart</i></a></li>
           <li class="divider"></li>
-          <li><a href="/emelt_info/sites/access">Adatbáziskezelés - ACCESS<i class="material-icons  red-text">dns</i><span class="new badge">1</span></a></li>
+          <li><a href="/emelt_info/sites/access">Adatbáziskezelés - ACCESS<i
+                class="material-icons  red-text">dns</i></a></li>
           <li class="divider"></li>
-          <li><a href="/emelt_info/sites/prog/">Programozás<i class="material-icons  yellow-text text-darken-2">code</i><span class="new badge">2</span></a></li>
+          <li><a href="/emelt_info/sites/prog/">Programozás<i
+                class="material-icons  yellow-text text-darken-2">code</i></a></li>
           <li class="divider"></li>
-          <li><a href="/emelt_info/sites/szobeli/">Szóbeli<i class="material-icons  teal-text text-accent-4">people</i></a></li>
+          <li><a href="/emelt_info/sites/szobeli/">Szóbeli<i
+                class="material-icons  teal-text text-accent-4">people</i></a></li>
           <li class="divider"></li>
-          <li><a href="/emelt_info/sites/archivum/">Archívum<i class="material-icons  black-text ">archive</i><span class="new badge">9</span></a></li>
+          <li><a href="/emelt_info/sites/archivum/">Archívum<i class="material-icons  black-text ">archive</i></a></li>
         </ul>
+      </div>
+    </nav>
+  </header>
 
-        <!--Navigation-->
-        <nav>
-          <div class="nav-wrapper blue darken-4">
-            <a href="/emelt_info/" class="brand-logo">Emelt info</a>
-            <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-            <ul class="right hide-on-med-and-down">
-              <li><a href="/emelt_info/" class="hoverable">Kezdőlap</a></li>
-              <li style="width: 25em;"><a class="dropdown-trigger " data-target="dropdownDesktop" >Tananyagok<i class="material-icons right">arrow_drop_down</i></a></li>
-            </ul>
-            <ul class="sidenav" id="mobile-nav">
-              <li><a href="/emelt_info/">Kezdőlap<i class="material-icons  grey-text">home</i></a></li>
-              <li class="divider"></li>
-              <li><a href="/emelt_info/sites/ppt/">Prezentáció - PPT<i class="material-icons  purple-text">perm_media</i></a></li>
-              <li><a href="/emelt_info/sites/word/">Szövegszerkesztés - WORD<i class="material-icons  blue-text text-darken-4">text_format</i></a></li>
-              <li><a href="/emelt_info/sites/web/">Weboldal - HTML, CSS<i class="material-icons  cyan-text">web</i></a></li>
-              <li class="divider"></li>
-              <li><a href="/emelt_info/sites/excel/">Táblázatkezelés - EXCEL<i class="material-icons  green-text">insert_chart</i></a></li>
-              <li class="divider"></li>
-              <li><a href="/emelt_info/sites/access">Adatbáziskezelés - ACCESS<i class="material-icons  red-text">dns</i></a></li>
-              <li class="divider"></li>
-              <li><a href="/emelt_info/sites/prog/">Programozás<i class="material-icons  yellow-text text-darken-2">code</i></a></li>
-              <li class="divider"></li>
-              <li><a href="/emelt_info/sites/szobeli/">Szóbeli<i class="material-icons  teal-text text-accent-4">people</i></a></li>
-              <li class="divider"></li>
-              <li><a href="/emelt_info/sites/archivum/">Archívum<i class="material-icons  black-text ">archive</i></a></li>
-            </ul>
-          </div>
-        </nav>
-      </header>
+  <br><br>
+  <h1 class="center-align">Programozás</h1>
+  <br><br><br><br><br>
 
-      <br><br>
-      <h1 class="center-align">Weboldal - HTML, CSS</h1>
-      <br><br><br><br><br>
+  <main>
+    <div class="container">
+      <div class="row z-depth-1">
+        <h3 class="center-align">Tananyagok</h3>
 
-      <main>
-        <div class="container">
-          <div class="row z-depth-1">
-            <h3 class="center-align">Tananyagok</h3>
+        <div>
+          <table class="centered">
+            <thead>
+              <tr>
+                <th>Feladat</th>
+                <th>Források</th>
+                <th>Megoldások</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="hoverable">
+                  <h5>Választások - 2013 május</h5>
+                </td>
+                <td>
+                  <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg1.zip" download>Forrás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+                <td>
+                  <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg1.zip" download>Megoldás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="hoverable">
+                  <h5>IPv6 - 2014 május</h5>
+                </td>
+                <td>
+                  <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg2.zip" download>Forrás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+                <td>
+                  <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg2.zip" download>Megoldás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="hoverable">
+                  <h5>Expedíció - 2015 május</h5>
+                </td>
+                <td>
+                  <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg3.zip" download>Forrás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+                <td>
+                  <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg3.zip" download>Megoldás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="hoverable">
+                  <h5>Ötszáz - 2016 május</h5>
+                </td>
+                <td>
+                  <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg4.zip" download>Forrás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+                <td>
+                  <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg4.zip" download>Megoldás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="hoverable">
+                  <h5>Gödrök - 2021 május</h5>
+                </td>
+                <td>
+                  <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg8.zip" download>Forrás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+                <td>
+                  <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg8.zip" download>Megoldás<i
+                      class="material-icons right">file_download</i></a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!--./row Február-->
+    </div>
+    <!--./container-->
+  </main>
 
-            <div>
-              <table class="centered">
-                <thead>
-                  <tr>
-                    <th>Feladat</th>
-                    <th>Források</th>
-                    <th>Megoldások</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td class="hoverable"><h5>Választások - 2013 május</h5></td>
-                    <td>
-                      <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg1.zip" download>Forrás<i class="material-icons right">file_download</i></a>
-                    </td>
-                    <td>
-                      <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg1.zip" download>Megoldás<i class="material-icons right">file_download</i></a>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="hoverable"><h5>IPv6 - 2014 május</h5></td>
-                    <td>
-                      <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg2.zip" download>Forrás<i class="material-icons right">file_download</i></a>
-                    </td>
-                    <td>
-                      <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg2.zip" download>Megoldás<i class="material-icons right">file_download</i></a>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="hoverable"><h5>Expedíció - 2015 május</h5></td>
-                    <td>
-                      <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg3.zip" download>Forrás<i class="material-icons right">file_download</i></a>
-                    </td>
-                    <td>
-                      <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg3.zip" download>Megoldás<i class="material-icons right">file_download</i></a>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="hoverable"><h5>Ötszáz - 2016 május</h5></td>
-                    <td>
-                      <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg4.zip" download>Forrás<i class="material-icons right">file_download</i></a>
-                    </td>
-                    <td>
-                      <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg4.zip" download>Megoldás<i class="material-icons right">file_download</i></a>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="hoverable"><h5>Gödrök - 2021 május</h5></td>
-                    <td>
-                      <a class="btn waves-effect pulse blue" href="/emelt_info/res/prog/feladatProg8.zip" download>Forrás<i class="material-icons right">file_download</i></a>
-                    </td>
-                    <td>
-                      <a class="btn waves-effect green" href="/emelt_info/res/prog/megoldasProg8.zip" download>Megoldás<i class="material-icons right">file_download</i></a>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div><!--./row Február-->
-        </div><!--./container-->
-      </main>
+  <canvas id="canvas"></canvas>
 
-      <canvas id="canvas"></canvas>
-      
-      <!--Scripts-->
-      <!--Materialize CSS-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-      <script>M.AutoInit();</script>
-      <script>
-        document.addEventListener('DOMContentLoaded', function() {
-          var elems = document.querySelectorAll('.sidenav');
-          var instances = M.Sidenav.init(elems, options);
-        });
-      </script>
+  <!--Scripts-->
+  <!--Materialize CSS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script>M.AutoInit();</script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var elems = document.querySelectorAll('.sidenav');
+      var instances = M.Sidenav.init(elems, options);
+    });
+  </script>
 
-      <script src="js/background.js"></script>
-    </body>
-  </html>
+  <script src="js/background.js"></script>
+</body>
+
+</html>
