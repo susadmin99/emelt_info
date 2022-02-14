@@ -1,0 +1,1152 @@
+ev	sorrend	orszag	nyelv	eloado	eredeti	magyar	helyezes	pontszam
+1985	14	Egyesült Királyság	angol	Vikki	Love Is	A szerelem...	4	100
+1988	8	Izrael	héber	Yardena Arazi	Ben Adam	Emberi lény	7	85
+1972	13	Jugoszlávia	szerbhorvát	Tereza Kesovija	Muzika i ti	A zene és Te	9	87
+1993	8	Málta	angol	William Mangion	This Time	Ez alkalommal	8	69
+1989	2	Izrael	héber	Gili és Galit	Derech hamelech	A király útja	12	50
+1996	4	Portugália	portugál	Lúcia Moniz	O meu coração não tem cor	A szívemnek nincsen színe	6	92
+2004	16	Görögország	angol	Sakis Rouvas	Shake It	Rázzad	3	252
+1975	10	Málta	angol	Renato	Singing This Song	Énekelni e dalt	12	32
+2003	11	Oroszország	orosz	t.A.T.u.	Ne ver', ne boysia	Ne higgy, ne félj!	3	164
+1969	10	Belgium	holland	Louis Neefs	Jennifer Jennings	—	7	10
+2011	1	Finnország	angol	Paradise Oskar	Da da dam	—	21	57
+2011	13	Svájc	angol	Anna Rossinelli	In Love for a While	Egy ideig szerelmesen	25	19
+1990	2	Görögország	görög	Christos Callow & Wave	Horísz szkopó	Céltalanul	19	11
+1972	2	Franciaország	francia	Betty Mars	Comé-comédie	Komé-komédia	11	81
+1978	11	Hollandia	holland	Harmony	't Is OK	Rendben van	13	37
+1978	9	Svájc	francia	Carole Vinci	Vivre	Élni	9	65
+2007	4	Írország	angol	Dervish	They Can't Stop The Spring	Nem tudják megállítani a tavaszt	24	5
+1967	6	Svájc	francia	Géraldine	Quel cœur vas-tu briser?	Kinek a szívét fogod összetörni?	17	0
+1978	19	Ausztria	német	Springtime	Mrs. Caroline Robinson	—	15	14
+2004	23	Románia	angol	Sanda	I Admit	Bevallom	18	18
+1995	17	Ciprus	görög	Alexandros Panayi	Sti fotia	A tűzben	9	79
+1998	19	Svédország	svéd	Jill Johnson	Kärleken är	A szerelem...	10	53
+1975	4	Németország	német, angol	Joy Fleming	Ein Lied kann eine Brücke sein	Híd lehet egy dal	17	15
+2009	6	Portugália	portugál	Flor-de-lis	Todas as ruas do amor	A szerelem minden utcája	15	57
+1988	3	Finnország	finn	Boulevard	Nauravat silmät muistetaan	A nevető szemekre emlékeznek	20	3
+2006	19	Franciaország	francia	Virginie Pouchain	Il était temps	Ideje volt	22	5
+1975	13	Törökország	török	Semiha Yankı	Seninle Bir Dakika	Egy perc veled	19	3
+1991	14	Norvégia	norvég	Just 4 Fun	Mrs. Thompson	Thompsonné	17	14
+1976	4	Izrael	héber	Chocolate Menta Mastik	Emor Salom	Köszönj	6	77
+1982	17	Írország	angol	The Duskeys	Here Today Gone Tomorrow	Ma itt, holnap máshol	11	49
+1986	19	Finnország	finn	Kari Kuivalainen	Never The End	Sosem ér véget	15	22
+2003	4	Törökország	angol	Sertab Erener	Everyway That I Can	Mindenféleképpen	1	167
+1996	11	Észtország	észt	Maarja-Liis Ilus és Ivo Linna	Kaelakee hääl	Nyaklánc hangja	5	94
+2000	6	Románia	angol	Taxi	The Moon	A hold	17	25
+2008	5	Örményország	angol, örmény	Sirusho	Qele qele	Gyere, gyere	4	199
+1998	6	Szlovákia	szlovák	Katarína Hasprová	Modlitba	Imádság	21	8
+2000	2	Hollandia	angol	Linda	No Goodbyes	Nincs búcsúzás	13	40
+1989	13	Ausztria	német	Thomas Forstner	Nur ein Lied	Csak egy dal	5	97
+2007	20	Románia	angol, olasz, spanyol, orosz, francia, román	Todomondo	Liubi, Liubi, I Love You	Szerelem, szerelem, szeretlek	13	84
+1976	14	Ausztria	angol	Waterloo és Robinson	My Little World	Az én kis világom	5	80
+1990	1	Spanyolország	spanyol	Azúcar Moreno	Bandido	Bandita	5	96
+2007	21	Bulgária	bolgár	Elitsa Todorova és Stoyan Yankulov	Water	Víz	5	157
+1975	3	Franciaország	francia	Nicole Rieu	Et bonjour à toi l'artiste	Jó napot neked, művész	4	91
+1985	11	Izrael	héber	Izhar Cohen	Olé, Olé	Fel, fel	5	93
+2008	15	Svédország	angol	Charlotte Perrelli	Hero	Hős	18	47
+2002	3	Ausztria	angol	Manuel Ortega	Say a Word	Mondj egy szót	18	26
+1979	14	Hollandia	holland	Xandra	Colorado	Colorado	12	51
+1963	13	Svédország	svéd	Monica Zetterlund	En gång i Stockholm	Egyszer Stockholmban	13	0
+1962	8	Hollandia	holland	De Spelbrekers	Katinka	—	13	0
+1968	3	Belgium	francia	Claude Lombard	Quand tu reviendras	Amikor visszajössz	7	8
+2011	5	Magyarország	angol, magyar	Wolf Kati	What About My Dreams?	Mi van az álmaimmal?	22	53
+1988	16	Belgium	francia	Reynaert	Laissez briller le soleil	Hadd süssön a Nap	18	5
+1991	11	Írország	angol	Kim Jackson	Could It Be That I'm In Love	Lehet, hogy szerelmes vagyok?	10	47
+1969	5	Írország	angol	Muriel Day	The Wages of Love	A szerelem ára	7	10
+2008	9	Horvátország	horvát	Kraljevi ulice és 75 cents	Romanca	Romantika	21	44
+2003	21	Lettország	angol	F.L.Y.	Hello From Mars	Üdvözlet a Marsról	24	5
+1996	15	Hollandia	holland	Maxine és Franklin Brown	De eerste keer	Az első alkalom	7	78
+1964	1	Luxemburg	francia	Hugues Aufray	Dès que le printemps revient	Amikor visszatér a tavasz	4	14
+1998	15	Románia	román	Mălina Olinescu	Eu cred	Hiszem	22	6
+1977	12	Svájc	német	Pepe Lienhard Band	Swiss Lady	Svájci hölgy	6	71
+1960	1	Egyesült Királyság	angol	Bryan Johnson	Looking High, High, High	Nézni fel, fel, fel	2	25
+2008	13	Portugália	portugál	Vânia Fernandes	Senhora do mar (Negras águas)	A tenger asszonya (Sötét vizek)	13	69
+1979	1	Portugália	portugál	Manuela Bravo	Sobe, sobe, balão sobe	Szállj, szállj, léggömb, szállj	9	64
+1993	10	Ausztria	német	Tony Wegas	Maria Magdalena	Mária Magdolna	14	32
+1993	5	Dánia	dán	Tommy Seebach	Under stjernerne på himlen	Az ég csillagai alatt	22	9
+1996	3	Spanyolország	spanyol	Antonio Carbonell	¡Ay, qué deseo!	Ó, micsoda vágy!	20	17
+1976	18	Jugoszlávia	szerbhorvát	Ambasadori	Ne mogu skriti svoju bol	Nem tudom elrejteni a fájdalmamat	17	10
+1965	8	Belgium	holland	Lize Marke	Als het weer lente is	Amikor újra tavasz lesz	15	0
+1961	13	Dánia	dán	Dario Campeotto	Angelique	Angelika	5	12
+1966	4	Luxemburg	francia	Michèle Torr	Ce soir je t'attendais	Ma este vártalak	10	7
+1969	3	Spanyolország	spanyol	Salomé	Vivo cantando	Az éneklésnek élek	1	18
+1968	8	Svédország	svéd	Claes-Göran Hederström	Det börjar verka kärlek, banne mej	Ez kezd szerelem lenni, a francba	5	15
+1998	24	Törökország	török	Tüzmen	Unutamazsın	Nem tudsz felejteni	14	25
+1974	16	Portugália	portugál	Paulo de Carvalho	E depois do adeus	És a búcsú után	14	3
+2013	26	Írország	angol	Ryan Dolan	Only Love Survives	Csak a szerelem éli túl	26	5
+1993	11	Portugália	portugál	Anabela	A cidade (até ser dia)	A város (hajnalig)	10	60
+2003	1	Izland	angol	Birgitta	Open Your Heart	Tárd ki a szívedet	8	81
+1985	5	Spanyolország	spanyol	Paloma San Basilio	La fiesta terminó	A partinak vége	14	36
+2002	23	Lettország	angol	Marie N	I Wanna	Akarok...	1	176
+2012	12	Norvégia	angol	Tooji	Stay	Maradj!	26	7
+2003	18	Norvégia	angol	Jostein Hasselgård	I'm Not Afraid To Move On	Nem félek továbblépni	4	123
+1978	15	Görögország	görög	Tania Tsanaklidou	Charlie Chaplin	Charlie Chaplin	8	66
+2011	17	Románia	angol	Hotel FM	Change	Változtatni	17	77
+1986	17	Svédország	svéd	Lasse Holm és Monica Törnell	E' de' det här du kallar kärlek?	Ez az amit te szerelemnek hívsz?	5	78
+1994	22	Magyarország	magyar	Friderika	Kinek mondjam el vétkeimet?	—	4	122
+1975	7	Svájc	német	Simone Drexel	Mikado	Mikádó	6	77
+2009	20	Norvégia	angol	Alexander Rybak	Fairytale	Tündérmese	1	387
+2004	3	Norvégia	angol	Knut Anders Sørum	High	Fent	24	3
+1973	15	Egyesült Királyság	angol	Cliff Richard	Power to All Our Friends	Hatalmat minden barátunknak	3	123
+1988	4	Egyesült Királyság	angol	Scott Fitzgerald	Go	Menj	2	136
+2001	8	Litvánia	angol, litván	SKAMP	You Got Style	Van stílusod	13	35
+2012	23	Írország	angol	Jedward	Waterline	Vízpart	19	46
+2002	19	Törökország	török, angol	Buket Bengisu & Group Safir	Leylaklar Soldu Kalbinde	Orgonák hervadtak el a szívedben	16	29
+1984	5	Norvégia	norvég	Dollie de Luxe	Lenge leve livet	Éljen soká az élet	17	29
+1983	1	Franciaország	francia	Guy Bonnet	Vivre	Élni	8	56
+1973	17	Izrael	héber	Ilanit	É sam	Valahol	4	97
+1999	18	Ausztria	angol	Bobbie Singer	Reflection	Tükörkép	10	65
+2012	6	Oroszország	udmurt, angol	Buranovszkije Babuski	Party for Everybody	Buli mindenkinek	2	259
+1974	17	Olaszország	olasz	Gigliola Cinquetti	Sì	Igen	2	18
+1975	2	Írország	angol	The Swarbriggs	That's What Friends Are For	Erre valók a barátok	9	68
+1985	1	Írország	angol	Maria Christian	Wait Until the Weekend Comes	Várj, amíg eljön a hétvége	6	91
+1981	8	Finnország	finn	Riki Sorsa	Reggae OK	—	16	27
+1989	18	Svájc	romans	Furbaz	Viver senza tei	Nélküled élni	13	47
+2008	2	Egyesült Királyság	angol	Andy Abraham	Even If	Akkor is, ha	25	14
+2004	7	Hollandia	angol	Re-union	Without You	Nélküled	20	11
+1960	10	Hollandia	holland	Rudi Carrell	Wat een geluk	Micsoda szerencse	12	2
+1988	6	Spanyolország	spanyol	La Década Prodigiosa	La chica que yo quiero (Made in Spain)	A lány, akit akarok (Spanyolországban készült)	11	58
+1994	4	Ciprus	görög	Evridiki	Ime anthropos ki ego	Én is ember vagyok	11	51
+2006	23	Törökország	török, angol	Sibel Tüzün	Süper star	Szupersztár	11	91
+1986	16	Ausztria	német	Timna Brauer	Die Zeit ist einsam	Az idő magányos	18	12
+2004	18	Írország	angol	Chris Doran	If My World Stopped Turning	Ha a világom nem forogna tovább	22	7
+2012	16	Görögország	angol	Elefthería Eleftheríu	Aphrodisiac	Vágyfokozó	17	64
+1984	3	Franciaország	francia	Annick Thoumazeau	Autant d'amoureux que d'étoiles	Annyi szerelmes, ahány csillag	8	61
+1963	8	Dánia	dán	Grethe és Jørgen Ingmann	Dansevise	Táncdal	1	42
+1997	4	Ausztria	német	Bettina Soriat	One Step	Egy lépés	21	12
+1976	3	Németország	német	Les Humphries Singers	Sing Sang Song	Dalold a dalt	15	12
+1962	7	Németország	német	Conny Froboess	Zwei kleine Italiener	Két kis olasz	6	9
+1979	12	Belgium	holland	Micha Marah	Hey Nana	Hé, Nana	18	5
+1983	4	Svédország	svéd	Carola Häggkvist	Främling	Idegen	3	126
+1978	16	Dánia	dán	Mabel	Boom Boom	Bumm bumm	16	13
+1965	10	Svédország	angol	Ingvar Wixell	Absent Friends	Barátok hiánya	10	6
+2011	16	Németország	angol	Lena	Taken by a Stranger	Egy idegen vitt el	10	107
+1963	3	Németország	német	Heidi Brühl	Marcel	Marcell	9	5
+1971	13	Írország	angol	Angela Farrell	One Day Love	Egynapos szerelem	11	79
+1985	13	Norvégia	norvég	Bobbysocks!	La det swinge	Engedd ringatózni	1	123
+1965	6	Ausztria	német	Udo Jürgens	Sag ihr, ich lass sie grüßen	Mondd meg neki, hogy üdvözlöm	4	16
+1983	18	Ausztria	német	Westend	Hurricane	Forgószél	9	53
+1992	17	Írország	angol	Linda Martin	Why Me?	Miért én?	1	155
+1984	1	Svédország	svéd	Herreys	Diggi-Loo Diggi-Ley	—	1	145
+1984	2	Luxemburg	francia	Sophie Carle	100% d'amour	100% szerelem	10	39
+1969	8	Hollandia	holland	Lenny Kuhr	De troubadour	A trubadúr	1	18
+1970	5	Belgium	francia	Jean Vallée	Viens l'oublier	Gyere, felejtsd el őt	8	5
+1959	1	Franciaország	francia	Jacques Philippe	Oui, oui, oui, oui	Igen, igen, igen, igen	3	15
+2006	21	Írország	angol	Brian Kennedy	Every Song Is a Cry for Love	Minden dal könyörgés a szerelemért	10	93
+1999	16	Portugália	portugál	Rui Bandeira	Como tudo começou	Hogyan kezdődött minden	21	12
+1980	8	Svédország	svéd	Tomas Ledin	Just nu!	Most rögtön!	10	47
+1957	9	Dánia	dán	Birthe Wilke és Gustav Winckler	Skibet skal sejle i nat	Ma éjjel indul a hajó	3	10
+2009	7	Izland	angol	Yohanna	Is It True?	Igaz-e?	2	218
+1968	5	Luxemburg	francia	Chris Baldo és Sophie Garel	Nous vivrons d'amour	A szerelem fog éltetni minket	11	5
+1967	12	Spanyolország	spanyol	Raphael	Hablemos del amor	Beszéljünk a szerelemről	6	9
+2012	20	Németország	angol	Roman Lob	Standing Still	Mozdulatlan	8	110
+1992	2	Belgium	francia	Morgane	Nous, on veut des violons	Hegedűket akarunk	20	11
+1996	21	Bosznia-Hercegovina	bosnyák	Amila Glamočak	Za našu ljubav	Szerelmünkért	22	13
+1970	2	Svájc	francia	Henri Dès	Retour	Visszatérés	4	8
+1966	2	Dánia	dán	Ulla Pia	Stop - mens legen er go'	Állj meg, amíg jó az út	14	4
+1966	10	Svédország	svéd	Lill Lindfors és Svante Thuresson	Nygammal vals	Régi-új keringő	2	16
+1961	9	Franciaország	francia	Jean-Paul Mauric	Printemps (Avril carillonne)	Tavasz, április csenget	4	13
+1986	10	Svájc	francia	Daniela Simmons	Pas pour moi	Nem nekem	2	140
+1972	9	Málta	máltai	Helen és Joseph	L-imħabba	Szerelem	18	48
+1984	19	Portugália	portugál	Maria Guinot	Silêncio e tanta gente	Csend, és oly sok ember	11	38
+1987	15	Franciaország	francia	Christine Minier	Les mots d'amour n'ont pas de dimanche	A szerelmes szavaknak nincs vasárnapja	14	44
+2013	19	Izland	izlandi	Eythor Ingi	Ég á líf	Élek	17	47
+2002	4	Görögország	angol	Michalis Rakintzis	S.A.G.A.P.O.	SZ.E.R.E.T.L.E.K.	17	27
+1979	3	Dánia	dán	Tommy Seebach	Disco Tango	Diszkó tangó	6	76
+1987	13	Luxemburg	francia	Plastic Bertrand	Amour, Amour	Szerelem, szerelem	21	4
+1997	19	Magyarország	magyar	V.I.P.	Miért kell, hogy elmenj?	—	12	39
+2001	20	Észtország	angol	Tanel Padar, Dave Benton & 2XL	Everybody	Mindenki	1	198
+1987	3	Ausztria	német	Gary Lux	Nur noch Gefühl	Csak érzések	20	8
+1972	15	Monaco	francia	Anne-Marie Godart és Peter MacLane	Comme on s'aime	Ahogy szeretjük egymást	16	65
+2004	6	Málta	angol	Julie és Ludwig	On Again… Off Again	Bekapcs...Kikapcs	12	50
+1983	12	Jugoszlávia	szerbhorvát	Danijel	Džuli	Juli	4	125
+1963	5	Norvégia	norvég	Anita Thallaug	Solhverv	Napforduló	13	0
+1999	17	Írország	angol	The Mullans	When You Need Me	Amikor szükséged van rám	17	18
+2003	15	Egyesült Királyság	angol	Jemini	Cry Baby	Sírj, bébi	26	0
+1993	24	Izrael	héber, angol	Sharah'le Sharon & The Shiru Group	Shiru	Énekelj!	24	4
+1971	6	Spanyolország	spanyol	Karina	En un mundo nuevo	Egy új világban	2	116
+2007	12	Svédország	angol	The Ark	The Worrying Kind	Az aggódó típus	18	51
+2006	9	Dánia	angol	Sidsel Ben Semmane	Twist of Love	A szerelem sodrása	18	26
+1996	18	Finnország	finn	Jasmine	Niin kaunis on taivas	Milyen szép az égbolt	23	9
+2009	17	Németország	angol	Alex Swings! Oscar Sings!	Miss Kiss Kiss Bang	Csók bomba	20	35
+1961	3	Ausztria	német	Jimmy Makulis	Sehnsucht	Vágyódás	15	1
+1992	9	Ciprus	görög	Evridiki	Teriazoume	Hasonlítunk	11	57
+1974	3	Spanyolország	spanyol	Peret	Canta y sé feliz	Énekelj és légy boldog	9	10
+1988	20	Portugália	portugál	Dora	Voltarei	Visszatérek	18	5
+1966	16	Hollandia	holland	Milly Scott	Fernando en Filippo	Ferdinánd és Fülöp	15	2
+1995	10	Törökország	török	Arzu Ece	Sev!	Szeress!	16	27
+1999	12	Lengyelország	lengyel	Mietek Szczesniak	Przytul mnie mocno	Ölelj át szorosan	18	17
+2002	21	Románia	angol	Monica Anghel és Marcel Pavel	Tell Me Why	Mondd meg, miért	9	71
+2009	24	Finnország	angol	Waldo's People	Lose Control	Elveszíteni az uralmat	25	22
+2008	18	Ukrajna	angol	Ani Lorak	Shady Lady	Gyanús hölgy	2	230
+1968	7	Monaco	francia	Line & Willy	À chacun sa chanson	Dalát mindenkinek	7	8
+1995	3	Németország	német	Stone & Stone	Verliebt in dich	Szeretni Téged	23	1
+1977	16	Finnország	finn	Monica Aspelund	Lapponia	Lappföld	10	50
+1965	16	Finnország	finn	Viktor Klimenko	Aurinko laskee länteen	Nyugaton kel fel a Nap	15	0
+2008	24	Oroszország	angol	Dima Bilan	Believe	Hinni	1	272
+2009	25	Spanyolország	spanyol, angol	Soraya Arnelas	La noche es para mí	Az éjszaka nekem való	23	23
+1991	2	Izland	izlandi	Stefán és Eyfi	Nina (Draumur um Nínu)	Nina (Az álom Nináról)	15	26
+2007	17	Szerbia	szerb	Marija Šerifović	Molitva	Imádság	1	268
+1966	15	Franciaország	francia	Dominique Walter	Chez nous	Nálunk	16	1
+1968	12	Egyesült Királyság	angol	Cliff Richard	Congratulations	Gratulálok	2	28
+1963	11	Franciaország	francia	Alain Barrière	Elle était si jolie	Olyan szép volt Ő	5	25
+2000	1	Izrael	héber, angol	PingPong	Sameyach / Be happy	Légy boldog	22	7
+1982	8	Ciprus	görög	Anna Vissi	Mono i agapi	Csak a szerelem	5	85
+1965	11	Franciaország	francia	Guy Mardel	N'avoue jamais	Sose valld be	3	22
+1987	10	Törökország	török	Seyyal Taner és a Locomotif	Şarkım Sevgi Üstüne	A dalom a szerelemről	22	0
+2004	17	Izland	angol	Jónsi	Heaven	Mennyország	19	16
+1965	2	Egyesült Királyság	angol	Kathy Kirby	I Belong	Tartozok valakihez	2	26
+2006	13	Bosznia-Hercegovina	bosnyák	Hari Mata Hari	Lejla	—	3	229
+1968	11	Olaszország	olasz	Sergio Endrigo	Marianne	Marianna	10	7
+1975	12	Izrael	héber	Slomo Artzi	At va'ani	Te és én	11	40
+1960	5	Belgium	francia	Fud Leclerc	Mon amour pour toi	A szerelmem irántad	6	9
+2006	1	Svájc	angol	Six4One	If We All Give a Little	Ha mind adunk egy kicsit	16	30
+2003	22	Belgium	mesterséges nyelv	Urban Trad	Sanomi	—	2	165
+1987	11	Görögország	görög	Bang	Stop	Állj	10	64
+1994	17	Norvégia	norvég	Elisabeth Andreassen és Jan Werner Danielsen	Duett	—	6	76
+1977	15	Olaszország	olasz	Mia Martini	Libera	Szabadon	13	33
+1960	8	Monaco	francia	François Deguelt	Ce soir-là	Azon az estén	3	15
+2009	2	Izrael	angol, héber, arab	Noa és Mira Awad	There Must Be Another Way	Kell lennie egy másik útnak	16	53
+1989	15	Franciaország	francia	Nathalie Pâque	J'ai volé la vie	Loptam az életet	8	60
+2005	20	Oroszország	angol	Natalja Podolszkaja	Nobody Hurt No One	Senki nem bánt senkit	15	57
+1995	16	Portugália	portugál	Tó Cruz	Baunilha e chocolate	Vanília és csokoládé	21	5
+1964	5	Finnország	finn	Lasse Mårtenson	Laiskotellen	Semmittevés	7	9
+1994	7	Horvátország	horvát	Tony Cetinski	Nek' ti bude ljubav sva	Tiéd lehet minden szerelem	16	27
+2001	1	Hollandia	angol	Michelle	Out On My Own	Kint, egymagamban	18	16
+2003	2	Ausztria	osztrák–bajor	Alf Poier	Weil der Mensch zählt	Mert az ember számol	6	101
+1965	15	Luxemburg	francia	France Gall	Poupée de cire, poupée de son	Viaszbaba, rongybaba	1	32
+2013	1	Franciaország	francia	Amandine Bourgeois	L'enfer et moi	A pokol és én	23	14
+2012	5	Bosznia-Hercegovina	bosnyák	Maya Sar	Korake ti znam	Ismerem a lépéseid	18	55
+1977	2	Monaco	francia	Michèle Torr	Une petite française	Egy francia kislány	4	96
+1958	7	Belgium	francia	Fud Leclerc	Ma petite chatte	Az én kiscicám	5	8
+1969	14	Franciaország	francia	Frida Boccara	Un jour, un enfant	Egy nap, egy gyermek	1	18
+1976	16	Monaco	francia	Mary Christy	Toi, la musique et moi	Te, a zene és én	3	93
+1972	10	Finnország	finn	Päivi Paunu és Kim Floor	Muistathan	Emlékszel	12	78
+1957	8	Franciaország	francia	Paule Desjardins	La belle amour	A szép szerelem	2	17
+2000	16	Svájc	olasz	Jane Bogaert	La vita cos'è?	Mi az élet?	20	14
+1978	3	Olaszország	olasz	Ricchi e Poveri	Questo amore	Ez a szerelem	12	53
+1994	9	Svájc	olasz	Duilio	Sto pregando	Imádkozom	19	15
+2001	11	Portugália	portugál	MTM	Só sei ser feliz assim	Csak így lehetek boldog	17	18
+1994	14	Németország	német	MeKaDo	Wir geben 'ne Party	Ma éjjel partit tartunk	3	128
+1977	6	Németország	angol	Silver Convention	Telegram	Távirat	8	55
+1974	6	Izrael	héber	Kaveret	Natati la chajai	Neki adtam az életemet	7	11
+1961	5	Jugoszlávia	szerbhorvát	Ljiljana Petrović	Neke davne zvezde	Néhány távoli csillag	8	9
+1985	19	Görögország	görög	Takis Biniaris	Miazoume	Hasonlítunk egymásra	16	15
+1996	12	Norvégia	norvég	Elisabeth Andreassen	I evighet	Örökké	2	114
+1967	8	Finnország	finn	Fredi	Varjoon - suojaan	Az árnyékba - a biztonságba	12	3
+2012	21	Málta	angol	Kurt Calleja	This Is the Night	Ez az az éjszaka	21	41
+1984	15	Törökország	török	Beş Yıl Önce, On Yıl Sonra	Halay	—	12	37
+2008	11	Izland	angol	Eurobandið	This Is My Life	Ez az életem	14	64
+1994	3	Írország	angol	Paul Harrington és Charlie McGettigan	Rock ’n’ Roll Kids	Rock 'n' Roll kölykök	1	226
+2012	15	Dánia	angol	Soluna Samay	Should've Known Better	Tudhattam volna jobban	23	21
+1968	6	Svájc	olasz	Gianni Mascolo	Guardando il sole	A napba nézve	13	2
+2010	11	Görögország	görög	Giorgos Alkaios & Friends	OPA!	Hoppá	8	140
+2005	15	Macedónia	angol	Martin	Make My Day	Tedd teljessé a napomat	17	52
+1999	5	Egyesült Királyság	angol	Precious	Say It Again	Mondd még egyszer	12	38
+2002	22	Szlovénia	szlovén	Sestre	Samo ljubezen	Csak szerelem	13	33
+1970	11	Németország	német	Katja Ebstein	Wunder gibt es immer wieder	A csodák újra megtörténnek	3	12
+1999	9	Dánia	angol	Trine Jepsen és Michael Teschl	This Time I Mean It	Ezúttal komolyan gondolom	8	71
+1997	23	Horvátország	horvát	E.N.I.	Probudi me	Ébressz fel	17	24
+2002	20	Málta	angol	Ira Losco	7th Wonder	Hetedik csoda	2	164
+1978	4	Finnország	finn	Seija Simola	Anna rakkaudelle tilaisuus	Adj esélyt a szerelemnek	18	2
+2012	8	Ciprus	angol	Ivi Adamou	La La Love	Sze-sze-szerelem	16	65
+2010	9	Fehéroroszország	angol	3+2 és Robert Wells	Butterflies	Pillangók	24	18
+1997	18	Málta	angol	Debbie Scerri	Let Me Fly	Engedd, hogy repüljek	9	66
+2000	19	Macedónia	macedón, angol	XXL	100% te ljubam	100%-ig szeretlek	15	29
+2010	5	Ciprus	angol	Jon Lilygreen & The Islanders	Life Looks Better in Spring	Tavasszal szebbnek tűnik az élet	21	27
+1976	2	Svájc	angol	Peter, Sue & Marc	Djambo, Djambo	—	4	91
+2012	25	Ukrajna	angol	Gaitana	Be My Guest	Légy a vendégem!	15	65
+1960	7	Ausztria	német	Harry Winter	Du hast mich so fasziniert	Annyira elkápráztattál engem	7	6
+1993	12	Franciaország	francia, korzikai	Patrick Fiori	Mama Corsica	Mama Korzika	4	121
+1993	25	Norvégia	norvég	Silje Vige	Alle mine tankar	Minden gondolatom	5	120
+1985	6	Franciaország	francia	Roger Bens	Femme dans ses rêves aussi	Az álmaiban is nő	10	56
+1997	17	Görögország	görög	Marianna Zorba	Horepse	Táncolj	12	39
+1960	3	Luxemburg	luxemburgi	Camillo Felgen	So laang we's du do bast	Ameddig itt vagy	13	1
+1988	2	Svédország	svéd	Tommy Körberg	Stad i ljus	A fény városa	12	52
+1971	4	Svájc	francia	Peter, Sue & Marc	Les illusions de nos vingt ans	Húszas éveink tévhitei	12	78
+1983	6	Törökország	török	Çetin Alp és The Short Waves	Opera	—	19	0
+2007	8	Magyarország	angol	Rúzsa Magdi	Unsubstantial Blues	Aprócska blues	9	128
+2007	15	Oroszország	angol	Serebro	Song #1	1-es számú dal	3	207
+1968	14	Írország	angol	Pat McGeegan	Chance of a Lifetime	Egy életnyi esély	4	18
+1977	5	Norvégia	norvég	Anita Skorgan	Casanova	Casanova	14	18
+1959	10	Egyesült Királyság	angol	Pearl Carr és Teddy Johnson	Sing, Little Birdie	Énekelj, kismadár	2	16
+2004	21	Ciprus	angol	Lisa Andreas	Stronger Every Minute	Minden perccel erősebb	5	170
+1967	4	Franciaország	francia	Noëlle Cordier	Il doit faire beau là-bas	Ott biztosan szép az idő	3	20
+1962	1	Finnország	finn	Marion Rung	Tipi-tii	Csip-csip	7	4
+2013	5	Spanyolország	spanyol, angol	ESDM	Contigo hasta el final	Mindvégig veled	25	8
+2005	13	Dánia	angol	Jakob Sveistrup	Talking to You	Veled beszélni	9	125
+1967	9	Németország	német	Inge Brück	Anouschka	Annuska	8	7
+1991	20	Egyesült Királyság	angol	Samantha Janus	A Message to Your Heart	Egy üzenet a szívednek	10	47
+1966	11	Spanyolország	spanyol	Raphael	Yo soy aquél	Én vagyok az	7	9
+1996	20	Lengyelország	lengyel	Kasia Kowalska	Chcę znać swój grzech	Tudni akarom a bűnömet	15	31
+1984	16	Finnország	finn	Kirka	Hengaillaan	Csavarogjunk	9	46
+1982	3	Norvégia	norvég	Jahn Teigen és Anita Skorgan	Adieu	Isten veled	12	40
+1982	9	Svédország	svéd	Chips	Dag efter dag	Nap nap után	8	67
+2011	19	Azerbajdzsán	angol	Ell/Nikki	Running Scared	Rémülten szaladok	1	221
+1997	24	Egyesült Királyság	angol	Katrina & the Waves	Love Shine a Light	Fényt gyújt a szeretet	1	227
+2004	19	Lengyelország	angol, spanyol	Blue Café	Love Song	Szerelmesdal	17	27
+1966	13	Monaco	francia	Tereza	Bien plus fort	Még erősebben	17	0
+2001	12	Írország	angol	Gary O'Shaughnessy	Without Your Love	Szerelmed nélkül	21	6
+2008	16	Dánia	angol	Simon Mathew	All Night Long	Egész éjszaka	15	60
+1970	8	Luxemburg	francia	David Alexander Winter	Je suis tombé du ciel	Az égből estem ide le	12	0
+1984	9	Írország	angol	Linda Martin	Terminal 3	Hármas terminál	2	137
+2006	11	Macedónia	angol, macedón	Elena Risteska	Ninanajna	—	12	56
+1967	11	Egyesült Királyság	angol	Sandie Shaw	Puppet on a String	Marionettbábu	1	47
+2000	23	Írország	angol	Eamonn Toal	Millennium of Love	A szerelem ezredéve	6	92
+2005	17	Németország	angol	Gracia	Run & Hide	Fuss és bújj el	24	4
+1998	11	Magyarország	magyar	Charlie	A holnap már nem lesz szomorú	—	23	4
+1977	13	Svédország	svéd	Forbes	Beatles	Beatles	18	2
+2011	3	Dánia	angol	A Friend In London	New Tomorrow	Új holnap	5	134
+2009	19	Albánia	angol	Kejsi Tola	Carry Me In Your Dreams	Vigyél el az álmaidba	17	48
+2010	7	Belgium	angol	Tom Dice	Me and My Guitar	Én és a gitárom	6	143
+2008	25	Norvégia	angol	Maria	Hold On Be Strong	Tarts ki, légy erős	5	182
+2005	12	Szerbia és Montenegró	montenegrói	No Name	Zauvijek moja	Örökké az enyém	7	137
+1992	3	Izrael	héber	Dafna	Ze Rak Sport	Ez csak sport	6	85
+1989	22	Jugoszlávia	szerbhorvát	Riva	Rock Me	Rázz fel	1	137
+1967	2	Luxemburg	francia	Vicky Leandros	L’amour est bleu	Kék a szerelem	4	17
+1968	9	Finnország	finn	Kristina Hautala	Kun kello käy	Amikor múlik az idő	16	1
+1958	9	Ausztria	német	Liane Augustin	Die ganze Welt braucht Liebe	Az egész világ szerelemre vágyik	5	8
+2013	18	Dánia	angol	Emmelie de Forest	Only Teardrops	Csak könnycseppek	1	281
+1971	11	Olaszország	olasz	Massimo Ranieri	L'amore è un attimo	A szerelem egy pillanat	5	91
+1975	6	Norvégia	angol	Ellen Nikolaysen	Touch My Life (With Summer)	Nyárral érintsd meg az életemet	18	11
+2008	19	Franciaország	angol, francia	Sébastien Tellier	Divine	Isteni	19	47
+1964	14	Svájc	olasz	Anita Traversi	I miei pensieri	A gondolataim	13	0
+2011	18	Ausztria	angol	Nadine Beiler	The Secret Is Love	A szerelem a titok	18	64
+1957	6	Hollandia	holland	Corry Brokken	Net als toen	Úgy, mint egykor	1	31
+1986	20	Portugália	portugál	Dora	Não sejas mau para mim	Ne legyél rossz hozzám	14	28
+1974	13	Írország	angol	Tina Reynolds	Cross Your Heart	Esküdj meg	7	11
+1957	3	Egyesült Királyság	angol	Patricia Bredin	All	Minden	7	6
+2010	2	Spanyolország	spanyol	Daniel Diges	Algo pequeñito (Something tiny)	Egy kis apróság	15	68
+1963	7	Finnország	finn	Laila Halme	Muistojeni laulu	Emlékeim dala	13	0
+1972	7	Portugália	portugál	Carlos Mendes	A festa da vida	Az élet ünnepe	7	90
+1973	1	Finnország	angol	Marion Rung	Tom Tom Tom	Tamm tamm tamm	6	93
+1993	22	Spanyolország	spanyol	Eva Santamaría	Hombres	Férfiak	11	58
+1995	18	Svédország	svéd	Jan Johansen	Se på mig	Nézz rám	3	100
+2002	1	Ciprus	angol	One	Gimme	Add nekem	6	85
+1999	10	Franciaország	francia	Nayah	Je veux donner ma voix	Neked adnám a hangomat	19	14
+1972	12	Olaszország	olasz	Nicola di Bari	I giorni dell'arcobaleno	A szivárvány napjai	6	92
+1966	9	Ausztria	német	Udo Jürgens	Merci, Chérie	Köszönöm drágám	1	31
+1966	3	Belgium	francia	Tonia	Un peu de poivre, un peu de sel	Egy csipet bors, egy csipet só	4	14
+2013	6	Belgium	angol	Roberto Bellarosa	Love Kills	A szerelem öl	12	71
+1969	12	Norvégia	norvég	Kirsti Sparboe	Oj, oj, oj, så glad jeg skal bli	Jaj, jaj, jaj, milyen boldog leszek	16	1
+1997	16	Svédország	svéd	Blond	Bara hon älskar mig	Bárcsak szeretne engem	14	36
+1999	3	Spanyolország	spanyol	Lydia	No quiero escuchar	Nem akarok hallgatni	23	1
+2003	17	Görögország	angol	Mando	Never Let You Go	Sosem hagylak elmenni	17	25
+1979	2	Olaszország	olasz	Matia Bazar	Raggio di luna	Holdfény	15	27
+1966	8	Portugália	portugál	Madalena Iglesias	Ele e ela	Ő és ő	13	6
+1980	13	Egyesült Királyság	angol	Prima Donna	Love Enough for Two	Szerelem, mely két ember számára elég	3	106
+1960	9	Svájc	olasz	Anita Traversi	Cielo e terra	Ég és föld	8	5
+2007	7	Szlovénia	szlovén	Alenka Gotar	Cvet z juga	A Dél virága	15	66
+1988	18	Olaszország	olasz	Luca Barbarossa	Vivo (Ti scrivo)	Élek (Neked írok)	12	52
+2004	20	Egyesült Királyság	angol	James Fox	Hold On to Our Love	Tartsunk ki szerelmünk mellett	16	29
+1987	8	Portugália	portugál	Nevada	Neste barco à vela	Ezen a vitorláshajón	18	15
+2006	4	Lettország	angol	Cosmos	I Hear Your Heart	Hallom a szívedet	16	30
+1995	7	Izland	izlandi	Bo Halldórsson	Núna	Most	15	31
+1982	7	Svájc	francia	Arlette Zola	Amour on t'aime	Szeretünk, szerelem	3	97
+1964	12	Olaszország	olasz	Gigliola Cinquetti	Non ho l’età	Nem vagyok elég idős	1	49
+1971	5	Németország	német	Katja Ebstein	Diese Welt	Ez a világ	3	100
+1972	4	Spanyolország	spanyol	Jaime Morey	Amanece	Hajnalodik	10	83
+1963	15	Monaco	francia	Françoise Hardy	L'amour s'en va	Elmúlik a szerelem	5	25
+1991	6	Ausztria	német	Thomas Forstner	Venedig im Regen	Velence az esőben	22	0
+1988	10	Írország	angol	Jump The Gun	Take Him Home	Vidd őt haza	8	79
+2011	10	Oroszország	angol, orosz	Alexey Vorobyov	Get You	Elkaplak	16	77
+1989	20	Izland	izlandi	Daniel	Það sem enginn sér	Amit senki sem lát	22	0
+1959	2	Dánia	dán	Birthe Wilke	Uh, jeg ville ønske jeg var dig	Ó, bárcsak a helyedben lehetnék	5	12
+1973	5	Norvégia	angol, francia	Bendik Singers	It's Just a Game	Ez csak egy játék	7	89
+1976	5	Luxemburg	francia	Jürgen Marcus	Chansons pour ceux qui s'aiment	Dalok azoknak, akik szeretik egymást	14	17
+1967	3	Ausztria	német	Peter Horten	Warum es 100.000 Sterne gibt	Miért van százezernyi csillag?	14	2
+2001	17	Szlovénia	angol	Nuša Derenda	Energy	Energia	7	70
+1985	8	Belgium	holland	Linda Lepomme	Laat me nu gaan	Hagyj most elmenni	19	7
+1979	8	Svájc	német	Peter, Sue & Marc, Pfuri Gorps és Kniri	Trödler und Co	Zsibárus-társulat	10	60
+1990	13	Németország	német	Chris Kempers és Daniel Kovac	Frei zu leben	Szabadon élni	9	60
+1998	3	Franciaország	francia	Marie-Line	Où aller	Hová menni	24	3
+2011	2	Bosznia-Hercegovina	angol, bosnyák	Dino Merlin	Love in Rewind	Visszafordított szerelem	6	125
+1997	2	Törökország	török	Şebnem Paker & Grup Etnic	Dinle	Hallgasd	3	121
+1997	6	Szlovénia	szlovén	Tanja Ribič	Zbudi se	Ébredj fel	10	60
+1984	12	Jugoszlávia	szerbhorvát	Vlado és Izolda	Ciao, amore	Viszlát, szerelmem	18	26
+1996	22	Szlovákia	szlovák	Marcel Palonder	Kým nás máš	Amíg ott vagyunk neked	18	19
+2007	13	Franciaország	francia, angol	Les Fatals Picards	L'amour à la française	Szerelem francia módra	22	19
+1984	18	Olaszország	olasz	Alice és Franco Battiato	I treni di Tozeur	Tozeur vonatai	5	70
+2001	15	Törökország	török, angol	Sedat Yüce	Sevgiliye Son	Viszlát szerelmem	11	41
+2006	24	Örményország	angol	André	Without Your Love	A szerelmed nélkül	8	129
+1968	15	Spanyolország	spanyol	Massiel	La, la, la	Lá, lá, lá	1	29
+2001	9	Lettország	angol	Arnis Mednis	Too Much	Túl sok	18	16
+1996	6	Málta	angol	Miriam Christine	In A Woman's Heart	Egy nő szívében	10	68
+2005	9	Ciprus	angol	Constantinos Christoforou	Ela Ela (Come Baby)	Elle, ella (Gyere bébi)	18	46
+1976	15	Portugália	portugál	Carlos do Carmo	Uma flor de verde pinho	Egy zöldfenyő virága	12	24
+2002	16	Belgium	angol	Sergio & The Ladies	Sister	Nővér	13	33
+1998	12	Szlovénia	szlovén	Vili Resnik	Naj bogovi slišijo	Hadd hallják az istenek	18	17
+1981	17	Görögország	görög	Yiannis Dimitras	Feggari Kalokerino	Nyári hold	8	55
+2013	24	Norvégia	angol	Margaret Berger	I Feed You My Love	Táplállak szerelmem	4	191
+1994	16	Litvánia	litván	Ovidijus Vyšniauskas	Lopšinė mylimai	A kedves altatódala	25	0
+1975	1	Hollandia	angol	Teach-In	Ding-A-Dong	Ding-Dong	1	152
+2005	2	Egyesült Királyság	angol	Javine	Touch My Fire	Érintsd meg a tüzemet	22	18
+1985	18	Luxemburg	francia	Margo, Franck Olivier, Diane Solomon, Ireen Sheer, Chris és Malcolm Roberts	Children, Kinder, Enfants	Gyerekek, gyerekek, gyerekek	13	37
+1995	21	Izrael	héber	Liora	Amen	Ámen	8	81
+1984	7	Ciprus	görög	Andy Paul	Anna Maria Lena	Annamária Léna	15	31
+2009	5	Horvátország	horvát	Igor Cukrov és Andrea	Lijepa Tena	Szép Tena	18	45
+2006	12	Románia	angol, olasz	Mihai Trăistariu	Tornerò	Visszatérek	4	172
+1978	18	Izrael	héber	Izhar Cohen & Alphabeta	A-Ba-Ni-Bi	Sze-ret-lek	1	157
+1988	9	Svájc	francia	Céline Dion	Ne partez pas sans moi	Ne menj el nélkülem	1	137
+2012	1	Egyesült Királyság	angol	Engelbert Humperdinck	Love Will Set You Free	A szerelem szabaddá tesz	25	12
+2007	22	Törökország	angol	Kenan Doğulu	Shake It Up Shekerim	Rázzad kedvesem	4	163
+2006	14	Litvánia	angol, francia	LT United	We Are the Winners	Mi vagyunk a győztesek	6	162
+2011	23	Ukrajna	angol	Mika Newton	Angel	Angyal	4	159
+1998	22	Norvégia	norvég	Lars A. Fredriksen	Alltid sommer	Örökké nyár	8	79
+1992	23	Hollandia	holland	Humphrey Campbell	Wijs me de weg	Mutasd az utat	9	67
+1989	16	Spanyolország	spanyol	Nina	Nacida para amar	Szerelemre születve	6	88
+2008	4	Németország	angol	No Angels	Disappear	Eltűnni	23	14
+1992	19	Olaszország	olasz	Mia Martini	Rapsodia	Rapszódia	4	111
+2011	24	Szerbia	szerb	Nina	Čaroban	Csodás	14	85
+1996	1	Törökország	török	Şebnem Paker	Beşinci mevsim	Az ötödik évszak	12	57
+1987	21	Jugoszlávia	szerbhorvát	Novi fosili	Ja sam za ples	Táncolni van kedvem	4	92
+2003	14	Hollandia	angol	Esther Hart	One More Night	Még egy éjszaka	13	45
+1998	23	Észtország	észt	Koit Toome	Mere lapsed	A tenger gyermekei	12	36
+1969	4	Monaco	francia	Jean Jacques	Maman, Maman	Anya, anya	6	11
+1964	4	Dánia	dán	Bjørn Tidmand	Sangen om dig	Egy dal rólad	9	4
+1960	13	Franciaország	francia	Jacqueline Boyer	Tom Pillibi	—	1	32
+1963	12	Spanyolország	spanyol	José Guardiola	Algo prodigioso	Valami csodálatos	12	2
+1987	9	Spanyolország	spanyol	Patricia Kraus	No estás solo	Nem vagy egyedül	19	10
+1989	6	Belgium	holland	Ingeborg	Door de wind	A szélen át	19	13
+1995	5	Norvégia	norvég	Secret Garden	Nocturne	Noktürn	1	148
+1973	4	Németország	német	Gitte	Junger Tag	Fiatal nap	8	85
+1992	13	Svájc	francia	Daisy Auvray	Mister Music Man	Zenész úr	15	32
+2001	18	Lengyelország	angol	PIASEK	2 long	Túl hosszú	20	11
+2002	10	Izrael	héber, angol	Sarit Hadad	Light a Candle	Gyújts gyertyát	12	37
+1999	4	Horvátország	horvát	Doris	Marija Magdalena	Mária Magdolna	4	118
+1997	12	Lengyelország	lengyel	Anna Maria Jopek	Ale jestem	De én létezek	11	54
+2003	3	Írország	angol	Mickey Harte	We've Got The World	Miénk a világ	11	53
+1999	13	Izland	angol	Selma	All Out of Luck	Nincs többé szerencséd	2	146
+1998	7	Lengyelország	lengyel	Sixteen	To takie proste	Olyan könnyű	17	19
+2002	7	Oroszország	angol	Prime Minister	Northern Girl	Északi lány	10	55
+2004	11	Horvátország	angol	Ivan Mikulić	You Are The Only One	Te vagy az egyetlen	12	50
+2004	15	Macedónia	angol	Toše Proeski	Life	Élet	14	47
+1989	5	Törökország	török	Pan	Bana Bana	Nekem, nekem	21	5
+2001	19	Németország	német, angol	Michelle	Wer Liebe lebt	A szerelemnek élni	8	66
+1979	13	Luxemburg	francia	Jeane Manson	J'ai déjà vu ça dans tes yeux	Már láttam azt a szemeidben	13	44
+2012	17	Svédország	angol	Loreen	Euphoria	Eufória	1	372
+1994	12	Málta	angol	Chris és Moira	More Than Love	Több, mint szerelem	5	97
+2010	17	Ukrajna	angol	Alyosha	Sweet People	Kedves emberek	10	108
+1999	8	Norvégia	angol	Van Eijk	Living My Life Without You	Nélküled élni az életemet	14	35
+1987	12	Hollandia	holland	Marcha	Rechtop in de wind	A szélben állva	5	83
+2010	13	Grúzia	angol	Sofia Nizharadze	Shine	Ragyogás	9	136
+1992	8	Portugália	portugál	Dina	Amor d'água fresca	Friss víz szerelem	17	26
+2013	11	Németország	angol	Cascada	Glorious	Pompás	21	18
+1986	7	Hollandia	holland	Frizzle Sizzle	Alles heeft ritme	Mindennek van ritmusa	13	40
+1959	5	Hollandia	holland	Teddy Scholten	Een beetje	Egy picit	1	21
+2008	10	Lengyelország	angol	Isis Gee	For Life	Az életért	24	14
+1995	11	Horvátország	horvát	Magazin és Lidija	Nostalgija	Nosztalgia	6	91
+1977	9	Egyesült Királyság	angol	Lynsey De Paul és Mike Moran	Rock Bottom	Mélypont	2	121
+2013	2	Litvánia	angol	Andrius Pojavis	Something	Valami	22	17
+2002	2	Egyesült Királyság	angol	Jessica Garlick	Come Back	Gyere vissza	3	111
+2008	14	Lettország	angol	Pirates of The Sea	Wolves of the Sea	A tenger farkasai	12	83
+2007	9	Litvánia	angol	4FUN	Love or Leave	Szeress vagy hagyj el	21	28
+1998	8	Izrael	héber	Dana International	Diva	Díva	1	172
+1970	10	Monaco	francia	Dominique Dussault	Marlène	Marlene	8	5
+1968	10	Franciaország	francia	Isabelle Aubret	La source	A forrás	3	20
+2001	14	Franciaország	francia, angol	Natasha Saint-Pier	Je n'ai que mon âme	Csak a lelkem van	4	142
+1971	15	Portugália	portugál	Tonicha	Menina do alto da serra	Magashegyi lány	9	83
+1960	2	Svédország	svéd	Siw Malmkvist	Alla andra får varann	Mindenki más együtt van	10	4
+2005	3	Málta	angol	Chiara	Angel	Angyal	2	192
+2005	7	Moldova	angol, román	Zdob şi Zdub	Boonika Bate Doba	A nagymama üti a dobot	6	148
+2009	12	Bosznia-Hercegovina	bosnyák	Regina	Bistra voda	Tiszta víz	9	106
+1982	12	Spanyolország	spanyol	Lucía	Él	Ő	10	52
+1987	2	Izrael	héber	Datner & Kushnir	Shir habatlanim	Naplopók dala	8	73
+2006	6	Spanyolország	spanyol	Las Ketchup	Un Bloody Mary	Egy Bloody Mary koktél	21	18
+1958	3	Franciaország	francia	André Claveau	Dors, mon amour	Aludj, szerelmem	1	27
+1972	11	Ausztria	német	Milestones	Falter im Wind	Pillangó a szélben	5	100
+1990	14	Franciaország	francia	Joëlle Ursull	White and Black Blues	Fekete-fehér blues	2	132
+1959	3	Olaszország	olasz	Domenico Modugno	Piove (Ciao, ciao bambina)	Esik az eső (Szia, szia kedvesem)	6	9
+1984	13	Ausztria	német	Anita	Einfach weg	Csak menj	19	5
+1988	5	Törökország	török	MFÖ	Sufi	Szúfi	15	37
+2007	11	Grúzia	angol	Sopho	My Story	Az én történetem	12	97
+1986	18	Dánia	dán	Lise Haavik	Du er fuld af løgn	Tele vagy hazugságokkal	6	77
+1979	15	Svédország	svéd	Ted Gärdestad	Satellit	Műhold	17	8
+2013	15	Egyesült Királyság	angol	Bonnie Tyler	Believe in Me	Higgy bennem	19	23
+1965	9	Monaco	francia	Marjorie Noël	Va dire à l'amour	Menj, mondd meg a szerelemnek	9	7
+1964	13	Jugoszlávia	horvát	Sabahudin Kurt	Život je sklopio krug	Az élet körbeért	13	0
+2000	14	Dánia	angol	Olsen Brothers	Fly on the Wings of Love	Szállj a szerelem szárnyain	1	195
+2006	15	Egyesült Királyság	angol	Daz Sampson	Teenage Life	Tinédzser élet	19	25
+2007	24	Moldova	angol	Natalia Barbu	Fight	Harc	10	109
+1967	14	Monaco	francia	Minouche Barelli	Boum Badaboum	Bumm-badabumm	5	10
+1961	10	Svájc	francia	Franca di Rienzo	Nous aurons demain	Holnap a miénk lesz	3	16
+1972	16	Belgium	francia	Serge és Christine Ghisoland	À la folie ou pas du tout	Bolondulásig vagy egyáltalán nem	17	55
+1997	11	Németország	német	Bianca Shomburg	Zeit	Idő.	18	22
+1989	12	Dánia	dán	Birthe Kjær	Vi maler byen rød	Vörösre festjük a várost	3	111
+1987	7	Olaszország	olasz	Umberto Tozzi és Raf	Gente di mare	A tenger népe	3	103
+1968	16	Németország	német	Wencke Myhre	Ein Hoch der Liebe	Éljen a szerelem	6	11
+1961	2	Monaco	francia	Colette Deréal	Allons, allons les enfants	Gyerünk, gyerünk, gyerekek	10	6
+1993	19	Egyesült Királyság	angol	Sonia	Better the Devil You Know	Jobb az ismert rossz	2	164
+1971	7	Franciaország	francia	Serge Lama	Un jardin sur la terre	Egy kert a Földön	10	82
+1998	16	Egyesült Királyság	angol	Imaani	Where Are You?	Hol vagy?	2	167
+2011	11	Franciaország	korzikai	Amaury Vassili	Sognu	Álom	15	82
+2003	10	Németország	angol	Lou	Let's Get Happy	Legyünk boldogok	11	53
+1992	18	Dánia	dán	Kenny Lübcke és Lotte Nilsson	Alt det som ingen ser	A dolgok, melyeket senki sem lát	12	47
+1983	11	Hollandia	holland	Bernadette	Sing Me a Song	Énekelj nekem egy dalt	7	66
+2009	4	Svédország	francia, angol	Malena Ernman	La voix	A hang	21	33
+1997	5	Írország	angol	Marc Roberts	Mysterious Woman	Rejtélyes nő	2	157
+1957	4	Olaszország	olasz	Nunzio Gallo	Corde della mia chitarra	A gitárom húrjai	6	7
+2008	20	Azerbajdzsán	angol	Elnur és Samir	Day after Day	Nap nap után	8	132
+2005	6	Törökország	török	Gülseren	Rimi Rimi Ley	—	13	92
+1976	13	Olaszország	olasz, angol	Al Bano & Romina Power	We'll Live It All Again	Mindent át fogunk élni újra	7	69
+1989	4	Hollandia	holland	Justine Pelmelay	Blijf zoals je bent	Maradj olyan, amilyen vagy	15	45
+2013	4	Finnország	angol	Krista Siegfrids	Marry Me	Gyere hozzám!	24	13
+1965	3	Spanyolország	spanyol	Conchita Bautista	¡Qué bueno, qué bueno!	Milyen jó, milyen jó	15	0
+2006	8	Németország	angol	Texas Lightning	No No Never	Nem nem soha	14	36
+2007	10	Görögország	angol	Sarbel	Yassou, Maria	Szia Mária	7	139
+1991	12	Portugália	portugál	Dulce	Lusitana paixão	Luzitán szenvedély	8	62
+2001	23	Dánia	angol	Rollo & King	Never Ever Let You Go	Sose hagylak elmenni	2	177
+2011	15	Moldova	angol	Zdob şi Zdub	So Lucky	Olyan szerencsés	12	97
+1991	8	Svédország	svéd	Carola	Fångad av en stormvind	Egy szélvihar rabságában	1	146
+1995	12	Franciaország	francia	Nathalie Santamaria	Il me donne rendez-vous	Randevúzik velem	4	94
+2013	17	Magyarország	magyar	ByeAlex	Kedvesem (Zoohacker Remix)	—	10	84
+2010	21	Örményország	angol	Eva Rivas	Apricot Stone	Barackmag	7	141
+1989	3	Írország	angol	Kiev Connolly & The Missing Passengers	The Real Me	A valós énem	18	21
+1981	13	Norvégia	norvég	Finn Kalvik	Aldri i livet	Soha az életben	20	0
+2009	16	Dánia	angol	Brinck	Believe Again	Újra hinni	13	74
+1990	12	Svájc	német	Egon Egemann	Musik klingt in die Welt hinaus	Zene szól az egész világon	11	51
+1996	7	Horvátország	horvát	Maja Blagdan	Sveta ljubav	Szent szerelem	4	98
+2010	14	Törökország	angol	maNga	We Could Be The Same	Egyformák lehetünk	2	170
+1982	18	Németország	német	Nicole	Ein bißchen Frieden	Egy kis béke	1	161
+1994	25	Franciaország	francia	Nina Morato	Je suis un vrai garçon	Egy igazi fiú vagyok	7	74
+1968	13	Norvégia	norvég	Odd Børre	Stress	Feszültség	13	2
+1998	9	Németország	német	Guildo Horn	Guildo hat euch lieb!	Guildo szeret titeket!	7	86
+1977	14	Spanyolország	spanyol	Micky	Enséñame a cantar	Taníts meg énekelni	9	52
+2003	25	Svédország	angol	Fame	Give Me Your Love	Add nekem a szerelmedet	5	107
+1981	15	Portugália	portugál	Carlos Paião	Playback	—	18	9
+2009	22	Románia	angol	Elena	The Balkan Girls	A balkáni lányok	19	40
+1973	9	Jugoszlávia	szerbhorvát	Zdravko Čolić	Gori vatra	Ég a tűz	15	65
+1966	18	Egyesült Királyság	angol	Kenneth McKellar	A Man Without Love	Egy férfi szerelem nélkül	9	8
+1980	19	Belgium	francia	Telex	Euro-Vision	Euro-Vízió	17	14
+1989	14	Finnország	finn	Anneli Saaristo	La dolce vita	Az édes élet	7	76
+1969	11	Svájc	német	Paola del Medico	Bonjour, Bonjour	Jó napot, jó napot	5	13
+1991	22	Olaszország	nápolyi	Peppino di Capri	Comme è ddoce 'o mare	Milyen édes a tenger	7	89
+2009	10	Oroszország	orosz, ukrán	Anastasiya Prikhodko	Mamo	Anya	11	91
+1991	21	Ciprus	görög	Elena Patroklou	SOS	S.O.S.	9	60
+1998	14	Portugália	portugál	Alma Lusa	Se eu te pudesse abraçar	Ha megölelhetnélek	12	36
+1992	20	Jugoszlávia	szerb	Extra Nena	Ljubim te pesmama	Dalaimmal csókollak	13	44
+2003	13	Izrael	héber, angol	Lior Narkis	Words for Love	Szavak a szerelemre	19	17
+1959	7	Svédország	svéd	Brita Borg	Augustin	Ágoston	9	4
+2007	16	Németország	német, angol	Roger Cicero	Frauen regier'n die Welt	A nők irányítják a világot	19	49
+1969	6	Olaszország	olasz	Iva Zanicchi	Due grosse lacrime bianche	Két nagy fehér könny	13	5
+1998	20	Belgium	francia	Mélanie Cohl	Dis oui	Mondj igent	6	122
+1978	7	Spanyolország	spanyol	José Vélez	Bailemos un vals	Keringőzzünk	9	65
+2008	7	Izrael	héber, angol	Boaz	The Fire in Your Eyes	A tűz a szemeidben	9	124
+1971	3	Monaco	francia	Séverine	Un banc, un arbre, une rue	Egy pad, egy fa, egy út	1	128
+1985	9	Portugália	portugál	Adelaide	Penso em ti, eu sei	Rád gondolok, tudom	18	9
+2012	19	Spanyolország	spanyol	Pastora Soler	Quédate conmigo	Maradj velem!	10	97
+1962	12	Jugoszlávia	szerbhorvát	Lola Novaković	Ne pali svetlo u sumrak	Ne kapcsolj lámpát alkonyatkor	4	10
+1989	11	Luxemburg	francia	Park Café	Monsieur	Uram	20	8
+2007	2	Spanyolország	spanyol, angol	D'Nash	I Love You Mi Vida	Szeretlek kedvesem	20	43
+1973	8	Svájc	francia	Patrick Juvet	Je vais me marier, Marie	Megházasodom, Mária	12	79
+1966	5	Jugoszlávia	szlovén	Berta Ambrož	Brez besed	Szavak nélkül	7	9
+1961	8	Németország	német, francia	Lale Andersen	Einmal sehen wir uns wieder	Újra találkozni fogunk	13	3
+2006	2	Moldova	angol, spanyol	Arsenium, Natalia Gordienko & Connect-R	Loca	Őrült	20	22
+1995	20	Szlovénia	szlovén	Darja Švajger	Prisluhni mi	Hallgass meg	7	84
+1986	15	Ciprus	görög	Elpida	Tora zo	Most élek	20	4
+1972	6	Norvégia	norvég	Grethe Kausland és Benny Borg	Småting	Apróságok	14	73
+1969	9	Svédország	svéd	Tommy Körberg	Judy, min vän	Barátom, Judy	9	8
+1981	18	Ciprus	görög	Island	Monika	Mónika	6	69
+1982	10	Ausztria	német	Mess	Sonntag	Vasárnap	9	57
+1975	14	Monaco	francia	Sophie	Une chanson c'est une lettre	Egy dal egy levél	13	22
+1970	1	Hollandia	holland	Hearts of Soul	Waterman	Vízöntő	7	7
+2011	20	Szlovénia	angol	Maja Keuc	No One	Senki	13	96
+1998	18	Hollandia	holland	Edsilia	Hemel en aarde	Menny és Föld	4	150
+1978	13	Németország	német	Ireen Sheer	Feuer	Tűz	6	84
+1977	3	Hollandia	holland	Heddy Lester	De mallemolen	A körhinta	12	35
+2009	9	Örményország	angol, örmény	Inga és Anus	Nor Par (Jan Jan)	Új tánc (Kedvesem)	10	92
+1985	16	Svédország	svéd	Kikki Danielsson	Bra vibrationer	Kellemes rezgések	3	103
+1995	4	Bosznia-Hercegovina	bosnyák	Davorin Popović	Dvadeset prvi vijek	A huszonegyedik század	19	14
+1964	9	Németország	német	Nora Nova	Man gewöhnt sich so schnell an das Schöne	Milyen gyorsan hozzászokunk a szép dolgokhoz	13	0
+1991	1	Jugoszlávia	szerbhorvát	Bebi Dol	Brazil	Brazília	21	1
+1962	5	Dánia	dán	Ellen Winther	Vuggevise	Altatódal	10	2
+1973	6	Monaco	francia	Marie	Un train qui part	Elinduló vonat	8	85
+2008	21	Görögország	angol	Kalomira	Secret Combination	Titkos kombináció	3	218
+1999	20	Málta	angol	Times Three	Believe 'n Peace	Hiszek a békében	15	32
+1982	4	Egyesült Királyság	angol	Bardo	One Step Further	Egy lépéssel előrébb	7	76
+2013	3	Moldova	román	Aliona Moon	O mie	Egy ezer	11	71
+1979	16	Norvégia	norvég	Anita Skorgan	Oliver	Olivér	11	57
+1997	9	Olaszország	olasz	Jalisse	Fiumi di parole	Szavak folyamai	4	114
+2007	23	Örményország	angol, örmény	Hayko	Anytime You Need	Amikor csak akarod	8	138
+2003	8	Horvátország	angol, horvát	Claudia Beni	Više nisam tvoja	Többé nem vagyok a tiéd	15	29
+1978	17	Luxemburg	francia	Baccara	Parlez-vous français?	Ön beszél franciául?	7	73
+1995	14	Belgium	francia	Frédéric Etherlinck	La voix est libre	Szabad a hang	20	8
+1999	21	Németország	német, török, angol, héber	Sürpriz	Reise nach Jerusalem - Kudüs'e seyahat	Utazás Jeruzsálembe	3	140
+1959	6	Németország	német	Alice és Ellen Kessler	Heute Abend wollen wir tanzen geh'n	Ma éjjel táncolni szeretnénk	8	5
+2002	11	Svájc	francia	Francine Jordi	Dans le jardin de mon âme	Lelkem kertjében	22	15
+2011	6	Írország	angol	Jedward	Lipstick	Rúzs	8	119
+2004	24	Svédország	angol	Lena Philipsson	It Hurts	Fáj	5	170
+1962	10	Norvégia	norvég	Inger Jacobsen	Kom sol, kom regn	Jöjj nap, jöjj eső	10	2
+1988	7	Hollandia	holland	Gerard Joling	Shangri-la	—	9	70
+2005	10	Spanyolország	spanyol	Son de Sol	Brujería	Boszorkányság	21	28
+1997	20	Oroszország	orosz	Alla Pugacheva	Primadonna	—	15	33
+1978	10	Belgium	francia	Jean Vallée	L'amour ça fait chanter la vie	A szerelem dalra fakasztja az életet	2	125
+1975	19	Olaszország	olasz	Wess és Dori Ghezzi	Era	Ez volt	3	115
+1981	1	Ausztria	német	Marty Brem	Wenn du da bist	Amikor itt vagy	17	20
+2012	26	Moldova	angol	Pasha Parfeny	Lăutar	Hegedűs	11	81
+1978	5	Portugália	portugál	Gemini	Dai li dou	—	17	5
+1965	13	Olaszország	olasz	Bobby Solo	Se piangi, se ridi	Ha sírsz, ha nevetsz	5	15
+1992	6	Franciaország	francia, kreol	Kali	Monté la riviè	Felfelé a folyón	8	73
+1992	21	Norvégia	norvég	Merethe Trøan	Visjoner	Látomások	18	23
+2005	8	Albánia	angol	Ledina Çelo	Tomorrow I Go	Holnap elmegyek	16	53
+1958	8	Németország	német	Margot Hielscher	Für zwei Groschen Musik	Kétfilléres zene	7	5
+1998	21	Finnország	finn	Edea	Aava	Nyílt vidék	15	22
+1972	5	Egyesült Királyság	angol	The New Seekers	Beg, Steal or Borrow	Koldulok, lopok vagy kölcsönzök	2	114
+1960	12	Olaszország	olasz	Renato Rascel	Romantica	Romantikus	8	5
+2006	16	Görögország	angol	Anna Vissi	Everything	Minden	9	128
+1976	10	Görögország	görög	Mariza Koch	Panagia mou, Panagia mou	Hölgyem, hölgyem	13	20
+2004	13	Belgium	angol	Xandee	1 Life	Egy élet	22	7
+1982	15	Izrael	héber	Avi Toledano	Hora	Kóló	2	100
+1981	7	Jugoszlávia	szerbhorvát	Seid Memić "Vajta"	Lejla	—	15	35
+1994	23	Oroszország	orosz	Jugyif	Vecsnij sztrannyik	Örök vándor	9	70
+2008	12	Törökország	török	Mor ve Ötesi	Deli	Őrült	7	138
+1972	8	Svájc	francia	Veronique Müller	C'est la chanson de mon amour	Ez a szerelmem dala	8	88
+1972	1	Németország	német	Mary Roos	Nur die Liebe läßt uns leben	Csak a szerelem éltet minket	3	107
+2000	9	Oroszország	angol	Alsou	Solo	Egyedül	2	155
+1971	1	Ausztria	német	Marianne Mendt	Musik	Zene	16	66
+2008	23	Szerbia	szerb	Jelena Tomašević és Bora Dugić	Oro	Kóló	6	160
+1990	5	Hollandia	holland	Maywood	Ik wil alles met je delen	Mindent meg akarok osztani veled	15	25
+1963	1	Egyesült Királyság	angol	Ronnie Carroll	Say Wonderful Things	Mondj csodálatos dolgokat	4	28
+2001	2	Izland	angol	Two Tricky	Angel	Angyal	22	3
+1990	4	Törökország	török	Kayahan	Gözlerinin Hapsindeyim	Újra a szemeidben	17	21
+1971	16	Jugoszlávia	szerbhorvát	Krunoslav Slabinac	Tvoj dječak je tužan	A barátod szomorú	14	68
+2012	2	Magyarország	angol	Compact Disco	Sound of Our Hearts	Szívünk hangjai	24	19
+1986	1	Luxemburg	francia	Sherisse Laurence	L'amour de ma vie	Életem szerelme	3	117
+1979	11	Franciaország	francia	Anne-Marie David	Je suis l'enfant-soleil	A nap gyermeke vagyok	3	106
+1975	18	Svédország	angol	Lasse Berghagen	Jennie, Jennie	—	8	72
+2000	24	Ausztria	angol	The Rounder Girls	All to You	Mind Neked	14	34
+2000	11	Ciprus	görög, olasz	Alexandros & Christina	Nomiza	Hittem benne	21	8
+1990	7	Egyesült Királyság	angol	Emma	Give a Little Love Back to the World	Adj vissza egy kis szeretetet a világnak	6	87
+1983	17	Portugália	portugál	Armando Gama	Esta balada que te dou	E ballada, amit neked adok	13	33
+2001	7	Svédország	angol	Friends	Listen To Your Heartbeat	Hallgass a szívedre	5	100
+2003	24	Románia	angol	Nicola	Don't Break My Heart	Ne törd össze a szívemet	10	73
+1972	17	Luxemburg	francia	Vicky Leandros	Après toi	Utánad	1	128
+1958	5	Svédország	svéd	Alice Babs	Lilla stjärna	Kis csillag	4	10
+1960	11	Németország	német	Wyn Hoop	Bonne nuit, ma chérie	Jó éjt, drágám	4	11
+1987	6	Svédország	svéd	Lotta Engberg	Boogaloo	—	12	50
+2003	26	Szlovénia	angol	Karmen	Nanana	—	23	7
+1983	7	Spanyolország	spanyol	Remedios Amaya	¿Quién maneja mi barca?	Ki vezeti a hajómat?	19	0
+1997	25	Izland	izlandi	Paul Oscar	Minn hinsti dans	Az utolsó táncom	20	18
+1991	19	Spanyolország	spanyol	Sergio Dalma	Bailar pegados	Táncoljunk együtt	4	119
+2000	8	Norvégia	angol	Charmed	My Heart Goes Boom	A szívem megdobban	11	57
+2009	11	Azerbajdzsán	angol	AySel és Arash	Always	Örökké	3	207
+1969	16	Finnország	finn	Jarkko és Laura	Kuin silloin ennen	Úgy, mint akkor	12	6
+1978	2	Norvégia	norvég	Jahn Teigen	Mil etter mil	Mérföld mérföld után	20	0
+2013	14	Románia	angol	Cezar	It's My Life	Ez az életem	13	65
+1974	9	Luxemburg	francia, angol	Ireen Sheer	Bye Bye, I Love You	Viszlát, szeretlek	4	14
+1993	17	Finnország	finn	Katri Helena	Tule luo	Gyere hozzám	17	20
+1981	14	Egyesült Királyság	angol	Bucks Fizz	Making Your Mind Up	Meggondolod magad	1	136
+1997	14	Bosznia-Hercegovina	bosnyák	Alma Čardžić	Goodbye	Viszlát	18	22
+1986	2	Jugoszlávia	szerbhorvát	Doris Dragović	Željo moja	A vágyam	11	49
+1988	21	Jugoszlávia	szerbhorvát	Srebrna krila	Mangup	Gazember	6	87
+2009	8	Görögország	angol	Sakis Rouvas	This Is Our Night	Ez a mi éjszakánk	7	120
+1991	10	Törökország	török	Can Uğurluer, İzel Çeliköz és Reyhan Karaca	İki Dakika	Két perc	12	44
+1985	12	Olaszország	olasz	Al Bano & Romina Power	Magic Oh Magic	Varázslat, ó varázslat	7	78
+2003	7	Portugália	angol, portugál	Rita Guerra	Deixa-me sonhar (só mais uma vez)	Engedj álmodni (csak még egyszer)	22	13
+1977	18	Franciaország	francia	Marie Myriam	L’oiseau et l’enfant	A madár és a gyermek	1	136
+1987	20	Írország	angol	Johnny Logan	Hold Me Now	Ölelj most át	1	172
+2005	1	Magyarország	magyar	NOX	Forogj, világ!	—	12	97
+2008	1	Románia	román, olasz	Nico és Vlad	Pe-o margine de lume	A világ szélén	20	45
+1984	10	Dánia	dán	Hot Eyes	Det' lige det	Ez pontosan az	4	101
+1973	14	Írország	angol	Maxi	Do I Dream	Álmodom?	10	80
+1987	17	Ciprus	görög	Alexia	Aspro mavro	Fekete-fehér	7	80
+1965	5	Németország	német	Ulla Wiesner	Paradies, wo bist du?	Hol vagy Édenkert?	15	0
+1993	1	Olaszország	olasz	Enrico Ruggeri	Sole d'Europa	Európa Napja	12	45
+1969	2	Luxemburg	francia	Romuald Figuier	Catherine	Katarina	11	7
+1990	22	Finnország	svéd	Beat	Fri?	Szabad?	21	8
+1977	17	Belgium	angol	Dream Express	A Million in One, Two, Three	Egymillió egy-két-háromra	7	69
+1963	16	Luxemburg	francia	Nana Mouskouri	À force de prier	Az imádság erejével	8	13
+2005	24	Franciaország	francia	Ortal	Chacun pense à soi	Mindenki magára gondol	23	11
+1988	11	Németország	német	Maxi és Chris Garden	Lied für einen Freund	Dal egy barátnak	14	48
+1963	9	Jugoszlávia	horvát	Vice Vukov	Brodovi	Hajók	11	3
+1961	4	Finnország	finn	Laila Kinnunen	Valoa ikkunassa	Fény az ablakban	10	6
+1993	18	Bosznia-Hercegovina	bosnyák	Fazla	Sva bol svijeta	A világ minden fájdalma	16	27
+1994	15	Szlovákia	szlovák	Tublatanka	Nekonečná pieseň	Végtelen dal	19	15
+1990	3	Belgium	francia	Philippe Lafontaine	Macédomienne	Macedón nőm	12	46
+1986	4	Norvégia	norvég	Ketil Stokkan	Romeo	Rómeó	12	44
+1975	9	Egyesült Királyság	angol	The Shadows	Let Me Be the One	Engedd, hogy én legyek az	2	138
+1967	5	Portugália	portugál	Eduardo Nascimento	O vento mudou	Megváltozott a szél	12	3
+2008	8	Finnország	finn	Teräsbetoni	Missä miehet ratsastaa	Ahová a férfiak mennek	22	35
+2010	24	Izrael	héber	Harel Skaat	Milim	Szavak	14	71
+1999	6	Szlovénia	angol	Darja Švajger	For a Thousand Years	Ezer évig	11	50
+1987	22	Svájc	francia	Carol Rich	Moitié, moitié	Fele-fele	17	26
+1995	2	Írország	angol	Eddie Friel	Dreamin'	Álmodozás	14	44
+1999	11	Hollandia	angol	Marlayne	One Good Reason	Egy jó indok	8	71
+1986	12	Írország	angol	Luv Bug	You Can Count On Me	Számíthatsz rám	4	96
+1964	16	Spanyolország	spanyol	Tim, Nelly & Tony	Caracola	Kagyló	12	1
+1980	12	Németország	német	Katja Ebstein	Theater	Színház	2	128
+1977	7	Luxemburg	francia	Anne-Marie B	Frère Jacques	János bátyám	16	17
+2012	22	Macedónia	macedón	Kaliopi	Crno i belo	Fekete és fehér	13	71
+1988	19	Franciaország	francia	Gérard Lenorman	Chanteur de charme	Sanzonénekes	10	64
+1971	14	Hollandia	holland	Saskia és Serge	De tijd	Idő	6	85
+2003	16	Ukrajna	angol	Oleksandr	Hasta la Vista	Viszlát	14	30
+1979	19	Spanyolország	spanyol	Betty Missiego	Su canción	Az ő dala	2	116
+1991	3	Málta	angol	Paul Giordimaina és Georgina	Could It Be	Lehetne-e?	6	106
+1992	1	Spanyolország	spanyol	Serafin	Todo esto es la música	Ez mind zene	14	37
+1957	5	Ausztria	német	Bob Martin	Wohin, kleines Pony?	Hová, kicsi póniló?	10	3
+1983	15	Dánia	dán	Gry Johansen	Kloden drejer	Forog a Föld	17	16
+2002	15	Bosznia-Hercegovina	bosnyák, angol	Maja Tatić	Na jastuku za dvoje	Egy kétszemélyes párnán	13	33
+2002	13	Finnország	angol	Laura	Addicted to You	Beléd estem	20	24
+2003	12	Spanyolország	spanyol	Beth	Dime	Mondd nekem	8	81
+1996	14	Szlovénia	szlovén	Regina	Dan najlepših sanj	A legszebb álom napja	21	16
+1977	11	Izrael	héber	Ilanit	Ahava hi shir lishnayim	A szerelem egy dal két embernek	11	49
+1964	6	Ausztria	német	Udo Jürgens	Warum nur warum?	Miért, csak miért?	6	11
+2012	4	Litvánia	angol	Donny Montell	Love Is Blind	A szerelem vak	14	70
+2001	3	Bosznia-Hercegovina	bosnyák, angol	Nino	Hano	Hanna	14	29
+1997	3	Norvégia	norvég	Tor Endresen	San Francisco	San Francisco	24	0
+1970	12	Írország	angol	Dana	All Kinds of Everything	Mindenféle dolog	1	32
+2009	18	Törökország	angol	Hadise	Düm Tek Tek	—	4	177
+1967	7	Svédország	svéd	Östen Warnerbring	Som en dröm	Mint egy álom	8	7
+1980	16	Franciaország	francia	Profil	Hé, hé, m'sieurs dames	Hé, hé, urak, hölgyek	11	45
+1968	4	Ausztria	német	Karel Gott	Tausend Fenster	Ezernyi ablak	13	2
+1979	6	Monaco	francia	Laurent Vaguener	Notre vie c'est la musique	A zene az életünk	16	12
+1983	16	Izrael	héber	Ofra Haza	Hay	Élek	2	136
+1975	11	Belgium	holland, angol	Ann Christy	Gelukkig zijn	Boldognak lenni	15	17
+2006	7	Málta	angol	Fabrizio Faniello	I Do	Megteszem	24	1
+1962	14	Luxemburg	francia	Camillo Felgen	Petit bonhomme	Kissrác	3	11
+1964	8	Egyesült Királyság	angol	Matt Monro	I Love the Little Things	Szeretem a kis dolgokat	2	17
+1961	14	Luxemburg	francia	Jean-Claude Pascal	Nous les amoureux	Mi, a szerelmesek	1	31
+2004	8	Németország	angol, török	Max	Can't Wait Until Tonight	Nem tudok estig várni	8	93
+1989	1	Olaszország	olasz	Anna Oxa és Fausto Leali	Avrei voluto	Azt akartam volna	9	56
+2002	8	Észtország	angol	Sahlene	Runaway	Fuss el	3	111
+1967	1	Hollandia	holland	Therese Steinmetz	Ring-dinge-ding	Ring-ding-ding	14	2
+2005	5	Norvégia	angol	Wig Wam	In My Dreams	Az álmaimban	9	125
+1994	8	Portugália	portugál	Sara	Chamar a música	Hívd a zenét	8	73
+1974	2	Egyesült Királyság	angol	Olivia Newton-John	Long Live Love	Éljen soká a szerelem	4	14
+1985	10	Németország	német	Wind	Für alle	Mindenkinek	2	105
+1982	13	Dánia	dán	Brixx	Video, video	Videó, videó	17	5
+1962	2	Belgium	francia	Fud Leclerc	Ton nom	A neved	13	0
+1993	4	Svájc	francia	Annie Cotton	Moi, tout simplement	Egyszerűen én	3	148
+1990	9	Norvégia	norvég	Ketil Stokkan	Brandenburger Tor	A brandenburgi kapu	21	8
+2002	6	Horvátország	angol	Vesna Pisarović	Everything I Want	Minden, amit akarok	11	44
+1966	14	Olaszország	olasz	Domenico Modugno	Dio, come ti amo	Istenem, mennyire szeretlek	17	0
+1994	10	Észtország	észt	Silvi Vrait	Nagu merelaine	Mint egy vízhullám	24	2
+1962	11	Svájc	francia	Jean Philippe	Le retour	A visszatérés	10	2
+1982	5	Törökország	török	Neco	Hani?	Hol?	15	20
+1982	11	Belgium	francia	Stella	Si tu aimes ma musique	Ha tetszik neked a zeném	4	96
+2004	10	Ukrajna	angol, ukrán	Ruslana	Wild Dances	Vad táncok	1	280
+1966	17	Írország	angol	Dickie Rock	Come Back to Stay	Gyere vissza, hogy maradj	4	14
+2007	14	Lettország	olasz	Bonaparti.lv	Questa notte	Ma éjjel	16	54
+1966	7	Finnország	finn	Ann Christine Nyström	Playboy	—	10	7
+1992	12	Finnország	finn	Pave	Yamma, yamma	—	23	4
+1969	13	Németország	német	Siw Malmkvist	Primaballerina	Balett-táncos	9	8
+2000	17	Horvátország	horvát	Goran Karan	Kad zaspu anđeli	Amikor elalszanak az angyalok	9	70
+1998	17	Ciprus	görög	Michalis Hadjiyiannis	Genesis	Származás	11	37
+1981	19	Svájc	olasz	Peter, Sue & Marc	Io senza te	Nélküled	4	121
+1982	16	Hollandia	holland	Bill van Dijk	Jij en ik	Te és én	16	8
+1977	10	Görögország	görög	Paschalis, Marianna, Robert és Bessy	Mathima solfege	Szolfézs lecke	5	92
+1996	9	Svájc	francia	Kathy Leander	Mon cœur l'aime	A szívem szereti őt	16	22
+2013	10	Oroszország	angol	Dina Garipova	What If	Mi van, ha	5	174
+1989	21	Németország	német	Nino de Angelo	Flieger	Szárnyalók	14	46
+2010	12	Egyesült Királyság	angol	Josh Dubovie	That Sounds Good to Me	Jól hangzik	25	10
+1961	7	Svédország	svéd	Lill-Babs	April, April	Április, április	14	2
+1973	16	Franciaország	francia	Martine Clemenceau	Sans toi	Nélküled	15	65
+1971	17	Finnország	finn	Markku Aro és Koivisto Sisters	Tie uuteen päivään	Út egy új nap felé	8	84
+2000	12	Izland	angol	August & Telma	Tell Me!	Mondd nekem!	12	45
+1996	23	Svédország	svéd	One More Time	Den vilda	A vad	3	100
+1963	2	Hollandia	holland	Annie Palmen	Een speeldoos	Egy zenedoboz	13	0
+2010	3	Norvégia	angol	Didrik Solli-Tangen	My Heart Is Yours	A szívem a tiéd	20	35
+1973	7	Spanyolország	spanyol	Mocedades	Eres tú	Te vagy	2	125
+1970	6	Franciaország	francia	Guy Bonnet	Marie-Blanche	—	4	8
+1963	10	Svájc	francia	Esther Ofarim	T'en vas pas	Ne menj el	2	40
+1980	6	Olaszország	olasz	Alan Sorrenti	Non so che darei	Nem tudom, mit adhatnék	6	87
+1975	8	Jugoszlávia	szlovén	Pepel in kri	Dan ljubezni	A szerelem napja	13	22
+1987	19	Dánia	dán	Anne-Cathrine Herdorf és Bandjo	En lille melodi	Egy kis dal	5	83
+1980	3	Görögország	görög	Anna Vissi és az Epikouri	Autostop	Stoppolás	13	30
+2009	1	Litvánia	angol, orosz	Sasha Son	Love	Szerelem	23	23
+2001	6	Oroszország	angol	Mumiy Troll	Lady Alpine Blue	Alpesi kék hölgy	12	37
+1976	11	Finnország	angol	Fredi & Ystävät	Pump Pump	—	11	44
+1964	7	Franciaország	francia	Rachel	Le chant de Mallory	Mallory dala	4	14
+2000	22	Törökország	török, angol	Pınar Ayhan & The SOS	Yorgunum Anla	Értsd meg, hogy belefáradtam	10	59
+1991	18	Belgium	holland	Clouseau	Geef het op	Add fel	16	23
+1958	1	Olaszország	olasz	Domenico Modugno	Nel blu dipinto di blu	Kékre színezett kékben	3	13
+2003	5	Málta	angol	Lynn Chircop	To Dream Again	Újra álmodni	25	4
+2000	3	Egyesült Királyság	angol	Nicki French	Don't Play That Song Again	Ne játsszd újra azt a dalt	16	28
+2013	20	Azerbajdzsán	angol	Farid Mammadov	Hold Me	Ölelj át!	2	234
+1999	19	Izrael	héber, angol	Eden	Yom huledet	Születésnap	5	93
+1972	3	Írország	ír	Sandie Jones	Ceol an Ghrá	A szerelem zenéje	15	72
+2002	9	Macedónia	macedón	Karolina Gočeva	Od nas zavisi	Rajtunk múlik	19	25
+2006	10	Oroszország	angol	Dima Bilan	Never Let You Go	Sosem hagylak elmenni	2	248
+1996	5	Ciprus	görög	Constantinos	Mono yia mas	Csak nekünk	9	72
+1968	2	Hollandia	holland	Ronnie Tober	Morgen	Holnap	16	1
+1977	4	Ausztria	német	Schmetterlinge	Boom Boom Boomerang	Bumm bumm bumeráng	17	11
+2011	12	Olaszország	olasz, angol	Raphael Gualazzi	Madness of Love	A szerelem bolondsága	2	189
+1988	12	Ausztria	német	Wilfried	Lisa Mona Lisa	—	21	0
+2003	6	Bosznia-Hercegovina	bosnyák, angol	Mija Martina	Ne brini	Ne aggódj	16	27
+1974	14	Németország	német	Cindy & Bert	Die Sommermelodie	A nyári dal	14	3
+2013	16	Svédország	angol	Robin Stjernberg	You	Te	14	62
+2009	15	Észtország	észt	Urban Symphony	Rändajad	Vándorok	6	129
+1992	14	Luxemburg	luxemburgi	Marion Welter & Kontinent	Sou fräi	Szabadon	21	10
+2003	23	Észtország	angol	Ruffus	Eighties Coming Back	Visszatérnek a nyolcvanas évek	21	14
+2002	24	Litvánia	angol	Aivaras	Happy You	A boldog te	23	12
+1993	13	Svédország	svéd	Arvingarna	Eloise	Alojzia	7	89
+1965	14	Dánia	dán	Birgit Brüel	For din skyld	A Te kedvedért	7	10
+2011	4	Litvánia	angol, francia	Evelina Sašenko	C'est ma vie	Ez az életem	19	63
+1981	20	Svédország	svéd	Björn Skifs	Fångad i en dröm	Egy álom rabságában	10	50
+2002	17	Franciaország	francia	Sandrine François	Il faut du temps (Je me battrai pour ça)	Idő kell (Harcolni fogok érte)	5	104
+1994	2	Finnország	finn	CatCat	Bye Bye Baby	Viszlát bébi	22	11
+1996	2	Egyesült Királyság	angol	Gina G	Ooh Aah… Just a Little Bit	Uh, ah, még egy kicsit	8	77
+1990	21	Ciprus	görög	Anasztászio	Milász polí	Túl sokat beszélsz	14	36
+1961	1	Spanyolország	spanyol	Conchita Bautista	Estando contigo	Amikor veled vagyok	9	8
+1959	8	Svájc	német	Christa Williams	Irgendwoher	Valahonnan	4	14
+1970	4	Jugoszlávia	szlovén	Eva Sršen	Pridi, dala ti bom cvet	Gyere, adok neked egy virágot	11	4
+2000	7	Málta	angol, máltai	Claudette Pace	Desire	Vágy	8	73
+1987	5	Belgium	holland	Liliane Saint-Pierre	Soldiers of Love	A szerelem katonái	11	56
+2010	20	Oroszország	angol	Peter Nalitch & Friends	Lost and Forgotten	Elveszve és elfelejtve	11	90
+1993	6	Görögország	görög	Keti Garbi	Ellada, hora tou fotos	Görögország, a fények földje	9	64
+1983	20	Luxemburg	francia	Corinne Hermès	Si la vie est cadeau	Ha az élet ajándék	1	142
+1974	4	Norvégia	angol	Anne-Karine Strøm és Bendik Singers	The First Day of Love	A szerelem első napja	14	3
+1994	13	Hollandia	holland	Willeke Alberti	Waar is de zon?	Hol van a nap?	23	4
+1991	9	Franciaország	francia	Amina	Le dernier qui a parlé	Az utolsó, aki beszél	2	146
+1987	4	Izland	izlandi	Halla Margrét	Hægt og hljótt	Lassan és halkan	16	28
+1991	17	Németország	német	Atlantis 2000	Dieser Traum darf niemals sterben	Ennek az álomnak sose szabad véget érnie	18	10
+1984	17	Svájc	német	Rainy Day	Welche Farbe hat der Sonnenschein?	Milyen színű a napfény?	16	30
+1974	5	Görögország	görög	Marinella	Krasí, thálassa ke t' agóri mu	A bor, a tenger, és a barátom	11	7
+1995	13	Magyarország	magyar	Szigeti Csaba	Új név a régi ház falán	—	22	3
+2001	16	Egyesült Királyság	angol	Lindsay Dracass	No Dream Impossible	Nincs lehetetlen álom	15	28
+1978	14	Monaco	francia	Caline és Olivier Toussaint	Les jardins de Monaco	Monaco kertjei	4	107
+1998	13	Írország	angol	Dawn Martin	Is Always Over Now?	Most ér véget az öröklét?	9	64
+1980	5	Marokkó	arab	Szamíra Benszaid	Bitakat hob	Szerelmeslevél	18	7
+1980	15	Hollandia	holland	Maggie MacNeal	Amsterdam	Amszterdam	5	93
+1974	7	Jugoszlávia	szerbhorvát	Korni grupa	Moja generacija	Az én nemzedékem	12	6
+1998	1	Horvátország	horvát	Danijela	Neka mi ne svane	A hajnal talán sosem jön el	5	131
+1960	4	Dánia	dán	Katy Bødtger	Det var en yndig tid	Kellemes idő volt	10	4
+2009	13	Moldova	román, angol	Nelly Ciobanu	Hora din Moldova	Moldovai tánc	14	68
+1977	8	Portugália	portugál	Os Amigos	Portugal no coração	Portugália a szívemben	14	18
+1962	4	Ausztria	német	Eleonore Schwarz	Nur in der Wiener Luft	Csak a bécsi levegőben	13	0
+1987	16	Németország	német	Wind	Lass die Sonne in dein Herz	Engedd a Napot a szívedbe	2	141
+1984	11	Hollandia	holland	Maribelle	Ik hou van jou	Szeretlek	13	34
+1992	15	Ausztria	német	Tony Wegas	Zusammen geh'n	Menjünk együtt	10	63
+1993	15	Luxemburg	francia, luxemburgi	Modern Times	Donne-moi une chance	Adj nekem egy esélyt	20	11
+1990	11	Dánia	dán	Lonnie Devantier	Hallo Hallo	Halló, halló	8	64
+1980	18	Spanyolország	spanyol	Trigo Limpio	Quédate esta noche	Maradj ma éjjel	12	38
+2010	1	Azerbajdzsán	angol	Safura	Drip Drop	Csipp-csöpp	5	145
+1983	14	Németország	német	Hoffmann és Hoffmann	Rücksicht	Figyelmesség	5	94
+2009	23	Egyesült Királyság	angol	Jade Ewen	It’s My Time	Itt az én időm	5	173
+1981	4	Luxemburg	francia	Jean-Claude Pascal	C'est peut-être pas l'Amérique	Ez talán nem Amerika	11	41
+2003	19	Franciaország	francia	Louisa Baïleche	Monts et merveilles	Hegyek és csodák	18	19
+2009	14	Málta	angol	Chiara	What If We	Mi lenne, ha mi...	22	31
+1961	11	Belgium	holland	Bob Benny	September, gouden roos	Szeptember, aranyrózsa	15	1
+1993	2	Törökország	török	Burak Aydos	Esmer Yarim	Barna kedvesem	21	10
+2004	4	Franciaország	francia, spanyol	Jonatan Cerrada	À chaque pas	Minden lépéssel	15	40
+2000	18	Svédország	angol	Roger Pontare	When Spirits Are Calling My Name	Amikor szellemek szólítanak	7	88
+1992	11	Izland	izlandi	Heart 2 Heart	Nei eða já	Nem vagy igen?	7	80
+1971	10	Belgium	holland	Lily Castel és Jacques Raymond	Goeiemorgen, morgen	Jó reggelt, reggel	14	68
+1981	11	Hollandia	holland	Linda Williams	Het is een wonder	Ez egy csoda	9	51
+1963	14	Belgium	holland	Jacques Raymond	Waarom?	Miért?	10	4
+1976	6	Belgium	francia	Pierre Rapsat	Judy et Cie	Judit és társai	8	68
+1990	15	Jugoszlávia	szerbhorvát	Tajči	Hajde da ludujemo	Legyünk őrültek!	7	81
+2008	3	Albánia	albán	Olta Boka	Zemrën e lamë peng	Kockára tettük a szívünket	17	55
+1980	11	Norvégia	norvég, északi számi	Sverre Kjelsberg és Mattis Hætta	Sámiid Ædnan	A számik földje	16	15
+1987	1	Norvégia	norvég	Kate Gulbrandsen	Mitt liv	Az életem	9	65
+1976	17	Franciaország	francia	Catherine Ferry	Un, deux, trois	Egy, kettő, három	2	147
+2007	5	Finnország	angol	Hanna	Leave Me Alone	Hagyjál békén	17	53
+2004	22	Törökország	angol	Athena	For Real	Tényleg	4	195
+1980	7	Dánia	dán	Bamses Venner	Tænker altid på dig	Mindig rád gondolok	14	25
+1958	10	Svájc	német, olasz	Lys Assia	Giorgio	György	2	24
+1975	5	Luxemburg	francia	Géraldine	Toi	Te	5	84
+1990	16	Portugália	portugál	Nucha	Há sempre alguém	Mindig van valaki	20	9
+2006	5	Norvégia	norvég	Christine Guldbrandsen	Alvedansen	A manótánc	14	36
+2007	3	Fehéroroszország	angol	Koldun	Work Your Magic	Varázsolj	6	145
+1989	9	Portugália	portugál	Da Vinci	Conquistador	Hódító	16	39
+1970	7	Egyesült Királyság	angol	Mary Hopkin	Knock, Knock Who's There?	Kopp-kopp, ki van ott?	2	26
+1992	4	Törökország	török	Aylin Vatankoş	Yaz Bitti	Vége a nyárnak	19	17
+1994	21	Spanyolország	spanyol	Alejandro Abad	Ella no es ella	Ő nem ő	18	17
+1964	2	Hollandia	holland	Anneke Groenloh	Jij bent mijn leven	Te vagy az életem	10	2
+2013	8	Fehéroroszország	angol	Alena Lanszkaja	Solayoh	—	16	48
+1981	12	Írország	angol	Sheeba	Horoscopes	Horoszkópok	5	105
+2009	21	Ukrajna	angol	Svetlana Loboda	Be My Valentine! (Anti-Crisis Girl)	Légy a szerelmem! (Válság-ellenes lány)	12	76
+1993	7	Belgium	holland	Barbara	Iemand als jij	Valaki olyan, mint Te	25	3
+2001	22	Görögország	görög, angol	Antique	Die for You	Meghalnék érted	3	147
+2000	15	Németország	német, angol	Stefan Raab	Wadde hadde dudde da?	Mi van ott nálad?	5	96
+1985	15	Svájc	német	Mariella Farré és Pino Gasparini	Piano, Piano	Lassan, lassan	12	39
+1997	21	Dánia	dán	Kølig Kaj	Stemmen i mit liv	A hang az életemben	16	25
+1983	13	Ciprus	görög	Stavros és Constantina	I agapi akoma zi	A szerelem még él	16	26
+1973	10	Olaszország	olasz	Massimo Ranieri	Chi sarà con te	Ki lesz veled	13	74
+2007	18	Ukrajna	ukrán, német, angol	Verka Serduchka	Dancing Lasha Tumbai	Táncolás	2	235
+1971	2	Málta	máltai	Joe Grech	Marija l-Maltija	Mária, a máltai lány	18	52
+2005	11	Izrael	héber, angol	Shiri Maimon	Hasheket Shenish'ar	A csend, mely megmarad	4	154
+1980	4	Luxemburg	francia	Sophie & Magaly	Papa pingouin	Pingvin papa	9	56
+2008	17	Grúzia	angol	Diana Gurtskaya	Peace Will Come	Eljön a béke	11	83
+1974	10	Monaco	francia	Romuald	Celui qui reste et celui qui s'en va	Az, aki marad, és az, aki megy	4	14
+2013	13	Hollandia	angol	Anouk	Birds	Madarak	9	114
+2005	16	Ukrajna	ukrán, angol	GreenJolly	Razom nasz bahato	Együtt sokan vagyunk	19	30
+1965	4	Írország	angol	Butch Moore	I'm Walking the Streets in the Rain	Esőben sétálok az utakon	6	11
+1967	15	Jugoszlávia	szlovén	Lado Leskovar	Vse rože sveta	A világ összes virága	8	7
+2006	22	Svédország	angol	Carola	Invincible	Legyőzhetetlen	5	170
+2013	23	Olaszország	olasz	Marco Mengoni	L'essenziale	A lényeges	7	126
+1974	15	Svájc	német	Piera Martell	Mein Ruf nach dir	Téged hívlak	14	3
+2011	7	Svédország	angol	Eric Saade	Popular	Népszerű	3	185
+1961	15	Egyesült Királyság	angol	The Allisons	Are You Sure?	Biztos vagy?	2	24
+2007	19	Egyesült Királyság	angol	Scooch	Flying the Flag (for You)	Kitűzöm (érted) a zászlót	22	19
+1980	17	Írország	angol	Johnny Logan	What’s Another Year?	Mit ér egy újabb év	1	143
+1974	12	Hollandia	angol	Mouth és MacNeal	I See A Star	Egy csillagot látok	3	15
+1994	24	Lengyelország	lengyel	Edyta Górniak	To nie ja	Ez nem én vagyok	2	166
+1959	9	Ausztria	német	Ferry Graf	Der K und K Kalypso aus Wien	A bécsi császári és királyi Kalypso	9	4
+2000	5	Franciaország	francia	Sofia Mestari	On aura le ciel	Miénk lesz az ég	23	5
+1994	11	Románia	román	Dan Bittman	Dincolo de nori	A felhők felett	21	14
+1973	13	Hollandia	holland	Ben Cramer	De oude muzikant	Az öreg muzsikus	14	69
+1987	14	Egyesült Királyság	angol	Rikki	Only the Light	Csak a fény	13	47
+1984	4	Spanyolország	spanyol	Bravo	Lady, Lady	Hölgy, hölgy	3	106
+2012	7	Izland	angol	Greta Salóme és Jónsi	Never Forget	Soha nem feledem	20	46
+2005	14	Svédország	angol	Martin Stenmarck	Las Vegas	Las Vegas	19	30
+1976	12	Spanyolország	spanyol	Braulio	Sobran las palabras	Nincsen szükség szavakra	16	11
+1990	18	Svédország	svéd	Edin-Ådahl	Som en vind	Mint egy szél	16	24
+1961	16	Olaszország	olasz	Betty Curtis	Al di là	Azon túl	5	12
+2000	10	Belgium	francia	Nathalie Sorce	Envie de vivre	Életkedv	24	2
+1994	18	Bosznia-Hercegovina	bosnyák	Alma és Dejan	Ostani kraj mene	Maradj mellettem	15	39
+2013	21	Görögország	görög, angol	Koza Mostra és Agathon Iakovidis	Alcohol Is Free	Ingyen van az alkohol	6	152
+1999	15	Svédország	angol	Charlotte Nilsson	Take Me to Your Heaven	Vigyél a mennyországodba	1	163
+1968	1	Portugália	portugál	Carlos Mendes	Verão	Nyár	11	5
+2013	7	Észtország	észt	Birgit	Et uus saaks alguse	Egy új kezdet lehetne	20	19
+1985	17	Ausztria	német	Gary Lux	Kinder dieser Welt	Eme világ gyermekei	8	60
+1978	6	Franciaország	francia	Joël Prevost	Il y aura toujours des violons	Mindig lesznek hegedűk	3	119
+1974	11	Belgium	francia	Jacques Hustin	Fleur de liberté	A szabadság virágai	9	10
+2013	12	Örményország	angol	Dorians	Lonely Planet	Magányos bolygó	18	41
+1973	3	Portugália	portugál	Fernando Tordo	Tourada	Bikaviadal	10	80
+1995	8	Ausztria	német	Stella Jones	Die Welt dreht sich verkehrt	Rossz irányba forog a föld	13	67
+1991	5	Svájc	olasz	Sandra Simò	Canzone per te	Egy dal Neked	5	118
+1976	9	Norvégia	angol	Anne-Karine Strøm	Mata Hari	Mata Hari	18	7
+1994	19	Görögország	görög	Kostas Bigalis & The Sea Lovers	To Trehandiri (Diri Diri)	A trehandiri (Diri Diri)	14	44
+2005	19	Görögország	angol	Helena Paparizou	My Number One	Az én első helyezettem	1	230
+1976	8	Hollandia	angol	Sandra Reemer	The Party's Over	Vége a partinak	9	56
+1997	8	Hollandia	holland	Mrs. Einstein	Niemand heeft nog tijd	Senkinek sincs ideje többé	22	5
+2012	10	Olaszország	angol, olasz	Nina Zilli	L'amore è femmina (Out of Love)	A szerelem egy nő (Szeretetből)	9	101
+1989	17	Ciprus	görög	Jánisz Szavidákisz és Faní Poliméri	Apópsze asz vrethúme	Találkozzunk ma éjjel	11	51
+1964	10	Monaco	francia	Romuald Figuier	Où sont-elles passées?	Hová mentek ők?	3	15
+1966	12	Svájc	francia	Madeleine Pascal	Ne vois-tu pas?	Nem látod?	6	12
+1962	9	Franciaország	francia	Isabelle Aubret	Un premier amour	Egy első szerelem	1	26
+1990	20	Ausztria	német	Simone	Keine Mauern mehr	Nincsenek többé falak	10	58
+1992	7	Svédország	svéd	Christer Björkman	I morgon är en annan dag	A holnap egy másik nap	22	9
+2002	12	Svédország	angol	Afro-dite	Never Let It Go	Sose hagyom elmenni	8	72
+1980	2	Törökország	török	Ajda Pekkan	Pet'r oil	Petróleum	15	23
+2006	17	Finnország	angol	Lordi	Hard Rock Hallelujah	Kemény rock hallelúja	1	292
+1997	7	Svájc	olasz	Barbara Berta	Dentro di me	Bennem	22	5
+1985	2	Finnország	finn	Sonja Lumme	Eläköön elämä	Éljen soká az élet	9	58
+1995	23	Görögország	görög	Elina Konstantopoulou	Pia prosefhi?	Melyik imádság?	12	68
+1980	9	Svájc	francia	Paola	Cinéma	Mozi	4	104
+1983	8	Svájc	olasz	Mariella Farré	Io così non ci sto	Nem tetszik nekem ez így	15	28
+1962	16	Monaco	francia	François Deguelt	Dis rien	Ne szólj	2	13
+1972	14	Svédország	svéd	Family Four	Härliga sommardag	Gyönyörű nyári nap	13	75
+2011	9	Görögország	angol, görög	Loucas Yiorkas és Stereo Mike	Watch My Dance	Figyeld a táncomat	7	120
+1967	16	Olaszország	olasz	Claudio Villa	Non andare più lontano	Ne menj messzebb	11	4
+2004	5	Szerbia és Montenegró	szerb	Željko Joksimović	Lane moje	Kedvesem	2	263
+1974	1	Finnország	angol	Carita	Keep Me Warm	Tarts melegen	13	4
+1957	7	Németország	német	Margot Hielscher	Telefon, Telefon	—	4	8
+2012	11	Észtország	észt	Ott Lepland	Kuula	Hallgasd!	6	120
+1962	6	Svédország	svéd	Inger Berggren	Sol och vår	Nap és tavasz	7	4
+2012	14	Románia	spanyol, angol	Mandinga	Zaleilah	—	12	71
+1983	5	Olaszország	olasz	Riccardo Fogli	Per Lucia	Lucának	11	41
+1981	16	Belgium	holland	Emly Starr	Samson	Sámson	13	40
+2001	4	Norvégia	angol	Haldor	On My Own	Egymagamban	22	3
+1965	1	Hollandia	holland	Conny van den Bos	Het is genoeg	Elég volt	11	5
+1981	6	Dánia	dán	Debbie Cameron és Tommy Seebach	Krøller eller ej	Göndör vagy sima haj	11	41
+1986	5	Egyesült Királyság	angol	Ryder	Runner in the Night	Futó az éjszakában	7	72
+2011	8	Észtország	angol	Getter Jaani	Rockefeller Street	Rockefeller utca	24	44
+1989	7	Egyesült Királyság	angol	Live Report	Why Do I Always Get It Wrong?	Miért tévedek mindig?	2	130
+2010	4	Moldova	angol	SunStroke Project & Olia Tira	Run Away	Fuss el	22	27
+1988	1	Izland	izlandi	Beathoven	Þú og þeir (Sókrates)	Te és ők (Szókratész)	16	20
+1999	7	Törökország	török	Tuğba Önal & Group Etnik	Dön Artık	Gyere vissza	16	21
+2011	25	Grúzia	angol	Eldrine	One More Day	Még egy nap	9	110
+1980	10	Finnország	finn	Vesa-Matti Loiri	Huilumies	Fuvolás	19	6
+1976	7	Írország	angol	Red Hurley	When	Mikor	10	54
+1983	3	Egyesült Királyság	angol	Sweet Dreams	I'm Never Giving Up	Sosem adom fel	6	79
+1994	6	Egyesült Királyság	angol	Frances Ruffelle	Lonely Symphony (We Will Be Free)	Magányos szimfónia (Szabadok leszünk)	10	63
+1981	5	Izrael	héber	Hakol Over Habibi	Halayla	Ma éjjel	7	56
+1990	10	Izrael	héber	Rita	Sara Barchovót	Ének az utcán	18	16
+1959	11	Belgium	holland	Bob Benny	Hou toch van mij	Szeress hát engem	6	9
+1991	4	Görögország	görög	Sophia Vossou	I Anixi	Tavasz	13	36
+1967	10	Belgium	holland	Louis Neefs	Ik heb zorgen	Aggályaim vannak	7	8
+1958	4	Luxemburg	francia	Solange Berry	Un grand amour	Egy nagy szerelem	9	1
+2001	13	Spanyolország	spanyol	David Civera	Dile que la quiero	Mondd neki, hogy szeretem őt	6	76
+1969	15	Portugália	portugál	Simone de Oliveira	Desfolhada portuguesa	Portugál kukoricafosztás	15	4
+2004	1	Spanyolország	spanyol	Ramón	Para llenarme de ti	Betelni veled	10	87
+1964	15	Belgium	francia	Robert Cogoi	Près de ma rivière	A folyóm közelében	10	2
+2007	1	Bosznia-Hercegovina	szerb	Maria	Rijeka bez imena	Névtelen folyó	11	106
+2005	18	Horvátország	horvát	Boris Novković & Lado Members	Vukovi umiru sami	A farkasok magányosan halnak meg	11	115
+2010	8	Szerbia	szerb	Milan Stanković	Ovo je Balkan	Ez a Balkán	13	72
+1998	25	Macedónia	macedón	Vlado Janevski	Ne zori, zoro	Hajnal, ne jöjj el	19	16
+1986	13	Belgium	francia	Sandra Kim	J’aime la vie	Szeretem az életet	1	176
+1976	1	Egyesült Királyság	angol	Brotherhood of Man	Save Your Kisses for Me	Őrizd meg a csókjaidat nekem	1	164
+1991	13	Dánia	dán	Anders Frandsen	Lige der hvor hjertet slår	Ott, ahol a szív dobog	19	8
+1982	6	Finnország	finn	Kojo	Nuku pommiin	Késő ébredés	18	0
+1958	2	Hollandia	holland	Corry Brokken	Heel de wereld	Az egész világ	9	1
+2012	9	Franciaország	francia, angol	Anggun	Echo (You and I)	Visszhang (Te és én)	22	21
+2005	4	Románia	angol	Luminiţa Anghel & Sistem	Let Me Try	Engedd, hogy megpróbáljam	3	158
+2011	21	Izland	angol	Sjonni's Friends	Coming Home	Hazatérés	20	61
+1996	13	Franciaország	breton	Dan Ar Braz és L'Héritage des Celtes	Diwanit bugale	Talán megszületik a gyermek	19	18
+1996	10	Görögország	görög	Mariana Efstratiou	Emis forame to himona anixiatika	Tavaszi ruhát viselünk télen	14	36
+1994	20	Ausztria	német	Petra Frey	Für den Frieden der Welt	A világ békéjéért	17	19
+1980	14	Portugália	portugál	José Cid	Um grande, grande amor	Egy nagy, nagy szerelem	7	71
+1973	2	Belgium	holland, angol, francia, spanyol	Nicole és Hugo	Baby, Baby	Bébi, bébi	17	58
+2004	9	Albánia	angol	Anjeza Shahini	The Image of You	A képed	7	106
+1983	2	Norvégia	norvég	Jahn Teigen	Do Re Mi	Dó, ré, mi	9	53
+2010	10	Írország	angol	Niamh Kavanagh	It’s For You	Ez neked szól	23	25
+1967	13	Norvégia	norvég	Kirsti Sparboe	Dukkemann	Bábu	14	2
+2008	22	Spanyolország	spanyol	Rodolfo Chikilicuatre	Baila el chiki chiki	Táncold a chiki-chikit	16	55
+1995	19	Dánia	dán	Aud Wilken	Fra Mols til Skagen	Molstól Skagenig	5	92
+1995	1	Lengyelország	lengyel	Justyna	Sama	Egyedül	18	15
+1985	3	Ciprus	görög	Lia Vissi	To katalava arga	Túl későn jöttem rá	16	15
+2010	23	Portugália	portugál	Filipa Azevedo	Há dias assim	Vannak olyan napok	18	43
+1978	1	Írország	angol	Colm C. T. Wilkinson	Born to Sing	Éneklésre születve	5	86
+1966	6	Norvégia	norvég	Åse Kleveland	Intet er nytt under solen	Nincs új a nap alatt	3	15
+2010	19	Románia	angol	Paula Seling és Ovi	Playing with Fire	A tűzzel játszani	3	162
+2000	4	Észtország	angol	Ines	Once in a Lifetime	Egyszer egy életben	4	98
+1992	5	Görögország	görög	Cleopatra	Olou tou kosmou i elpida	A világ minden reménye	5	94
+1996	16	Belgium	holland	Lisa del Bo	Liefde is een kaartspel	A szerelem egy kártyajáték	16	22
+2000	20	Finnország	angol	Nina Åström	A Little Bit	Egy kicsit	18	18
+2010	18	Franciaország	francia	Jessy Matador	Allez! Ola! Olé!	Hajrá! Olá! Olé!	12	82
+2000	21	Lettország	angol	Brainstorm	My Star	Csillagom	3	136
+1978	20	Svédország	svéd	Björn Skifs	Det blir alltid värre framåt natten	Éjszaka mindig rosszabb lesz	14	26
+2012	24	Szerbia	szerb	Željko Joksimović	Nije ljubav stvar	A szerelem nem egy tárgy	3	214
+1979	9	Németország	német	Dschinghis Khan	Dschinghis Khan	Dzsingisz kán	4	86
+1968	17	Jugoszlávia	szerbhorvát	Dubrovački trubaduri	Jedan dan	Egy nap	7	8
+1988	13	Dánia	dán	Hot Eyes	Ka' du se hva' jeg sa'?	Nem látod, hogy ezt mondtam neked?	3	92
+1999	2	Belgium	angol	Vanessa Chinitor	Like the Wind	Mint a szél	12	38
+1990	17	Írország	angol	Liam Reilly	Somewhere In Europe	Valahol Európában	2	132
+1963	4	Ausztria	német, angol	Carmela Corren	Vielleicht geschieht ein Wunder	Talán csoda történik	7	16
+1970	9	Spanyolország	spanyol	Julio Iglesias	Gwendolyne	Gvendolin	4	8
+1988	15	Norvégia	norvég	Karoline Krüger	For vår jord	A Földünknek	5	88
+2001	10	Horvátország	angol	Vanna	Strings of My Heart	Szívem húrjai	10	42
+1962	13	Egyesült Királyság	angol	Ronnie Carroll	Ring-A-Ding Girl	Csodálatos lány	4	10
+1993	9	Izland	izlandi	Inga	Þá veistu svarið	Akkor majd tudod a választ	13	42
+1981	10	Spanyolország	spanyol	Bacchelli	Y sólo tú	És csak Te	14	38
+1993	3	Németország	német	Münchener Freiheit	Viel zu weit	Túl messze	18	18
+1992	10	Málta	angol	Mary Spiteri	Little Child	Kisgyermek	3	123
+2010	15	Albánia	angol	Juliana Pasha	It’s All About You	Ez mind rólad szól	16	62
+1971	8	Luxemburg	francia	Monique Melsen	Pomme, pomme, pomme	Alma, alma, alma	13	70
+1972	18	Hollandia	holland	Sandra és Andres	Als het om de liefde gaat	Amikor a szerelemről van szó	4	106
+1959	4	Monaco	francia	Jacques Pills	Mon ami Pierrot	Barátom, Pierrot	11	1
+2013	9	Málta	angol	Gianluca	Tomorrow	Holnap	8	120
+1986	9	Spanyolország	spanyol	Cadillac	Valentino	Valentino	10	51
+1971	18	Norvégia	norvég	Hanne Krogh	Lykken er	A boldogság...	17	65
+1979	5	Finnország	finn	Katri Helena	Katson sineen taivaan	Nézem a kék eget	14	38
+1965	12	Portugália	portugál	Simone de Oliveira	Sol de inverno	Téli napfény	13	1
+1997	15	Portugália	portugál	Célia Lawson	Antes do adeus	A búcsú előtt	24	0
+1979	7	Görögország	görög	Elpida	Sokrati	Szókratész	8	69
+1979	18	Ausztria	német	Christine Simon	Heute in Jerusalem	Ma Jeruzsálemben	18	5
+2010	25	Dánia	angol	Chanée és N'evergreen	In a Moment Like This	Egy ilyen pillanatban	4	149
+2010	16	Izland	angol, francia	Hera Björk	Je ne sais quoi	Nem tudom mi	19	41
+2001	5	Izrael	héber	Tal Sondak	En davar	Sose bánd	16	25
+1979	10	Izrael	héber	Gali Atari és a Milk and Honey	Hallelujah	Hallelúja	1	125
+1973	12	Svédország	angol	Nova & The Dolls	You're Summer	Nyár vagy	5	94
+1969	1	Jugoszlávia	szerbhorvát	Ivan & 3M	Pozdrav svijetu	Üdvözlet a világnak	13	5
+1973	11	Luxemburg	francia	Anne-Marie David	Tu te reconnaîtras	Ráismersz magadra	1	129
+1971	9	Egyesült Királyság	angol	Clodagh Rodgers	Jack in the Box	Bohóc a dobozban	4	98
+2005	22	Svájc	angol	Vanilla Ninja	Cool Vibes	Hűs rezgések	8	128
+1975	15	Finnország	angol	Pihasoittajat	Old Man Fiddle	Öregember hegedűje	7	74
+2003	9	Ciprus	angol	Stelios Konstantas	Feeling Alive	Élek	20	15
+1984	14	Németország	német	Mary Roos	Aufrecht geh'n	Emelt fővel járj	13	34
+1957	10	Svájc	francia	Lys Assia	L’enfant que j’étais	A gyermek, aki voltam	8	5
+1999	14	Ciprus	görög	Marlen	Tha 'ne erotas	Ez szerelem lesz	22	2
+2012	13	Azerbajdzsán	angol	Sabina Babayeva	When the Music Dies	Ha a zene meghal	4	150
+1964	11	Portugália	portugál	António Calvário	Oração	Imádság	13	0
+1984	8	Belgium	francia	Jacques Zegers	Avanti la vie	Folytasd az életedet	5	70
+1957	2	Luxemburg	francia	Danièle Dupré	Amours mortes (tant de peine)	Halott szerelmek (Oly sok fájdalom)	4	8
+2010	6	Bosznia-Hercegovina	angol	Vukašin Brajić	Thunder and Lightning	Villám és mennydörgés	17	51
+1969	7	Egyesült Királyság	angol	Lulu	Boom Bang-a-Bang	Bumm beng beng	1	18
+1961	12	Norvégia	norvég	Nora Brockstedt	Sommer i Palma	Palmai nyár	7	10
+1963	6	Olaszország	olasz	Emilio Pericoli	Uno per tutte	Egy mindenkiért	3	37
+1993	23	Ciprus	görög	Kyriakos Zymboulakis és van Beke	Mi stamatas	Ne hagyd abba	19	17
+1979	4	Írország	angol	Cathal Dunne	Happy Man	Boldog ember	5	80
+1971	12	Svédország	svéd	Family Four	Vita vidder	Fehér látóhatár	6	85
+1990	6	Luxemburg	francia	Céline Carzo	Quand je te rêve	Amikor rólad álmodom	13	38
+1988	17	Luxemburg	francia	Lara Fabian	Croire	Hinni	4	90
+1965	18	Svájc	francia	Yovanna	Non, à jamais sans toi	Nem, örökké nélküled	8	8
+1982	14	Jugoszlávia	szerbhorvát	Aska	Halo, Halo	Halló, halló	14	21
+1998	2	Görögország	görög	Thalassa	Mia Krifi Evesthisia	Egy rejtett érzék	20	12
+1989	19	Görögország	görög	Mariána Efsztrátiu	To dikó szu asztéri	A saját csillagod	9	56
+1999	22	Bosznia-Hercegovina	bosnyák, francia	Dino és Béatrice	Putnici	Utazók	7	86
+1996	19	Izland	izlandi	Anna Mjöll	Sjúbídú	Subidú	13	51
+1958	6	Dánia	dán	Raquel Rastenni	Jeg rev et blad ud af min dagbog	Kitéptem egy lapot a naplómból	8	3
+1989	10	Svédország	svéd	Tommy Nilsson	En dag	Egy nap	4	110
+1977	1	Írország	angol	The Swarbriggs Plus Two	It's Nice to Be in Love Again	Jó érzés újra szerelmesnek lenni	3	119
+2011	14	Egyesült Királyság	angol	Blue	I Can	Tudok	11	100
+2010	22	Németország	angol	Lena	Satellite	Műhold	1	246
+1997	13	Észtország	észt	Maarja-Liis Ilus	Keelatud maa	Tiltott föld	8	82
+1985	7	Törökország	török	MFÖ	Didai didai dai	—	14	36
+1996	17	Írország	angol	Eimear Quinn	The Voice	A hang	1	162
+1987	18	Finnország	finn	Vicky Rosti és Boulevard	Sata salamaa	Száz villámlás	15	32
+1967	17	Írország	angol	Sean Dunphy	If I Could Choose	Ha választhatnék	2	22
+1960	6	Norvégia	norvég	Nora Brockstedt	Voi-Voi	—	4	11
+1997	10	Spanyolország	spanyol	Marcos Llunas	Sin rencor	Harag nélkül	6	96
+2006	3	Izrael	angol, héber	Eddie Butler	Together We Are One	Együtt egyek vagyunk	23	4
+1984	6	Egyesült Királyság	angol	Belle & the Devotions	Love Games	Szerelmi játékok	7	63
+1990	8	Izland	izlandi	Stjórnin	Eitt lag enn	Még egy dal	4	124
+1978	12	Törökország	török	Nilüfer és Nazar	Sevince	Amikor valaki szerelmes	18	2
+1983	19	Belgium	holland	Pas de Deux	Rendez-vous	Találka	18	13
+1998	5	Svájc	német	Gunvor	Lass' ihn	Hagyd őt	25	0
+1993	20	Hollandia	holland	Ruth Jacott	Vrede	Béke	6	92
+1998	4	Spanyolország	spanyol	Mikel Herzog	¿Qué voy a hacer sin ti?	Mit csinálnék nélküled?	16	21
+1994	5	Izland	izlandi	Sigga	Nætur	Éjszakák	12	49
+1990	19	Olaszország	olasz	Toto Cutugno	Insieme: 1992	Együtt: 1992	1	149
+1999	1	Litvánia	samogitiai	Aistė	Strazdas	Rigódal	20	13
+1981	3	Németország	német	Lena Valaitis	Johnny Blue	—	2	132
+2012	3	Albánia	albán	Rona Nishliu	Suus	Egyéni	5	146
+1995	15	Egyesült Királyság	angol	Love City Groove	Love City Groove	—	10	76
+2005	21	Bosznia-Hercegovina	angol	Feminnem	Call Me	Hívj engem	14	79
+1957	1	Belgium	holland	Bobbejaan Schoepen	Straatdeuntje	Utcai dal	8	5
+2005	23	Lettország	angol, jelnyelv	Valters és Kaža	The War Is Not Over	Nincsen vége a háborúnak	5	153
+1982	1	Portugália	portugál	Doce	Bem bom	Oly jó	13	32
+1961	6	Hollandia	holland	Greetje Kauffeld	Wat een dag	Micsoda nap	10	6
+1992	22	Németország	német	Wind	Träume sind für alle da	Az álmok mindenkiért vannak	16	27
+1966	1	Németország	német	Margot Eskens	Die Zeiger der Uhr	Az óra mutatói	10	7
+1962	3	Spanyolország	spanyol	Victor Balaguer	Llámame	Hívjál engem	13	0
+2008	6	Bosznia-Hercegovina	bosnyák	Laka	Pokušaj	Próbáld meg	10	110
+1986	11	Izrael	héber	Moti Giladi és Sarai Tzuriel	Yavo yom	Új nap jön	19	7
+1994	1	Svédország	svéd	Marie Bergman és Roger Pontare	Stjärnorna	A csillagok	13	48
+1997	1	Ciprus	görög	Hara és Andreas Konstantinou	Mana mou	Anyaföld	5	98
+1986	8	Törökország	török	Klips ve Onlar	Halley	Halley	9	53
+1978	8	Egyesült Királyság	angol	Co-Co	The Bad Old Days	A régi rossz napok	11	61
+1993	16	Szlovénia	szlovén	1xBand	Tih deževen dan	Egy csendes, esős nap	22	9
+1985	4	Dánia	dán	Hot Eyes	Sku' du spørg' fra no'en?	Szeretnéd tudni?	11	41
+1993	14	Írország	angol	Niamh Kavanagh	In Your Eyes	Szemeidben	1	187
+1995	6	Oroszország	orosz	Filipp Kirkorov	Kolibelnaja dlja vulkana	Altatódal egy vulkánhoz	17	17
+2004	12	Bosznia-Hercegovina	angol	Deen	In the Disco	A diszkóban	9	91
+1981	2	Törökország	török	Modern Folk Trio és Ayşegül	Dönme Dolap	A körhinta	18	9
+2004	14	Oroszország	angol	Julia Savicheva	Believe Me	Higgy nekem	11	67
+1995	22	Málta	angol	Mike Spiteri	Keep Me In Mind	Tarts engem észben	10	76
+1981	9	Franciaország	francia	Jean Gabilou	Humanahum	—	3	125
+1975	16	Portugália	portugál	Duarte Mendes	Madrugada	Hajnal	16	16
+2009	3	Franciaország	francia	Patricia Kaas	Et s'il fallait le faire	És ha muszáj lenne megtenni	8	107
+2007	6	Macedónia	macedón, angol	Karolina	Mojot svet	Az én világom	14	73
+2003	20	Lengyelország	német, lengyel, orosz	Ich Troje	Keine Grenzen - Żadnych granic	Nincsenek határok	7	90
+1979	17	Egyesült Királyság	angol	Black Lace	Mary Ann	Marianna	7	73
+1986	3	Franciaország	francia	Cocktail Chic	Européennes	Európai lányok	17	13
+1995	9	Spanyolország	spanyol	Anabel Conde	Vuelve conmigo	Gyere vissza hozzám	2	119
+2000	13	Spanyolország	spanyol	Serafín Zubiri	Colgado de un sueño	Egy álomról lelógva	18	18
+1970	3	Olaszország	olasz	Gianni Morandi	Occhi di ragazza	Női szemek	8	5
+1983	10	Görögország	görög	Christie Stasinopoulou	Mou les	Azt mondod nekem	14	32
+2006	20	Horvátország	horvát	Severina	Moja štikla	A magassarkúm	12	56
+2012	18	Törökország	angol	Can Bonomo	Love Me Back	Szeress viszont!	7	112
+1986	6	Izland	izlandi	ICY	Gleðibankinn	Az öröm bankja	16	19
+1993	21	Horvátország	horvát, angol	Put	Don't Ever Cry	Soha ne sírj	15	31
+1986	14	Németország	német	Ingrid Peters	Über die Brücke geh'n	Átkelni a hídon	8	62
+2006	18	Ukrajna	angol	Tyina Karol	Show Me Your Love	Mutasd ki a szerelmedet	7	145
+1965	7	Norvégia	norvég	Kirsti Sparboe	Karusell	Körhinta	13	1
+1996	8	Ausztria	vorarlbergi	George Nussbaumer	Weil's dr guat got	Jól megy most neked	10	68
+2002	18	Németország	angol	Corinna May	I Can't Live Without Music	Nem tudok zene nélkül élni	21	17
+1982	2	Luxemburg	francia	Svetlana	Cours après le temps	Rohanás az idő után	6	78
+2002	14	Dánia	angol	Malene	Tell Me Who You Are	Mondd meg, ki vagy	24	7
+2013	25	Grúzia	angol	Nodi Tatishvili és Sophie Gelovani	Waterfall	Vízesés	15	50
+1997	22	Franciaország	francia	Fanny	Sentiments songes	Ábrándos érzelmek	7	95
+2013	22	Ukrajna	angol	Zlata Ohnevics	Gravity	Gravitáció	3	214
+2011	22	Spanyolország	spanyol	Lucía Pérez	Que me quiten lo bailao	Azt az élményt nem vehetik el tőlem	23	50
+1998	10	Málta	angol	Chiara	The One That I Love	Az, akit szeretek	3	166
+2001	21	Málta	angol	Fabrizio Faniello	Another Summer Night	Egy másik nyári éjjel	9	48
+1975	17	Spanyolország	spanyol	Sergio és Estíbaliz	Tú volverás	Visszatérsz	10	53
+1991	7	Luxemburg	francia	Sarah Bray	Un baiser volé	Egy lopott csók	14	29
+2002	5	Spanyolország	spanyol, angol	Rosa	Europe's Living A Celebration	Európa ünnepel	7	81
+1965	17	Jugoszlávia	szerbhorvát	Vice Vukov	Čežnja	Vágyódás	12	2
+1962	15	Olaszország	olasz	Claudio Villa	Addio, addio	Viszlát, viszlát	9	3
+2004	2	Ausztria	német	Tie Break	Du bist	Te vagy	21	9
+1991	15	Izrael	héber	Duo Datz	Kan	Itt	3	139
+1989	8	Norvégia	norvég	Britt Synnøve Johansen	Venners nærhet	Barátok közelsége	17	30
+1999	23	Észtország	angol	Evelin Samuel és Camille	Diamond of Night	Az éjjel gyémántja	6	90
+1964	3	Norvégia	norvég	Arne Bendiksen	Spiral	Spirális	8	6
+1988	14	Görögország	görög	Afroditi Frida	Clown	Bohóc	17	10
+1991	16	Finnország	finn	Kaija	Hullu yö	Őrült éjszaka	20	6
+1974	8	Svédország	angol	ABBA	Waterloo	Waterloo	1	24
+1992	16	Egyesült Királyság	angol	Michael Ball	One Step Out of Time	Egy lépéssel lemaradva	2	139
+1980	1	Ausztria	német	Blue Danube	Du bist Musik	Te vagy a zene	8	64
+1983	9	Finnország	finn	Ami Aspelund	Fantasiaa	Fantázia	11	41
