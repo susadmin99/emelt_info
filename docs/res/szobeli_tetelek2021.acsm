@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+    <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+    <operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+    <expiration>2023-03-30T09:55:07-07:00</expiration>
+    <transaction>ge:1ca356b9-086a-9988-30ba-060278f58572:1680194407546297</transaction>
+    <userId>05566789217886045042</userId>
+    <resourceItemInfo>
+        <resource>urn:uuid:1ca356b9-086a-9988-30ba-060278f58572</resource>
+        <resourceItem>1</resourceItem>
+        <src>https://books.google.com/books/download/Informatika_t%C3%A9telek.pdf?acsid=urn:uuid:1ca356b9-086a-9988-30ba-060278f58572&amp;output=acs4_book_bytes&amp;ar=a96608264facc172d545456df3b9e8e0</src>
+        <downloadType>simple</downloadType>
+    </resourceItemInfo>
+    <hmac>02jiBKSslgwen/USmEP9F8RfaD0=</hmac>
+</fulfillmentToken>
