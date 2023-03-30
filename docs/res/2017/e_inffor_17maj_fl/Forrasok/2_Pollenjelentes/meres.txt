@@ -1,0 +1,26 @@
+﻿	parlagfű	üröm	kender	libatopfélék	útifű	pázsitfűfélék	csalánfélék	
+alacsony	0	0	0	0	0	0	0	+
+közepes	10	10	10	10	10	10	10	++
+magas	30	100	30	30	30	30	100	+++
+nagyon magas	100	500	100	100	100	100	500	++++
+Budapest	144	25	20	9	11	8	88	
+Békéscsaba	117	17	24	3	11	21	14	
+Debrecen	164	21	24	20	5	14	64	
+Eger	103	22	47	10	15	8	71	
+Győr	82	6	43	29	15	27	80	
+Kaposvár	159	15	27	30	1	14	35	
+Kecskemét	139	22	13	23	5	16	23	
+Miskolc	155	17	47	23	10	28	13	
+Nyíregyháza	117	12	28	9	14	6	80	
+Pécs	160	19	47	25	2	9	30	
+Salgótarján	111	28	36	14	12	28	78	
+Szeged	126	9	46	26	12	29	39	
+Székesfehérvár	171	11	14	13	5	13	64	
+Szekszárd	168	21	34	6	5	23	66	
+Szolnok	136	9	42	24	13	25	34	
+Szombathely	180	29	29	18	12	6	41	
+Tatabánya	148	8	37	23	15	11	59	
+Veszprém	121	32	50	7	14	13	25	
+Zalaegerszeg	103	23	50	6	15	11	20	
+Átlag								
+Átlag felettiek								

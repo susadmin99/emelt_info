@@ -1,0 +1,28 @@
+id	nev
+1	Ács János
+2	Békés András
+3	Dömötör András
+4	Gálffi László
+5	Hegedűs D. Géza
+6	Huszti Péter
+7	Iglódi István
+8	Jordán Tamás
+9	Kazimir Károly
+10	Kerényi Imre
+11	Lukáts Andor
+12	Benedek Miklós
+13	Forgács Péter
+14	Horvai István
+15	Kállai Ferenc
+16	Major Tamás
+17	Marton Endre
+18	Máté Gábor
+19	Pártos Géza
+20	Simon Zsuzsa
+21	Vámos László
+22	Várkonyi Zoltán
+23	Zsámbéki Gábor
+24	Zsótér Sándor
+31	Marton László
+32	Szinetár Miklós
+33	Szirtes Tamás

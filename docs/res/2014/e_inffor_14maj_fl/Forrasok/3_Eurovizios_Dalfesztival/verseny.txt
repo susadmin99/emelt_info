@@ -1,0 +1,58 @@
+ev	datum	varos	orszag	induloszam
+1991	1991.05.04	Róma	Olaszország	22
+2000	2000.05.13	Stockholm	Svédország	24
+1974	1974.04.06	Brighton	Egyesült királyság	17
+1972	1972.03.25	Edinburgh	Egyesült királyság	18
+1969	1969.03.29	Madrid	Spanyolország	16
+1960	1960.03.29	London	Egyesült királyság	13
+1985	1985.05.04	Göteborg	Svédország	19
+2004	2004.05.15	Isztambul	Törökország	36
+1977	1977.05.07	London	Egyesült királyság	18
+1973	1973.04.07	Luxembourg	Luxemburg	17
+2003	2003.05.24	Riga	Lettország	26
+1997	1997.05.03	Dublin	Írország	25
+1970	1970.03.21	Amszterdam	Hollandia	12
+1982	1982.04.24	Harrogate	Egyesült királyság	18
+1981	1981.04.04	Dublin	Írország	20
+1957	1957.03.03	Frankfurt	Németország	10
+2005	2005.05.21	Kijev	Ukrajna	39
+2010	2010.05.29	Bærum	Norvégia	39
+1971	1971.04.03	Dublin	Írország	18
+1983	1983.04.23	München	Németország	20
+1987	1987.05.09	Brüsszel	Belgium	22
+1988	1988.04.30	Dublin	Írország	21
+1959	1959.03.11	Cannes	Franciaország	11
+1976	1976.04.03	Hága	Hollandia	18
+1978	1978.04.22	Párizs	Franciaország	20
+1963	1963.03.23	London	Egyesült királyság	16
+1965	1965.03.20	Nápoly	Olaszország	18
+1990	1990.05.05	Zágráb	Jugoszlávia	22
+1958	1958.03.12	Hilversum	Hollandia	10
+1989	1989.05.06	Lausanne	Svájc	22
+2009	2009.05.16	Moszkva	Oroszország	42
+2013	2013.05.18	Malmö	Svédország	39
+1998	1998.05.09	Birmingham	Egyesült királyság	25
+1994	1994.04.30	Dublin	Írország	25
+1975	1975.03.22	Stockholm	Svédország	19
+1999	1999.05.29	Jeruzsálem	Izrael	23
+1962	1962.03.18	Luxembourg	Luxemburg	16
+2001	2001.05.12	Koppenhága	Dánia	23
+1979	1979.03.31	Jeruzsálem	Izrael	19
+1966	1966.03.05	Luxembourg	Luxemburg	18
+2008	2008.05.24	Belgrád	Szerbia	43
+1986	1986.05.03	Bergen	Norvégia	20
+1964	1964.03.21	Koppenhága	Dánia	16
+1995	1995.05.13	Dublin	Írország	23
+1996	1996.05.18	Oslo	Norvégia	23
+1980	1980.04.19	Hága	Hollandia	19
+2007	2007.05.12	Helsinki	Finnország	42
+2006	2006.05.20	Athén	Görögország	37
+1961	1961.03.18	Cannes	Franciaország	16
+2002	2002.05.25	Tallinn	Észtország	24
+2012	2012.05.26	Baku	Azerbajdzsán	42
+1993	1993.05.15	Millstreet	Írország	25
+2011	2011.05.14	Düsseldorf	Németország	43
+1992	1992.05.09	Malmö	Svédország	23
+1984	1984.05.05	Luxembourg	Luxemburg	19
+1968	1968.04.06	London	Egyesült királyság	17
+1967	1967.04.08	Bécs	Ausztria	17

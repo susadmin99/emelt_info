@@ -1,0 +1,7 @@
+<map name="map">
+<area shape="poly" title=" Klarinét " coords="79,140,14,275,32,286,83,144,80,139" alt=" Klarinét " href="***" />
+<area shape="poly" title=" Harsona " coords="202,84,353,4,363,12,361,30,208,112,203,86" alt=" Harsona " href="***" />
+<area shape="poly" title=" Dob " coords="253,266,245,308,423,312,443,301,403,205,253,267" alt=" Dob " href="***" />
+<area shape="poly" title=" Trombita " coords="392,15,383,17,378,26,378,32,384,35,392,35,417,46,410,64,479,98,487,86,498,92,501,91,399,34,392,22,391,16" alt=" Trombita " href="***" />
+<area shape="poly" title=" Szaxofon " coords="661,143,678,174,678,183,617,246,592,284,594,295,601,301,612,305,623,301,641,278,659,265,662,268,656,244,642,253,615,283,614,281,682,188,686,179,673,157,665,142,662,142" alt=" Szaxofon " href="***" />
+</map>

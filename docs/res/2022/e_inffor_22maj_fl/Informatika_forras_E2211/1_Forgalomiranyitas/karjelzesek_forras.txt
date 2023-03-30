@@ -1,0 +1,31 @@
+﻿1. dia
+A rendőr karjelzései
+
+2. dia
+Szabad jelzés
+A rendőr a kinyújtott karjával párhuzamos irányból érkezők részére szabad utat jelez az egyenesen haladóknak és a jobbra kanyarodóknak.
+
+
+3. dia
+Tilos jelzés
+A rendőr a kinyújtott karjára merőleges irányból érkezők részére a továbbhaladás tilalmát jelzi.
+
+4. dia
+Karjelzés hiánya
+Karjelzés hiányában a rendőr vállával párhuzamosan érkezők továbbhaladhatnak, a vállára merőleges irányból érkezők részére tilos a továbbhaladás.
+
+5. dia
+Forgalom irányváltása
+A rendőr függőlegesen feltartott karja a forgalom irányának megváltozását jelzi.
+
+6. dia
+Balra kanyarodás rendőr mögött
+Ha a rendőr a jobb karjával maga mögé int, bal tenyerét pedig a balról jövő forgalom felé fordítja, a jobbról érkező járművek - a rendőr mögött - balra bekanyarodhatnak.
+
+7. dia
+Balra kanyarodás rendőr előtt
+Ha a rendőr jobb karját vízszintesen maga elé nyújtja, bal karjával pedig maga elé int, a balról érkező járművek - a rendőr előtt - balra bekanyarodhatnak.
+
+8. dia
+Gyorsítás, lassítás
+Ha a rendőr kinyújtott karjával maga felé int, ezzel a sebesség növelésére, ha pedig kinyújtott karját le- és felfelé mozgatja, a sebesség csökkentésére ad utasítást.

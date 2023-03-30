@@ -1,0 +1,54 @@
+﻿body {
+	font-size: 11pt;
+	
+	margin: 0px;
+	padding: 0px;
+}
+
+p{
+	
+}
+
+p.bev{
+	
+}
+
+
+hr {
+	
+}
+
+h1, h2 {
+	
+	padding: 5px;
+}
+
+h2 {
+	
+}
+
+#tartalom {
+	
+	margin: 0 auto 0 auto;
+	text-align: left;
+	
+}
+
+#oszlop1, #oszlop2, #oszlop3 {
+    float: left;
+    padding: 0px;
+   	
+}
+
+.kep {
+	
+}
+
+a:link {
+	
+}
+
+#lablec {
+    clear: both;
+    
+}

@@ -1,0 +1,50 @@
+﻿body {
+	font-family: verdana;
+	font-size: 11pt;
+	background-image: url('bg.png');
+	margin: 0px;
+	padding: 0px;
+}
+
+p{
+	text-align:justify;
+}
+
+hr {
+	width: 60%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+	color: #347235;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#tartalom {
+	width: 850px;
+	margin: 0 auto 0 auto;
+	padding: 0px 10px;
+	text-align: left;
+	background-color: #ffffff;
+}
+
+#nev{
+	font-size: 16px;
+	font-style:italic;
+}
+
+
+.kep {
+	float:right;
+	border:1px solid;
+	margin-left: 5px;
+}
+
+a:link, a:active, a:visited, a:hover {
+	color: #008080;
+}
+

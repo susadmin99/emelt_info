@@ -1,0 +1,3230 @@
+id	nev	nem	szuletett	elhunyt	identitas
+1	Takács Lajos	f	1924	2015	amerikai-magyar
+2	Verzár Frigyes / Verzár, Fritz	f	1886	1979	svájci magyar
+3	Bernard, Jean Alfred	f	1907	2006	francia
+4	Wolf, Julius	f	1862	1937	német
+5	Schöpflin Aladár	f	1872	1950	
+6	Chua, Leon Ong	f	1936		amerikai
+7	Péli Gábor	f	1956		hollandiai magyar
+8	Lengyel Béla	f	1844	1913	
+9	Schmidt, Wilhelm Adolf	f	1812	1887	német
+10	Lányi Károly	f	1812	1856	
+11	Károlyi István	f	1845	1907	
+12	Hooker, Joseph Dalton	f	1817	1911	angol
+13	Szentkláray Jenő	f	1843	1925	
+14	Orosz István	f	1935		
+15	Keller András / Keller, Andrew	f	1925	1999	nagy-britanniai magyar
+16	Hajdú Péter	f	1923	2002	
+17	Komlós János	f	1942		amerikai-magyar
+18	Gegesi Kiss Pál	f	1900	1993	
+19	Melehov, Ivan Sztyepanovics	f	1905	1994	orosz
+20	Moscovici, Serge	f	1925	2014	franciaországi román
+21	Tulassay Zsolt	f	1944		
+22	Gábor Csilla	n	1963		romániai magyar
+23	Barabás Samu	f	1855	1940	
+24	Blohincev, Dmitrij Ivanovics	f	1908	1979	orosz
+25	Mróz, Zenon	f	1930		lengyel
+26	Waitz, Georg	f	1813	1886	német
+27	Verő József	f	1904	1985	
+28	Helmholtz, Hermann Ludwig von	f	1821	1894	német
+29	Farkas Tibor	f	1929	2003	
+30	Beke Manó	f	1862	1946	
+31	Steiner Lajos	f	1871	1944	
+32	Árvay Gergely	f	1790	1871	
+33	Maróth Miklós	f	1943		
+34	Horváth Ignác	f	1843	1881	
+35	Riedl Szende	f	1831	1873	
+36	Vajta László	f	1920	1979	
+37	Berzsenyi Dániel	f	1776	1836	
+38	Bogoljubov, Nyikolaj Nyikolajevics	f	1909	1992	orosz
+39	Pantó Gábor	f	1917	1972	
+40	Kántás Károly	f	1912	1991	
+41	Kandó Kálmán	f	1869	1931	
+42	Szabó Miklós	f	1940		
+43	Rincsen, Bjambin	f	1905	1977	mongol
+44	Bökönyi Sándor	f	1926	1994	
+45	Rott, Rudolf	f	1926	2003	német
+46	Juhász István	f	1943		
+47	Maksimović, Zoran	f	1923	2016	szerb
+48	Julius, David	f	1955		amerikai
+49	Nathenson, Stanley G.	f	1933	2012	amerikai
+50	Káldor Miklós / Kaldor, Nicholas	f	1908	1986	nagy-britanniai magyar
+51	Balássy Ferenc	f	1821	1896	
+52	Halmos Pál	f	1916	2006	amerikai-magyar
+53	Herepei Károly	f	1802	1871	
+54	Müller Sándor	f	1903	1966	
+55	Simonovits István	f	1907	1985	
+56	Tarczy Lajos	f	1807	1887	
+57	Neilreich, August	f	1803	1871	osztrák
+58	Colasanti, Arduino	f	1877	1935	olasz
+59	Győry Tibor	f	1869	1938	
+60	Gide, Charles	f	1847	1932	francia
+61	Bruckner Győző	f	1900	1980	
+62	Kolosváry Gábor	f	1901	1968	
+63	Kis János	f	1770	1846	
+64	Komáromy András	f	1861	1931	
+65	Horvát Boldizsár	f	1822	1898	
+66	Virchow, Rudolf	f	1821	1902	német
+67	Keglevich Gábor	f	1784	1854	
+68	Demény Attila	f	1962		
+69	Radvánszky Béla	f	1849	1906	
+70	Eigen, Manfred	f	1927	2019	német
+71	Mádl Ferenc	f	1931	2011	
+72	Bóna István	f	1930	2001	
+73	Mauthner Nándor	f	1879	1944	
+74	Polner Ödön	f	1865	1961	
+75	Baird, Spencer Fullerton	f	1823	1887	amerikai
+76	Stefanovits Pál	f	1920	2016	
+77	Moravcsik Edit	n	1939		amerikai-magyar
+78	Hjelt, Sven-Erik Oskar	f	1939		finnországi svéd
+79	Kárpáti György / Karpati, George	f	1934	2009	kanadai magyar
+80	Pálffi Albert	f	1820	1897	
+81	Vadász Elemér	f	1885	1970	
+82	Bargyin, Ivan Pavlovics	f	1883	1960	orosz
+83	Gunda Béla	f	1911	1994	
+84	Carleson, Lennart Axel Edvard	f	1928		svéd
+85	Brentano, Lujo	f	1844	1931	német
+86	Csengery János Ferenc	f	1856	1945	
+87	Taine, Hippolyte Adolphe	f	1828	1893	francia
+88	Pfeffer, Wilhelm	f	1845	1920	német
+89	Székács József	f	1809	1876	
+90	Józsa János Balázs	f	1957		
+91	Salkowski, Ernst Leopold	f	1844	1923	német
+92	Hankó Vilmos	f	1854	1923	
+93	Szabó András	f	1928	2011	
+94	Mátyás Flórián	f	1818	1904	
+95	Berde Áron	f	1819	1892	
+96	Sándor György / Sandor, George N.	f	1912	1996	amerikai-magyar
+97	Sedlmayr Kurt	f	1900	1965	osztrák származású
+98	Myrdal, Karl Gunnar	f	1898	1987	svéd
+99	Kmoskó Mihály	f	1876	1931	
+100	Ponori Thewrewk Emil	f	1838	1917	
+101	Liebowitz, Harold	f	1924	2004	amerikai
+102	Wälder Gyula	f	1884	1944	
+103	Kanjuh, Vladimir I.	f	1929		szerb
+104	Vasmer, Max / Vasmer, Makszimilian Romanovics	f	1886	1962	oroszországi német
+105	Winkler Lajos	f	1863	1939	
+106	Szilágyi Dezső	f	1840	1901	
+107	Szabó Miklós, M.	f	1942		
+108	Erdélyi János	f	1814	1868	
+109	Zaránd Gergely	f	1969		
+110	Gelencsér András	f	1966		
+111	Davis, Joseph Barnard	f	1801	1881	angol
+112	Kocka, Jürgen	f	1941		német
+113	Pócs Tamás	f	1933		
+114	Teleki József	f	1790	1855	
+115	Tigyi József	f	1926	2016	
+116	Baldacci, Antonio	f	1867	1950	olasz
+117	Szász Károly	f	1865	1950	
+118	Gulyás Balázs	f	1956		svédországi magyar
+119	Podhorszky Lajos	f	1815	1891	
+120	Pilch Jenő	f	1872	1937	
+121	Borhidi Attila	f	1932		
+122	Lelley Jan Iván	f	1938		németországi magyar
+123	Mortier, Roland	f	1920	2015	belga
+124	Giljarov, Merkurij Szergejevics	f	1912	1985	orosz
+125	Miklósi Ádám	f	1962		
+126	Wéber György / Weber, George	f	1922	2011	amerikai-magyar
+127	Prónay Sándor	f	1760	1839	
+128	Kosztyuk, Platon Grigorjevics	f	1924	2010	ukrán
+129	Csiba László	f	1952		
+130	Thiers, Adolphe	f	1797	1877	francia
+131	Borsos Balázs	f	1961		
+132	Fábián Gábor	f	1795	1877	
+133	Thomas, John Meurig	f	1932		walesi
+134	Giesswein Sándor	f	1856	1923	
+135	Jánosi Béla	f	1857	1921	
+136	I. Albert	f	1848	1922	monacói
+137	Nyeszmejanov, Alekszandr Nyikolajevics	f	1899	1980	orosz
+138	Bolgár Elek	f	1883	1955	
+139	Ipolyi Arnold	f	1823	1886	
+140	Ábrahám Ambrus Andor	f	1893	1989	
+141	Biró Péter	f	1930		
+142	Szalai Júlia	n	1948		
+143	Garay János	f	1812	1853	
+144	Fésüs László	f	1947		
+145	Schréter Zoltán	f	1882	1970	
+146	Menyhárth Gáspár	f	1868	1940	
+147	Dobrzański, Bohdan	f	1909	1987	lengyel
+148	Gabelentz, Georg von der	f	1840	1893	német
+149	Sievers, Eduard	f	1850	1932	német
+150	Went István	f	1899	1963	
+151	Sályi Gyula	f	1903	1982	
+152	Pápay Gyula	f	1939		németországi magyar
+153	Szalay Imre	f	1787	1848	
+154	Balogh Sámuel	f	1796	1867	
+155	Kápolnai Pauer István	f	1833	1896	
+156	Róbert László	f	1924	2018	franciaországi magyar
+157	Mössbauer, Rudolf Ludwig	f	1929	2011	német
+158	Eötvös József	f	1813	1871	
+159	Schott, Wilhelm	f	1802	1889	német
+160	Csibi Sándor	f	1927	2003	
+161	Mommsen, Theodor	f	1817	1903	német
+162	Kende Péter	f	1927		
+163	Szamarin, Alekszandr Mihajlovics	f	1902	1970	orosz
+164	Beale, Hugh	f	1948		angol
+165	Stumpers, Frans	f	1911	2003	holland
+166	Vadnai Károly	f	1832	1902	
+167	Szilády Áron	f	1837	1922	
+168	Radnóti Sándor	f	1946		
+169	Horváth Jenő	f	1852	1915	
+170	Cotta, Carl Bernhard von	f	1808	1879	német
+171	Grabmann, Martin	f	1875	1949	német
+172	Sárközy András	f	1941		
+173	Vitković, Gavrilo	f	1830	1902	szerb
+174	Lister, Joseph	f	1827	1912	angol
+175	Debreczeni Attila	f	1959		
+176	Khuen-Héderváry Károly	f	1849	1918	
+177	Korinek László	f	1946		
+178	Ramstedt, Gustaf John	f	1873	1950	finnországi svéd
+179	Stein, Ludwig	f	1859	1930	magyar származású német
+180	Mihalkovics Géza	f	1844	1899	
+181	Malissa, Hanns	f	1920	2010	osztrák
+182	Somssich Pongrác	f	1788	1849	
+183	Császár Elemér	f	1891	1955	
+184	Áprily Lajos	f	1887	1967	
+185	Kreybig Lajos	f	1879	1956	
+186	Fáy András	f	1786	1864	
+187	Rau, Karl Heinrich	f	1792	1870	német
+188	Fodor József	f	1843	1901	
+189	Maliga Pál	f	1946		amerikai-magyar
+190	Zelovich Kornél	f	1869	1935	
+191	Poór Imre	f	1823	1897	
+192	Kerecsényi Dezső	f	1898	1945	
+193	Friedmann Imre	f	1921	2007	amerikai-magyar
+194	Tusnády Gábor	f	1941		
+195	Schell, Jozef Stefaan	f	1935	2003	belga
+196	Hoffmann István	f	1953		
+197	Zichy István	f	1879	1951	
+198	Rebek, Julius	f	1944		amerikai-magyar
+199	Poszler György	f	1931	2015	
+200	Gombocz Endre	f	1882	1945	
+201	Szabó Zoltán Gábor	f	1908	1995	
+202	Marczali Henrik	f	1856	1940	
+203	Hasenfratz Péter	f	1946	2016	svájci magyar
+204	Winter Ernő	f	1897	1971	
+205	Fettweis, Günter B.	f	1924	2018	osztrák
+206	Tóth Ágoston Rafael	f	1812	1889	
+207	Csermely Péter	f	1958		
+208	Sakmann, Bert	f	1942		német
+209	Dohovics Vazul	f	1783	1849	
+210	Melich János	f	1872	1963	
+211	Antoni Ferenc	f	1928	1991	
+212	Nopcsa Ferenc	f	1877	1933	
+213	Sauvageot, Aurélien	f	1897	1988	francia
+214	Péntek János	f	1941		romániai magyar
+215	Zažímalová, Eva	n	1955		cseh
+216	Fayer László	f	1842	1906	
+217	Jendrassik Jenő	f	1824	1891	
+218	Csáky Móric	f	1936		ausztriai magyar
+219	Bierwisch, Manfred	f	1930		német
+220	Szemerényi Oszvald	f	1913	1996	
+221	Lenhossék József	f	1818	1888	
+222	Pálos Ádám László	f	1912	1983	
+223	Bopp, Franz	f	1791	1867	német
+224	Margó Tivadar	f	1816	1896	
+225	Kertész János	f	1950		
+226	Inczédy János	f	1923	2012	
+227	Pukánszky Béla	f	1950		
+228	Ráth Károly	f	1829	1868	
+229	Zoltai Tibor	f	1925	2003	amerikai-magyar
+230	Németh Tamás	f	1952		
+231	Szabó Imre	f	1912	1991	
+232	Bohr, Niels	f	1885	1962	dán
+233	Szarka László	f	1954		
+234	Dausset, Jean-Baptiste-Gabriel-Joachim	f	1916	2009	francia
+235	Thirring, Walter	f	1927	2014	osztrák
+236	Török László	f	1941		
+237	Lenhossék Mihály	f	1863	1937	
+238	Pauler Ákos	f	1876	1933	
+239	Pozsgay Vince	f	1946		amerikai-magyar
+240	Hadzsiolov, Aszen Ivanov	f	1903	1996	bolgár
+241	Tóth József	f	1933		kanadai magyar
+242	Flourens, Marie-Jean-Pierre	f	1794	1867	francia
+243	Ebers, Georg	f	1837	1898	német
+244	Wellmann Imre	f	1909	1994	
+245	Maucha Rezső	f	1884	1962	
+246	Herzog József	f	1880	1941	
+247	Suphi bég	f		1886	török
+248	Kálmán Rudolf Emil / Kalman, Rudolf E.	f	1930	2016	amerikai-magyar
+249	Mościcki, Ignacy	f	1867	1946	lengyel
+250	Nielsen, Konrad	f	1875	1953	norvég
+251	Rapcsák András	f	1914	1993	
+252	Wiklund, Karl Bernhard	f	1868	1934	svéd
+253	Zemann, Josef	f	1923		osztrák
+254	Schlauch Lőrinc	f	1824	1902	
+255	Haidinger, Wilhelm Karl	f	1795	1871	osztrák
+256	Fettich Nándor	f	1900	1971	
+257	Veisz Ottó	f	1955		
+258	Pallagyin, Alekszandr Vlagyimirovics	f	1885	1972	orosz
+259	Fenzl, Eduard	f	1808	1879	osztrák
+260	Halász Géza	f	1816	1888	
+261	Schiller, Peter H.	f	1931		német
+262	Békefi Remig	f	1858	1924	
+263	Görög Sándor	f	1933		
+264	Révész Imre	f	1826	1881	
+265	Pándi Pál	f	1926	1987	
+266	Kétly Károly	f	1839	1927	
+267	Török Aurél	f	1842	1912	
+268	Kosztarab Mihály / Kosztarab, Michael	f	1927		amerikai-magyar
+269	Pungor Ernő	f	1923	2007	
+270	Wiedemann, Alfred	f	1856	1936	német
+271	Tallgren, Aarne Michaël	f	1885	1945	finn
+272	Mosonyi Emil	f	1910	2009	
+273	Jakabházy Zsigmond	f	1867	1945	
+274	Teza, Emilio	f	1831	1912	olasz
+275	Fonyó Zsolt	f	1943	2005	
+276	Lénárd László	f	1944		
+277	Kuncz Ödön	f	1884	1965	
+278	Nagy Péter	f	1920	2010	
+279	Bárdos Tamás / Bardos, Thomas J.	f	1915	2012	amerikai-magyar
+280	Bruner, Jerome Seymour	f	1915	2016	amerikai
+281	Petényi Salamon János	f	1799	1855	
+282	Horvát Árpád	f	1820	1894	
+283	Palotai József	f	1806	1867	
+284	Nyikolszkij, Szergej Mihajlovics	f	1905	2012	orosz
+285	Bene Ferenc	f	1775	1858	
+286	Nagy István	f	1931	2015	
+287	György Lajos	f	1890	1950	romániai magyar
+288	Hauszmann Alajos	f	1847	1926	
+289	Vahlquist, Bo Conradsson	f	1909	1978	svéd
+290	Debye, Peter Joseph William	f	1884	1966	amerikai-holland
+291	Hintikka, Jaakko	f	1929	2015	finn
+292	Zrínyi Miklós	f	1949		
+293	Kautz Gyula	f	1829	1909	
+294	Suhayda János	f	1818	1881	
+295	Bócsa Iván	f	1926	2007	
+296	Kékedy László	f	1920	2004	romániai magyar
+297	Dobozy Attila	f	1939		
+298	Hangody László	f	1958		
+299	Jánossy Lajos	f	1912	1978	
+300	Lewes, George Henry	f	1817	1878	angol
+301	Gellman, Samuel	f	1955		amerikai
+302	Endrődi Sándor	f	1850	1920	
+303	Laurent, Torvard	f	1930	2009	svéd
+304	Salomaa, Arto	f	1934		finn
+305	Vicsek Tamás	f	1948		
+306	Csörnyei Marianna	n	1975		amerikai-magyar
+307	Keszthelyi Lajos	f	1927		
+308	Gajzágó László	f	1883	1953	
+309	Péczely József	f	1789	1849	
+310	Szász Domokos	f	1941		
+311	Domokos Gábor	f	1933		amerikai-magyar
+312	Kovács Kálmán	f	1926		kanadai magyar
+313	Székely György	f	1926	2017	
+314	Tessedik Ferenc	f	1800	1844	
+315	Kovács Pál	f	1808	1886	
+316	Rényi Alfréd	f	1921	1970	
+317	Millner Tivadar	f	1899	1988	
+318	Burger Kálmán	f	1929	2000	
+319	Nagy Béla	f	1941		
+320	Waldeyer-Hartz, Heinrich Wilhelm Gottfried von	f	1836	1921	német
+321	Simor János	f	1813	1891	
+322	Tisza Kálmán	f	1830	1902	
+323	Srbik, Heinrich von	f	1878	1951	osztrák
+324	Kovács Zoltán	f	1960		
+325	Maulde-La-Clavière, René	f	1848	1902	francia
+326	Kerisel, Jean	f	1908	2005	francia
+327	Dussieux, Louis	f	1815	1894	francia
+328	Voinovich Géza	f	1877	1952	
+329	Antal Mihály	f	1792	1850	
+330	Dorner József	f	1808	1873	
+331	Bosworth, Clifford Edmund	f	1928	2015	angol
+332	Baló József	f	1895	1979	
+333	Nagy László	f	1966		
+334	Gyulai Zoltán	f	1887	1968	
+335	Fellegi Iván Péter	f	1935		kanadai magyar
+336	Pekár Gyula	f	1867	1937	
+337	Hunfalvy Pál	f	1810	1891	
+338	Kniezsa István	f	1898	1965	
+339	Székely István	f	1861	1927	
+340	Lónyay Menyhért	f	1822	1884	
+341	Spät András	f	1940		
+342	Podmaniczky Géza	f	1839	1923	
+343	Benedek József	f	1969		romániai magyar
+344	Schlesinger Lajos	f	1864	1933	
+345	Lapis Károly	f	1926		
+346	Török József	f	1813	1894	
+347	Kosutány Tamás	f	1848	1915	
+348	Ernszt, Lev Konsztantyinovics	f	1929	2012	orosz
+349	Makkai Mihály	f	1939		kanadai magyar
+350	Che, Michel	f	1941		francia
+351	Keményfy János	f	1875	1943	
+352	Schumann, Richard	f	1864	1945	német
+353	Schügerl Károly / Schügerl, Karl	f	1927	2018	németországi magyar
+354	Kováts Ferenc	f	1873	1956	
+355	Bartók Béla	f	1881	1945	
+356	Hacsaturov, Tigran Szergejevics	f	1906	1989	orosz
+357	Mello, Craig C.	f	1960		amerikai
+358	Szőllősy Ferenc	f	1796	1854	
+359	Méhes Sámuel	f	1785	1852	
+360	Gegő Elek	f	1805	1844	
+361	Mikó Imre	f	1805	1876	
+362	Csákiné Michéli Erika	n	1959		
+363	Fényes Elek	f	1807	1876	
+364	Mészáros János	f	1927	2018	
+365	Hanák Péter	f	1921	1997	
+366	Gergely Pál István	f	1947		
+367	Gelei József	f	1754	1838	
+368	Korponay János	f	1819	1881	
+369	Csáki Frigyes	f	1921	1977	
+370	Vámos Tibor	f	1926		
+371	Szászy Béla	f	1865	1931	
+372	Hajnal András	f	1931	2016	
+373	Brusa, Emilio	f	1843	1908	olasz
+374	Tóth Sándor	f	1828	1862	
+375	Kövér György	f	1949		
+376	Solymosi Frigyes	f	1931	2018	
+377	Theiner, Augustin	f	1804	1874	német
+378	Nurse, Paul	f	1949		angol
+379	Laky Dezső	f	1887	1962	
+380	Cocking, Edward Charles Daniel	f	1931		angol
+381	Jobst Kázmér	f	1924	2016	
+382	Takács László Kristóf	f	1955		franciaországi magyar
+383	Snouck Hurgronje, Christiaan	f	1857	1936	holland
+384	Nernst, Walther Hermann	f	1864	1941	német
+385	Kuti Gyula / Kuti, Julius	f	1940		amerikai-magyar
+386	Curtius, Georg	f	1820	1885	német
+387	Szécsen Antal	f	1819	1896	
+388	Ascherson, Paul	f	1834	1913	német
+389	Knözinger, Helmut	f	1935	2014	német
+390	Möller István	f	1860	1934	
+391	Duby, Georges	f	1919	1997	francia
+392	Huszár Rudolf	f	1941		amerikai-magyar
+393	Szilágyi István	f	1819	1897	
+394	Darboux, Jean Gaston	f	1842	1917	francia
+395	Hersko, Avram	f	1937		izraeli magyar
+396	Gáspár Péter	f	1960		
+397	Szádeczky-Kardoss Lajos	f	1859	1935	
+398	Papp Ferenc	f	1930	2001	
+399	Tietze, Lutz F.	f	1942		német
+400	Férussac, André Étienne d’Audebert de	f	1786	1836	francia
+401	Hottovy Tibor	f	1923	2017	svédországi magyar
+402	Bay Zoltán	f	1900	1992	
+403	Issekutz Béla	f	1886	1979	
+404	Riedl Frigyes	f	1856	1921	
+405	Tomcsányi Móric	f	1878	1951	
+406	Schmidt János	f	1935		
+407	Kolbenheyer Tibor	f	1917	1993	szlovákiai magyar
+408	Péceli Gábor	f	1950		
+409	Wlassics Gyula	f	1852	1937	
+410	Jalava, Antti Fredrik	f	1846	1909	finn
+411	Chantre, Ernest	f	1843	1924	francia
+412	Zichy Gyula	f	1871	1942	
+413	Hazay István	f	1901	1995	
+414	Mócsy János	f	1895	1976	
+415	Döme Károly	f	1768	1845	
+416	Grunert, Johann August	f	1797	1872	német
+417	Kelemen János	f	1943		
+418	Pavláth E. Attila	f	1930		amerikai-magyar
+419	Iliev, Ljubomir	f	1913	2000	bolgár
+420	Kropf Lajos	f	1852	1939	nagy-britanniai magyar
+421	Birk, Ernest	f	1810	1891	osztrák
+422	Schey János	f	1922	2010	kanadai magyar
+423	Wieseler, Friedrich Julius August	f	1811	1892	német
+424	Zilahy Lajos	f	1891	1974	
+425	Tuzson János	f	1870	1943	
+426	Kraszovszkij, Nyikolaj Nyikolajevics	f	1924	2012	orosz
+427	Dessewffy Emil	f	1814	1866	
+428	Sperlágh Beáta	n	1963		
+429	Aganbegjan, Abel Gezevics	f	1932		örmény-orosz
+430	Wach, Adolf	f	1843	1926	német
+431	Boskovits Miklós	f	1935	2011	olaszországi magyar
+432	Noe, Christian	f	1947		osztrák
+433	Akin Károly	f	1830	1893	
+434	Somlyódy László	f	1943		
+435	Horváth János	f	1878	1961	
+436	Rozlozsnik Pál	f	1880	1940	
+437	Sántha Kálmán	f	1903	1956	
+438	Sótonyi Péter	f	1938		
+439	Sági István	f	1882	1950	
+440	Várdy Béla	f	1935	2018	amerikai-magyar
+441	Haszpra Ottó	f	1928	2012	
+442	Falus András	f	1947		
+443	Záborszky László	f	1944		amerikai-magyar
+444	Horn Artúr	f	1911	2003	
+445	Bárány Imre	f	1947		
+446	Stammler, Rudolf	f	1856	1938	német
+447	Boutroux, Étienne Émile Marie	f	1845	1921	francia
+448	Riederer, Peter Franz	f	1942		német
+449	Faigel Gyula	f	1954		
+450	Jakab Elek	f	1820	1897	
+451	Rienäcker, Günther	f	1904	1989	német
+452	Béll Béla	f	1908	1988	
+453	Kerkapoly Károly	f	1824	1891	
+454	Salánki János	f	1929	2003	
+455	Horváth Zsigmond	f	1782	1845	
+456	Czuczor Gergely	f	1800	1866	
+457	Pontrjagin, Lev Szemjonovics	f	1908	1988	orosz
+458	Moór Gyula	f	1888	1950	
+459	Magda Pál	f	1770	1841	
+460	Kalmár László	f	1905	1976	
+461	Kós Károly	f	1919	1996	romániai magyar
+462	Fritz József	f	1943		
+463	Péterfi Károly	f	1790	1873	
+464	Heyrovský, Jaroslav	f	1890	1967	cseh
+465	Felinger Attila	f	1961		
+466	Boltzmann, Ludwig Eduard	f	1844	1906	osztrák
+467	Haynald Lajos	f	1816	1891	
+468	Jakab István	f	1798	1876	
+469	Horváth István Tamás	f	1953		Hong Kong-i magyar
+470	Szűcs András	f	1950		
+471	Friedlander, Gerhart	f	1916	2009	amerikai-német
+472	Pulay Péter	f	1941		amerikai-magyar
+473	Diehl, Volker	f	1938		német
+474	Németh Sándor	f	1938		romániai magyar
+475	Beloch, Karl Julius	f	1854	1929	német
+476	Salençon, Jean	f	1940		francia
+477	Tamási Áron	f	1897	1966	
+478	Du Bois, William Edward Burghardt	f	1868	1963	amerikai
+479	Somogyi Árpád	f	1937		németországi magyar
+480	Lihacsov, Dmitrij Szergejevics	f	1906	1999	orosz
+481	Thorgeirsson, Snorri S.	f	1941		amerikai-izlandi
+482	Snatzke, Günther	f	1928	1992	osztrák
+483	Dohy János	f	1934	2002	
+484	Herzberg, Gerhard	f	1904	1999	kanadai
+485	Deák Ferenc	f	1803	1876	
+486	Vachott Sándor	f	1818	1861	
+487	Szolcsányi János	f	1938	2018	
+488	Magyary-Kossa Gyula	f	1865	1944	
+489	Karger, Barry L.	f	1939		amerikai
+490	Ránki György	f	1930	1988	
+491	Istvánffi Gyula	f	1860	1930	
+492	Collinder, Björn	f	1894	1983	svéd
+493	Cajander, Aimo Kaarlo	f	1879	1943	finn
+494	Kégl Sándor	f	1862	1920	
+495	Donner, Otto	f	1835	1909	finn
+496	Friedrich, Walter	f	1883	1968	német
+497	Daim, Falko	f	1953		osztrák
+498	Rodenwaldt, Gerhard	f	1886	1945	német
+499	Tóth Dezső	f	1925	1985	
+500	Pósfai Mihály	f	1963		
+501	Miklošič, Franc	f	1813	1891	szlovén
+502	Nyáry Jenő	f	1836	1914	
+503	Planck, Max	f	1858	1947	német
+504	Dikov, Ljuben	f	1895	1973	bolgár
+505	Szekfű Gyula	f	1883	1955	
+506	Váczy János	f	1859	1918	
+507	Rajka Ödön	f	1890	1971	
+508	Tüdős Ferenc	f	1931	1998	
+509	Barnabás Beáta Mária	n	1948		
+510	Hatvani László	f	1943		
+511	Gyermek László	f	1926	2017	amerikai-magyar
+512	Lamprecht, Karl Gotthard	f	1856	1915	német
+513	Schuchardt, Hugo	f	1842	1927	német
+514	Pitajevszkij, Lev Petrovics	f	1933		orosz
+515	Széll Kálmán	f	1843	1915	
+516	Fokos-Fuchs Dávid	f	1884	1977	
+517	Alföldi Lajos	f	1927		
+518	Karádi Gábor / Karadi, Gabor M.	f	1924	2018	amerikai-magyar
+519	Hudecz Ferenc	f	1952		
+520	Hoffner József	f	1794	1841	
+521	Dudits Dénes	f	1943		
+522	DuPonceau, Peter Stephen	f	1760	1844	amerikai-francia
+523	Gryglewski, Ryszard	f	1932		lengyel
+524	Schönherr Gyula	f	1864	1908	
+525	Plate, Ludwig	f	1862	1937	német
+526	Varga József	f	1891	1956	
+527	Butler, Edward Dundas	f	1842	1919	angol
+528	Tőkei Ferenc	f	1930	2000	
+529	Angyalffy Mátyás András	f	1776	1839	
+530	Neniţescu, Costin D.	f	1902	1970	román
+531	Beöthy Zsolt	f	1848	1922	
+532	Noether, Max	f	1844	1921	német
+533	Cayley, Arthur	f	1821	1895	angol
+534	Thierry, Amédée Simon Dominique	f	1797	1873	francia
+535	Hazai György	f	1932	2016	
+536	Polónyi István	f	1930		németországi magyar
+537	Reményi Károly	f	1934		
+538	Kennedy P. József	f	1928		amerikai-magyar
+539	Kádár Béla	f	1934		
+540	Tuschák Róbert	f	1927	2018	
+541	Atkinson, Edwin Felix Thomas	f	1840	1890	ír
+542	Thomsen, Vilhelm	f	1842	1927	dán
+543	Demain, Arnold L.	f	1927		amerikai
+544	Kolosváry Sándor	f	1840	1922	
+545	Gorove László	f	1780	1839	
+546	Raven, Peter H.	f	1936		amerikai
+547	Maggiorotti, Leone Andrea	f	1860	1940	olasz
+548	Patthy László	f	1943		
+549	Imre Sándor	f	1820	1900	
+550	Dézsi Lajos	f	1868	1932	
+551	Bunyitay Vince	f	1837	1915	
+552	Fekete Jenő	f	1880	1943	
+553	Schleicher, August	f	1821	1868	német
+554	Streissler, Erich Wolfgang	f	1933		osztrák
+555	Kolumbán József	f	1935		romániai magyar
+556	Nemecz Ernő	f	1920		
+557	Pécsi Márton	f	1923	2003	
+558	Kiss László / Kish, Leslie	f	1910	2000	amerikai-magyar
+559	Simonyi Károly / Simonyi, Charles	f	1948		amerikai-magyar
+560	Jánossy Andor	f	1908	1975	
+561	Berzeviczy Vince	f	1781	1834	
+562	Eörsi Gyula	f	1922	1992	
+563	Horn, Émile	f	1858	1937	francia
+564	Lovász László	f	1948		
+565	Soltész Iván	f	1964		amerikai-magyar
+566	Szegedy Ferenc	f	1787	1848	
+567	Köteles Sámuel	f	1770	1831	
+568	Roska Tamás	f	1940	2014	
+569	Tóth Miklós	f	1950		
+570	Szentágothai János	f	1912	1994	
+571	Evans, Robert John Weston	f	1943		angol
+572	Rajki Sándor	f	1921	2007	
+573	Lönnrot, Elias	f	1802	1884	finn
+574	Mandl Lajos / Mandl, Louis	f	1812	1881	franciaországi magyar
+575	Nowotny, Hans	f	1911	1996	osztrák
+576	Blaskó Gábor	f	1950		
+577	Förster Aurél	f	1876	1962	
+578	Láng Adolf Ferenc	f	1795	1863	
+579	Fabritius, Karl	f	1826	1881	
+580	Lobanov, Pavel Pavlovics	f	1902	1985	orosz
+581	Győrffy Barna	f	1911	1970	
+582	Schenek István	f	1830	1909	
+583	Pesty Frigyes	f	1823	1889	
+584	Gamkrelidze, Tamaz	f	1929		grúz
+585	Lukács Móric	f	1812	1881	
+586	Wetzel, Robert G.	f	1936	2005	amerikai
+587	Japikse, Nicolas	f	1872	1944	holland
+588	Kováts Mihály	f	1762	1851	
+589	Parieu, Félix Esquirou de	f	1815	1893	francia
+590	Bolte, Johannes	f	1858	1937	német
+591	Uray Zoltán	f	1931		romániai magyar
+592	Balás Károly Antal	f	1877	1961	
+593	Rusznyák István	f	1889	1974	
+594	Bella Lajos	f	1850	1937	
+595	Nagy László	f	1961		romániai magyar
+596	Pflüger, Eduard	f	1829	1910	német
+597	Sitkei György	f	1931		
+598	Schleich, Wolfgang	f	1957		német
+599	Balla Károly	f	1792	1873	
+600	Péter Mihály Heinrich	f	1929		romániai magyar
+601	Berde Botond	f	1919	2014	svájci magyar
+602	Ivánka Endre	f	1902	1974	
+603	Bársony István	f	1948		
+604	Vámbéry Ármin	f	1832	1913	
+605	Romwalter Alfréd	f	1890	1954	
+606	Balassa János	f	1814	1868	
+607	Habsburg József Ágost főherceg	f	1872	1962	
+608	Staden, Johannes van	f	1939		dél-afrikai
+609	Prohászka Ottokár	f	1858	1927	
+610	Hajnal Zoltán	f	1933		kanadai magyar
+611	Láng Nándor	f	1871	1952	
+612	Tóth Kálmán	f	1831	1881	
+613	Babbage, Charles	f	1791	1871	angol
+614	Réthy László	f	1851	1914	
+615	Hajnik Imre	f	1840	1902	
+616	Vaszary Kolos	f	1832	1915	
+617	Kapolyi László	f	1932	2014	
+618	Balla Antal	f	1886	1953	
+619	Nusser Zoltán	f	1968		
+620	Tarján Gusztáv	f	1907	1998	
+621	Demetrovics János	f	1946		
+622	Barbier de Meynard, Charles	f	1826	1908	francia
+623	Vörösmarty Mihály	f	1800	1855	
+624	Nagy Ferenc	f	1852	1928	
+625	Marosi Ernő	f	1940		
+626	Róna-Tas András	f	1931		
+627	Lipthay Sándor	f	1847	1905	
+628	Kulcsár Szabó Ernő	f	1950		
+629	Boué, Ami	f	1794	1881	osztrák
+630	Solymosi László	f	1944		
+631	Szigligeti Ede	f	1814	1878	
+632	Stáhly Ignác	f	1787	1849	
+633	Ting, Samuel C. C.	f	1936		amerikai
+634	Gothard Jenő	f	1867	1909	
+635	Ravasz László	f	1882	1975	
+636	Bolyai Farkas	f	1775	1856	
+637	Jireček, Josef	f	1825	1888	cseh
+638	Enyedi György	f	1930	2012	
+639	Apponyi György	f	1808	1899	
+640	Wied, David de	f	1925	2004	holland
+641	Jászay Pál	f	1809	1852	
+642	Insperger Tamás	f	1976		
+643	Weiszfeiler Gyula	f	1902	1984	
+644	Márkus György	f	1934	2016	ausztráliai magyar
+645	Erman, Adolf	f	1854	1937	német
+646	Dékány Imre	f	1946		
+647	Doby Géza	f	1877	1968	
+648	Keldis, Msztyiszlav Vszevolodovics	f	1911	1978	lett
+649	Tschermak, Erich	f	1871	1962	osztrák
+650	Köves-Zulauf Tamás	f	1923		németországi magyar
+651	Plósz Sándor	f	1846	1925	
+652	Téglás Gábor	f	1848	1916	
+653	Simon, Wilhelm	f	1929	1992	svájci
+654	Erdődy Sándor Lajos	f	1802	1881	
+655	Hill, John Edward Christopher	f	1912	2003	angol
+656	Bunsen, Robert Wilhelm Eberhard	f	1811	1899	német
+657	Rapoport, Samuel Mitja	f	1912	2004	német
+658	Wittmann Ferenc	f	1860	1932	
+659	Szontagh Gusztáv	f	1793	1858	
+660	Ernster László / Ernster, Lars	f	1920	1998	svédországi magyar
+661	Hrisztov, Vladimir	f	1902	1979	bolgár
+662	Kovács Ferenc	f	1823	1895	
+663	Kollár János	f	1945	2011	
+664	Beér János Miklós	f	1923	2018	amerikai-magyar
+665	Chmel, Joseph	f	1798	1858	osztrák
+666	Pauler Gyula	f	1841	1903	
+667	Solymos Rezső	f	1929		
+668	Dóczi Tamás Péter	f	1949		
+669	Rátz István	f	1860	1917	
+670	Totik Vilmos	f	1954		
+671	Fábry Zsuzsanna	n	1956		amerikai-magyar
+672	Vangerow, Karl Adolph von	f	1808	1870	német
+673	Downs, Diarmuid	f	1922	2014	angol
+674	Simon Sándor	f	1923	1989	
+675	Balaban, Alexandru T.	f	1931		román
+676	Galgóczy Károly	f	1823	1916	
+677	Friss István	f	1903	1976	
+678	Dedek Crescens Lajos	f	1862	1933	
+679	Åström, Karl Johan	f	1934		svéd
+680	Forgó György	f	1787	1835	
+681	Balassa Béla	f	1928	1991	amerikai-magyar
+682	Staub Móric	f	1842	1914	
+683	Caglioti, Luciano	f	1933		olasz
+684	Sólyom Jenő	f	1940		
+685	Zechmeister László	f	1889	1972	
+686	Freycinet, Charles de	f	1828	1923	francia
+687	Szász Károly	f	1829	1905	
+688	Jacob, François	f	1920	2013	francia
+689	Pápay József	f	1939	2017	
+690	Nagy Ernő	f	1853	1921	
+691	Kedrov, Bonyifatyij Mihajlovics	f	1903	1985	orosz
+692	Szalai Sándor	f	1912	1983	
+693	Ács J. Zoltán	f	1947		amerikai-magyar
+694	Salam, Abdus / Szalám, Abdusz	f	1926	1996	pakisztáni
+695	Hahn István	f	1913	1984	
+696	Géczy Barnabás	f	1925		
+697	Paszlavszky József	f	1846	1919	
+698	Brassai Zoltán	f	1935		romániai magyar
+699	Klinghammer István	f	1941		
+700	Hegedüs Lóránt	f	1872	1943	
+701	Moritz, Helmut	f	1933		osztrák
+702	Tocqueville, Alexis de	f	1805	1859	francia
+703	Karácsonyi János	f	1858	1929	
+704	Hampel József	f	1849	1913	
+705	Engler, Adolf	f	1844	1930	német
+706	Halasi Kun György	f	1916	2011	amerikai-magyar
+707	Nagy-Tóth Ferenc	f	1929		romániai magyar
+708	Benkő Samu	f	1928		romániai magyar
+709	Gaál Jenő	f	1846	1934	
+710	Hevesi Gyula	f	1890	1970	
+711	Telegdi-Roth Károly	f	1886	1955	
+712	Böckh Hugó	f	1874	1931	
+713	Petrovics Frigyes Keresztély	f	1799	1836	
+714	Papp László	f	1946		
+715	Voszka Éva	n	1953		
+716	Kudrna, Karel	f	1924	2014	cseh
+717	Pátzay Pál	f	1896	1979	
+718	Szendrei János	f	1857	1927	
+719	Papp Endre	f	1896	1991	nagy-britanniai magyar
+720	Pulszky Károly	f	1853	1899	
+721	Singer, Wolf	f	1943		német
+722	Bragg, William Henry	f	1862	1942	angol
+723	Zichy Géza	f	1849	1924	
+724	Zemanek, Heinz	f	1920	2014	osztrák
+725	Kiss Lajos	f	1922	2003	
+726	Sainte-Claire Deville, Henri Étienne	f	1818	1881	francia
+727	Warga János	f	1804	1875	
+728	Ruzicka, Thomas	f	1952		német
+729	Huber, Josef Franz Karl	f	1928	2000	osztrák
+730	Telegdy Gyula	f	1935		
+731	Finkey Ferenc	f	1870	1949	
+732	Fedele, Pietro	f	1873	1943	olasz
+733	Erdős G. Ervin	f	1922		amerikai-magyar
+734	Fényi Gyula	f	1845	1927	
+735	Regnault, Henri Victor	f	1810	1878	francia
+736	Pataki József	f	1908	1993	romániai magyar
+737	Asbóth János	f	1845	1911	
+738	Ussani, Vincenzo	f	1870	1952	olasz
+739	Mothes, Kurt	f	1900	1983	német
+740	Nyíri János Kristóf	f	1944		
+741	Csécsi Nagy Imre	f	1804	1847	
+742	Heller Farkas	f	1877	1955	
+743	Király Zoltán	f	1925		
+744	Toldy Ferenc	f	1805	1875	
+745	Apáthy István, ifj.	f	1863	1922	
+746	Gács Péter	f	1947		amerikai-magyar
+747	Böhm, Jaroslav	f	1901	1962	cseh
+748	Tyihonov, Andrej Nyikolajevics	f	1906	1993	orosz
+749	Balogh Ernő	f	1890	1964	
+750	Nyiry István	f	1776	1838	
+751	Schramm, David Norman	f	1945	1997	amerikai
+752	Plósz Pál	f	1844	1902	
+753	Lovas István	f	1931	2014	
+754	Hobsbawm, Eric John Ernest	f	1917	2012	angol
+755	Pál Lénárd	f	1925		
+756	Károlyi István	f	1797	1881	
+757	Kassai József	f	1767	1842	
+758	Berzeviczy Albert	f	1853	1936	
+759	Zambó János	f	1916	2000	
+760	Winkler, Hans	f	1939		osztrák
+761	Benz, Walter	f	1931	2017	német
+762	Ángyán János	f	1956	2017	franciaországi magyar
+763	Auwers, Arthur	f	1838	1915	német
+764	Guasti, Cesare	f	1822	1889	olasz
+765	Burgdörfer, Joachim	f	1953		osztrák
+766	Freyer, Hans	f	1887	1969	német
+767	Náray-Szabó Gábor	f	1943		
+768	Miskolczy Dezső	f	1894	1978	
+769	Pott, August Friedrich	f	1802	1887	német
+770	Csányi Dániel	f	1820	1867	
+771	Ómura Jutaka	f	1925		japán
+772	Bártfai Tamás	f	1948		svédországi magyar
+773	Ballagi Aladár	f	1853	1928	
+774	Saked Saul	f	1933		izraeli magyar
+775	Dubinyin, Mihail Mihajlovics	f	1901	1993	orosz
+776	Nagy Imre	f	1896	1958	
+777	Mitra, Radzsendra Lal	f	1824	1891	indiai
+778	Házi Jenő	f	1892	1986	
+779	Rónay Jácint	f	1814	1889	
+780	Klerić, Ljubomir	f	1844	1910	szerb
+781	Gadamer, Hans-Georg	f	1900	2002	német
+782	Haddow, Alexander	f	1907	1976	skót
+783	Kolossváry Sándor	f	1775	1842	
+784	Törő Imre	f	1900	1993	
+785	Bárczi Géza	f	1894	1975	
+786	Budenz József	f	1836	1892	
+787	Makara B. Gábor	f	1939		
+788	Balogh Kálmán	f	1835	1888	
+789	Szász Béla	f	1840	1898	
+790	Sieghart, Werner	f	1945		osztrák
+791	Harmatta János	f	1917	2004	
+792	Tóth Lajos	f	1876	1936	
+793	Kaptay György	f	1960		
+794	Kronecker, Hugo	f	1839	1914	német
+795	Czech János	f	1798	1854	
+796	Szabó István	f	1801	1892	
+797	Gabelentz, Hans Conon von der	f	1807	1874	német
+798	Hoppe, Gunnar	f	1914	2005	svéd
+799	Hoff Miklós	f	1906	1997	amerikai-magyar
+800	Theiss Ede	f	1899	1979	
+801	Bölöni Farkas Sándor	f	1795	1842	
+802	Sós József	f	1906	1973	
+803	Nitti, Francesco Saverio	f	1868	1953	olasz
+804	Pach Zsigmond Pál	f	1919	2001	
+805	Schmidt, Erich	f	1853	1913	német
+806	Illyefalvi I. Lajos	f	1881	1944	
+807	Csernokolev, Titko	f	1910	1965	bolgár
+808	Mittag-Leffler, Magnus Gösta	f	1846	1927	svéd
+809	Mednyánszky Dénes	f	1830	1911	
+810	Nagy Gergely / Nagy, Gregory	f	1942		amerikai-magyar
+811	Lakó György	f	1908	1996	
+812	Szablya János	f	1924	2005	amerikai-magyar
+813	Márki Sándor	f	1853	1925	
+814	Kubinyi Ágoston	f	1799	1873	
+815	Golden, Peter B.	f	1941		amerikai
+816	Szabó Kálmán	f	1921	2007	
+817	Kahane, Jean-Pierre	f	1926	2017	francia
+818	Rabó Gyula	f	1924	2016	amerikai-magyar
+819	Galambos János	f	1940		amerikai-magyar
+820	Grosschmid Lajos	f	1886	1940	
+821	Krohn, Kaarle Leopold	f	1863	1933	finn
+822	Pálinkás Gábor	f	1941		
+823	Petényi Géza	f	1889	1965	
+824	Kertész Kálmán	f	1867	1922	
+825	Lukács József	f	1925	2017	
+826	Savić, Pavle	f	1909	1994	szerb
+827	Szabó Dezső	f	1882	1966	
+828	Geremek, Bronisław	f	1932	2008	lengyel
+829	Stier, Heinrich Christoph Gottlieb	f	1825	1896	német
+830	Brassai Sámuel	f	1797	1897	
+831	Földes Béla	f	1848	1945	
+832	Paur Iván	f	1805	1888	
+833	Parhon, Constantin Ion	f	1874	1969	román
+834	Monod, Gabriel	f	1844	1912	francia
+835	Ábel Jenő	f	1858	1889	
+836	Eren, Hasan	f	1919	2007	török
+837	Fehér Ipoly Kálmán	f	1842	1909	
+838	Grünwald Béla	f	1839	1891	
+839	Young, Lai-Sang	f	1952		amerikai
+840	Moravcsik M. Gyula / Moravcsik, Julius M.	f	1931	2009	amerikai-magyar
+841	Nagy Géza	f	1855	1915	
+842	Berényi Dénes	f	1928	2012	
+843	Zólyomi Bálint	f	1908	1997	
+844	Gerevich László	f	1911	1997	
+845	Varga Ottó	f	1909	1969	
+846	Csathó Kálmán	f	1881	1964	
+847	Gondol Dániel	f	1815	1891	
+848	Környey István	f	1901	1988	
+849	Télfy Iván	f	1816	1898	
+850	Radnót Magda	n	1911	1989	
+851	Károlyi Gyula	f	1871	1947	
+852	Sáringer Gyula	f	1928	2009	
+853	Fodor Géza	f	1927	1977	
+854	Blaydes, Frederick Henry Marvell	f	1818	1908	angol
+855	Bognár András	f	1937	2019	horvátországi magyar
+856	Szabó Árpád	f	1913	2001	
+857	Pléh Csaba	f	1945		
+858	Csaplár Benedek	f	1821	1906	
+859	Fejes Tóth László	f	1915	2005	
+860	Kesztyűs Loránd	f	1915	1979	
+861	Lichtenthaler, Frieder W.	f	1932	2018	német
+862	Barna Ferdinánd	f	1825	1895	
+863	Foiaş, Ciprian Ilie	f	1933		amerikai-román
+864	Nagy József Béla	f	1884	1967	
+865	Kalai, Gil	f	1955		izraeli
+866	Pap László	f	1943		
+867	Henle, Friedrich Gustav Jakob	f	1809	1885	német
+868	Csikai Gyula	f	1930		
+869	Kaliszky Sándor	f	1927	2016	
+870	Szlemenics Pál	f	1783	1856	
+871	Major György	f	1941		
+872	Horváth József	f	1794	1849	
+873	Prohászka János	f	1920	2012	
+874	Pólya György / Pólya, George	f	1887	1985	amerikai-magyar
+875	Pálné Kovács Ilona	n	1954		
+876	Kenéz Béla	f	1874	1946	
+877	Müller Iván / Mueller, Ivan	f	1930		amerikai-magyar
+878	Mehra, Narinder Kumar	f	1949		indiai
+879	Várkonyi Ágnes, R.	n	1928	2014	
+880	Somosi János	f	1783	1855	
+881	Bitnitz Lajos	f	1790	1871	
+882	Edvi Illés Pál	f	1793	1871	
+883	Engel József	f	1807	1870	
+884	Buchböck Gusztáv	f	1869	1935	
+885	Szendrő Zsolt	f	1947		
+886	Ónodi Adolf	f	1857	1919	
+887	Kononov, Andrej Nyikolajevics	f	1906	1986	orosz
+888	Poncelet, Jean-Victor	f	1788	1867	francia
+889	Pálfy Móric	f	1871	1930	
+890	Waltherr László Imre	f	1788	1863	
+891	Deák István	f	1926		amerikai-magyar
+892	Thomson, William	f	1824	1907	skót
+893	Torres Yribar, Wilfredo	f	1933		kubai
+894	Keserű György Miklós	f	1967		
+895	Kuthy Sándor	f	1904	1971	
+896	Ambrus Gyula	f	1924		amerikai-magyar
+897	Thoma, Manfred	f	1929	2014	német
+898	Horváth Cirill József	f	1865	1941	
+899	Barsi József	f	1810	1893	
+900	Proszt János	f	1892	1968	
+901	Rácz Zoltán	f	1946		
+902	Diczfalusy Egon	f	1920	2016	svédországi magyar
+903	Karvasy Ágoston	f	1809	1896	
+904	Sohár Pál	f	1936		
+905	Bayer József	f	1851	1919	
+906	Kozma C. Sára	n	1952		amerikai-magyar
+907	Hauser Arnold	f	1892	1978	
+908	Szabó Zoltán	f	1882	1944	
+909	Lesage, Michel	f	1933	2009	francia
+910	Hanzó Lajos	f	1952		nagy-britanniai magyar
+911	Vámossy Zoltán	f	1868	1953	
+912	Rákosi Jenő	f	1842	1929	
+913	Pulszky Ferenc	f	1814	1897	
+914	Gromov, Mihail Leonyidovics / Gromov, Mikhaïl	f	1943		orosz-francia
+915	Nagy János, B.	f	1941		belgiumi magyar
+916	Sejndlin, Alekszandr Jefimovics	f	1916	2017	orosz
+917	Palánkai Tibor	f	1938		
+918	Gécseg Ferenc	f	1939	2014	
+919	Vizkelety András	f	1931		
+920	Ballagi Mór	f	1815	1891	
+921	Wüthrich, Kurt	f	1938		svájci
+922	Hámori József	f	1932		
+923	Dumas, Jean-Baptiste	f	1800	1884	francia
+924	Zemplén Géza	f	1883	1956	
+925	Agassiz, Louis	f	1807	1873	amerikai
+926	Fallmerayer, Jakob Philipp	f	1790	1861	osztrák
+927	Trencsényi-Waldapfel Imre	f	1908	1970	
+928	Valiani, Leo	f	1909	1999	olasz
+929	Holló János	f	1919	2012	
+930	Garay András	f	1926	2005	
+931	Mézes Miklós	f	1953		
+932	Thallóczy Lajos	f	1854	1916	
+933	Ihász Mihály	f	1931	2002	
+934	Samassa József	f	1828	1912	
+935	Gnoli, Gherardo	f	1937	2012	olasz
+936	Ottenthal, Emil von	f	1855	1931	osztrák
+937	Markó László	f	1928		
+938	Huillard-Bréholles, Jean-Louis-Alphonse	f	1817	1871	francia
+939	Dávidházi Péter	f	1948		
+940	Frivaldszky János	f	1822	1895	
+941	Lapradelle, Albert Geouffre de	f	1871	1955	francia
+942	Alföldy Géza	f	1935	2011	németországi magyar
+943	Lóránd László	f	1923	2018	amerikai-magyar
+944	Inkey Béla	f	1847	1921	
+945	Buday László	f	1873	1925	
+946	Erdélyi László Gyula	f	1868	1947	
+947	Domanovszky Sándor	f	1877	1955	
+948	Lengyel Géza	f	1884	1965	
+949	Kopácsy József	f	1775	1847	
+950	Cicin, Nyikolaj Vasziljevics	f	1898	1980	orosz
+951	Dankó József Károly	f	1829	1895	
+952	Vigh László	f	1950		
+953	Haselsteiner, Horst	f	1942	2019	osztrák
+954	Prékopa András	f	1929	2016	
+955	Pompéry János	f	1819	1884	
+956	Leslie, John F.	f	1953		amerikai
+957	Mac Key, James	f	1919	2016	svéd
+958	Joannovics György	f	1821	1909	
+959	Kemény Zsigmond	f	1814	1875	
+960	Petrichevich-Horváth Lázár	f	1807	1851	
+961	Rédei György Pál	f	1921	2008	amerikai-magyar
+962	Klein Gyula Lipót / Klein, Julius Leopold	f	1804	1876	magyar származású német
+963	Verő József	f	1933		
+964	Schneller István	f	1847	1939	
+965	Révész Pál	f	1934		
+966	Taylor, Alan John Percival	f	1906	1990	angol
+967	Näätänen, Risto	f	1939		finn
+968	Domokos Péter	f	1970		
+969	Rybár István	f	1886	1971	
+970	Ormós Zsigmond	f	1813	1894	
+971	Zieme, Peter	f	1942		német
+972	Czobor Béla	f	1852	1904	
+973	Fodor Gábor Béla	f	1915	2000	
+974	Kúnos Ignác	f	1860	1945	
+975	Plas, Henk van der	f	1929		holland
+976	Schirkhuber Móric	f	1807	1877	
+977	Korach Mór	f	1888	1975	
+978	Halász Gábor	f	1941		
+979	Imre János	f	1790	1832	
+980	Szőnyi Pál	f	1808	1878	
+981	Vajna Zoltán	f	1928		
+982	Laufenauer Károly	f	1848	1901	
+983	Mojzsis István / Mojzsis, Stephen J.	f	1965		amerikai-magyar
+984	Forró László	f	1955		svájci magyar
+985	Pásztor Emil	f	1926	2015	
+986	Ullrich, Axel	f	1943		német
+987	Kovács László	f	1939		
+988	Zlinszky Aladár	f	1864	1941	
+989	Oláh Edit	n	1947		
+990	Kovács Sebestény Endre	f	1814	1878	
+991	Mezey Pál / Mezey, Paul G.	f	1943		kanadai magyar
+992	Grafarend, Erik W.	f	1939		német
+993	Hardy Gyula	f	1928	1988	
+994	Brusina, Spiridion	f	1845	1908	horvát
+995	Festetics György	f	1815	1883	
+996	Bárány Nándor	f	1899	1977	
+997	Jendrassik György	f	1898	1954	
+998	Mészáros András	f	1949		szlovákiai magyar
+999	Cseh-Szombathy László	f	1925	2007	
+1000	Haller György	f	1965		svájci magyar
+1001	De Gerando Ákos	f	1819	1849	francia
+1002	Hồ Tôn Trinh	f	1920	2011	vietnámi
+1003	Szmirnov, Vlagyimir Ivanovics	f	1910	1988	orosz
+1004	Thurau, Klaus	f	1928	2018	német
+1005	Esterházy Pál	f	1901	1989	
+1006	Krumbacher, Karl	f	1856	1909	német
+1007	Gyulassy Miklós	f	1949		amerikai-magyar
+1008	Hernád István Róbert	f	1945		kanadai magyar
+1009	Brezsnyev, Dmitrij Danyilovics	f	1905	1982	orosz
+1010	Szabó János	f	1920	2012	
+1011	Esterházy Miklós	f	1869	1920	
+1012	Kazinczy Ferenc	f	1759	1831	
+1013	Ritoók Zsigmond	f	1929		
+1014	Buzágh Aladár	f	1895	1962	
+1015	Gáti István	f	1922	2007	
+1016	Rédei László	f	1900	1980	
+1017	Korizmics László	f	1816	1886	
+1018	Ylinen, Arvo Albin Johannes	f	1902	1975	finn
+1019	Stark Ervin	f	1922	1995	
+1020	Benedikt Ottó	f	1897	1975	
+1021	Rubinyi Mózes	f	1881	1965	
+1022	Setälä, Eemil Nestor	f	1864	1935	finn
+1023	Mark, Julius	f	1890	1959	észt
+1024	Lukács György	f	1885	1971	
+1025	Zsidó László	f	1946		olaszországi magyar
+1026	Stumme, Hans	f	1864	1936	német
+1027	Sabin, Albert Bruce	f	1906	1993	amerikai
+1028	Pivány Jenő / Pivany, Eugene	f	1873	1946	amerikai-magyar
+1029	Balevszki, Angel Toncsev	f	1910	1997	bolgár
+1030	Mahunka Sándor	f	1937	2012	
+1031	Arneth, Alfred von	f	1819	1897	osztrák
+1032	Imre Sándor	f	1969		
+1033	Kondorosi Ádám	f	1946	2011	
+1034	Adhija, Szankar	f	1937		indiai
+1035	Jakó Géza	f	1930	2015	amerikai-magyar
+1036	Kun Ferenc	f	1966		
+1037	Alszeghy Zsolt	f	1888	1970	
+1038	Alekszandrov, Anatolij Petrovics	f	1903	1994	orosz
+1039	Müller, Friedrich	f	1834	1898	osztrák
+1040	Arany János	f	1817	1882	
+1041	Valentinelli, Giuseppe	f	1805	1874	olasz
+1042	Huszti József	f	1887	1954	
+1043	Itkonen, Erkki	f	1913	1992	finn
+1044	Kolmogorov, Andrej Nyikolajevics	f	1903	1987	orosz
+1045	Fejér Lipót	f	1880	1959	
+1046	Udvardy Ignác	f	1810	1874	
+1047	Hunyady László	f	1959		
+1048	Vikár Béla	f	1859	1945	
+1049	Zahn, Friedrich	f	1869	1946	német
+1050	Ross, Edward Denison	f	1871	1940	angol
+1051	Genersich Antal	f	1842	1918	
+1052	Mészáros Imre	f	1811	1865	
+1053	Petri Gábor	f	1914	1985	
+1054	Bélády László	f	1928		amerikai-magyar
+1055	Cernătescu, Radu	f	1894	1958	román
+1056	Porter, George	f	1920	2002	angol
+1057	Haan Lajos	f	1818	1891	
+1058	Teleszky János	f	1868	1939	
+1059	Grote, Arthur	f	1814	1886	angol
+1060	Gelenbe, Sami Erol	f	1945		török
+1061	Korányi Ádám	f	1932		amerikai-magyar
+1062	Alexander Bernát	f	1850	1927	
+1063	Kőrösy József	f	1844	1906	
+1064	Kasztori Rudolf	f	1935		szerbiai magyar
+1065	Benfey, Theodor	f	1809	1881	német
+1066	Szkalnitzky Antal	f	1836	1878	
+1067	Somogyi Károly	f	1811	1888	
+1068	Patterson, Arthur J.	f	1835	1899	angol
+1069	Kováts Gyula	f	1815	1873	
+1070	Böckh János	f	1840	1909	
+1071	Szabó Ferenc	f	1926	2002	
+1072	Steinitz, Wolfgang	f	1905	1967	német
+1073	Kherndl Antal	f	1842	1919	
+1074	Katz Sándor	f	1975		
+1075	Romics László	f	1936	2011	
+1076	Keleti Tamás	f	1927	1989	
+1077	Hargittai István	f	1941		
+1078	Papp Simon	f	1886	1970	
+1079	Csumakov, Mihail Petrovics	f	1909	1993	orosz
+1080	Petz Gedeon	f	1863	1943	
+1081	Paládi-Kovács Attila	f	1940		
+1082	Juhász Tibor	f	1958		amerikai-magyar
+1083	Andrássy György	f	1797	1872	
+1084	Lajtha Ábel	f	1922		amerikai-magyar
+1085	Kudrjavcev, Vlagyimir Nyikolajevics	f	1923	2007	orosz
+1086	Pap István	f	1915	1994	romániai magyar
+1087	Mill, John Stuart	f	1806	1873	skót
+1088	Mihály László	f	1949		amerikai-magyar
+1089	Somhegyi Ferenc	f	1813	1879	
+1090	Sztipanovits János	f	1946		amerikai-magyar
+1091	Bugarszky István	f	1868	1941	
+1092	Pápay József	f	1873	1931	
+1093	Brandi, Karl	f	1868	1946	német
+1094	Kiss István	f	1926	2004	romániai magyar
+1095	Bori Imre	f	1929	2004	szerbiai magyar
+1096	Berkowitz, Ross Stuart	f	1949		amerikai
+1097	Csik Lajos	f	1902	1962	
+1098	Olivecrona, Knut	f	1817	1905	svéd
+1099	Southwood, Thomas Richard Edmund	f	1931	2005	angol
+1100	Szabolcsi Miklós	f	1921	2000	
+1101	Illés Sándor Tamás	f	1958		franciaországi magyar
+1102	Krausz Ferenc	f	1962		németországi magyar
+1103	Csűrös István	f	1914	1998	romániai magyar
+1104	Goodman, Robert Norman	f	1923	1999	amerikai
+1105	Módy István / Mody, Istvan	f	1957		amerikai-magyar
+1106	Naumann, Manfred	f	1925	2014	német
+1107	Leskien, August	f	1840	1916	német
+1108	Szabó Gábor	f	1954		
+1109	Garas Klára	n	1919	2017	
+1110	Broca, Pierre Paul	f	1824	1880	francia
+1111	Bárdossy György	f	1925	2013	
+1112	Vargha Damján György	f	1873	1956	
+1113	Salamon Miklós	f	1933	2009	amerikai-magyar
+1114	Arányi Lajos György	f	1812	1887	
+1115	Vinogradov, Alekszandr Pavlovics	f	1895	1975	orosz
+1116	Pozsony Ferenc	f	1955		romániai magyar
+1117	Egerváry Jenő	f	1891	1958	
+1118	Vizaknai Antal	f	1863	1911	
+1119	Arató Péter	f	1942		
+1120	Lépine-Szily Alinka	f	1942		brazíliai magyar
+1121	Ragályi Tamás	f	1785	1849	
+1122	Pertik Ottó	f	1852	1913	
+1123	Irk Albert	f	1884	1952	
+1124	Oppert, Jules	f	1825	1905	francia
+1125	Kovács Melinda	n	1959		
+1126	Kálmán Béla	f	1913	1997	
+1127	Varga Béla	f	1886	1942	romániai magyar
+1128	Porkoláb Miklós	f	1939		amerikai-magyar
+1129	Capasso, Bartolomeo	f	1815	1900	olasz
+1130	Angyal István János / Angyal, Stephen John	f	1914	2012	ausztráliai magyar
+1131	Kőnig Gyula	f	1849	1913	
+1132	Péchy Imre	f	1753	1841	
+1133	Hajós György	f	1912	1972	
+1134	Weninger Vince	f	1834	1879	
+1135	Platz Bonifác Ferenc	f	1848	1919	
+1136	Dessewffy József	f	1771	1843	
+1137	Horváth József Elek	f	1784	1835	
+1138	Oppolzer, Theodor von	f	1841	1886	osztrák
+1139	Fenyves Ervin	f	1924	2014	amerikai-magyar
+1140	Gombosi Tamás	f	1947		amerikai-magyar
+1141	Gyarmati István	f	1929	2002	
+1142	Győrffy Balázs	f	1938	2012	nagy-britanniai magyar
+1143	Major Péter	f	1947		
+1144	Fabriczy Sámuel	f	1771	1858	
+1145	Beznák Aladár	f	1901	1959	
+1146	Torma Károly	f	1829	1897	
+1147	Kahneman, Daniel	f	1934		amerikai
+1148	Pataki Ferenc	f	1928	2015	
+1149	Gulyás Pál	f	1881	1963	
+1150	Pasteur, Louis	f	1822	1895	francia
+1151	Riesz Frigyes	f	1880	1956	
+1152	Frühling János	f	1937	2015	belgiumi magyar
+1153	Baintner János	f	1815	1881	
+1154	Verebélÿ László	f	1883	1959	
+1155	Soó Rezső	f	1903	1980	
+1156	Bury, John Bagnell	f	1861	1927	ír
+1157	Révész Géza	f	1878	1955	hollandiai magyar
+1158	Harkányi Béla	f	1869	1932	
+1159	Barton, Derek	f	1918	1998	angol
+1160	Palkovics László	f	1965		
+1161	Zsdanov, Viktor Mihajlovics	f	1914	1988	orosz
+1162	Ewald, Georg Heinrich August	f	1803	1875	német
+1163	Szabolcska Mihály	f	1861	1930	
+1164	Heinlein István	f	1874	1945	
+1165	Glatz Ferenc	f	1941		
+1166	Szászy-Schwarz Gusztáv	f	1858	1920	
+1167	Haranghy László	f	1897	1975	
+1168	Kovács István	f	1921	1990	
+1169	Ray-Chaudhuri, Dwijendra K.	f	1933		amerikai-indiai
+1170	Gaillard, Pieter Johannes	f	1907	1992	holland
+1171	Gratz Gusztáv	f	1875	1946	
+1172	Tolnai Vilmos	f	1870	1937	
+1173	Heller Ágnes	n	1929	2019	
+1174	Danielik Nepomuk János	f	1817	1888	
+1175	Pettkó János	f	1812	1890	
+1176	Dimitrakopúlosz, Rúszosz	f	1958		görög-kanadai
+1177	Battaglini, Giulio	f	1885	1961	olasz
+1178	Julesz Miklós	f	1904	1972	
+1179	Mészáros Péter	f	1943		amerikai-magyar
+1180	Zichy Antal	f	1823	1898	
+1181	Kalecsinszky Sándor	f	1857	1911	
+1182	Jakab Ödön	f	1854	1931	
+1183	Sperber, Dan	f	1942		francia
+1184	Fleischer, Maximilian	f	1961		német
+1185	Romhányi György	f	1905	1991	
+1186	Thúry József	f	1861	1906	
+1187	Durand-Delga, Michel	f	1923	2012	francia
+1188	Krajner Imre	f	1791	1875	
+1189	Huszár Tibor	f	1930		
+1190	Kenesei István	f	1947		
+1191	Lavisse, Ernest	f	1842	1922	francia
+1192	Gömöri Pál	f	1905	1973	
+1193	Gauss, Carl Friedrich	f	1777	1855	német
+1194	Stoczek József	f	1819	1890	
+1195	Görög Demeter	f	1760	1833	
+1196	Tariska István	f	1915	1989	
+1197	Tálasi István	f	1910	1984	
+1198	Telegdi Bálint / Telegdi, Valentine	f	1922	2006	amerikai-magyar
+1199	Kiefer Ferenc	f	1931		
+1200	Récsi Emil	f	1822	1864	
+1201	Károlyi György	f	1802	1877	
+1202	Gyalókay Jenő	f	1874	1945	
+1203	Kertész András Lajos	f	1956		
+1204	Kriza János	f	1811	1875	
+1205	Weidenfeld, Werner	f	1947		német
+1206	Rázsó Imre	f	1904	1964	
+1207	Kantorovics, Leonyid Vitaljevics	f	1912	1986	orosz
+1208	Petersen, Ole	f	1943		dán
+1209	Dennett, Daniel Clement	f	1942		amerikai
+1210	Meister, Richard	f	1881	1964	osztrák
+1211	Czinár Mór Pál	f	1787	1875	
+1212	Pretsch Ernő	f	1942		svájci magyar
+1213	Poór Gyula	f	1952		
+1214	Rajkai Kálmán	f	1951		
+1215	Vitális István	f	1871	1947	
+1216	Hadzidákisz, Geórgiosz	f	1848	1941	görög
+1217	Balás P. Elemér	f	1883	1947	
+1218	Galavics Géza	f	1940		
+1219	Tardos Éva	n	1957		amerikai-magyar
+1220	Márkfi Sámuel	f	1811	1861	
+1221	Martos Ferenc	f	1918	1989	
+1222	Biró Ferenc	f	1904	2006	
+1223	Tétényi Pál	f	1929		
+1224	Stubbe, Hans	f	1902	1989	német
+1225	Worsaae, Jens Jacob Asmussen	f	1821	1885	dán
+1226	Oroszlán István	f	1927		amerikai-magyar
+1227	Kliburszkyné Vogl Mária	n	1912	1996	
+1228	Mészöly Gedeon	f	1880	1960	
+1229	Markó Árpád	f	1885	1966	
+1230	Szalai István	f	1816	1878	
+1231	Halver, John Emil	f	1922	2012	amerikai
+1232	Kukuljević Sakcinski, Ivan	f	1816	1889	magyarországi horvát
+1233	Kardos Tibor	f	1908	1973	
+1234	Jakabffy Elemér	f	1881	1963	romániai magyar
+1235	Novak, Grga	f	1888	1978	horvát
+1236	Wolsky Sándor	f	1902	2004	
+1237	Leontyjev, Alekszej Nyikolajevics	f	1903	1979	orosz
+1238	Bodor Miklós	f	1939		amerikai-magyar
+1239	Grastyán Endre	f	1924	1988	
+1240	Fónagy Péter	f	1952		nagy-britanniai magyar
+1241	Klauzál Imre	f	1799	1847	
+1242	Varga Pál, S.	f	1955		
+1243	Szögyény-Marich László, id.	f	1806	1893	
+1244	Bogisich Mihály	f	1839	1919	
+1245	Kollár Lajos	f	1926	2004	
+1246	Kecskeméti Gábor	f	1965		
+1247	Badics Ferenc	f	1854	1939	
+1248	Sinkovics G. József	f	1924		amerikai-magyar
+1249	Szabad György	f	1924	2015	
+1250	Kelety Gusztáv	f	1834	1902	
+1251	Łepkowski, Józef	f	1826	1894	lengyel
+1252	Nägeli, Karl Wilhelm von	f	1817	1891	svájci
+1253	Vendl Aladár	f	1886	1971	
+1254	Erdei Ferenc	f	1910	1971	
+1255	Grüner György	f	1943		amerikai-magyar
+1256	Buzás Edit	n	1959		
+1257	Mansfeld Géza	f	1882	1950	
+1258	Aczél János	f	1924		kanadai magyar
+1259	Mátyás Antal	f	1923	2016	
+1260	Wargha István	f	1808	1876	
+1261	Hollósy Jusztinián	f	1819	1900	
+1262	Pais Dezső	f	1886	1973	
+1263	Ujfalussy József	f	1920	2010	
+1264	Balázs Endre	f	1920	2015	amerikai-magyar
+1265	Mitrovics Gyula	f	1871	1965	
+1266	Szent-Iványi József	f	1910	1988	ausztráliai magyar
+1267	Braunstejn, Alekszandr Jefszejevics	f	1902	1986	orosz
+1268	Bókay János, ifj.	f	1858	1937	
+1269	Zsoldos Attila	f	1962		
+1270	Zala György	f	1858	1937	
+1271	Kruesz Krizosztom	f	1819	1885	
+1272	Tarján Imre	f	1912	2000	
+1273	Éber László	f	1871	1935	
+1274	Gyenge Csaba	f	1940		romániai magyar
+1275	Frumkin, Alekszandr Naumovics	f	1895	1979	orosz
+1276	Mérei Gyula	f	1911	2002	
+1277	Macartney, Carlile Aylmer	f	1895	1978	skót
+1278	Dakov, Mako Petrov	f	1920	2006	bolgár
+1279	Braudel, Fernand Paul Achille	f	1902	1985	francia
+1280	Szigeti József	f	1822	1902	
+1281	Hissink, David Jacobus	f	1874	1956	holland
+1282	Bodola Lajos	f	1859	1936	
+1283	Topcsijev, Alekszandr Vasziljevics	f	1907	1962	orosz
+1284	Böök, Martin Fredrik	f	1883	1961	svéd
+1285	Bozóky László	f	1911	1995	
+1286	Barna Ignác	f	1822	1894	
+1287	Kornemann, Ernst	f	1868	1946	német
+1288	Borovszky Samu	f	1860	1912	
+1289	Schaffer Károly	f	1864	1939	
+1290	Szemere Miklós	f	1802	1881	
+1291	Küster, Ernst	f	1874	1953	német
+1292	Rokitansky, Carl von	f	1804	1848	cseh-osztrák
+1293	Ercsei Dániel	f	1781	1836	
+1294	Bartha Dénes	f	1908	1993	
+1295	Lutter Nándor	f	1820	1891	
+1296	Simionescu, Cristofor I.	f	1920	2007	román
+1297	Tangl Ferenc	f	1866	1917	
+1298	Nagy Imre	f	1822	1894	
+1299	Owen, Richard	f	1804	1892	angol
+1300	Macaulay, Thomas Babington	f	1800	1859	angol
+1301	Horváth János	f	1769	1835	
+1302	Hollán Ernő	f	1824	1900	
+1303	Gál Sándor	f	1933		
+1304	Engel Pál	f	1938	2001	
+1305	Zichy Ágost	f	1852	1925	
+1306	Birinyi K. Lajos / Kossuth Birinyi, Louis	f	1886	1941	amerikai-magyar
+1307	Urházy György	f	1823	1873	
+1308	Papp Ferenc	f	1871	1943	
+1309	Sziforov, Vlagyimir Ivanovics	f	1904	1993	orosz
+1310	Győrffy Béla	f	1928	2002	
+1311	Nagy András	f	1951		kanadai magyar
+1312	Taubner Károly	f	1809	1860	
+1313	Klement Zoltán	f	1926	2005	
+1314	Zsigmond Ferenc	f	1883	1949	
+1315	Márton Péter	f	1934		
+1316	Tulassay Tivadar	f	1949		
+1317	Major Máté	f	1904	1986	
+1318	Marek József	f	1868	1952	
+1319	Scherffel Aladár	f	1865	1939	
+1320	Walter-Klingenstein, Grete	f	1939		osztrák
+1321	Fillinger Lipót	f	1787	1844	
+1322	Falusné Szikra Katalin	n	1924	2006	
+1323	Bodenstein, Max	f	1871	1942	német
+1324	Vermes István	f	1946	2015	hollandiai magyar
+1325	Hutÿra Ferenc	f	1860	1934	
+1326	Juhász Gyula	f	1930	1993	
+1327	Bérces Tibor	f	1932	2007	
+1328	Balanyi György	f	1886	1963	
+1329	Pellegrini, Giovanni Battista	f	1921	2007	olasz
+1330	Rainer M. János	f	1957		
+1331	Beszédes József	f	1787	1852	
+1332	Győry Kálmán	f	1940		
+1333	Csiky Gergely	f	1842	1891	
+1334	Jánossy Dénes	f	1891	1966	
+1335	Gorini, Constantino	f	1865	1950	olasz
+1336	Dembowski, Jan Bohdan	f	1889	1963	lengyel
+1337	Kozma Ferenc	f	1844	1920	
+1338	Szőkefalvi-Nagy Béla	f	1913	1998	
+1339	Vécsey Tamás	f	1839	1912	
+1340	Vass László	f	1780	1842	
+1341	Gyáni Gábor	f	1950		
+1342	Kézdi Árpád	f	1919	1983	
+1343	Maier, Giulio	f	1931		olasz
+1344	Beudant, François Sulpice	f	1787	1850	francia
+1345	Joó Ferenc	f	1949		
+1346	Hargittai Magdolna	n	1945		
+1347	Hornyánszky Gyula	f	1869	1933	
+1348	Paepe, Roland	f	1934		belga
+1349	Ancsel Éva	n	1927	1993	
+1350	Schandl József	f	1885	1973	
+1351	Korbonits Márta	n	1962		nagy-britanniai magyar
+1352	Rézler Gyula	f	1911	2001	amerikai-magyar
+1353	Hopwood, David Alan	f	1933		angol
+1354	Vincze Mária	n	1942		romániai magyar
+1355	Maros Dezső	f	1920	2011	romániai magyar
+1356	Grasselly Gyula	f	1920	1991	
+1357	Fink, Julius	f	1918	1981	osztrák
+1358	Demény Pál György	f	1932		amerikai-magyar
+1359	Dressler, Wolfgang U.	f	1939		osztrák
+1360	Pulszky Ágost	f	1846	1901	
+1361	Verebélÿ Tibor	f	1875	1941	
+1362	Tőke László	f	1933		
+1363	Ferenczy István	f	1792	1856	
+1364	Kollár János	f	1956		amerikai-magyar
+1365	Markusovszky Lajos	f	1815	1893	
+1366	Erdős Péter	f	1910	1990	
+1367	Potrykus, Ingo	f	1933		svájci
+1368	Karády Viktor / Karady, Victor	f	1936		franciaországi magyar
+1369	Novák Béla	f	1956		nagy-britanniai magyar
+1370	Ürményi Ferenc	f	1780	1858	
+1371	Mihályi Károly	f	1808	1880	
+1372	Alexits György	f	1899	1978	
+1373	Karádi István	f	1951		
+1374	Stang Péter	f	1941		amerikai-magyar
+1375	Szelényi Iván	f	1938		
+1376	Szörényi Imre	f	1905	1959	
+1377	Nagy Márton	f	1804	1873	
+1378	Erdey-Grúz Tibor	f	1902	1976	
+1379	Földes Péter	f	1930	1982	
+1380	Vecsei József	f	1800	1855	
+1381	Monostori László	f	1953		
+1382	Csánki Dezső	f	1857	1933	
+1383	Kubinyi Ferenc	f	1796	1874	
+1384	Máthé Imre	f	1911	1993	
+1385	Angyal Dávid	f	1857	1943	
+1386	Roósz András	f	1945		
+1387	Cziráky János	f	1818	1884	
+1388	Ladányi Gedeon	f	1824	1886	
+1389	Mark, Herman Francis	f	1895	1992	amerikai-osztrák
+1390	Giuliano, Balbino	f	1879	1958	olasz
+1391	Nagy F. András	f	1932		amerikai-magyar
+1392	Dusza János	f	1952		szlovákiai magyar
+1393	Páles Zsolt	f	1956		
+1394	Szemjonov, Nyikolaj Nyikolajevics	f	1896	1986	orosz
+1395	Korhonen, Veli-Mikko	f	1936	1991	finn
+1396	Frigyesi József	f	1875	1967	
+1397	Bihari Ottó	f	1921	1983	
+1398	Bogárdi János	f	1909	1998	
+1399	Berridge, Michael	f	1938		brit
+1400	Prinz Gyula	f	1882	1973	
+1401	Kurutzné Kovács Márta	n	1940		
+1402	Kőrösi Csoma Sándor	f	1784	1842	
+1403	Sayous, Édouard	f	1842	1898	francia
+1404	Lukinich Imre	f	1880	1950	
+1405	Hazslinszky Frigyes Ákos	f	1818	1896	
+1406	Ligeti Erzsébet	n	1950		
+1407	Andrássy Tivadar	f	1857	1905	
+1408	Weichelt, Wolfgang	f	1929	1993	német
+1409	Podhradczky József	f	1795	1870	
+1410	Haberern Jonatán	f	1818	1880	
+1411	Kovács L. Gábor	f	1948		
+1412	Jancsó Miklós	f	1903	1966	
+1413	Schmid, Stefan M.	f	1943		svájci
+1414	Kemény Lajos	f	1959		
+1415	Vécsei László	f	1954		
+1416	Ariste, Paul	f	1905	1990	észt
+1417	Jancsó Benedek	f	1854	1930	
+1418	Ribár Béla	f	1930	2006	szerbiai magyar
+1419	Clausius, Rudolf Julius Emanuel	f	1822	1888	német
+1420	Mandl József	f	1947		
+1421	Orbán Miklós	f	1939		
+1422	Vállas Antal / Vallas, Anton	f	1809	1869	amerikai-magyar
+1423	Páczelt István	f	1939		
+1424	Barral i Altet, Xavier	f	1947		spanyol-katalán
+1425	Szent-Györgyi András / Szent-Györgyi, Andrew	f	1924	2015	amerikai-magyar
+1426	Vasil, Indra K.	f	1932		amerikai-indiai
+1427	Mihály György	f	1951		
+1428	Prónay Gábor	f	1812	1875	
+1429	Ereky István	f	1876	1943	
+1430	Lepold Antal	f	1880	1971	
+1431	Imre Samu	f	1917	1990	
+1432	Forgács József	f	1947		ausztráliai magyar
+1433	Deér József	f	1905	1972	
+1434	Noyes, Richard Macy	f	1919	1997	amerikai
+1435	Herz Miksa / Herz, Max	f	1856	1919	magyar származású
+1436	Stefán Mihály	f	1932	2009	
+1437	Palacký, František	f	1798	1876	cseh
+1438	Teleki Pál	f	1879	1941	
+1439	Toivonen, Yrjö Heikki	f	1890	1956	finn
+1440	Glant Tibor	f	1944		amerikai-magyar
+1441	Schwartz, Eduard	f	1858	1940	német
+1442	Vámbéry Rusztem / Vambery, Rustem	f	1872	1948	amerikai-magyar
+1443	Habsburg–Lotaringiai Rudolf főherceg	f	1858	1889	
+1444	Gertler János	f	1936		amerikai-magyar
+1445	Wass Sámuel	f	1814	1879	
+1446	Humboldt, Wilhelm von	f	1767	1835	német
+1447	Taruskin, Richard	f	1945		amerikai
+1448	Bartal György, id.	f	1785	1865	
+1449	Barrow, Paul A.	f	1953		brit
+1450	Kántor Lajos	f	1937	2017	romániai magyar
+1451	Ambrus Zoltán	f	1861	1932	
+1452	Kéky Lajos	f	1879	1946	
+1453	Acsády László	f	1966		
+1454	Vajda Mihály	f	1935		
+1455	Csanádi György	f	1905	1974	
+1456	Gyárfás István	f	1822	1883	
+1457	Bugát Pál	f	1793	1865	
+1458	Thaly Kálmán	f	1839	1909	
+1459	Németh Judit	n	1932	2019	
+1460	Kovács Ferenc	f	1921	2015	
+1461	Jerney János	f	1800	1855	
+1462	Seeliger, Hugo von	f	1849	1924	német
+1463	Ostwald, Wolfgang	f	1883	1943	német
+1464	Zawadzki, Saturnin	f	1923	2003	lengyel
+1465	Jakubovich Emil	f	1883	1935	
+1466	Medveczky Frigyes	f	1856	1914	
+1467	Csefkó Gyula	f	1878	1954	
+1468	Szinaj, Jakov Grigorjevics / Sinai, Yakov G.	f	1935		amerikai-orosz
+1469	Jendrassik Ernő	f	1858	1921	
+1470	Vásárhelyi Pál	f	1795	1846	
+1471	Tanárky Sándor	f	1784	1839	
+1472	Hartkamp, Arthur	f	1945		holland
+1473	Stein Aurél / Stein, Aurel	f	1862	1943	nagy-britanniai magyar
+1474	Csíkszentmihályi Mihály	f	1934		amerikai-magyar
+1475	Takáts Sándor	f	1860	1932	
+1476	Széchy Károly	f	1848	1906	
+1477	Kováts Gyula	f	1849	1935	
+1478	Erdős Tibor	f	1928		
+1479	Vay Miklós báró	f	1802	1894	
+1480	Nyáry Albert	f	1828	1886	
+1481	Bojkó Miklós	f	1928	2009	ukrajnai magyar
+1482	Ujfalvy Károly Jenő	f	1842	1904	franciaországi magyar
+1483	Szegedi Gyula	f	1936	2013	
+1484	Herzog Ferenc	f	1879	1952	
+1485	Schlechta von Wssehrd, Ottokar	f	1825	1894	osztrák
+1486	Chikán Attila	f	1944		
+1487	Tóth Klára	n	1939	2013	
+1488	Mucina, Ladislav	f	1956		szlovák
+1489	Ádám József	f	1950		
+1490	Obermayer Ernő	f	1888	1969	
+1491	Mihalik József	f	1860	1925	
+1492	Hegedüs Lajos	f	1831	1883	
+1493	Dobb, Maurice Herbert	f	1900	1976	angol
+1494	Zsukov, Jevgenyij Mihajlovics	f	1907	1980	orosz
+1495	Hodinka Antal	f	1864	1946	
+1496	Říman, Josef	f	1925		cseh
+1497	Jankovich Miklós	f	1772	1846	
+1498	Kondor Gusztáv	f	1825	1897	
+1499	Szilágyi Loránd	f	1908	1974	
+1500	Ökröss Bálint	f	1829	1889	
+1501	Lázár Árpád	f	1935		spanyolországi magyar
+1502	Bang-Kaup, Wilhelm	f	1869	1934	német
+1503	Schopper, Herwig Franz	f	1924		német
+1504	Gachard, Louis Prosper	f	1800	1885	belga
+1505	Suppan, Arnold	f	1945		osztrák
+1506	Rozwadowski, Jan Michał	f	1867	1935	lengyel
+1507	Ács György	f	1923	2013	amerikai-magyar
+1508	Szász Károly	f	1798	1853	
+1509	Imreh István	f	1919	2003	romániai magyar
+1510	Hegedüs Sándor	f	1847	1906	
+1511	Heer, Oswald	f	1809	1883	svájci
+1512	Lichner Pál	f	1816	1884	
+1513	Hermecz István	f	1944	2011	
+1514	Farkas Loránd	f	1914	1986	
+1515	Scully, Marlan	f	1939		amerikai
+1516	Humboldt, Alexander von	f	1769	1859	német
+1517	Popp József	f	1955		
+1518	Vancsó Gyula	f	1954		hollandiai magyar
+1519	Réau, Elisabeth du	f	1937		francia
+1520	Greguss Gyula	f	1829	1869	
+1521	Fejtő Ferenc	f	1909	2008	franciaországi magyar
+1522	Vajda Péter	f	1808	1846	
+1523	Spenik Ottó	f	1938		ukrajnai magyar
+1524	Hajnóczky György	f	1963		amerikai-magyar
+1525	Király Tibor	f	1920		
+1526	Laczkovich Miklós	f	1948		
+1527	Overbeck, Johannes Adolf	f	1826	1895	német
+1528	Mahámahopadjája Mahésacsandra, Njájaratna	f	1836	1897	indiai
+1529	Belák Sándor, ifj.	f	1919	1978	
+1530	Salamon István	f	1918	2017	ausztráliai magyar
+1531	Naville, Henri Édouard	f	1844	1926	svájci
+1532	Frank Tibor	f	1948		
+1533	Kállay Béni	f	1839	1903	
+1534	Barta János	f	1901	1988	
+1535	Zakrzewski, Wincenty	f	1844	1928	lengyel
+1536	Surányi János	f	1886	1965	
+1537	Marót Károly	f	1885	1963	
+1538	Szalay Ágoston	f	1811	1877	
+1539	Linas, Charles de	f	1812	1887	francia
+1540	Klaproth, Heinrich Julius	f	1783	1835	német
+1541	Schaff Zsuzsa	n	1943		
+1542	Brussel, Hendrik van	f	1944		belga
+1543	Konkoly-Thege Gyula	f	1876	1942	
+1544	Mensching, Horst	f	1921	2008	német
+1545	Lühr, Hermann	f	1946		német
+1546	Jagić, Vatroslav	f	1838	1923	horvát
+1547	Ullmann Ágnes	n	1927	2019	franciaországi magyar
+1548	Bartalus István	f	1821	1899	
+1549	Mayr, Georg von	f	1841	1925	német
+1550	Ortutay Gyula	f	1910	1978	
+1551	Arany László	f	1844	1898	
+1552	Csontosi János	f	1846	1918	
+1553	Taube, Henry	f	1915	2005	amerikai
+1554	Szabó József	f	1822	1894	
+1555	Stenseth, Nils Christian	f	1949		norvég
+1556	Bertrand, Alexandre	f	1820	1902	francia
+1557	Somorjai Gábor Árpád / Somorjai, Gabor A.	f	1935		amerikai-magyar
+1558	Waldapfel József	f	1904	1968	
+1559	Hantken Miksa	f	1821	1893	
+1560	Bodi László	f	1922	2015	ausztráliai magyar
+1561	Bruckner Győző	f	1877	1962	
+1562	Deutsch Gyula	f	1931	2011	belgiumi magyar
+1563	Kiss Elemér	f	1929	2006	romániai magyar
+1564	Teixeira de Aragão, Augusto Carlo	f	1823	1903	
+1565	Tittel Pál	f	1784	1831	
+1566	Mayrhofer, Manfred	f	1926	2011	osztrák
+1567	Gebhardt Xavér Ferenc	f	1791	1869	
+1568	Vigh Gyula	f	1947		amerikai-magyar
+1569	Sully Prudhomme, René François Armand	f	1839	1907	francia
+1570	Dohrn, Anton	f	1840	1909	német
+1571	Winkler, Heinrich	f	1848	1931	német
+1572	Genetz, Arvid	f	1848	1915	finn
+1573	Basedow, Jürgen	f	1949		német
+1574	Goldziher Ignác	f	1850	1921	
+1575	Buckeridge, John	f	1949		új-zélandi
+1576	Wenzel Gusztáv	f	1812	1891	
+1577	Szegedy Márió	f	1960		amerikai-magyar
+1578	Knies, Karl Gustav Adolf	f	1821	1898	német
+1579	Kőmíves Tamás	f	1944		
+1580	Pullman, Bernard	f	1919	1996	francia
+1581	Petőfi Sándor János	f	1931	2013	olaszországi magyar
+1582	Reguly Antal	f	1819	1858	
+1583	Reichardt, Heinrich Wilhelm	f	1835	1885	osztrák
+1584	Kosztolányi György	f	1942		
+1585	Philippovich von Philippsberg, Eugen	f	1858	1917	osztrák
+1586	Horn Péter	f	1942		
+1587	Tury Sándor Kornél	f	1892	1971	
+1588	Zipernowsky Károly	f	1853	1942	
+1589	Radda György / Sir Radda, George	f	1936		nagy-britanniai magyar
+1590	Kovács Alajos	f	1877	1963	
+1591	Dessewffy Aurél	f	1846	1928	
+1592	Kiss Katalin, É.	n	1949		
+1593	Bajza József	f	1885	1938	
+1594	Schulek Vilmos	f	1843	1905	
+1595	Mednyánszky Alajos	f	1784	1844	
+1596	Bláthy Ottó Titusz	f	1860	1939	
+1597	Sík Sándor	f	1889	1963	
+1598	Friedrich Péter	f	1936	2013	
+1599	Abay Gyula	f	1891	1978	
+1600	Heller Erik	f	1880	1958	
+1601	Barta György	f	1915	1992	
+1602	Gubernatis, Angelo de	f	1840	1913	olasz
+1603	Magyar László	f	1818	1864	
+1604	Keresztesi Béla	f	1922	2001	
+1605	Pecz Vilmos	f	1854	1923	
+1606	Rose, Gustav	f	1798	1873	német
+1607	Soran, Viorel	f	1928	2014	román
+1608	Hanák János	f	1812	1849	
+1609	Laki Kálmán	f	1909	1983	
+1610	Csiki Ernő	f	1875	1954	
+1611	Puigdoménech Rosell, Pere	f	1948		spanyol
+1612	Wöhler, Friedrich	f	1800	1882	német
+1613	Kovács György	f	1925	1988	
+1614	Miskolczy Gyula	f	1892	1962	
+1615	Somos András	f	1911	1996	
+1616	Csáky Károly	f	1783	1846	
+1617	Schafarzik Ferenc	f	1854	1927	
+1618	Wilamowski, Bogdan M.	f	1944		lengyel
+1619	Péter László	f	1929	2008	nagy-britanniai magyar
+1620	Brugmann, Karl Friedrich Christian	f	1849	1919	német
+1621	Myskovszky Viktor	f	1838	1909	
+1622	Krisztin Tibor	f	1956		
+1623	Elekes Lajos	f	1914	1982	
+1624	Szabó T. Attila	f	1906	1987	romániai magyar
+1625	Sajó Sándor	f	1868	1933	
+1626	I. Ferdinánd	f	1861	1948	bolgár
+1627	Meskó Attila	f	1940	2008	
+1628	Fiedler, Josef	f	1819	1908	német
+1629	Hirth, Friedrich	f	1845	1927	német
+1630	Polanyi Levitt, Kari	f	1923		amerikai
+1631	Angyal Pál	f	1873	1949	
+1632	Teleki Géza	f	1843	1913	
+1633	Bölcskei Elemér	f	1917	1977	
+1634	Katona Gyula	f	1941		
+1635	Szabó Attila	f	1947		amerikai-magyar
+1636	Bernard, Claude	f	1813	1878	francia
+1637	Schedius Lajos	f	1768	1847	
+1638	Ferenczy Lajos	f	1930	2004	
+1639	Ratkovszky Ferenc	f	1900	1965	
+1640	Vértes Attila	f	1934	2011	
+1641	Möller, Detlev	f	1947		német
+1642	Vay Ábrahám	f	1789	1855	
+1643	Károlyi György	f	1968		
+1644	Lengyel Béla	f	1903	1990	
+1645	Schvarcz Gyula	f	1838	1900	
+1646	Fedoszejev, Pjotr Nyikolajevics	f	1908	1990	orosz
+1647	Mikola Sándor	f	1871	1945	
+1648	Müller, Mathias M.	f	1942		osztrák
+1649	Melnyikov, Nyikolaj Vasziljevics	f	1909	1980	orosz
+1650	Kovács Ferenc	f	1938		
+1651	Faragó Béla	f	1958		franciaországi magyar
+1652	Szerebrennyikov, Borisz Alekszandrovics	f	1915	1989	orosz
+1653	Wolf, Maximilian Franz Joseph Cornelius	f	1863	1932	német
+1654	Jankovich Béla	f	1865	1939	
+1655	Kósa László	f	1942		
+1656	Kalchbrenner Károly	f	1807	1886	
+1657	Köpeczi Béla	f	1921	2010	
+1658	Niederhauser Emil	f	1923	2010	
+1659	Gillemot László	f	1912	1977	
+1660	Kürschák József	f	1864	1933	
+1661	Csazov, Jevgenyij Ivanovics	f	1929		orosz
+1662	Cserna János	f	1795	1890	
+1663	Kieniewicz, Stefan	f	1907	1992	lengyel
+1664	Gribov, Vlagyimir Naumovics	f	1930	1997	orosz
+1665	Rübensam, Erich	f	1922	2016	német
+1666	Entz Béla	f	1877	1959	
+1667	Gyurikovits György	f	1780	1848	
+1668	Maynard Smith, John	f	1920	2004	angol
+1669	Schönmuth, Georg	f	1928	2016	német
+1670	Benedek Pál	f	1921	2009	
+1671	Selényi Pál	f	1882	1954	
+1672	Dopsch, Alfons	f	1868	1953	osztrák
+1673	Frankenburg Adolf	f	1811	1884	
+1674	Ludwig, Carl	f	1816	1895	német
+1675	Darkó Jenő	f	1880	1940	
+1676	Balázs Ervin	f	1948		
+1677	Tisza István	f	1861	1918	
+1678	Martin Lajos	f	1827	1897	
+1679	Bálint Péter	f	1911	1998	
+1680	Heck, Bernhard	f	1951		német
+1681	Pauer János	f	1814	1889	
+1682	Zsoldos Ignác	f	1803	1885	
+1683	Lechner Károly	f	1850	1922	
+1684	Szendy Károly	f	1911	1981	
+1685	Néda Zoltán	f	1964		romániai magyar
+1686	Pór Antal	f	1834	1911	
+1687	Márkus Gábor	f	1922	2012	amerikai-magyar
+1688	Halmai Péter	f	1953		
+1689	Baer, Karl Ernst von	f	1792	1876	észt-német
+1690	Geraszimov, Innokentyij Petrovics	f	1905	1985	orosz
+1691	Greguss Ágost	f	1825	1882	
+1692	Honti László	f	1943		
+1693	Pálfy József	f	1962		
+1694	Say Móric	f	1830	1885	
+1695	Kéry Imre	f	1798	1887	
+1696	Thanhoffer Lajos	f	1843	1909	
+1697	Ovcsinnyikov, Jurij Anatoljevics	f	1934	1988	orosz
+1698	Mikszáth Kálmán	f	1847	1910	
+1699	Teller Ede	f	1908	2003	amerikai-magyar
+1700	Tóth Zoltán, I.	f	1911	1956	
+1701	Spener, Friedrich	f	1939		német
+1702	Kuun Géza	f	1838	1905	
+1703	Kostojanc, Hacsatur	f	1900	1961	örmény
+1704	Hökfelt, Tomas	f	1940		svéd
+1705	Turán Pál	f	1910	1976	
+1706	Kiss L. László	f	1972		
+1707	Lugossy József	f	1812	1884	
+1708	Vargha László	f	1903	1971	
+1709	Batsányi János	f	1763	1845	
+1710	Ókita Szaburó	f	1914	1993	japán
+1711	Hubay Jenő	f	1858	1937	
+1712	Podani János	f	1952		
+1713	Réthy Mór	f	1848	1925	
+1714	Bauer Győző	f	1942	2018	szlovákiai magyar
+1715	Silver, Robin Angus	f	1956		brit
+1716	Prónay Albert	f	1801	1867	
+1717	Tasner Antal	f	1808	1861	
+1718	Knoll József	f	1925	2018	
+1719	Kibédi Varga Áron	f	1930	2018	hollandiai magyar
+1720	Mittermaier, Carl Joseph Anton	f	1787	1867	német
+1721	Bodnár János	f	1889	1953	
+1722	Pogány Béla	f	1887	1943	
+1723	Aretin, Karl Otmar von	f	1923	2014	német
+1724	Heller Ágost	f	1843	1902	
+1725	Horváth Mihály	f	1809	1878	
+1726	Mesterházy Ákos	f	1945		
+1727	Vitry, Paul	f	1872	1941	francia
+1728	Pál-Antal Sándor	f	1939		romániai magyar
+1729	Vásáry István	f	1945		
+1730	Fekete Zoltán	f	1877	1962	
+1731	Fonó Albert	f	1881	1972	
+1732	Klebelsberg Kuno	f	1875	1932	
+1733	Perger János	f	1791	1838	
+1734	Entz Ferenc	f	1805	1877	
+1735	Jauss, Hans Robert	f	1921	1997	német
+1736	Andics Erzsébet	n	1902	1986	
+1737	Komjáth Péter	f	1953		
+1738	Domanovszky Endre	f	1817	1895	
+1739	Zlamál Vilmos	f	1803	1886	
+1740	Trefort Ágoston	f	1817	1888	
+1741	Barabás Zoltán	f	1926	1993	
+1742	Bozó László	f	1962		
+1743	Benda Kálmán	f	1913	1994	
+1744	Kovács István	f	1799	1872	
+1745	Jánossy György	f	1940		nagy-britanniai magyar
+1746	Lámfalussy Sándor	f	1929	2015	belgiumi magyar
+1747	Fouqué, Ferdinand André	f	1828	1904	francia
+1748	Györfi László	f	1947		
+1749	Rodbell, Martin	f	1925	1998	amerikai
+1750	Vész János Ármin	f	1826	1882	
+1751	Misteli, Franz	f	1841	1903	svájci
+1752	Bajev, Alekszandr Alekszandrovics	f	1904	1994	orosz
+1753	Madách Imre	f	1823	1864	
+1754	Lovas Rezső György	f	1946		
+1755	Georch Illés	f	1772	1835	
+1756	Rákos Péter	f	1925	2002	szlovákiai magyar
+1757	Aszalós Adorján	f	1929		amerikai-magyar
+1758	Zsigmondy Vilmos	f	1821	1888	
+1759	Fináczy Ernő	f	1860	1935	
+1760	Palugyay Imre	f	1818	1866	
+1761	Futaki Siroh	f	1959		japán
+1762	Nagy Miklós	f	1881	1962	
+1763	Bodis-Wollner Iván	f	1937		amerikai-magyar
+1764	Bokor József	f	1948		
+1765	Fábián István	f	1809	1871	
+1766	Némethi András	f	1959		
+1767	Schulek Elemér	f	1893	1964	
+1768	Rados Gusztáv	f	1862	1942	
+1769	Schöpf-Merei Ágost	f	1804	1858	
+1770	Orbán Balázs	f	1830	1890	
+1771	Bollobás Enikő	n	1952		
+1772	Gyimóthy Tibor	f	1953		
+1773	Hunyady Jenő	f	1838	1889	
+1774	Láng Lajos	f	1849	1918	
+1775	Hunfalvy János	f	1820	1888	
+1776	Grenács László	f	1933	2017	belgiumi magyar
+1777	Gergely János	f	1925	2008	
+1778	Koselleck, Reinhart	f	1923	2006	német
+1779	Simonyi Károly	f	1916	2001	
+1780	Kocsis Károly	f	1960		
+1781	Vojadzóglu, Joánisz / Boyazoglu, Jean	f	1937	2018	görög-francia
+1782	Csabai István	f	1965		
+1783	Lendl Adolf	f	1862	1942	
+1784	Oláh György	f	1927	2017	
+1785	Merker, Paul	f	1881	1945	német
+1786	Szemere Samu	f	1881	1978	
+1787	Fellner Frigyes	f	1871	1945	
+1788	Schiefner, Franz Anton	f	1817	1879	oroszországi német
+1789	Kuo Mo-zso	f	1892	1978	kínai
+1790	Dimény Imre	f	1922	2017	
+1791	Tomasello, Michael	f	1950		amerikai
+1792	Ferenczi Zoltán	f	1857	1927	
+1793	Burkard, Rainer Ernst	f	1943		osztrák
+1794	Érdy János	f	1796	1871	
+1795	Mang, Herbert A.	f	1942		osztrák
+1796	Kondorosi Éva	n	1948		
+1797	Schmidt Henrik	f	1877	1953	
+1798	Schinzel, Andrzej	f	1937		lengyel
+1799	Thienemann Tivadar	f	1890	1985	
+1800	Tandori Károly	f	1925	2005	
+1801	Nagy Gyula	f	1849	1924	
+1802	Szemerédi Endre	f	1941		
+1803	Tassonyi Edömér	f	1940		svájci magyar
+1804	Arber, Werner	f	1929		svájci
+1805	Vörös Imre	f	1944		
+1806	Buczy Emil	f	1782	1839	
+1807	Fodor Zoltán	f	1964		németországi magyar
+1808	Boros Endre	f	1953		amerikai-magyar
+1809	Szinovácz György	f	1807	1867	
+1810	Mengyelejev, Dmitrij Ivanovics	f	1834	1907	orosz
+1811	Kornai János	f	1928		
+1812	Wickman, Bo	f	1917	2007	svéd
+1813	Easterling, Patricia Elizabeth	n	1934		brit
+1814	Kövesligethy Radó	f	1862	1934	
+1815	Neuber Ede	f	1882	1946	
+1816	Oliver, Stephen G.	f	1949		angol
+1817	Boréa, Theofílu	f	1873	1954	görög
+1818	Pölöskei Ferenc	f	1930	2016	
+1819	Babits Mihály	f	1883	1941	
+1820	Rudas László	f	1885	1950	
+1821	Szilágyi Sándor	f	1827	1899	
+1822	Jovin, Thomas J.	f	1939		német
+1823	Shackleton, Robert	f	1919	1986	angol
+1824	Penke Botond	f	1942		
+1825	Gombos Ferenc Albin	f	1873	1938	
+1826	Tárkányi Béla	f	1821	1886	
+1827	Horváth Henrik	f	1888	1941	
+1828	Viola József	f	1770	1858	
+1829	Szabó István Mihály	f	1925	2015	
+1830	Lehn, Jean-Marie	f	1939		francia
+1831	Salemann, Carl Hermann	f	1850	1916	orosz
+1832	Dana, James Dwight	f	1813	1895	amerikai
+1833	Zách János Ferenc / Zach, Franz Xaver von	f	1754	1832	németországi magyar
+1834	Pelliot, Paul	f	1878	1945	francia
+1835	Brisits Frigyes	f	1890	1969	
+1836	Fekete Lajos	f	1837	1916	
+1837	Wiesel, Torsten Nils	f	1924		svéd
+1838	Benkő Loránd	f	1921	2011	
+1839	Hoblik Márton	f	1791	1845	
+1840	Ember Győző	f	1909	1993	
+1841	Győry Vilmos	f	1838	1885	
+1842	Keleti Károly	f	1833	1892	
+1843	Ráman, Csandrasékhar Vénkat	f	1888	1970	
+1844	Acsády Ignác	f	1845	1906	
+1845	Camprag Dusán	f	1925		szerb-magyar
+1846	Székely György	f	1924	2016	
+1847	Gombás Pál	f	1909	1971	
+1848	Arenstein József	f	1816	1892	
+1849	Szuzuki Kóicsi	f	1939	2010	japán
+1850	Detrekői Ákos	f	1939	2012	
+1851	Fehér Dániel	f	1890	1955	
+1852	Nagy Ferenc István	f	1952		
+1853	Simai Kristóf	f	1742	1833	
+1854	Kahn-Freund, Otto	f	1900	1979	angol
+1855	Helyes Zsuzsanna	n	1971		
+1856	Erdey László	f	1910	1970	
+1857	Varga Jenő	f	1879	1964	szovjetunióbeli magyar
+1858	Kiss György	f	1953		
+1859	Varga János	f	1941		
+1860	Tokody László	f	1898	1964	
+1861	Kutrzeba, Stanisław	f	1876	1946	lengyel
+1862	Maehler, Herwig	f	1935		német
+1863	Hollán Zsuzsa	n	1920	2008	
+1864	Dénes Géza	f	1925	2009	
+1865	Kiss Dezső	f	1929	2001	
+1866	Wartha Vince	f	1844	1914	
+1867	Tolnai Gábor	f	1910	1990	
+1868	Ramón y Cajal, Santiago	f	1852	1934	spanyol
+1869	Albert Réka	n	1972		amerikai-magyar
+1870	Tinbergen, Jan	f	1903	1994	holland
+1871	Kristó Gyula	f	1939	2004	
+1872	Rapaics Rajmund	f	1885	1954	
+1873	Eckhardt Sándor	f	1890	1969	
+1874	Gránásy László	f	1955		
+1875	Cotel Ernő	f	1879	1954	
+1876	Farkas Gábor	f	1925	1986	
+1877	Hyrtl József	f	1811	1894	ausztriai magyar
+1878	Tagányi Károly	f	1858	1924	
+1879	Nagy Éva	n	1951		kanadai magyar
+1880	Klein Éva / Klein, Eva	n	1925		svédországi magyar
+1881	Szöllősi János	f	1953		
+1882	Mágócsy-Dietz Sándor	f	1855	1945	
+1883	Csörgő Sándor	f	1947	2008	
+1884	Gombos Imre	f	1791	1840	
+1885	Petrov, Borisz Nyikolajevics	f	1913	1980	orosz
+1886	Szkrjabin, Konsztantyin Ivanovics	f	1878	1972	orosz
+1887	Köprülü, Mehmet Fuat	f	1890	1966	török
+1888	Preysz Móric	f	1829	1877	
+1889	Somfai László	f	1934		
+1890	Jenkovszky László	f	1942		ukrajnai magyar
+1891	Kisfaludy Károly	f	1788	1830	
+1892	Faraday, Michael	f	1791	1867	angol
+1893	Györffy István	f	1884	1939	
+1894	Petzval Ottó	f	1809	1883	
+1895	Salat-Zakariás Levente	f	1957		romániai magyar
+1896	Herczeg Ferenc	f	1863	1954	
+1897	Gimesi Nándor István	f	1892	1953	
+1898	Lempert László	f	1952		amerikai-magyar
+1899	Bell, Thomas	f	1792	1880	angol
+1900	Schay Géza	f	1900	1991	
+1901	Schwarz András Bertalan / Schwarz, Andreas Bertholan	f	1886	1953	németországi magyar
+1902	Ballagi Géza	f	1851	1907	
+1903	Lown, Bernard	f	1921		amerikai
+1904	Prokesch-Osten, Anton von	f	1795	1876	osztrák
+1905	Teleki Domokos	f	1810	1876	
+1906	Békés Ferenc	f	1947		ausztráliai magyar
+1907	Fest Vilmos	f	1815	1879	
+1908	Békésy György	f	1899	1972	amerikai-magyar
+1909	Szilágyi Ferenc	f	1797	1876	
+1910	Milcu, Ştefan-Marius	f	1903	1997	román
+1911	Pekár Dezső	f	1873	1953	
+1912	Flaker, Aleksandar	f	1924	2010	horvát
+1913	Darwin, George Howard	f	1845	1912	angol
+1914	Preisich Gábor	f	1909	1998	
+1915	Varga István	f	1897	1962	
+1916	Changeux, Jean-Pierre	f	1936		francia
+1917	Rónyai Lajos	f	1955		
+1918	Laur, Ernst	f	1871	1965	svájci
+1919	Ligeti Lajos	f	1902	1987	
+1920	Baranyai Lipót	f	1894	1970	
+1921	Mercati, Giovanni	f	1866	1957	olasz
+1922	Szafer, Władysław	f	1886	1970	lengyel
+1923	Szinnyei József	f	1830	1913	
+1924	Frank Ignác	f	1788	1850	
+1925	Vuorela, Lauri A.	f	1913	1999	finn
+1926	Moravcsik Ernő Emil	f	1858	1924	
+1927	Porpáczy Aladár	f	1903	1965	
+1928	Ambrus Klára	n	1924	2011	amerikai-magyar
+1929	Hóman Bálint	f	1885	1951	
+1930	Oltay Károly	f	1881	1955	
+1931	Lax Péter / Peter David Lax	f	1926		amerikai-magyar
+1932	Wichmann, Yrjö	f	1868	1932	finn
+1933	Hrapcsenko, Mihail Boriszovics	f	1904	1986	orosz
+1934	Vries, Hugo de	f	1848	1935	holland
+1935	Nendtvich Károly	f	1811	1892	
+1936	Kovács Károly Pál	f	1907	1989	
+1937	Papp Gyula	f	1937		
+1938	Bowring, John	f	1792	1872	angol
+1939	Horváth János	f	1924	2015	amerikai-magyar
+1940	Halasi Kun Tibor	f	1914	1991	amerikai-magyar
+1941	Kollányi Ferenc	f	1863	1933	
+1942	Unger, Felix	f	1946		osztrák
+1943	Quetelet, Adolphe	f	1796	1874	belga
+1944	Konek Frigyes	f	1867	1945	
+1945	Prohorov, Alekszandr Mihajlovics	f	1916	2002	orosz
+1946	Szabó Imre	f	1814	1881	
+1947	Marton Géza	f	1880	1957	
+1948	Szlávy József	f	1818	1900	
+1949	Sebestyén Gyula	f	1864	1946	
+1950	Varga Lajos	f	1890	1963	
+1951	Gutmann, Viktor	f	1921	1998	osztrák
+1952	Edvi Illés Károly	f	1842	1919	
+1953	Hegedűs István	f	1848	1925	
+1954	Mauritz Béla	f	1881	1971	
+1955	Pálinkás József	f	1952		
+1956	Zeeman, Pieter	f	1865	1943	holland
+1957	Végh István	f	1763	1834	
+1958	Koch Antal	f	1843	1927	
+1959	Bucsky Péter	f	1946		németországi magyar
+1960	Simai Mihály	f	1930		
+1961	Jordán Károly	f	1871	1959	
+1962	Herschel, John Frederick William	f	1792	1871	angol
+1963	Rawlinson, Henry Creswicke	f	1810	1895	angol
+1964	Kiss Károly	f	1793	1866	
+1965	Lomniczi Béla	f	1939		
+1966	Széchy Ágoston	f	1778	1852	
+1967	Zuntz, Nathan	f	1847	1920	német
+1968	Corzan Avendano Gábor	f	1827	1903	
+1969	Mihailich Győző	f	1877	1966	
+1970	Pethő Attila	f	1950		
+1971	Tomori Anasztáz	f	1824	1894	
+1972	Toró Tibor	f	1931	2010	romániai magyar
+1973	Knauz Nándor	f	1831	1898	
+1974	Kéry László	f	1920	1992	
+1975	Mezzofanti, Giuseppe Gasparo	f	1774	1849	olasz
+1976	Zemplén Győző	f	1879	1916	
+1977	Oro Giral, Luis Antonio	f	1945		spanyol
+1978	Magyar Kálmán	f	1933	2017	
+1979	Than Károly	f	1834	1908	
+1980	Wesselényi Miklós	f	1796	1850	
+1981	Kovács János	f	1764	1834	
+1982	Pákh Albert	f	1823	1867	
+1983	Oplatka András	f	1942		svájci magyar
+1984	Vilkuna, Kustaa	f	1902	1980	finn
+1985	Detre László	f	1906	1974	
+1986	Hirschler Ignác	f	1823	1891	
+1987	Buday Kálmán	f	1863	1937	
+1988	Gladstone, William Ewart	f	1809	1898	brit
+1989	Juhász-Nagy Pál	f	1935	1993	
+1990	Staud Lajos	f	1855	1941	
+1991	Kastler, Alfred	f	1902	1984	francia
+1992	Flórián Károly	f	1944		szlovákiai magyar
+1993	Lőrenthey Imre	f	1867	1917	
+1994	Varjú Elemér	f	1873	1944	
+1995	Györffy György	f	1917	2000	
+1996	Solti László	f	1946		
+1997	Széki Tibor	f	1879	1950	
+1998	Ádám Veronika	n	1949		
+1999	Szily Kálmán	f	1838	1924	
+2000	Lubrich Ágost	f	1825	1900	
+2001	Ostwald, Friedrich Wilhelm	f	1853	1932	német
+2002	Almási Miklós	f	1932		
+2003	Divald Adolf	f	1828	1891	
+2004	Calice, Franz	f	1875	1935	osztrák
+2005	Tigyi Gábor	f	1958		amerikai-magyar
+2006	Dąbrowski, Jan Konstanty	f	1890	1965	lengyel
+2007	Ruskoaho, Heikki	f	1952		finn
+2008	Sörös Pongrác	f	1873	1919	
+2009	Kálmán J. Gábor	f	1929		amerikai-magyar
+2010	Gieysztor, Aleksander	f	1916	1999	lengyel
+2011	Ötvös Ágoston	f	1811	1861	
+2012	Révész Imre	f	1889	1967	
+2013	Török Ádám	f	1952		
+2014	Ramsay, William	f	1852	1916	skót
+2015	Gneist, Rudolf von	f	1816	1895	német
+2016	Kálmán Alajos	f	1935	2017	
+2017	Xántus János	f	1825	1894	
+2018	Nešetřil, Jaroslav	f	1946		cseh
+2019	Kresznerics Ferenc	f	1766	1832	
+2020	Zádor György	f	1799	1866	
+2021	Erdős László	f	1966		ausztriai magyar
+2022	Szinnyei József	f	1881	1943	
+2023	Henning, Thomas	f	1956		német
+2024	Harnos Zsolt	f	1941	2009	
+2025	Boissier, Marie-Louis-Antoine-Gaston	f	1823	1908	francia
+2026	Heller László	f	1907	1980	
+2027	Kurnik Ernő	f	1913	2008	
+2028	Nász István	f	1927		
+2029	Binding, Karl	f	1841	1920	német
+2030	Karácson Mihály	f	1796	1869	
+2031	Bulla Béla	f	1906	1962	
+2032	Bor Zsolt	f	1949		
+2033	Fógel József	f	1884	1941	
+2034	Röttgers, Kurt	f	1944		német
+2035	Simon Attila	f	1966		szlovákiai magyar
+2036	Talianidis Iannis	f	1957		görög-magyar
+2037	Finály Henrik	f	1825	1898	
+2038	Oplatka Gábor	f	1935		svájci magyar
+2039	Koncz Csaba	f	1954		németországi magyar
+2040	Zolnai Gyula	f	1862	1949	
+2041	Stépán Gábor	f	1953		
+2042	György Endre	f	1848	1927	
+2043	Huszár Gábor	f	1938		amerikai-magyar
+2044	Kiss Jenő	f	1943		
+2045	Simonyi Zsigmond	f	1853	1919	
+2046	Nagy Ignác	f	1810	1854	
+2047	Kubinyi András	f	1929	2007	
+2048	Harmathy Attila	f	1937		
+2049	Makkai László	f	1914	1989	
+2050	Halász Béla	f	1927	2019	
+2051	Bock, Franz Johann Joseph	f	1823	1899	német
+2052	Benkő Elek	f	1954		
+2053	Fabriczy Kornél	f	1839	1910	
+2054	Szabó Gábor	f	1927	1996	
+2055	Bartók György, ifj.	f	1882	1970	
+2056	Nagy Károly	f	1797	1868	
+2057	Kuthy Lajos	f	1813	1864	
+2058	Malagola, Carlo	f	1855	1910	olasz
+2059	Bóka László	f	1910	1964	
+2060	Kozma László	f	1902	1983	
+2061	Szabó István	f	1898	1969	
+2062	Watts, Thomas	f	1811	1869	angol
+2063	Magyar János	f	1911	2006	
+2064	Zsigmond László	f	1907	1992	
+2065	Lajtha László György	f	1920	1995	nagy-britanniai magyar
+2066	Bardeen, John	f	1908	1991	amerikai
+2067	Kirchhoff, Gustav Robert	f	1824	1887	német
+2068	Lefebvre de Laboulaye, Édouard René de	f	1811	1883	francia
+2069	Pančić, Josip	f	1814	1888	szerb
+2070	Rómer Flóris	f	1815	1889	
+2071	Zimmermann Ágoston	f	1875	1963	
+2072	Csörgő Miklós	f	1932		kanadai magyar
+2073	Lamm Vanda	n	1945		
+2074	Király Béla	f	1912	2009	
+2075	Cantù, Cesare	f	1804	1895	olasz
+2076	Heady, Earl Orel	f	1916	1987	amerikai
+2077	Ivánovics György	f	1904	1980	
+2078	Sirendib, Badzarin	f	1912	2001	mongol
+2079	Bálint Csanád	f	1943		
+2080	Deák Farkas	f	1832	1888	
+2081	Csató Pál	f	1804	1841	
+2082	Abrikoszov, Alekszej Alekszejevics	f	1928	2017	orosz
+2083	Vágó Szilárd / Vago, Constantin	f	1921	2012	franciaországi magyar
+2084	Havas András	f	1891	1954	
+2085	Szily Kálmán	f	1875	1958	
+2086	Podmaniczky Frigyes	f	1824	1907	
+2087	Perrot, Georges	f	1832	1914	francia
+2088	Wekerle Sándor	f	1848	1921	
+2089	Schmidt Sándor	f	1855	1904	
+2090	Beck Mihály	f	1929	2017	
+2091	Goeje, Michael Jan de	f	1836	1909	holland
+2092	Montu, Carlo	f	1869	1949	olasz
+2093	Boyle, Peter	f	1951		brit
+2094	Sebők Tamás / Sebeok, Thomas Albert	f	1920	2001	amerikai-magyar
+2095	Franz, Herbert	f	1908	2002	osztrák
+2096	Filarszky Nándor	f	1858	1941	
+2097	Madzsar Imre	f	1878	1946	
+2098	Flerkó Béla	f	1924	2003	
+2099	Borbiró Virgil	f	1893	1956	
+2100	Gábor László	f	1910	1981	
+2101	Hammer-Purgstall, Joseph von	f	1774	1856	osztrák
+2102	Schelling, Friedrich Wilhelm Joseph	f	1775	1854	német
+2103	Zsirai Miklós	f	1892	1955	
+2104	Méhelÿ Lajos	f	1862	1953	
+2105	Rosty Pál	f	1830	1874	
+2106	Kónya Albert	f	1917	1988	
+2107	Ranke, Leopold von	f	1795	1886	német
+2108	Bedő Zoltán	f	1951		
+2109	Späth, Ernst	f	1886	1946	osztrák
+2110	Bódiss Jusztin János	f	1863	1921	
+2111	Tóth István	f	1946		ausztráliai magyar
+2112	Apponyi Albert	f	1846	1933	
+2113	Balla Tamás	f	1955		amerikai-magyar
+2114	Zawadowski Alfréd	f	1936	2017	
+2115	Jireček, Konstantin Josef	f	1854	1918	cseh
+2116	Kolosváry Bálint	f	1875	1954	
+2117	Turóczi-Trostler József	f	1888	1962	
+2118	Kovács András	f	1946		romániai magyar
+2119	Döbrentei Gábor	f	1785	1851	
+2120	Kaszab Zoltán	f	1915	1986	
+2121	Brockelmann, Carl	f	1868	1956	német
+2122	Hoór-Tempis Móric	f	1867	1944	
+2123	Petrusz Péter	f	1939	2017	amerikai-magyar
+2124	Svoboda, Karel	f	1965		cseh-amerikai
+2125	Nyiredy Szabolcs	f	1950	2006	
+2126	Müller, Friedrich Max	f	1823	1900	német
+2127	Scitovsky Tibor	f	1910	2002	amerikai-magyar
+2128	Földes Ferenc	f	1910	1997	amerikai-magyar
+2129	Murchison, Roderick Impey	f	1792	1871	skót
+2130	Iván Béla	f	1952		
+2131	Tamássy István	f	1924	1995	
+2132	Brem, Gottfried	f	1953		osztrák
+2133	Wells, Thomas Spencer	f	1818	1897	angol
+2134	Kováč, Dušan	f	1942		szlovák
+2135	Bezold, Karl	f	1859	1922	német
+2136	Csukás Zoltán	f	1900	1957	
+2137	Kiss Bálint	f	1772	1853	
+2138	Kallós Lajos	f	1819	1881	
+2139	Csikós Nagy Béla	f	1915	2005	
+2140	Haynal Imre	f	1892	1979	
+2141	Sajó András	f	1949		
+2142	Déchy Mór	f	1851	1917	
+2143	Klein, Felix Christian	f	1849	1925	német
+2144	Schirmacher, Peter	f	1961		német
+2145	Rudin, Mary Ellen	n	1924	2013	amerikai
+2146	Pál Judit	n	1961		romániai magyar
+2147	Szikura József	f	1932	2015	ukrajnai magyar
+2148	Balogh Tamás / Balogh, Thomas	f	1905	1985	nagy-britanniai magyar
+2149	Németh Gyula	f	1890	1976	
+2150	Egyed László	f	1914	1970	
+2151	Závodszky Péter	f	1939		
+2152	Magyary Géza	f	1864	1928	
+2153	Semsey Andor	f	1833	1923	
+2154	Patkós András	f	1947		
+2155	Vajda György	f	1927		
+2156	Makovitzky József	f	1942		németországi magyar
+2157	Waldmann, Thomas Alexander	f	1930		amerikai
+2158	Nagy József	f	1818	1892	
+2159	Szeremlei Sámuel	f	1837	1924	
+2160	Németh G. Béla	f	1925	2008	
+2161	Gerevich Tibor	f	1882	1954	
+2162	Belting, Hans	f	1935		német
+2163	Szaggyejev, Roald Zinnurovics	f	1932		orosz
+2164	Kövér Katalin, E.	n	1956		
+2165	Borlaug, Norman Ernest	f	1914	2009	amerikai
+2166	Széchenyi Béla	f	1837	1918	
+2167	Görömbei András	f	1945	2013	
+2168	Schenzl Guidó	f	1823	1890	osztrák származású
+2169	Vári Rezső	f	1867	1940	
+2170	Osthoff, Hermann	f	1847	1909	német
+2171	Lwoff, André Michel	f	1902	1994	francia
+2172	Asbóth Oszkár	f	1852	1920	
+2173	Széchy Károly	f	1903	1972	
+2174	Kerekes Ferenc	f	1784	1850	
+2175	Gévay Antal	f	1797	1845	
+2176	Bárány Ágoston	f	1798	1849	
+2177	Rinner, Karl	f	1912	1991	osztrák
+2178	Seidner Mihály	f	1875	1968	
+2179	Fülep Lajos	f	1885	1970	
+2180	Barabási Albert László	f	1967		amerikai-magyar
+2181	Huizinga, Johan	f	1872	1945	holland
+2182	Rohringer Sándor	f	1868	1945	
+2183	Moesz Gusztáv	f	1873	1946	
+2184	Volf György	f	1843	1897	
+2185	Szkála Károly	f	1951		horvátországi magyar
+2186	Vavilov, Pjotr Petrovics	f	1918	1984	orosz
+2187	Ozsváth Péter	f	1967		amerikai-magyar
+2188	Chlumecký, Petr	f	1825	1863	cseh
+2189	Vághy Ferenc	f	1776	1862	
+2190	Fogarasi Béla	f	1891	1959	
+2191	Gönczy Pál	f	1817	1892	
+2192	Geoffroy Saint-Hilaire, Isidore	f	1805	1861	francia
+2193	Cholnoky Jenő	f	1870	1950	
+2194	Kőrösy Ferenc	f	1906	1997	izraeli magyar
+2195	Schulek Frigyes	f	1841	1919	
+2196	Bethlen István	f	1874	1946	
+2197	Földessy Gyula	f	1874	1964	
+2198	Horváth Cirill József	f	1804	1884	
+2199	Lotz János / Lotz, John	f	1913	1973	amerikai-magyar
+2200	Divald Kornél	f	1872	1931	
+2201	Mailáth György, id.	f	1786	1861	
+2202	Scheffer, Fritz	f	1899	1979	német
+2203	Beke Ödön	f	1883	1964	
+2204	Gosztonyi György	f	1932		németországi magyar
+2205	Lakos János	f	1776	1843	
+2206	Freund Tamás	f	1959		
+2207	Hacker, Jörg H.	f	1952		német
+2208	Ginsztler János	f	1943	2019	
+2209	Ladik János	f	1929	2018	németországi magyar
+2210	Teleki Ferenc	f	1785	1831	
+2211	Nagy Elemér	f	1920	2000	
+2212	Hildebrand, Hans	f	1842	1913	svéd
+2213	Szentkirályi Zsigmond	f	1804	1870	
+2214	Kunyik, Ariszt Arisztovics	f	1814	1899	orosz
+2215	Czettler Jenő	f	1879	1954	
+2216	Hotchkiss, Rollin Douglas	f	1911	2004	amerikai
+2217	Konuma Micsidzsi	f	1931		japán
+2218	Engelbrecht, Jüri	f	1939		észt
+2219	Neményi Miklós	f	1947		
+2220	Bernal, John Desmond	f	1901	1971	ír-angol
+2221	Benczúr Gyula	f	1844	1920	
+2222	Fónagy Iván	f	1920	2005	amerikai-magyar
+2223	Vajda Violetta	n	1963		svédországi magyar
+2224	Bailly, Antoine S.	f	1944		svájci
+2225	Székely Vladimír	f	1941		
+2226	Kazmierkowski, Marian	f	1943		lengyel
+2227	Cziráky Antal Mózes	f	1772	1852	
+2228	Fejérpataky László	f	1857	1923	
+2229	Udránszky László	f	1862	1914	
+2230	Tangl Károly	f	1869	1940	
+2231	Katona Lajos	f	1862	1910	
+2232	Janagiszava Jaszutosi	f	1870	1936	japán
+2233	Karabacek, Joseph von	f	1845	1918	osztrák
+2234	Giannini, Amedeo	f	1886	1960	olasz
+2235	Seri István	f	1951		amerikai-magyar
+2236	Boissier, Pierre Edmond	f	1810	1885	svájci
+2237	Jekelfalussy József	f	1849	1901	
+2238	Roizman, Bernard	f	1929		amerikai-román
+2239	Tolcsvai Nagy Gábor	f	1953		
+2240	Kautzleben, Heinz	f	1934		német
+2241	Keresztury Dezső	f	1904	1996	
+2242	Pines, David	f	1924	2018	amerikai
+2243	Cságoly Ferenc	f	1948		
+2244	Atkinson, William Stephen	f	1820	1876	angol-indiai
+2245	Hekler Antal	f	1882	1940	
+2246	Croiset, Alfred	f	1845	1923	francia
+2247	Donhoffer Szilárd	f	1902	1999	
+2248	Graham, Ronald L.	f	1935		amerikai
+2249	Császár Ákos	f	1924	2017	
+2250	Jókai Mór	f	1825	1904	
+2251	Dzjalosinszkij, Igor Jehieljevics / Dzyaloshinski, Igor	f	1931		orosz-amerikai
+2252	Pólya József	f	1802	1873	
+2253	Buday László	f	1963		
+2254	Krasztanov, Ljubomir	f	1908	1977	bolgár
+2255	Balogh János	f	1913	2002	
+2256	Welcker, Karl Theodor	f	1790	1869	német
+2257	Farkas Gyula	f	1847	1930	
+2258	Pálfy Péter Pál	f	1955		
+2259	Soboul, Albert Marius	f	1914	1982	francia
+2260	Egyed Ákos	f	1929		romániai magyar
+2261	Petzval József	f	1807	1891	ausztriai magyar
+2262	Fabinyi Rudolf	f	1849	1920	
+2263	Klaniczay Tibor	f	1923	1992	
+2264	Mócsy András	f	1929	1987	
+2265	Bielz, Eduard Albert	f	1827	1898	
+2266	Wiedemann, Ferdinand Johann	f	1805	1888	észt
+2267	Szauder József	f	1917	1975	
+2268	Zsarnay Lajos	f	1802	1866	
+2269	Villari, Pasquale	f	1827	1917	olasz
+2270	Klug Nándor	f	1845	1909	
+2271	Gáthy István	f	1780	1859	
+2272	Tentelis, Augusts	f	1876	1942	lett
+2273	Nádasdy Ferenc	f	1785	1851	
+2274	Hajdu János	f	1934		németországi magyar
+2275	Kölcsey Ferenc	f	1790	1838	
+2276	Leitner Gottlieb Vilmos	f	1840	1899	nagy-britanniai magyar
+2277	Viski Károly	f	1883	1945	
+2278	Wollheim, Claes B.	f	1943		svéd
+2279	Fuchs, Lazarus Immanuel	f	1833	1902	német
+2280	Kollár László Péter	f	1958		
+2281	Apáthy István, id.	f	1829	1889	
+2282	Lipták András	f	1935	2012	
+2283	Kerényi Károly	f	1897	1973	
+2284	Cowey, Alan	f	1935	2012	brit
+2285	Kornis Mihály	f	1796	1835	
+2286	Krocskó Gyula	f	1934	2007	ukrajnai magyar
+2287	Roche, Jean	f	1901	1992	francia
+2288	Flór Ferenc	f	1809	1871	
+2289	Szitenko, Alekszej Grigorjevics	f	1927	2002	ukrán
+2290	Kisfaludy Lajos	f	1924	1988	
+2291	Surányi-Unger Tivadar	f	1898	1973	
+2292	Muszbek László	f	1942		
+2293	Óváry Lipót	f	1833	1919	
+2294	Viszota Gyula	f	1871	1947	
+2295	Eötvös Loránd	f	1848	1919	
+2296	Galamb Sándor	f	1886	1972	
+2297	Náray-Szabó István	f	1899	1972	
+2298	Bühler, Karl	f	1879	1963	német
+2299	Roscher, Wilhelm	f	1817	1894	német
+2300	Palkovits Miklós	f	1933		
+2301	Frähn, Christian Martin Joachim	f	1782	1851	német
+2302	Szépfalusy Péter	f	1931	2014	
+2303	Orsós Ferenc	f	1879	1962	
+2304	Fraknói Vilmos	f	1843	1924	
+2305	Menner, Vlagyimir Vasziljevics	f	1905	1989	orosz
+2306	Lyell, Charles	f	1797	1875	angol
+2307	Gánóczy Sándor	f	1928		németországi magyar
+2308	Gyulai Pál	f	1826	1909	
+2309	Montalembert, Charles de	f	1810	1870	francia
+2310	Rédei Károly	f	1932	2008	ausztriai magyar
+2311	Nogara, Bartolomeo	f	1868	1954	olasz
+2312	Óvári Kelemen	f	1844	1925	
+2313	Esterházy Pál Antal	f	1786	1866	
+2314	Vályi Gyula	f	1855	1913	
+2315	Kriebel, Johann	f		1853	galíciai
+2316	Anohin, Pjotr Kuzmics	f	1898	1974	orosz
+2317	Ormos Mária	n	1930		
+2318	Árkai Péter	f	1944		
+2319	Nagy Iván	f	1824	1898	
+2320	Supka Géza	f	1883	1956	
+2321	Szenczy Imre	f	1798	1860	
+2322	Szidorenko, Alekszandr Vasziljevics	f	1917	1982	orosz
+2323	Bertha Sándor	f	1796	1877	
+2324	Harangi Szabolcs	f	1962		
+2325	Rezsőházy Rudolf	f	1929		belgiumi magyar
+2326	Domokos Gábor	f	1961		
+2327	Deáki Filep Sámuel	f	1784	1855	
+2328	Mangini, Angelo	f	1905	1988	olasz
+2329	Reiner János	f	1865	1938	
+2330	Sartori, Guido	f	1909	1981	olasz
+2331	Nagy Károly	f	1926	2016	
+2332	Kaán Károly	f	1867	1940	
+2333	Pukánszky Béla	f	1895	1950	
+2334	Korányi Sándor	f	1866	1944	
+2335	Petsko, Gregory	f	1948		amerikai
+2336	Walther, Herbert	f	1935	2006	német
+2337	Vogt, Marthe	n	1903	2003	német
+2338	Kollár László	f	1955		
+2339	Illyés Gyula	f	1902	1983	
+2340	Frank András	f	1949		
+2341	Olszak, Wacław	f	1902	1980	lengyel
+2342	Žujović, Jovan	f	1856	1936	szerb
+2343	Gyóni Mátyás	f	1913	1955	
+2344	Őry Huba	f	1927	2015	németországi magyar
+2345	Yinglai Wang	f	1907	2001	kínai
+2346	Hoványi Ferenc	f	1816	1871	
+2347	Dudík, Beda František	f	1815	1890	cseh
+2348	Lakatos István	f	1943		
+2349	Glauber, Roy	f	1925	2018	amerikai
+2350	Zolnai Béla	f	1890	1969	
+2351	Groszkowski, Janusz	f	1898	1984	lengyel
+2352	Vörös József	f	1951		
+2353	Zichy Jenő	f	1837	1906	
+2354	Baumgartner, Andreas	f	1793	1865	német
+2355	Vincze Imre	f	1944		
+2356	Chuquet, Arthur Maxime	f	1853	1925	francia
+2357	Ledersteger, Karl	f	1900	1972	osztrák
+2358	Frankl Péter	f	1953		japán magyar
+2359	Czelnai Rudolf	f	1932		
+2360	Varga Attila	f	1958		
+2361	Solymossy Sándor	f	1864	1945	
+2362	Vass József	f	1813	1873	
+2363	Clausen, Hjalmar	f	1905	1983	dán
+2364	Győry Sándor	f	1795	1870	
+2365	Berczik Árpád	f	1842	1919	
+2366	Hilbert, David	f	1862	1943	német
+2367	Ancel, Marc	f	1902	1990	francia
+2368	Ettingshausen, Andreas von	f	1796	1878	osztrák
+2369	Réz Mihály	f	1878	1921	
+2370	Levasseur, Pierre Émile	f	1828	1911	francia
+2371	Gráf László	f	1942		
+2372	Balogh Jenő	f	1864	1953	
+2373	Biró László Péter	f	1955		
+2374	Selah, Szaharón	f	1945		izraeli
+2375	Huxley, Julian Sorell	f	1887	1975	angol
+2376	Wagner, Hildebert	f	1929		német
+2377	Steindl Imre	f	1939	1902	
+2378	Szabó Károly	f	1824	1890	
+2379	Moissan, Henri	f	1852	1907	francia
+2380	Hofmann Károly	f	1839	1891	
+2381	Andrássy Géza	f	1856	1938	
+2382	Hetényi János	f	1786	1853	
+2383	Horvai György	f	1949		
+2384	Sudhoff, Karl	f	1853	1938	német
+2385	Zeller, Eduard Gottlob	f	1814	1908	német
+2386	Reclus, Élisée	f	1830	1905	francia
+2387	Kerékgyártó Árpád Alajos	f	1818	1902	
+2388	Teleki Sámuel	f	1845	1916	
+2389	Madas Edit	n	1949		
+2390	Bodánszky Miklós	f	1915	2007	amerikai-magyar
+2391	Haiduc, Ionel	f	1937		román
+2392	Fehér M. István	f	1950		
+2393	Ramann, Emil	f	1851	1926	német
+2394	Mályusz Elemér	f	1898	1989	
+2395	Petraschek, Walther Emil	f	1906	1991	osztrák
+2396	Lyde, Lionel William	f	1863	1947	angol
+2397	Hoff, Jacobus Henricus van ’t	f	1852	1911	holland
+2398	Jermy Tibor	f	1917	2014	
+2399	Bodio, Luigi	f	1840	1920	olasz
+2400	Kertai György	f	1912	1968	
+2401	Láng István	f	1931	2016	
+2402	Tompa Mihály	f	1817	1868	
+2403	Hunyady György	f	1942		
+2404	Szeder Fábián János	f	1784	1859	
+2405	Hegedüs Sámuel	f	1781	1844	
+2406	Fülöp József	f	1927	1994	
+2407	Broms, Bengt Henry	f	1929		finn
+2408	Ortvay Tivadar	f	1843	1916	
+2409	Mátray Gábor	f	1797	1875	
+2410	Benkő Dániel	f	1799	1883	
+2411	Divéky Adorján	f	1880	1965	
+2412	Buzsáki György	f	1949		amerikai-magyar
+2413	Guizot, François	f	1787	1874	francia
+2414	Bartók Mihály	f	1933		
+2415	Sarkadi Balázs	f	1948		
+2416	Veronese, Giuseppe	f	1854	1917	olasz
+2417	Wagner-Jauregg, Julius	f	1857	1940	osztrák
+2418	Kellner Béla	f	1904	1975	
+2419	Lóczy Lajos	f	1849	1920	
+2420	Cloetingh, Sierd	f	1950		holland
+2421	Rózsay József	f	1815	1885	
+2422	Antal Géza	f	1846	1889	
+2423	Kardos Lajos	f	1899	1985	
+2424	Krompecher Ödön	f	1870	1926	
+2425	Huszthy Péter	f	1950		
+2426	Nyulászi László	f	1957		
+2427	Ferdinandy Gejza	f	1864	1924	
+2428	Kis Pál	f	1793	1847	
+2429	Ernst Jenő	f	1895	1981	
+2430	Mészáros István	f	1930	2017	nagy-britanniai magyar
+2431	Szathmáry György	f	1845	1898	
+2432	Váli Gábor / Vali, Gabor	f	1936		amerikai-magyar
+2433	Serédi Jusztinián	f	1884	1945	
+2434	Szepesi Imre	f	1811	1875	
+2435	Jakucs Pál	f	1928	2000	
+2436	Gindely, Antonín	f	1829	1892	cseh
+2437	Gáspár Zsolt	f	1944		
+2438	Radlov, Vaszilij Vasziljevics	f	1837	1918	orosz
+2439	Vető Miklós	f	1936		franciaországi magyar
+2440	Udvardy Miklós	f	1919	1998	amerikai-magyar
+2441	Márai Sándor	f	1900	1989	
+2442	Gyomlay Gyula	f	1861	1942	
+2443	Zsivora György	f	1804	1883	
+2444	Csengery Antal	f	1822	1880	
+2445	Richter Aladár	f	1868	1927	
+2446	Rostovtzeff, Michael	f	1870	1952	amerikai-orosz
+2447	Nejedlý, Zdeněk	f	1878	1962	cseh
+2448	Kreutzwald, Friedrich Reinhold	f	1803	1882	észt
+2449	Mocsáry Sándor	f	1841	1915	
+2450	Vinkler János	f	1886	1968	
+2451	Péch Antal	f	1822	1895	
+2452	Hetényi Magdolna	n	1944		
+2453	Volterra, Vito	f	1860	1940	olasz
+2454	Simon István	f	1947		
+2455	Wilamowitz-Moellendorff, Ulrich von	f	1848	1931	német
+2456	Láng Géza	f	1916	1980	
+2457	Mészáros Rezső	f	1942		
+2458	Parlatore, Filippo	f	1816	1877	olasz
+2459	Čermák, Jan Nepomuk	f	1828	1873	cseh
+2460	Jakab Tóth Éva	n	1967		franciaországi magyar
+2461	Held József	f	1930		amerikai-magyar
+2462	Dercourt, Jean	f	1935	2019	francia
+2463	Szigeti József	f	1921	2012	
+2464	Trapeznyikov, Vagyim Alekszandrovics	f	1905	1994	orosz
+2465	Petrányi Gyula	f	1912	2000	
+2466	Vayer Lajos	f	1913	2001	
+2467	Kovács Ilona	f	1960		
+2468	Perényi Zsigmond	f	1783	1849	
+2469	Petrányi Győző	f	1933		
+2470	Engel, Ernst	f	1821	1896	német
+2471	Wellmann Oszkár	f	1876	1943	
+2472	Erdős Pál	f	1913	1996	
+2473	Dirac, Paul	f	1902	1984	angol
+2474	Vaskovics László Árpád	f	1936		németországi magyar
+2475	Németh Ferenc	f	1933		hollandiai magyar
+2476	Adriányi Gábor	f	1935		németországi magyar
+2477	Kisfaludy Sándor	f	1772	1844	
+2478	Torge, Wolfgang	f	1931		német
+2479	Szemere Pál	f	1785	1861	
+2480	Krompecher István	f	1905	1983	
+2481	Lassú István	f	1797	1852	
+2482	Bibó István, ifj.	f	1911	1979	
+2483	Szabolcsi Anna	n	1953		amerikai-magyar
+2484	Stipsicz András	f	1966		
+2485	Kállay Ferenc	f	1790	1861	
+2486	Mámalisz, Athanásziosz G.	f	1941		görög
+2487	Csurgay Árpád	f	1936		
+2488	Kannisto, Juha Artturi	f	1874	1943	finn
+2489	Kováts Ervin	f	1927	2012	svájci magyar
+2490	Csűrös Zoltán	f	1901	1979	
+2491	Bitay Enikő	n	1960		romániai magyar
+2492	Kerpel-Fronius Ödön	f	1906	1984	
+2493	Andrássy Gyula, ifj.	f	1860	1929	
+2494	Jánossy András	f	1944		
+2495	Šorm, František	f	1913	1980	cseh
+2496	Darányi Ignác	f	1849	1927	
+2497	Thompson, John Michael Tutill	f	1937		brit
+2498	Herman József	f	1924	2005	
+2499	Csizmadia Imre Gyula	f	1932		kanadai magyar
+2500	Teplán István	f	1932		
+2501	Krenner József	f	1839	1920	
+2502	Erdei Anna	n	1951		
+2503	Dudich Endre	f	1895	1971	
+2504	Hoch Róbert	f	1926	1993	
+2505	Michel, Alain	f	1929	2017	francia
+2506	Horváth Barna	f	1896	1973	
+2507	Redlich, Oswald	f	1858	1944	osztrák
+2508	Klupathy Jenő	f	1861	1931	
+2509	Vladár Gábor	f	1881	1972	
+2510	Péter Rózsa	n	1905	1977	
+2511	Illyés Géza	f	1870	1951	
+2512	Török János	f	1807	1874	
+2513	Kozák Imre	f	1930	2016	
+2514	Del Vecchio, Giorgio	f	1878	1970	olasz
+2515	Nevanlinna, Rolf Herman	f	1895	1980	finn
+2516	Simidzu Szakai	f	1915	2003	japán
+2517	Nagy Lajos	f	1897	1946	
+2518	Lukjanyenko, Pavel Pantyelejmonovics	f	1901	1973	orosz
+2519	Janszky József	f	1943	2018	
+2520	Belák Sándor, id.	f	1886	1947	
+2521	Boér Elek, ifj.	f	1899	1954	
+2522	Topinard, Paul	f	1830	1911	francia
+2523	Bókay Árpád	f	1856	1919	
+2524	Zwiedineck-Südenhorst, Otto von	f	1871	1957	osztrák
+2525	Halász Ottó	f	1927	1986	
+2526	Vánky Kálmán	f	1930		svédországi magyar
+2527	Kelemen Lajos	f	1877	1963	romániai magyar
+2528	Claparède, Alexandre	f	1858	1913	svájci
+2529	Bresslau, Harry	f	1848	1926	német
+2530	Westsik Vilmos	f	1883	1976	
+2531	Fazekas Patrik	f	1945	2007	
+2532	Papée, Fryderyk	f	1856	1940	lengyel
+2533	Molnár Miklós	f	1918	2003	svájci magyar
+2534	Zeldovics, Jakov Boriszovics	f	1914	1987	belorusz
+2535	Bélyácz Iván	f	1949		
+2536	Kozma Pál	f	1920	2004	
+2537	Kossovich Károly	f	1803	1841	
+2538	Tanárky Gedeon	f	1815	1887	
+2539	Kerpely Kálmán	f	1864	1940	
+2540	Kohlmey, Günther	f	1913	1999	német
+2541	Damjanovich Sándor	f	1936	2017	
+2542	Kákosy László	f	1932	2003	
+2543	Klein György / Klein, Georg	f	1925	2016	svédországi magyar
+2544	Jünemann, Reinhardt	f	1936		német
+2545	Roberts, Derek Frank	f	1925	2016	angol
+2546	Kecskés László	f	1953		
+2547	Repiczky János	f	1817	1855	
+2548	Buza László	f	1885	1969	
+2549	Szőkefalvi Nagy Gyula	f	1887	1953	
+2550	Beély Fidél József	f	1807	1863	
+2551	Vörös Attila	f	1944		
+2552	Beöthy Ákos	f	1838	1904	
+2553	Szalay A. Sándor	f	1949		
+2554	Szent-Iványi Tamás	f	1920	1991	
+2555	Fried, Johannes	f	1942		német
+2556	Pankratova, Anna Mihajlovna	n	1897	1957	orosz
+2557	Hoffmann Pál	f	1830	1907	
+2558	Ortvay Rudolf	f	1885	1945	
+2559	Márton József	f	1771	1840	
+2560	Sándorfy Kamill	f	1920	2006	franciaországi magyar
+2561	Mátrai László	f	1909	1983	
+2562	Szabadváry Ferenc	f	1923	2006	
+2563	Haar Alfréd	f	1885	1933	
+2564	Szénássy Sándor	f	1828	1872	
+2565	Grimm, Jacob	f	1785	1863	német
+2566	Andrássy Manó	f	1821	1891	
+2567	Wosinsky Mór	f	1854	1907	
+2568	Waldstein-Wartenberg János	f	1809	1876	
+2569	Fragner, Bert	f	1941		osztrák
+2570	Vizi E. Szilveszter	f	1936		
+2571	Hornes, Moritz	f	1815	1868	osztrák
+2572	Heszky László	f	1945		
+2573	Rejtő Sándor	f	1853	1928	
+2574	Pantó György	f	1936		
+2575	Lányi János	f	1937		amerikai-magyar
+2576	Murgulescu, Ilie G.	f	1902	1991	román
+2577	Bitskey István	f	1941		
+2578	Denis, Ernest	f	1849	1921	francia
+2579	Váczy Péter	f	1904	1994	
+2580	Sennyey Pál	f	1824	1888	
+2581	Bruns, Ernst Heinrich	f	1848	1919	német
+2582	Maszao Ito	f	1928	2018	japán
+2583	Hegedűs László	f	1814	1884	
+2584	Hermite, Charles	f	1811	1901	francia
+2585	Molnár Aladár	f	1839	1881	
+2586	Janhunen, Juha Antero	f	1952		finn
+2587	Lu Yongxiang	f	1942		kínai
+2588	Forgó László	f	1907	1985	
+2589	Ikonómosz, Jeórjiosz	f	1883	1951	görög
+2590	Morócz István	f	1816	1881	
+2591	Leindler László	f	1935		
+2592	Schmidt József	f	1868	1933	
+2593	Szabó Zoltán	f	1965		amerikai-magyar
+2594	Kumorovitz L. Bernát	f	1900	1992	
+2595	Jankowski, Jerzy	f	1933		lengyel
+2596	Harsányi János	f	1920	2000	amerikai-magyar
+2597	Méhes Károly	f	1936	2007	
+2598	Bollobás Béla	f	1943		amerikai-magyar
+2599	Szalay Sándor	f	1909	1987	
+2600	Szegedy-Maszák Mihály	f	1943	2016	
+2601	Egyed Antal	f	1779	1862	
+2602	Orosz László	f	1943		
+2603	Liska József	f	1883	1967	
+2604	Pasteiner Gyula	f	1846	1924	
+2605	Krones, Franz	f	1835	1902	osztrák
+2606	Müller, Georg	f	1917	2004	német
+2607	Weltner Andor	f	1910	1978	
+2608	Hofstede, Geert	f	1928		holland
+2609	Kunz Jenő	f	1844	1926	
+2610	Trócsányi Zoltán	f	1961		
+2611	Poincaré, Henri	f	1854	1912	francia
+2612	Tronchon, Henri	f	1877	1941	francia
+2613	Pastor, Ludwig von	f	1854	1928	német
+2614	Morhun, Volodimir Vasziljovics	f	1938		ukrán
+2615	Michelberger Pál	f	1930	2014	
+2616	Klein Gyula	f	1844	1915	
+2617	Pattantyús-Ábrahám Géza	f	1885	1956	
+2618	Kenessey Albert	f	1828	1879	
+2619	Rédey Tivadar	f	1885	1953	
+2620	Lévay József	f	1825	1918	
+2621	Hadrovics László	f	1910	1997	
+2622	Balogh Artúr	f	1866	1951	
+2623	Szarvasy Imre	f	1872	1942	
+2624	Hevesy György	f	1885	1966	magyar származású
+2625	Hof, Paul van den	f	1957		holland
+2626	Picard, Charles Émile	f	1856	1941	francia
+2627	Torkos Sándor	f	1833	1865	
+2628	Henszlmann Imre	f	1813	1888	
+2629	Sólyom László	f	1942		
+2630	Lévai András	f	1908	2003	
+2631	Gerecs Árpád	f	1903	1982	
+2632	Szenvey József	f	1800	1857	
+2633	Nemes Dezső	f	1908	1985	
+2634	Todaro, Agostino	f	1818	1892	olasz
+2635	Laziczius Gyula	f	1896	1957	
+2636	Fleischer, Heinrich Leberecht	f	1801	1888	német
+2637	Asbóth Lajos	f	1803	1882	
+2638	Fülöp Ferenc	f	1952		
+2639	Kerpely Antal	f	1837	1907	
+2640	Kulcsár Kálmán	f	1928	2010	
+2641	Csetri Elek	f	1924	2010	romániai magyar
+2642	Szegő Gábor	f	1895	1985	amerikai-magyar
+2643	Ritschl, Friedrich Wilhelm	f	1806	1876	német
+2644	Kenyeres Balázs	f	1865	1940	
+2645	Sárváry Pál	f	1765	1846	
+2646	Kopits György	f	1946		amerikai-magyar
+2647	Kónya Kálmán / Konya, Calvin J.	f	1943		amerikai-magyar
+2648	Böhm Károly	f	1846	1911	
+2649	Miledi, Ricardo	f	1927	2017	mexikói
+2650	Kamarás Katalin	n	1953		
+2651	Bowman, William Cameron	f	1930	2013	angol
+2652	Dessewffy Aurél	f	1808	1842	
+2653	Frank, Gleb Mihajlovics	f	1904	1976	orosz
+2654	Gyulai József	f	1933		
+2655	Budai Ézsaiás	f	1766	1841	
+2656	Rafn, Carl Christian	f	1795	1864	dán
+2657	Beck József	f	1952		amerikai-magyar
+2658	Darwin, Charles Robert	f	1809	1882	angol
+2659	Kúnos György / Kunos, George	f	1942		amerikai-magyar
+2660	Pasternák Alfréd	f	1930		amerikai-magyar
+2661	Berthelot, Marcellin	f	1827	1907	francia
+2662	’Sigmond Elek	f	1873	1939	
+2663	Vendel Miklós	f	1896	1977	
+2664	Hulkó Gábor	f	1947		szlovákiai magyar
+2665	Iványi Béla	f	1878	1964	
+2666	Volpe, Gioacchino	f	1876	1971	olasz
+2667	Szkrjabin, Georgij Konsztantyinovics	f	1917	1998	orosz
+2668	Balogh Pál	f	1794	1867	
+2669	Szakály Ferenc	f	1942	1999	
+2670	Jáky József	f	1893	1950	
+2671	Smith, Anthony David	f	1938		angol
+2672	Tompa Ferenc	f	1893	1945	
+2673	Hültl Dezső	f	1870	1946	
+2674	Széchenyi István	f	1791	1860	
+2675	Bresztyenszky Adalbert	f	1786	1850	
+2676	Érkövy Adolf	f	1818	1883	
+2677	Dallos, Peter	f	1934		amerikai-magyar
+2678	Nădășan, Ștefan	f	1901	1967	román
+2679	Deáky Zsigmond	f	1795	1872	
+2680	Degen Árpád	f	1866	1934	
+2681	Mignet, François	f	1796	1884	francia
+2682	Vrtiak, Otto Jaroslav	f	1924	2001	szlovák
+2683	Janet, Paul	f	1823	1899	francia
+2684	Gallai Tibor	f	1912	1992	
+2685	Antus Sándor	f	1944		
+2686	Csibi Vencel-József	f	1945	2019	romániai magyar
+2687	Springer György / Springer, George S.	f	1933		amerikai-magyar
+2689	Szarvas Gábor	f	1832	1895	
+2690	Hollós László	f	1859	1940	
+2691	Kriesch János	f	1834	1888	
+2692	Homoródi Lajos	f	1911	1982	
+2693	Rudics József	f	1792	1879	
+2694	Bayer József	f	1946		
+2695	Sipos Aladár	f	1927	2005	
+2696	László Ervin	f	1932		amerikai-magyar
+2697	Császár Elemér	f	1874	1940	
+2698	Rompe, Robert	f	1905	1993	német
+2699	Szabolcsi Bence	f	1899	1973	
+2700	Lukács József	f	1922	1987	
+2701	Preisz Hugó	f	1860	1940	
+2702	Mendöl Tibor	f	1905	1966	
+2703	Bartha Adorján	f	1923	1996	
+2704	Rummel, Reiner	f	1945		német
+2705	Gábos Zoltán	f	1924	2018	romániai magyar
+2706	Fröhlich Pál	f	1889	1949	
+2707	Plank Jenő	f	1890	1974	
+2708	Sauer Ignác	f	1801	1863	
+2709	Beöthy Leó	f	1839	1886	
+2710	Gyires Béla	f	1909	2001	
+2711	Kardos László	f	1898	1987	
+2712	Fekete Lajos	f	1891	1969	
+2713	Batthyány-Strattmann Fülöp	f	1781	1870	
+2714	Vargha Gyula	f	1853	1929	
+2715	Füredi Zoltán	f	1954		
+2716	Mezei Ferenc	f	1942		
+2717	Pázmándi Horváth Endre	f	1778	1839	
+2718	Kotsis Iván	f	1889	1980	
+2719	Reitter Ferenc	f	1813	1874	
+2720	Wolfram Ervin	f	1923	1985	
+2721	Jurányi Lajos	f	1837	1897	
+2722	Julesz Béla	f	1928	2003	amerikai-magyar
+2723	Dunai László	f	1958		
+2724	Szinnyei József	f	1857	1943	
+2725	Paul, Hermann	f	1846	1921	német
+2726	Várallyay György	f	1935	2018	
+2727	Czigány Tibor	f	1963		
+2728	Horváth Csaba	f	1930	2004	amerikai-magyar
+2729	Frivaldszky Imre	f	1799	1870	
+2730	Klemm Antal	f	1883	1963	
+2731	Tardos Gábor	f	1964		
+2732	Halász Ignác	f	1855	1901	
+2733	Besznyák István	f	1931	2017	
+2734	Kanitz Ágoston	f	1843	1896	
+2735	Baros Gyula	f	1876	1936	
+2736	Renan, Ernest	f	1823	1892	francia
+2737	Wagner, Horst	f	1939		osztrák
+2738	Szent-Györgyi Albert	f	1893	1986	
+2739	Nyomárkay István	f	1937		
+2740	Ormos Pál	f	1951		
+2741	Balásházy János	f	1797	1857	
+2742	Schüler, Karl Gustav	f	1807	1855	német
+2743	Csandra, Lokes	f	1927		indiai
+2744	Szladits Károly	f	1871	1956	
+2745	Venetianer Pál	f	1935		
+2746	Hornig Károly	f	1840	1914	
+2747	Batthyány-Strattmann László	f	1870	1931	
+2748	Sinor Dénes / Sinor, Denis	f	1916	2011	amerikai-magyar
+2749	Hofmann, August Wilhelm von	f	1818	1892	német
+2750	Vajkay Károly	f	1825	1893	
+2751	Szinnyei Ferenc	f	1875	1947	
+2752	Borbély Samu	f	1907	1984	
+2753	Varga János	f	1927	2008	
+2754	Bernát István	f	1854	1942	
+2755	Velihov, Jevgenyij Pavlovics	f	1935		orosz
+2756	Painlevé, Paul	f	1863	1933	francia
+2757	Koźmiński, Maciej	f	1937		lengyel
+2758	Szidarovszky János	f	1881	1947	
+2759	Thirring Gusztáv	f	1861	1941	
+2760	Ádám Antal	f	1929		
+2761	Zlinszky Imre	f	1834	1880	
+2762	Candolle, Alphonse Pyrame de	f	1806	1893	svájci
+2763	Nagy Ferenc	f	1927	2009	
+2764	Baksay Sándor	f	1832	1915	
+2765	Mészöly Gyula	f	1910	1974	
+2766	Bartakovics Béla	f	1791	1873	
+2767	Gáldi László	f	1910	1974	
+2768	Helmert, Friedrich Robert	f	1843	1917	német
+2769	Farkas Lajos	f	1841	1921	
+2770	Hornok László	f	1947		
+2771	Záborszky János / Zaborszky, John	f	1914	2008	amerikai-magyar
+2772	Gábriel Asztrik László / Gabriel, Astrik L.	f	1907	2005	amerikai-magyar
+2773	Jolesz A. Ferenc	f	1946	2014	amerikai-magyar
+2774	Vas Károly	f	1919	1981	
+2775	Berczik Árpád	f	1929		
+2776	Baritz György	f	1779	1840	
+2777	Lévai Péter	f	1962		
+2778	Kőváry László	f	1809	1907	
+2779	Gábor Dénes	f	1900	1979	nagy-britanniai magyar
+2780	Illés József	f	1871	1944	
+2781	Mészáros Lázár	f	1796	1858	
+2782	Gorove István	f	1819	1881	
+2783	Perrot, Jean	f	1925	2011	francia
+2784	Csányi Vilmos	f	1935		
+2785	Wiegner, Georg	f	1883	1936	német
+2786	Tóth Zoltán	f	1888	1958	
+2787	Szepesy Ignác	f	1780	1838	
+2788	Marczibányi Antal	f	1793	1872	
+2789	Gergely János / Gergely, John	f	1919	2013	amerikai-magyar
+2790	Mészáros Ernő	f	1935		
+2791	Lehr Albert	f	1844	1924	
+2792	Fest Sándor	f	1883	1944	
+2793	Szentpétery Imre	f	1878	1950	
+2794	Lőrincz Lajos	f	1935	2010	
+2795	Nilsson, Jan S.	f	1932	2010	svéd
+2796	Schulhof Lipót	f	1847	1921	
+2797	Petrovics Elek	f	1873	1945	
+2798	Babics Antal	f	1902	1992	
+2799	Szergijev, Pjotr Grigorjevics	f	1893	1973	orosz
+2800	Pekár Imre	f	1838	1923	
+2801	Schally, Andrew	f	1926		amerikai-lengyel
+2802	Gombocz Zoltán	f	1877	1935	
+2803	Hajnal István	f	1892	1956	
+2804	Kovács István	f	1913	1996	
+2805	Tóth Lőrinc	f	1814	1903	
+2806	Bérczy Károly	f	1821	1867	
+2807	Šišić, Ferdo	f	1869	1940	horvát
+2808	Knobil, Ernst	f	1926	2000	amerikai-német
+2809	Steindorff, Georg	f	1861	1951	német
+2810	Áldásy Antal	f	1869	1932	
+2811	Bedő Albert	f	1839	1918	
+2812	Okladnyikov, Alekszej Pavlovics	f	1908	1981	orosz
+2813	Réau, Louis	f	1881	1961	francia
+2814	Ubrizsy Gábor	f	1919	1973	
+2815	Murata Norio	f	1940		japán
+2816	Handley, Eric Walter	f	1926	2013	angol
+2817	Des Cloizeaux, Alfred	f	1817	1897	francia
+2818	Rubbia, Carlo	f	1934		olasz
+2819	Polányi János / Polanyi, John Charles	f	1929		kanadai magyar
+2820	Logrieco, Antonio	f	1958		olasz
+2821	Finkey József	f	1889	1941	
+2822	Ajtai Miklós	f	1946		amerikai-magyar
+2823	Vasoli, Cesare	f	1924	2013	olasz
+2824	Hohmann Judit	n	1957		
+2825	Bittner, Ludwig	f	1877	1945	osztrák
+2826	Földi Zoltán	f	1895	1987	
+2827	Mátyás Csaba	f	1943		
+2828	Wigner Jenő / Wigner, Eugene	f	1902	1995	amerikai-magyar
+2829	Kodály Zoltán	f	1882	1967	
+2830	Fekete Gábor	f	1930	2016	
+2831	Valéry, Paul	f	1871	1945	francia
+2832	Farkas József	f	1933	2014	
+2833	Mahler Ede	f	1857	1945	
+2834	Kiss Árpád	f	1889	1968	
+2835	Tarnai Tibor	f	1943		
+2836	Holub József	f	1885	1962	
+2837	Fabó András	f	1810	1874	
+2838	Wilke, Friedrich Ludwig	f	1931		német
+2839	Világhy Miklós	f	1916	1980	
+2840	Bartal Antal	f	1829	1909	
+2841	Keviczky László	f	1945		
+2842	Ritter, Carl	f	1779	1859	német
+2843	Horger Antal	f	1872	1946	
+2844	Király István	f	1921	1989	
+2845	Soós Lajos	f	1879	1972	
+2846	Konek Sándor	f	1819	1882	
+2847	Pyber László	f	1960		
+2848	Kacskovics Lajos	f	1806	1891	
+2849	Mattyasovszky Miklós	f	1875	1939	
+2850	Geleji Sándor	f	1898	1967	
+2851	Liebig, Justus von	f	1803	1873	német
+2852	Szántay Csaba	f	1928	2016	
+2853	Hamza Gábor	f	1949		
+2854	Paasonen, Heikki	f	1865	1919	finn
+2855	Freund, Hans-Joachim	f	1951		német
+2856	Kuncz Ignác	f	1841	1903	
+2857	Jones, Henry Arthur	f	1851	1929	angol
+2858	Pintér Jenő	f	1881	1940	
+2859	Kelemen Krizosztom	f	1884	1950	
+2860	Györke József	f	1906	1946	
+2861	Zimányi József	f	1931	2006	
+2862	Johan Béla	f	1889	1983	
+2863	Jedlik Ányos	f	1800	1895	
+2864	Savigny, Friedrich Carl	f	1779	1861	német
+2865	Szabó Barna	f	1935		amerikai-magyar
+2866	Jávorka Sándor	f	1883	1961	
+2867	Demény Lajos	f	1926	2010	romániai magyar
+2868	Pop, Emil	f	1897	1974	román
+2869	Lee Yuantseh	f	1936		tajvani
+2870	Tőtössy Béla	f	1854	1923	
+2871	Bright, Richard	f	1789	1858	angol
+2872	Frenzel, Burkhard	f	1928	2010	német
+2873	Hornyik János	f	1812	1885	
+2874	Kiss Ferenc	f	1791	1859	
+2875	Csatskó Imre	f	1804	1874	
+2876	Simonovits Miklós	f	1943		
+2877	Jósika Miklós	f	1794	1865	
+2878	Kozma Andor	f	1861	1933	
+2879	Freund Mihály	f	1889	1984	
+2880	Zahlbruckner Sándor	f	1860	1938	
+2881	Cassin, John	f	1813	1869	amerikai
+2882	Pólya Jakab	f	1844	1897	
+2883	Orłowski, Tadeusz	f	1917	2008	lengyel
+2884	Kemény József	f	1795	1855	
+2885	Ráth Zoltán	f	1863	1902	
+2886	Pertz, Georg Heinrich	f	1795	1876	német
+2887	Gárdonyi Géza	f	1863	1922	
+2888	Gróh Gyula	f	1886	1952	
+2889	Oszipov, Jurij Szergejevics	f	1936		orosz
+2890	Tamás Lajos	f	1904	1984	
+2891	Németh Lajos	f	1929	1991	
+2892	Kroó Norbert	f	1934		
+2893	Balló Mátyás	f	1844	1930	
+2894	Kogel, Karl-Heinz	f	1956		német
+2895	Pessina, Enrico	f	1828	1916	olasz
+2896	Korányi Frigyes	f	1828	1913	
+2897	Bjerrum, Jannik	f	1909	1992	dán
+2898	Eckhardt Sándor	f	1927	2016	
+2899	Pringsheim, Nathanael	f	1823	1894	német
+2900	Tamás Gábor	f	1969		
+2901	Vischer, Friedrich Theodor	f	1807	1887	német
+2902	Károlyi Árpád	f	1853	1940	
+2903	Szekeres György	f	1911	2005	ausztráliai magyar
+2904	Szabó Sándor	f	1944		amerikai-magyar
+2905	Thaisz András	f	1789	1840	
+2906	Dósa Elek	f	1803	1867	
+2907	Giesebrecht, Wilhelm von	f	1814	1889	német
+2908	Császka György	f	1826	1904	
+2909	Müller Miklós	f	1930		amerikai-magyar
+2910	Kosáry Domokos	f	1913	2007	
+2911	Bíró Vencel	f	1885	1962	
+2912	Moravcsik Gyula	f	1892	1972	
+2913	Benyovszky Zsigmond	f	1799	1873	
+2914	Schubert Gabriella	n	1943		németországi magyar
+2915	Kotlán Sándor	f	1887	1967	
+2916	Kemény Gábor	f	1830	1888	
+2917	Izsvák Zsuzsanna	n	1961		németországi magyar
+2918	Hollósi Miklós	f	1941	2016	
+2919	Finta József	f	1935		
+2920	Balla György	f	1953		
+2921	Francisci, Pietro de	f	1883	1971	olasz
+2922	Perczel András	f	1959		
+2923	Orlóci László	f	1932		kanadai magyar
+2924	Guttmann András	f	1954		ausztriai magyar
+2925	Balázs Nándor László	f	1926	2003	amerikai-magyar
+2926	Schuller Alajos	f	1845	1920	
+2927	Hatvany Lajos	f	1880	1961	
+2928	Kuratowski, Kazimierz	f	1896	1980	lengyel
+2929	Sőtér István	f	1913	1988	
+2930	Horváth Géza	f	1847	1937	
+2931	Milne-Edwards, Henri	f	1800	1885	francia
+2932	Holmes, Philip J.	f	1945		amerikai
+2933	Szemere Bertalan	f	1812	1869	
+2934	Budó Ágoston	f	1914	1969	
+2935	Salamon Ferenc	f	1825	1892	
+2936	Ehrle, Franz	f	1845	1934	német
+2937	Infeld, Leopold	f	1898	1968	lengyel
+2938	Dékány István	f	1886	1965	
+2939	Herczegh Géza	f	1928	2010	
+2940	Falk Miksa	f	1828	1908	
+2941	Szüllő Géza	f	1873	1957	szlovákiai magyar
+2942	Csáky Albin	f	1841	1912	
+2943	Smolka, Stanisław	f	1854	1924	lengyel
+2944	Kronecker, Leopold	f	1823	1891	német
+2945	Csernoch János	f	1852	1927	
+2946	Csépe Valéria	n	1951		
+2947	Ferge Zsuzsa	n	1931		
+2948	Czibere Tibor	f	1930		
+2949	Nozières, Philippe	f	1932		francia
+2950	Szentpétery Zsigmond	f	1880	1952	
+2951	Tormay Béla	f	1839	1906	
+2952	Kornis Gyula	f	1885	1958	
+2953	Jones-Loyd, Samuel	f	1796	1883	angol
+2954	Hambardzumjan, Viktor	f	1908	1996	örmény
+2955	Schuster János	f	1777	1838	
+2956	Vinogradov, Ivan Matvejevics	f	1891	1983	orosz
+2957	Heinrich Gusztáv	f	1845	1922	
+2958	Lénárd Fülöp	f	1862	1947	
+2959	Szathmáry Eörs	f	1959		
+2960	Károlyi Sándor	f	1831	1906	
+2961	Săvulescu, Traian	f	1889	1963	román
+2962	Austerlitz, Robert	f	1923	1994	amerikai
+2963	Alföldi András	f	1895	1981	
+2964	Fröhlich Izidor	f	1852	1931	
+2965	Barna Balázs	f	1948		
+2966	Szentes Tamás	f	1933		
+2967	Bornemisza Elemér	f	1930	2010	Costa Rica-i magyar
+2968	Lukić, Radomir	f	1914	1999	szerb
+2969	Hertz, Gustav Ludwig	f	1887	1975	német
+2970	Hermann István	f	1925	1986	
+2971	Ilminszkij, Nyikolaj Ivanovics	f	1822	1891	orosz
+2972	Liard, Louis	f	1846	1917	francia
+2973	Varadhan, Srínivasza	f	1940		indiai
+2974	Sommerfeld, Arnold	f	1868	1951	német
+2975	Némethy Géza	f	1865	1937	
+2976	Csernai László Pál	f	1949		norvégiai magyar
+2977	Marx György	f	1927	2002	
+2978	Barta István	f	1910	1978	
+2979	Fabinyi Tihamér	f	1890	1953	
+2980	Bognár József	f	1917	1996	
+2981	Hartke, Werner	f	1907	1993	német
+2982	Pauncz Rezső	f	1920		izraeli magyar
+2983	Fogarasi János	f	1801	1878	
+2984	Fröhlich Róbert	f	1844	1894	
+2985	Medzihradszky Kálmán	f	1928	2019	
+2986	Lissák Kálmán	f	1908	1982	
+2987	Jakó Zsigmond Pál	f	1916	2008	romániai magyar
+2988	Zdziechowski, Marian	f	1861	1938	lengyel
+2989	Tomcsányi Pál	f	1924	2018	
+2990	Kőrös Endre	f	1927	2002	
+2991	Csaba László	f	1954		
+2992	Andrássy Dénes	f	1835	1913	
+2993	Posch Jenő	f	1859	1923	
+2994	Borhy László	f	1963		
+2995	Flores Pedauye, Ricardo	f	1947		spanyol
+2996	Trinchera, Francesco	f	1810	1874	olasz
+2997	Hauer, Franz von	f	1822	1899	osztrák
+2998	Duka Tivadar	f	1825	1908	
+2999	Sztrokay Antal	f	1780	1850	
+3000	Baker, Alan	f	1939	2018	angol
+3001	Bubics Zsigmond	f	1821	1907	
+3002	Prohászka Lajos	f	1897	1963	
+3003	Zimányi Károly	f	1862	1941	
+3004	Pierantoni, Augusto	f	1840	1911	olasz
+3005	Mailáth György, ifj.	f	1818	1883	
+3006	Völgyesi Lajos	f	1947		
+3007	Hajnóczi Gyula	f	1920	1996	
+3008	Mezey Éva	n	1951		amerikai-magyar
+3009	Vajda Imre	f	1900	1969	
+3010	Csoma József	f	1848	1917	
+3011	Polinszky Károly	f	1922	1998	
+3012	Daróczy Zoltán	f	1938		
+3013	Győrffy István	f	1880	1959	
+3014	Zsilinszky Mihály	f	1838	1925	
+3015	Kazinczy Gábor	f	1818	1864	
+3016	Sipos Gábor	f	1951		romániai magyar
+3017	Matlekovits Sándor	f	1842	1925	
+3018	Daszkalov, Hriszto	f	1903	1983	bolgár
+3019	Fuchs László	f	1924		amerikai-magyar
+3020	Vida Gábor	f	1935		
+3021	Rybach László	f	1935		svájci magyar
+3022	Márta Ferenc	f	1929	2010	
+3023	Bognár Géza	f	1909	1987	
+3024	Reviczky Ádám	f	1786	1862	
+3025	Larsen, Jens Peter	f	1902	1988	dán
+3026	Széchenyi Bertalan	f	1866	1943	
+3027	Ascoli, Graziadio Isaia	f	1829	1907	olasz
+3028	Szvorényi József	f	1816	1892	
+3029	Hausen, Harald zur	f	1936		német
+3030	Bleyer Jakab	f	1874	1933	
+3031	Zichy János	f	1868	1944	
+3032	Csizmadia Ernő	f	1924	1984	
+3033	Bánóczi József	f	1849	1926	
+3034	Kara György	f	1935		
+3035	Majláth Béla	f	1831	1900	
+3036	Voisine, Jacques	f	1914	2001	francia
+3037	Habsburg–Lotaringiai József Károly főherceg	f	1833	1905	
+3038	Szalay László	f	1813	1864	
+3039	Borzsák István	f	1914	2007	
+3040	Szigeti György	f	1905	1978	
+3041	D’Argenio, Bruno	f	1935		olasz
+3042	Lempert Károly	f	1924		
+3043	Fülepp József	f	1786	1847	
+3044	Joliot-Curie, Frédéric	f	1900	1958	francia
+3045	Lonovics József	f	1793	1867	
+3046	Becker, Philipp August	f	1862	1947	német
+3047	Csonka Pál	f	1896	1987	
+3048	Somogyi Péter	f	1950		
+3049	Straub F. Brunó	f	1914	1996	
+3050	Marosi Sándor	f	1929	2009	
+3051	Hortobágyi N. Gabriel	f	1946		amerikai-magyar
+3052	Haraszti Gyula	f	1858	1921	
+3053	Sina Simon	f	1810	1867	
+3054	Kuzsinszky Bálint	f	1864	1938	
+3055	Andrássy Gyula, id.	f	1823	1890	
+3056	Bezerédj Pál	f	1840	1918	
+3057	Scitovszky János	f	1785	1866	
+3058	Wertheimer Ede	f	1848	1930	
+3059	Nyikolajcsuk, Vitalij Ivanovics	f	1951		ukrán
+3060	Széchényi Emil	f	1865	1932	
+3061	Bárdossy András	f	1954		németországi magyar
+3062	Arató Endre	f	1921	1977	
+3063	Koltay-Kastner Jenő	f	1892	1985	
+3064	Horváth József	f	1936		
+3065	Petrovszkij, Borisz Vasziljevics	f	1908	2004	orosz
+3066	Genthon István	f	1903	1969	
+3067	Sztirikovics, Mihail Adolfovics	f	1902	1995	orosz
+3068	Szászy István	f	1899	1976	
+3069	Szilasi Móric	f	1854	1905	
+3070	Concha Győző	f	1846	1933	
+3071	Flegler, Alexander	f	1803	1892	német
+3072	Háy László	f	1891	1975	
+3073	Gaal József	f	1811	1866	
+3074	Gelei József	f	1885	1952	
+3075	Markó Károly, id.	f	1793	1860	
+3076	Csorba József	f	1789	1858	
+3077	Romsics Ignác	f	1951		
+3078	Sabbadini, Remigio	f	1850	1934	olasz
+3079	Andreánszky Gábor	f	1895	1967	
+3080	Hunger, Herbert	f	1914	2000	osztrák
+3081	Ghil, Michael	f	1944		amerikai
+3082	Schmoller, Gustav von	f	1838	1917	német
+3083	Munkácsi Bernát	f	1860	1937	
+3084	Molnár Kálmán	f	1881	1961	
+3085	Szabolcsi Gertrúd	f	1923	1993	
+3086	Padisák Judit	n	1955		
+3087	Pongor Sándor	f	1949		olaszországi magyar
+3088	Felsőbüki Nagy Pál	f	1777	1857	
+3089	Norton, Roy A.	f	1947		amerikai
+3090	Sós Vera, T.	n	1930		
+3091	Fessler Ignác Aurél	f	1756	1839	oroszországi magyar
+3092	Kostrowicki, Jerzy Samuel	f	1918	2002	lengyel
+3093	Vékás Lajos	f	1939		
+3094	Schütz Antal	f	1880	1953	
+3095	Polónyi János	f	1953		franciaországi magyar
+3096	Monroe, Paul	f	1869	1947	amerikai
+3097	Konkoly-Thege Miklós	f	1842	1916	
+3098	Molnár Erik	f	1894	1966	
+3099	Perrier, Edmond	f	1844	1921	francia
+3100	Csiszár Imre	f	1938		
+3101	Bognár Rezső	f	1913	1990	
+3102	Lázár Kálmán	f	1827	1874	
+3103	Zalai Ernő	f	1943		
+3104	Papp Károly	f	1873	1963	
+3105	Eckhart Ferenc	f	1885	1957	
+3106	Strutt, John William	f	1842	1919	angol
+3107	Seitelberger, Franz	f	1916	2007	osztrák
+3108	Sándor Mátyás	f	1951		amerikai-magyar
+3109	Szabó Gyöngyi	f	1959		amerikai-magyar
+3110	Navratil Ákos	f	1875	1952	
+3111	Kagan, Jurij Mojszejevics	f	1928	2019	orosz
+3112	Szűcs István	f	1811	1891	
+3113	Császár Ferenc	f	1807	1858	
+3114	Lengyel Péter	f	1929		amerikai-magyar
+3115	Manninger Rezső	f	1890	1970	
+3116	Kerékjártó Béla	f	1898	1946	
+3117	Tárczy-Hornoch Antal	f	1900	1986	
+3118	Szögyény-Marich László, ifj.	f	1840	1916	
+3119	Pólos László	f	1955		nagy-britanniai magyar
+3120	Demcsenko, Olekszandr Petrovics	f	1944		ukrán
+3121	Stäckel, Paul	f	1862	1919	német
+3122	Halpern, Bernard	f	1904	1978	francia
+3123	Franzenau Ágoston	f	1856	1919	
+3124	Körner János	f	1946		olaszországi magyar
+3125	Heisenberg, August	f	1869	1930	német
+3126	Chyzer Kornél	f	1836	1909	
+3127	Pyrker János László / Pyrker, Johann Ladislaus	f	1772	1847	
+3128	Belák Sándor	f	1946		svédországi magyar
+3129	Pecht, Israel	f	1937		izraeli
+3130	Gerő Ernő	f	1898	1980	
+3131	Pauer Imre Rudolf	f	1845	1930	
+3132	Hajdú János	f	1948		svédországi magyar
+3133	Nyikonov, Alekszandr Alekszandrovics	f	1918	1995	orosz
+3134	Peregriny Elek	f	1812	1886	
+3135	Cholnoky László	f	1899	1967	
+3136	Scacchi, Arcangelo	f	1810	1893	olasz
+3137	Nagy János	f	1809	1885	
+3138	Tóbiás Károly / Tobias, Charles William	f	1920	1996	amerikai-magyar
+3139	Illésházy István	f	1762	1838	
+3140	Honkasalo, Brynolf	f	1889	1938	finn
+3141	Álón, Nógá	f	1956		izraeli
+3142	Teleki László	f	1811	1861	
+3143	Palotás László	f	1905	1993	
+3144	Grősz József	f	1887	1961	
+3145	Grätzer György	f	1936		kanadai magyar
+3146	Szmrecsányi Lajos	f	1851	1943	
+3147	Osztrovszki György	f	1914	1988	
+3148	Kaczorek, Tadeusz	f	1932		lengyel
+3149	Bíró Péter	f	1943		
+3150	Kátai Imre	f	1938		
+3151	Botka Tivadar	f	1802	1885	
+3152	Balas Egon	f	1922	2019	amerikai-magyar
+3153	Tora László	f	1957		franciaországi magyar
+3154	Ádám György	f	1922	2013	
+3155	Neÿ Ferenc	f	1814	1889	
+3156	Kürti Miklós / Kurti, Nicholas	f	1908	1998	nagy-britanniai magyar
+3157	Tallián Tibor	f	1946		
+3158	Novobátzky Károly	f	1884	1967	
+3159	Gáspár Rezső	f	1921	2001	
+3160	Mailáth József	f	1858	1940	
+3161	Bajza József	f	1804	1858	
+3162	Grosschmid Béni	f	1852	1938	
+3163	Hőgyes Endre	f	1847	1906	
+3164	Pintz János	f	1950		
+3165	Ruzsa Z. Imre	f	1953		
+3166	Négyesy László	f	1861	1933	
+3167	Apponyi Sándor	f	1844	1925	
+3168	Forster Gyula	f	1846	1932	
+3169	Popovics Sándor	f	1862	1935	
+3170	Demidov, Anatolij Nyikolajevics	f	1812	1870	orosz
+3171	Sebestyén Gyula	f	1921	2011	nagy-britanniai magyar
+3172	Szádeczky-Kardoss Elemér	f	1903	1984	
+3173	Plaschka, Richard Georg	f	1925	2001	osztrák
+3174	Harwood, John L.	f	1946		angol
+3175	Butler, Nicholas Murray	f	1862	1947	amerikai
+3176	Massey, James Lee	f	1934	2013	amerikai
+3177	Terplán Zénó	f	1921	2002	
+3178	Cselőtei László	f	1925	2012	
+3179	Szabó Dénes	f	1929	2018	kanadai magyar
+3180	Szilasy János	f	1795	1859	
+3181	Imre László	f	1944		
+3182	Horváth Zalán	f	1943	2011	
+3183	Entz Géza, id.	f	1842	1919	
+3184	Erdő Péter	f	1952		
+3185	Dethier, Philipp Anton	f	1803	1881	francia
+3186	Székely Tamás	f	1959		nagy-britanniai magyar
+3187	Berend T. Iván	f	1930		
+3188	Kiss Sándor Károly / Kiss, Alexandre Charles	f	1925	2007	franciaországi magyar
+3189	Révai József	f	1898	1959	
+3190	Du Bois-Reymond, Emil Heinrich	f	1818	1896	német
+3191	Kruspér István	f	1818	1905	
+3192	Faragó József	f	1922	2004	romániai magyar
+3193	Babai László	f	1950		
+3194	Vandrák András	f	1807	1884	
+3195	Haas János	f	1947		
+3196	Barabás Miklós	f	1810	1898	
+3197	Bártfay László	f	1797	1858	
+3198	Tunyogi Csapó József	f	1790	1865	
+3199	Peschka Vilmos	f	1929	2006	
+3200	Beer Tamás / Beer, Tom	f	1947		ausztráliai magyar
+3201	Tarnai Andor	f	1925	1994	
+3202	Eddington, Arthur Stanley	f	1882	1944	angol
+3203	Sickel, Theodor von	f	1826	1908	osztrák
+3204	Mascie-Taylor, Nicholas	f	1949		walesi
+3205	Eser, Albin	f	1935		német
+3206	Balázs Sándor	f	1925	2016	
+3207	Andorka Rudolf	f	1931	1997	
+3208	Bánki Donát	f	1859	1922	
+3209	Ilosvay Lajos	f	1851	1936	
+3210	Meyer, Eduard	f	1855	1930	német
+3211	Guzmics Izidor	f	1786	1839	
+3212	Batizfalvy Sámuel	f	1826	1904	
+3213	Pauler Tivadar	f	1816	1886	
+3214	Heckel, Johann Jakob	f	1790	1857	osztrák
+3215	Csáki Csaba	f	1940		
+3216	Komornik Vilmos	f	1954		franciaországi magyar
+3217	Fáj Attila	f	1922	2013	olaszországi magyar
+3218	Ahlqvist, August	f	1826	1889	finn
+3219	Petersen, Julius	f	1878	1941	német
+3220	Daday Jenő	f	1855	1920	
+3221	Borchard, Edwin	f	1884	1951	amerikai
+3222	Raumer, Friedrich Ludwig Georg von	f	1781	1873	német
+3223	Csűry Bálint	f	1886	1941	
+3224	Geszti Pál Ottó	f	1922	1985	
+3225	Mazur, Stanisław	f	1905	1981	lengyel
+3226	Entz Géza, ifj.	f	1875	1943	
+3227	Zsavoronkov, Nyikolaj Mihajlovics	f	1907	1990	orosz
+3228	Johnson, Stanley R.	f	1938		amerikai
+3229	Hetényi Géza	f	1894	1959	
+3230	Nizsalovszky Endre	f	1894	1976	

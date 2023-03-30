@@ -1,0 +1,2 @@
+﻿Állapot	FFF	FFS	FSF	FSS	SFF	SFS	SSF	SSS
+Eredmény	F	S	S	F	F	S	F	S

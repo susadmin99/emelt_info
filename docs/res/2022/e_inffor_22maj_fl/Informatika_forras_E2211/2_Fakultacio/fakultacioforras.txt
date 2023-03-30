@@ -1,0 +1,41 @@
+			H			K			Sz			Cs			P
+		csoport	idegen nyelv	fizika	földrajz	matematika	magyar	vizuális kultúra	testnevelés	kémia	történelem	biológia	informatika	ének-zene	kémia	fakultációk száma
+1.	Adonyi Amália	A	angol		x
+2.	Aszódi Attila	B
+3.	Esztergom Andrea	B			x						x
+4.	Esztergom Eszter	B				x				x
+5.	Etyeki Elek	A								x		x
+6.	Farmosi Fanni	B					x					x
+7.	Fertődi Friderika	A
+8.	Fonyódi Frigyes	B	német				x				x
+9.	Fóti Franciska	B		x		x
+10.	Földesi Fábián 	A	olasz	x
+11.	Gárdonyi Gizella	A	olasz									x
+12.	Gombai Gáspár	A				x					x
+13.	Hernádi Hugó	B			x
+14.	Karcagi Katalin	A								x		x
+15.	Kenderesi Kázmér	B		x								x
+16.	Kerepesi Katalin	B										x
+17.	Kőszegi Kázmér	A		x		x
+18.	Letkési Lajos	B		x						x		x
+19.	Monori Márton	A		x									x
+20.	Örkényi Ödön	A	angol
+21.	Pápai Petrik	B	olasz										x
+22.	Péceli Panna	B								x		x
+23.	Pécsi Péter	A		x
+24.	Pomázi Petra	A			x	x
+25.	Soproni Sámuel	B			x								x
+26.	Szegedi Szilvia	B								x		x
+27.	Szepezdi Szilárd	B									x	x
+28.	Sziráki Szilvia	B		x
+29.	Váci Vendel	A								x		x
+30.	Velencei Viktor	A			x							x
+31.	Zirci Zoltán	A
+	összesen
+
+	legkisebb nem nulla létszám
+
+	idegen nyelv	csoport	fő
+
+
+	fakultációk száma

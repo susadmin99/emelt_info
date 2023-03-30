@@ -1,0 +1,24 @@
+﻿Nemeuklideszi geometria
+A geometriai rendszerek – geometriák – az alapozásban megfogalmazott premisszákban különböznek. Az euklideszi geometria axiómarendszerétől eltérő alapokra épített rendszereket közös néven nemeuklideszi geometriáknak nevezzük. Eleinte csak az elsőként felfedezett Bolyai–Lobacsevszkij-féle geometriát illették az elnevezéssel, de később újabb geometriákat is találtak.
+Az euklideszi párhuzamosság
+Eukleidész az Elemek I. könyvében definiálja az egyenesek párhuzamosságát:
+23. definíció: Két egyenes párhuzamos, ha azok egy síkban fekszenek és mindkét irányban meghosszabbítva nem metszik egymást.
+Az évezredes problémát okozó 5. posztulátum pedig kimondja, hogy:
+Ha egy egyenes úgy metsz két egyenest, hogy az egyik oldalán keletkező belső szögek összege kisebb két derékszögnél, akkor e két egyenes a metszőnek ezen oldalán meghosszabbítva metszi egymást.
+A nemeuklideszi párhuzamosság
+Bolyai és Lobacsevszkij a párhuzamost egy külső pont körül forgatott szelők határhelyzeteként definiálják. Az AM egyenesen kívül fekvő B pont körül forgatott egyenesek közül az a BC párhuzamos az AM-mel, amelyik elpattan tőle. Más fogalmazásban a forgatott egyenesek közül a párhuzamos az első nem metsző. Bolyai ezt a párhuzamost aszimptotikus párhuzamosnak, vagy egyszerűbben aszimptotának nevezte.
+Mivel a forgatott egyenes egyre távolabb metszi az AM egyenest, kísérlettel nem lehet eldönteni, hogy mikor, az alpha szög milyen értékénél következik be ez az elpattanás. A két kutató ezt a szöget a párhuzamosság szögének nevezte. Mindketten eljutottak annak felismeréséig, hogy a párhuzamossági szög a B pont és az AM egyenes közötti távolsággal összefüggésben van: PI(alpha).
+Kettejük munkája között csupán annyi a lényeges különbség, hogy Lobacsevszkij a definíciót követően szétválasztja a két lehetséges esetet és az euklideszitől eltérő hiperbolikus geometria tételeit, míg Bolyai a két esetet együtt kezelve a kétféle geometria közös részét, az abszolút geometria tételeit dolgozta ki. Az az eredmény is közismert, hogy a háromszögek szögeinek összege is aszerint egyenlő vagy kisebb két derékszögnél, hogy a síkja euklideszi vagy hiperbolikus.
+A hiperbolikus elnevezést a párhuzamos egyenes és a hiperbola rokonítása magyarázza. E geometriában a párhuzamosok közötti távolság csökken, aszimptotikusan közelednek egymáshoz. Ugyancsak fontos különbséget jelent, hogy a balra forgatott egyenes által meghatározott párhuzamos nem azonos a jobbra forgatottal.
+Egy harmadik párhuzamosság
+Az 5. posztulátum elhagyásával kapott maradék axiómákból következik (bizonyítható), hogy a párhuzamosság szöge nem lehet derékszögnél nagyobb, s ennek következménye, hogy a háromszögek szögeinek összege sem lehet két derékszögnél nagyobb. A paralellákkal foglalkozó Gerolamo Saccheri (1667-1733) és Johann Heinrich Lambert (1728-1777) eljutottak egy olyan felismerésig, hogy ezt a lehetőséget sem szabad elvetni. Meg kell vizsgálni olyan geometriai rendszerek lehetőségét is, amelyekben a szögösszeg nagyobb 2pi-nél. Mivel ez a maradék axiómáknak ellentmond, további axiómá(ka)t kell megváltoztatni, elhagyni vagy másokkal helyettesíteni.
+Georg Friedrich Bernhard Riemann (1826–1866) két ilyen változtatás lehetőségét mutatta meg, s ezzel két újabb nemeuklideszi rendszert konstruált:
+Egyszeres elliptikus geometria:
+Az egyenes nem választja el egymástól a két félsík pontjait.
+Két egyenesnek mindig van egy közös pontja.
+Kétszeres elliptikus geometria:
+Az egyenes elválasztja a két félsík pontjait.
+Két egyenesnek pontosan két közös pontja van.
+Az elliptikus geometria az euklideszi gömbfelületén érvényes szférikus geometriával rokon. A hiperbolikus geometria a pszeudoszféra felületi geometriájával modellezhető.
+A három geometria összevetése
+Felix Kleintől (1849–1925) származik a háromféle geometria és a kúpszeletek nomenklatúrájának összekapcsolása, mely ez utóbbiak ideális pontjainak száma és az egyeneshez külső pontból húzható párhuzamosok száma közötti analógiára utal. Ennek nyomán használjuk ezeket a jelzőket az Eukleidész (parabolikus), a Bolyai-Lobacsevszkij (hiperbolikus) és a Riemann (elliptikus) nevéhez kapcsolt geometriák megkülönböztetésére.

@@ -1,0 +1,2875 @@
+id	nev	tipus	orszag	mukodo
+1	Répcemicske	megállóhely	A	0
+2	Bugac	kisvasúti állomás		0
+3	Kereksziget	kisvasúti		0
+4	Csemő felsőjárás	megállóhely		0
+5	Bokod	megállóhely		0
+6	Gölle	kisvasúti állomás		0
+7	Körösnagyharsány régi	állomás		0
+8	Balotaszállás	állomás		-1
+9	Kocsord alsó	állomás		-1
+10	Óbög	megállóhely		-1
+11	Bogárzó	megállóhely		0
+12	Hegyeshalom	állomás		-1
+13	Tüskeszentpéter	megállóhely		0
+14	Helvécia	állomás		0
+15	Zichyújfalu	állomás		-1
+16	Gyöngyösfalu	megállóhely		-1
+17	Mártély	állomás		-1
+18	Tarcsafürdő	megállóhely	A	0
+19	Szalajka-Fátyol-vízesés	kisvasúti állomás		-1
+20	Jászfényszaru	állomás		-1
+21	Kishomok	megállóhely		0
+22	Attilapuszta	kisvasúti megállóhely		0
+23	Örményes gépállomás	kisvasúti		0
+24	Nyíregyháza-Vásártér	kisvasúti megállóhely		0
+25	Magyarsor	kisvasúti		0
+26	Porva-Csesznek	állomás		-1
+27	Petőfiszállási tanyák	megállóhely		-1
+28	Érdliget	megállóhely		-1
+29	Szombathely-Repülőtér	megállóhely		0
+30	Süttő-Hársfa	kisvasúti		0
+31	Árkipuszta	megállóhely		0
+32	Nagyrezét	kisvasúti		-1
+33	Kisszekeres	megállóhely		-1
+34	Pusztaberény	megállóhely		-1
+35	Szada alsó	megállóhely		0
+36	Gubás	kisvasúti megállóhely		0
+37	Bodajk felső	megállóhely		0
+38	Alsósomlyó	megállóhely		0
+39	Kevermesi tanyák	kisvasúti megállóhely		0
+40	Belsőperegpuszta	megállóhely		-1
+41	Alsógalla	megállóhely		-1
+42	Sal	megállóhely	SLO	-1
+43	Csépa	állomás		-1
+44	Pusztaföldvár alsó	kisvasúti megállóhely		0
+45	Bánk	állomás		0
+46	Antalszállás	megállóhely		0
+47	Boldogkőváralja	megállóhely		-1
+48	Kocsord	megállóhely		-1
+49	Tótkomlós	állomás		-1
+50	Vértesacsa	állomás		0
+51	Gógánfa	megállóhely		-1
+52	Bojtártelek	kisvasúti megállóhely		0
+53	Kinizsi u.	kisvasúti		0
+54	Kórógyszentgyörgy	megállóhely		-1
+55	Ják-Balogunyom	állomás		-1
+56	Küngös	megállóhely		0
+57	Gyökérkút	megállóhely		0
+58	Kunhalom	kisvasúti állomás		0
+59	Zugló	megállóhely		-1
+60	Kemendollár	megállóhely		-1
+61	Somogyszob	állomás		-1
+62	Vashosszúfalu	állomás		0
+63	Törtel megálló	kisvasúti megállóhely		0
+64	Őrhalom régi	megállóhely		0
+65	Kenderessziget	megállóhely		0
+66	Badacsonyörs	megállóhely		-1
+67	Solt	állomás		0
+68	Kecskéd alsó	megállóhely		-1
+69	Becske	állomás		0
+70	Nyárjas	megállóhely		-1
+71	Felcsút vasútállomás	kisvasúti állomás		-1
+72	Orbánfalu	állomás	A	0
+73	Sajókeresztúr	megállóhely		-1
+74	Fertőszéplak-Fertőd	megállóhely		-1
+75	Papírgyár	kisvasúti megállóhely		-1
+76	Kisterenye	állomás		-1
+77	Mándok	állomás		-1
+78	Győr	teherpályaudvar		0
+79	Madarászpuszta	állomás		0
+80	Istvánháza	megállóhely		0
+81	Felsőtárkány-Fűtőház	kisvasúti állomás		-1
+82	Árpádtelep	kisvasúti állomás		0
+83	Körtés	megállóhely	SRB	0
+84	Rákoskert	megállóhely		-1
+85	Máza-Szászvár	állomás		-1
+86	Esztergom-Kertváros	állomás		-1
+87	Neszmélyi téglagyár	megállóhely		0
+88	Iklad-Domony	állomás		-1
+89	Kőkútpuszta GV	kisvasúti megállóhely		0
+90	Cibak	megállóhely		0
+91	Kecskemét KK	kisvasúti állomás		0
+92	Babó I.	kisvasúti		0
+93	Alsóúrrét	megállóhely		-1
+94	Jakabszállási tanyák	kisvasúti megállóhely		0
+95	Öregcsertő	állomás		0
+96	Lábatlan	állomás		-1
+97	Devecser	állomás		-1
+98	Újtelep (Szeghalom)	kisvasúti megállóhely		0
+99	Orosháza	állomás		-1
+100	Szörény	megállóhely		0
+101	Miklósmajor	kisvasúti állomás		0
+102	Rétszilas alsó	megállóhely		-1
+103	Talián út	kisvasúti		0
+104	Nemeske	megállóhely		-1
+105	Vasszécseny	állomás		0
+106	Jókai u.	kisvasúti		0
+107	Őzedmajor	állomás		0
+108	Jaksorpart	megállóhely		0
+109	Sárszentmiklós	megállóhely		0
+110	Börvely	állomás	RO	0
+111	Zagyvarékas	megállóhely		-1
+112	Gyöngyöshalász	megállóhely		-1
+113	Becehegy	megállóhely		-1
+114	Jánosháza	megálló-rakodóhely		-1
+115	Érd felső	megállóhely		-1
+116	Máriaszőlőtelep	megállóhely		-1
+117	Mágori-majori rakodó	megálló-rakodóhely		0
+118	Kardosrét	megállóhely		0
+119	Gépállomás	kisvasúti		0
+120	Szapárfalu középmajor	kisvasúti		0
+121	Tiszaszabályozó Társulat	kisvasúti megállóhely		0
+122	Miske	kisvasúti	RO	0
+123	Égéri elágazás	kisvasúti állomás		0
+124	Feketehalom	megállóhely		0
+125	Csittényhegy	megállóhely		-1
+126	Erenyő	kisvasúti megállóhely		0
+127	Világospuszta	megállóhely		0
+128	Debrecen-Kondoros	megállóhely		-1
+129	Herceghalom	állomás		-1
+130	Tiszajenő alsó	megállóhely		-1
+131	Kisszénás	állomás		-1
+132	Pusztatúrpásztó	állomás		0
+133	Királyegyháza-Rigópuszta	megállóhely		-1
+134	Bodrogkeresztúr	állomás		-1
+135	Orosházi iskola	kisvasúti megállóhely		0
+136	Gödöllő	állomás		-1
+137	Csincse	megállóhely		-1
+138	Sátoraljaújhely Torzsás	kisvasúti állomás		0
+139	Zalapatakalja	megállóhely		-1
+140	Pötréte	megállóhely		-1
+141	Nekézseny	megállóhely		0
+142	Kevermes	kisvasúti állomás		0
+143	29. majori kiágazás	kisvasúti		0
+144	Katymár	állomás		0
+145	Kunszentmárton-Érpart	megállóhely		0
+146	Bezdán	állomás	SRB	0
+147	Kisirtás-Csúcsfordító	kisvasúti megállóhely		-1
+148	Aszód	állomás		-1
+149	Rácalmás	állomás		-1
+150	Tornanádaska	állomás		-1
+151	Rákóczitanya	megállóhely		-1
+152	Center	teherpályaudvar		0
+153	Csabaszabadi	kisvasúti állomás		0
+154	Fenékpuszta	megállóhely		0
+155	Pirtó	állomás		-1
+156	Botykapeterd	megállóhely		0
+157	Badacsony	megállóhely		-1
+158	Kehida-Kustány	állomás		0
+159	Izsák	állomás		0
+160	Mór	állomás		-1
+161	Vértesszőlős	megállóhely		-1
+162	Nógrádkövesd	állomás		-1
+163	Bodroghalász	kisvasúti megállóhely		0
+164	Balsa	kisvasúti		0
+165	Pusztakürt	állomás		0
+166	Pusztacsalád	megállóhely		0
+167	Pincehely	állomás		-1
+168	Nagygyimót	megállóhely		0
+169	Balatongyörök	megállóhely		-1
+170	Siklós	állomás		0
+171	Honvéderdő	kisvasúti megállóhely		0
+172	Bakonysárkány	állomás		-1
+173	Budapest-Józsefváros	állomás		0
+174	Bashalom	megállóhely		-1
+175	Taksalápa	állomás		0
+176	Kassamindszent	megállóhely	SK	0
+177	Feketeakol	kisvasúti		0
+178	Árpád utca	kisvasúti megállóhely		0
+179	Kaposvár	állomás		-1
+180	Petőháza	állomás		-1
+181	Nagykanizsa	állomás		-1
+182	Tanakajd	megállóhely		0
+183	Zsujta	megállóhely		-1
+184	Józsa	megállóhely		-1
+185	Sárbogárd	állomás		-1
+186	Fegyvernek Tópart	kisvasúti		0
+187	Litke	megállóhely		-1
+188	Balassagyarmat	állomás		-1
+189	Nyírmeggyes	megállóhely		-1
+190	Zalavég	megállóhely		0
+191	Máriagyűd	megállóhely		0
+192	Nagyzomlin	megállóhely	RO	0
+193	Kárászmegyer	kisvasúti megállóhely		0
+194	Mosonszentandrás	állomás	A	-1
+195	Vitézipuszta	megállóhely		0
+196	Gilányi	kisvasúti		0
+197	Nagybugac	kisvasúti megállóhely		0
+198	Szepes	megállóhely		0
+199	Kecskemét-Parasztfőiskola	megállóhely		0
+200	Tállya	állomás		-1
+201	Balatonfenyves alsó	megállóhely		-1
+202	Oberwart Lokalbahn	megállóhely	A	0
+203	Lentiszombathely-Mumor	kisvasúti megállóhely		-1
+204	Őztelek	kisvasúti megállóhely		0
+205	Szikszó	állomás		-1
+206	Hártókút	kisvasúti állomás		-1
+207	Petyeráktanya	kisvasúti megállóhely		-1
+208	Pákozd	megállóhely		0
+209	Sárosd	állomás		-1
+210	Hernádszentandrás	megállóhely		0
+211	Babócsa	állomás		-1
+212	Gecse-Gyarmat	állomás		-1
+213	Gencs	kisvasúti		0
+214	Mikeccsárda	megállóhely		0
+215	Elek	állomás		0
+216	Csákánydoroszló	állomás		-1
+217	Felsőőr	állomás	A	0
+218	Kisdobsza	megállóhely		-1
+219	Miskolc-Rendező pu.	teherpályaudvar		0
+220	Berzence	állomás		-1
+221	Miskolc-Repülőtér	megállóhely		0
+222	Máriabesnyői kolostor	megállóhely		0
+223	Berente	megállóhely		0
+224	Kutas	megállóhely		-1
+225	Ilona kanyar	kisvasúti		0
+226	Golop	megállóhely		-1
+227	Kadarkút	állomás		0
+228	Páka	kisvasúti		-1
+229	Fertőboz	állomás		-1
+230	Tiszai út	megállóhely		0
+231	Tab	állomás		-1
+232	Zagyvapálfalva	állomás		-1
+233	Füzesbokor	megállóhely		-1
+234	Dombiratos felső	kisvasúti megállóhely		0
+235	Esztergomi csavargőzös	megállóhely	SK	0
+236	Horgosi Királyhalom	állomás	SRB	-1
+237	Alsósegesd	megállóhely		0
+238	Nádas-dűlő	kisvasúti megállóhely		0
+239	Unghváry pince	megállóhely		0
+240	Debrecen-Vásártér	állomás		0
+241	Pokoltanya	megállóhely		0
+242	Egervár	megállóhely		-1
+243	Csillagtanya	megállóhely		0
+244	Polgár	állomás		0
+245	Kótaj	kisvasúti állomás		0
+246	Pókaszepetk	állomás		-1
+247	Balatonszentgyörgy	állomás		-1
+248	Ludányi tanya	kisvasúti		0
+249	Szalmadpuszta	megállóhely		0
+250	Beremend határ	megállóhely		0
+251	Kiszombor megálló	megállóhely		-1
+252	Kőbánya alsó	megállóhely		-1
+253	Szentkirályszabadja	állomás		0
+254	Törtel	kisvasúti állomás		0
+255	Kismarja	állomás		-1
+256	Nagyszénás	állomás		-1
+257	Tenyőszállás	megállóhely		0
+258	Bázakerettye felső	kisvasúti megállóhely		-1
+259	Benge	megállóhely	HR	0
+260	Tiszafüred-Gyártelep	megállóhely		-1
+261	Barosstelep	megállóhely		-1
+262	Baja szállásváros	megállóhely		0
+263	Gyula	állomás		-1
+264	Kótpuszta	állomás		0
+265	Hajdúdorog	állomás		-1
+266	Mátraszőlős-Hasznos	megállóhely		-1
+267	Kapospula	megállóhely		-1
+268	Tiszanagyfalu	megállóhely		0
+269	Dömsöd	állomás		-1
+270	Franciavágás	állomás		0
+271	Csajág	állomás		-1
+272	Nyakvágó	kisvasúti		0
+273	Vajhát	megállóhely		0
+274	Szőny-Déli	megállóhely		-1
+275	Örkény	állomás		-1
+276	Sárvár	állomás		-1
+277	Barátudvar megálló	megállóhely	A	-1
+278	Dunaharaszti	állomás		-1
+279	Révbér	megállóhely		0
+280	Pettend	megállóhely		-1
+281	Győrtelek	megállóhely		-1
+282	Jászladány	állomás		-1
+283	Herend	állomás		-1
+284	Levenye	megálló-rakodóhely		0
+285	Halesz	megállóhely		0
+286	Pilisjászfalu	megállóhely		-1
+287	Meggyespuszta	állomás		0
+288	Hernádvécse	megállóhely		0
+289	Nagyberki	megállóhely		-1
+290	Vasvár	állomás		-1
+291	Feketeszél	kisvasúti megállóhely		0
+292	Somodor	megállóhely		-1
+293	Sümeg	állomás		-1
+294	Balatonakali-Dörgicse	állomás		-1
+295	Kisgyócs	megállóhely		0
+296	Kiskőrösi út	kisvasúti		0
+297	Lukafai elágazás	kisvasúti megállóhely		-1
+298	Győr-Gyárváros	megállóhely		-1
+299	Halásztanya	kisvasúti megállóhely		0
+300	Hetényegyháza	állomás		-1
+301	Szerep	megállóhely		-1
+302	Szeghalom	állomás		-1
+303	Érd alsó	megállóhely		-1
+304	Vámosgyörk	állomás		-1
+305	Győrszentiván	állomás		-1
+306	Kistolmácsi erdei lak	kisvasúti		-1
+307	Martinka	kisvasúti		-1
+308	Aranyospuszta	állomás		0
+309	Bojsza	kisvasúti megállóhely		-1
+310	Füzérradvány	kisvasúti megállóhely		0
+311	Barátudvar-Féltorony	állomás	A	-1
+312	Ágasegyházi tanyák	megállóhely		0
+313	Csengele	állomás		-1
+314	Józsefmajor BGV	kisvasúti megállóhely		0
+315	Enying	állomás		0
+316	Kavicsbánya elágazás	kisvasúti állomás		0
+317	Görcsöny	állomás		0
+318	Cserkő	kisvasúti		-1
+319	Répcelak	állomás		-1
+320	Novajidrány	állomás		-1
+321	Dértanya	kisvasúti		0
+322	Mákföld	kisvasúti		0
+323	Csomorkány	megállóhely		0
+324	Sellye	állomás		-1
+325	Berhida	megállóhely		0
+326	Körmend	állomás		-1
+327	Kunszentmiklós-Tass	állomás		-1
+328	Fertőújlak	állomás		0
+329	Moha	állomás		0
+330	Kevermes kavicsbánya	kisvasúti megállóhely		0
+331	Szabadságliget	megállóhely		-1
+332	Pipishegy	kisvasúti		-1
+333	Nagylak	állomás		-1
+334	Kabókapuszta	megállóhely		0
+335	Pécsújhegy	megállóhely		0
+336	Cserepes	megállóhely		0
+337	66. major	kisvasúti megállóhely		0
+338	Nyulas mh.	megállóhely		0
+339	Ózd alsó	megállóhely		-1
+340	Nagyhalom	megállóhely		0
+341	Kisbér	állomás		-1
+342	Hejőszalonta	megállóhely		0
+343	Szikszó-Vásártér	megállóhely		-1
+344	Sándoros	megállóhely		0
+345	Csörög	megállóhely		-1
+346	Somogyjád	állomás		-1
+347	Páhi	kisvasúti		0
+348	Csanádapáca	kisvasúti állomás		0
+349	Ibrány temető	kisvasúti		0
+350	Moha-Rakodó	állomás		0
+351	Petőfi tsz.	kisvasúti		0
+352	Osztopán	állomás		-1
+353	Barcs felső	megállóhely		-1
+354	Őrlőmű	kisvasúti megállóhely		-1
+355	Kurd	állomás		-1
+356	Sebők kert	kisvasúti megállóhely		0
+357	Bolhás	megállóhely		-1
+358	Remete	megállóhely		0
+359	Leányvár	állomás		-1
+360	Budafa	megállóhely		-1
+361	Musznya-Vaslak	megállóhely	SLO	0
+362	Forró-Encs	állomás		-1
+363	Ürmöshát	megállóhely		0
+364	Haricabánya	kisvasúti állomás		0
+365	Csokonyavisonta felső	megállóhely		0
+366	Görbekanyar	kisvasúti állomás		0
+367	Fótfürdő	megállóhely		-1
+368	Esztergomi tábor	megállóhely		0
+369	Bajti-elágazás	állomás		0
+370	Fegyvernek piactér	kisvasúti állomás		0
+371	Kocsistanya	kisvasúti		0
+372	Tornyai út	kisvasúti		0
+373	Áporka	megállóhely		0
+374	Kisterenye-Bányatelep	megállóhely		-1
+375	Nyárlőrinc	állomás		-1
+376	Erdősmecske	állomás		0
+377	Csereerdő	kisvasúti megállóhely		-1
+378	Cikó	megállóhely		-1
+379	Zalalövő	állomás		-1
+380	Szabadságrendező pu.	kisvasúti állomás		0
+381	Sárpilis-Várdomb	megállóhely		0
+382	Uzsa	állomás		-1
+383	Dombóvár	állomás		-1
+384	Alsónemesapáti	megállóhely		-1
+385	Adony	állomás		-1
+386	Turbék-Töröksír	megállóhely		0
+387	Újszentmargita	állomás		0
+388	Mogyorósbánya	megállóhely		0
+389	Zalaegerszeg-Ola régi	megállóhely		0
+390	Újkótaj	kisvasúti megállóhely		0
+391	Kápolnásnyék	állomás		-1
+392	Fürged	állomás		0
+393	Gölle felső	kisvasúti megállóhely		0
+394	Madár tanya	kisvasúti		0
+395	Hernádcsány	állomás	SK	-1
+396	Ongaújfalu	megállóhely		0
+397	Tápszentmiklós	megállóhely		0
+398	Nagyláng	kisvasúti állomás		0
+399	Pereces kitérő	kisvasúti megállóhely		0
+400	Pósahalom	megállóhely		0
+401	Felsőpaty	állomás		0
+402	Várhegy	kisvasúti megállóhely		0
+403	Fábiánsebestyén	megállóhely		-1
+404	Rákoscsaba-Újtelep	megállóhely		-1
+405	Tószeg	állomás		-1
+406	Etelka	kisvasúti megállóhely		0
+407	Balatonfenyves	állomás		-1
+408	Zebegény	megállóhely		-1
+409	Vác-Alsóváros	megállóhely		-1
+410	Karcag-Vásártér	állomás		-1
+411	Gyula-Jánoszug	megállóhely		0
+412	Tarnaszentmiklós Újtelep	kisvasúti		0
+413	Hatos	kisvasúti megállóhely		0
+414	Radaháza	kisvasúti		0
+415	Zalaszentmihály-Pacsa	állomás		-1
+416	Egyházerdő	megállóhely		-1
+417	Dúzs	megállóhely		-1
+418	Meggyespele	megállóhely		-1
+419	Pálháza-Ipartelep	kisvasúti állomás		-1
+420	Bóly	állomás		-1
+421	Viss	kisvasúti megállóhely		0
+422	Taktaszada	megállóhely		-1
+423	Környe	állomás		-1
+424	Bakonypéterd	megállóhely		0
+425	Iklad-Domony felső	megállóhely		-1
+426	Kerkaszabadhegy	állomás	SLO	0
+427	Körösnagyharsány	megállóhely		0
+428	Hevesi szőlők	megállóhely		0
+429	Magyarbánhegyes	állomás		-1
+430	Miskolc-Gömöri	állomás		-1
+431	Som-Nagyberény	megállóhely		-1
+432	Feketenagytanya	megállóhely		0
+433	Sárospatak	állomás		-1
+434	Balkán	kisvasúti megállóhely		0
+435	Gyón	megállóhely		-1
+436	Daránypuszta	megállóhely		-1
+437	Nagyharsány	állomás		0
+438	Homok	megállóhely		-1
+439	Petőfiváros	megállóhely		-1
+440	Zöldmajori elágazás	kisvasúti állomás		0
+441	Csoma-Szabadi	állomás		-1
+442	Álomzúg	megállóhely		0
+443	Abaliget	állomás		-1
+444	Harta	állomás		0
+445	Tormásliget	megállóhely		-1
+446	Fehérhát	kisvasúti megállóhely		0
+447	Csabacsűd	állomás		-1
+448	Soroksári út	állomás		-1
+449	Alibánfa	megállóhely		0
+450	Vilyi puszta	kisvasúti megállóhely		0
+451	Pátroha	állomás		-1
+452	Felsőbéda	kisvasúti		0
+453	Csömödér ÁEV	kisvasúti		-1
+454	Emőd	állomás		-1
+455	Erdészlak	kisvasúti		-1
+456	Kálmáncsa	állomás		0
+457	Mahóca	kisvasúti állomás		-1
+458	Mór-Újtelep	megállóhely		0
+459	Simongát	állomás		0
+460	Farmos	megállóhely		-1
+461	Mohács	állomás		-1
+462	Vönöck	állomás		0
+463	Boldogasszony	állomás	A	-1
+464	Nagytőke	állomás		-1
+465	Bagimajor	megállóhely		-1
+466	Horvátjárfalu	megállóhely	SK	0
+467	Gábortelep	kisvasúti állomás		0
+468	Vésztő külső	kisvasúti megállóhely		0
+469	Szebény	megállóhely		0
+470	Nagymágocs	állomás		0
+471	Somogyszentpál felső	kisvasúti		-1
+472	Ilonaszállás	megállóhely		0
+473	Jánkmajtis	megállóhely		-1
+474	Balatonfenyves felső	megállóhely		0
+475	Baktalórántháza	állomás		-1
+476	Lőrinczy-kert	kisvasúti megállóhely		0
+477	Kevermes puszta	kisvasúti megállóhely		0
+478	Fövenyes	megállóhely		-1
+479	Pécsújhegy régi	megállóhely		0
+480	Csorba felső	kisvasúti		0
+481	Cigánd	kisvasúti állomás		0
+482	Seregélyes	megállóhely		-1
+483	Mohora	megállóhely		-1
+484	Szőreg-Újtelep	megállóhely		0
+485	Sörház major	kisvasúti megállóhely		0
+486	Csokonyavisonta alsó	megállóhely		0
+487	Gérce	állomás		0
+488	Nyíregyháza Petőfi tér	kisvasúti		0
+489	Kemenesmihályfa	megállóhely		-1
+490	Tolna-Mözs	állomás		-1
+491	Rőtfalva	állomás	A	0
+492	Jászkarajenő Templom tér	kisvasúti megállóhely		0
+493	Rókatanya	kisvasúti		0
+494	Mozsgó-Szulimán	állomás		0
+495	Kétegyházi tanyák	megállóhely		0
+496	Csatárimajor	állomás		0
+497	Sárkuta 4. sz. őrház	megállóhely		0
+498	Jenői	kisvasúti megállóhely		0
+499	Felsőtárkány Dohánygyári üdülő	kisvasúti		0
+500	Bonnya	megállóhely		-1
+501	Vésztői tanyák	kisvasúti megállóhely		0
+502	Hencse-Hedrehely	állomás		0
+503	Bodakajtor-Felsőszentiván	állomás		0
+504	Nyúldomb	kisvasúti megállóhely		-1
+505	Báta	állomás		0
+506	Csiki csárda	kisvasúti megállóhely		0
+507	Csongrád	állomás		-1
+508	Mélyéger	kisvasúti		-1
+509	Györgytarló	kisvasúti megállóhely		0
+510	Sóstógyógyfürdő	kisvasúti állomás		0
+511	Karcag	állomás		-1
+512	Szil-Sopronnémeti	állomás		-1
+513	Jászkarajenő felső	kisvasúti megállóhely		0
+514	Kisvárda	állomás		-1
+515	Balatonújlak	megállóhely		0
+516	Rácalmás régi	állomás		0
+517	Murony	állomás		-1
+518	Lázi	megállóhely		0
+519	Matkó-Alsó	kisvasúti		0
+520	Fornád-Kecsege	megállóhely		0
+521	Szabadkai tanyák	megállóhely	SRB	0
+522	Gödöllő-Állami telepek	megállóhely		-1
+523	Kemencepatak	kisvasúti megállóhely		-1
+524	Alsólövő	megállóhely	A	0
+525	Ambrózfalva	megállóhely		-1
+526	Alsómajsa	állomás		0
+527	Szabadegyháza	állomás		-1
+528	Nagynyárádi kitérő	kisvasúti		0
+529	Körösújfalu	megállóhely		0
+530	Barackos	megállóhely		0
+531	Fegyvernek szabadságtelep	kisvasúti		0
+532	Hajdúbagos	megállóhely		0
+533	Fertőszentmiklós	állomás		-1
+534	Csabony	megállóhely		0
+535	Csertő	megállóhely		0
+536	Pálháza	kisvasúti állomás		-1
+537	Kopolya	megállóhely		0
+538	Tiszaalpár felső	megállóhely		-1
+539	Inota	megállóhely		0
+540	Egerfarmos	állomás		-1
+541	Feketevölgy	kisvasúti		-1
+542	Vaskút	állomás		0
+543	Dióspuszta	kisvasúti		0
+544	Tunyogmatolcs alsó	megállóhely		-1
+545	Hidasnémeti	állomás		-1
+546	Dunakeszi-Gyártelep	megállóhely		-1
+547	Kiskunfélegyháza	állomás		-1
+548	Kaszaperpuszta felső	kisvasúti megállóhely		0
+549	Gemenc-Dunapart	kisvasúti állomás		-1
+550	Bratislava ÚNS	teherpályaudvar	SK	0
+551	Szany-Rábaszentandrás	állomás		-1
+552	Kétútköz	megállóhely		-1
+553	Karcag-Ipartelep	megállóhely		-1
+554	Veres major	kisvasúti		0
+555	Hajdúsámsoni tanyák	megállóhely		0
+556	Homokterenye	megállóhely		0
+557	Öntés	kisvasúti megállóhely		0
+558	Alsóbikol	kisvasúti		0
+559	Vaszar	állomás		-1
+560	Mélykút	állomás		-1
+561	Belső Újtelep	kisvasúti megállóhely		0
+562	Városligeti elágazás	szolgálati hely		0
+563	Mihályháza	megállóhely		-1
+564	Büdöskútpuszta	megállóhely		-1
+565	Répáspuszta	megállóhely		-1
+566	Csúza	megállóhely	HR	0
+567	Bökény	megállóhely		0
+568	Magyarhertelend	megállóhely		-1
+569	Csánig	feltételes megállóhely		-1
+570	Farád	megállóhely		-1
+571	Szatina-Kishajmás	megállóhely		-1
+572	Albertfalva	állomás		-1
+573	Oberwart Einkaufszentrum	megállóhely	A	0
+574	Balogh tanya	kisvasúti		0
+575	Tárnok	állomás		-1
+576	Gyékényes	állomás		-1
+577	Sóshalom	megállóhely		0
+578	Noskovci	állomás	HR	0
+579	Bázakerettye alsó	kisvasúti állomás		-1
+580	DCM elágazás	szolgálati hely		0
+581	Bucsu	megállóhely		0
+582	Tiszatelek	kisvasúti állomás		0
+583	Ipolyvece	megállóhely		-1
+584	Vizslás	megállóhely		0
+585	Pogonyipuszta	megállóhely		0
+586	Rohonc	állomás	A	0
+587	Sajókápolna	kisvasúti		0
+588	Újdiósgyőr Vasgyár	kisvasúti		0
+589	Csajág felső	megállóhely		0
+590	Szőny	megállóhely		-1
+591	Dombiratos	kisvasúti állomás		0
+592	Csátalja	állomás		0
+593	Városlőd	megállóhely		-1
+594	Nagytanyai elágazás	kisvasúti		0
+595	Gamásza	megállóhely		0
+596	Fakapu	kisvasúti megállóhely		0
+597	Perkupa	megállóhely		-1
+598	Táskai elágazás	kisvasúti		-1
+599	Putnok	állomás		-1
+600	Békés Széchenyi tér	kisvasúti állomás		0
+601	Torony	állomás		0
+602	Répceszemere	állomás		0
+603	Ugyer	megállóhely		0
+604	Kámon	megállóhely		-1
+605	Nagyzerind	kisvasúti	RO	0
+606	Bőszénfa	megállóhely		0
+607	Világospuszta GV	kisvasúti megállóhely		0
+608	Kitérőgyár	megállóhely		-1
+609	Vulkapordány	állomás	A	-1
+610	Mernye	állomás		-1
+611	Sallai telep	kisvasúti		0
+612	Csikériai szőlők	megállóhely		0
+613	Nyárlőrinc alsó	megállóhely		-1
+614	Kapuvár Garta	kisvasúti állomás		0
+615	88. majori elágazás	kisvasúti		0
+616	Ménfőcsanak	állomás		0
+617	Sárospatak Kazinczy u.	kisvasúti megállóhely		0
+618	Gyöngyfa-Magyarmecske	megállóhely		-1
+619	Selymes	megállóhely		-1
+620	Pamuk	megállóhely		-1
+621	Bodrogolaszi	megállóhely		-1
+622	Biharkeresztes	állomás		-1
+623	Dombostanya	megállóhely		-1
+624	Tura	állomás		-1
+625	Bárca	állomás	SK	-1
+626	Barcstelep	megálló-rakodóhely		0
+627	Vitnyéd-Csermajor	megállóhely		-1
+628	Kónya	megállóhely		-1
+629	Kenderes	állomás		-1
+630	Hármashegyalja	kisvasúti állomás		-1
+631	Tapolca	állomás		-1
+632	Jászapáti	állomás		-1
+633	Alap	megállóhely		-1
+634	Tiszaújváros	állomás		-1
+635	Csikéria	állomás		0
+636	Csengőd	állomás		-1
+637	Nyilas	kisvasúti megállóhely		0
+638	Tarhos	kisvasúti megállóhely		0
+639	Sánta tanya	kisvasúti		0
+640	Paphegy	kisvasúti állomás		-1
+641	Szob alsó	megállóhely		-1
+642	Hódmezővásárhelyi Népkert	állomás		-1
+643	Ferenctanya	megállóhely		0
+644	Nagyszentjános	állomás		-1
+645	Kiskorpád	állomás		-1
+646	Kiskunmajsai út	kisvasúti megállóhely		0
+647	Bazsómajor	megállóhely		0
+648	Pázmáneum	megállóhely		0
+649	Tiborszállás	állomás		-1
+650	Pereces	kisvasúti állomás		0
+651	Szilvásvárad	állomás		-1
+652	Bonum	megállóhely		0
+653	Cinkus	kisvasúti megállóhely		0
+654	Újkígyós	kisvasúti állomás		0
+655	Polgárdi-Tekerespuszta	megállóhely		-1
+656	Kaba	állomás		-1
+657	Sárospatak átrakó	kisvasúti állomás		0
+658	Ács	állomás		-1
+659	Jászboldogháza-Jánoshida	állomás		-1
+660	Nagyigmánd-Bábolna	állomás		-1
+661	Tiszasas	állomás		-1
+662	Széktó	megállóhely		0
+663	Őrszem	kisvasúti megállóhely		0
+664	Hattyas-telep	kisvasúti megállóhely		0
+665	Halászaranyos	megállóhely		0
+666	Mezőhídvég	állomás		0
+667	Tóhát	megállóhely		0
+668	Révfülöp	állomás		-1
+669	Somogytarnóca	állomás		0
+670	Szögihegy	kisvasúti megállóhely		0
+671	Makó	állomás		-1
+672	Tát	megállóhely		-1
+673	Szentkirály	megállóhely		0
+674	Füzesgyarmatfürdő	megállóhely		-1
+675	Gyügér	megállóhely		0
+676	Kaszaper	kisvasúti állomás		0
+677	Túrkeve	állomás		0
+678	Miklóstelep	megállóhely		-1
+679	Dunaföldvár felső	megállóhely		0
+680	Kenyhec	megállóhely	SK	-1
+681	Nezsider-fürdő	állomás	A	-1
+682	Zsédeny mh.	megállóhely		0
+683	Lébény-Mosonszentmiklós	állomás		-1
+684	Gyoma	állomás		-1
+685	Pusztalánc	állomás		0
+686	Isaszeg	állomás		-1
+687	Nagykónyi	állomás		0
+688	Szőlősnyaraló	megállóhely		-1
+689	Alsószéktó	kisvasúti		0
+690	Újvenyim	megállóhely		-1
+691	Szokolya-Riezner	kisvasúti megállóhely		-1
+692	Torna	állomás	SK	-1
+693	Újireg	kisvasúti		0
+694	Balatonszemes	állomás		-1
+695	Balatonszárszó	állomás		-1
+696	Nyékládháza	állomás		-1
+697	Belezna	megállóhely		-1
+698	Dombegyház	kisvasúti		0
+699	Nyúl	megállóhely		-1
+700	Kárászmajor	kisvasúti		0
+701	Bősárkány	állomás		-1
+702	Nick-Rábahíd	megállóhely		0
+703	Heves	állomás		-1
+704	Jászkarajenő	kisvasúti állomás		0
+705	Makó-Újvásártér	megállóhely		-1
+706	Mesztegnyő	állomás		0
+707	Kajdacs	megállóhely		0
+708	Sopron-Rendező	teherpályaudvar		0
+709	Taksony	állomás		-1
+710	Nagyoroszi	állomás		-1
+711	Nagykonda	állomás		0
+712	Szalonna	állomás		-1
+713	Bicere	állomás		-1
+714	Ivacs	megállóhely		-1
+715	Hodász	állomás		-1
+716	Lókút	megállóhely		0
+717	Levelek-Magy	megállóhely		-1
+718	Sáránd	állomás		-1
+719	Lengyeltóti	állomás		-1
+720	Csabai tanyák	kisvasúti állomás		0
+721	Sármellék	állomás		0
+722	Sopron	állomás		-1
+723	Eger	állomás		-1
+724	Sopron-Marhapályaudvar	teherpályaudvar		0
+725	Déli út	megállóhely		0
+726	Ináncs	megállóhely		-1
+727	Ragyolc	megállóhely	SK	0
+728	Királyhelmec-Perbenyik	állomás	SK	-1
+729	Határ u.	kisvasúti		0
+730	Lepsény felső	megállóhely		0
+731	Pálmajor	kisvasúti		-1
+732	Balatonvilágos	megállóhely		-1
+733	Monostorszeg	megállóhely	SRB	0
+734	Laktanya	kisvasúti		0
+735	Háros	állomás		-1
+736	Balatonalmádi-Öreghegy	állomás		0
+737	Nyíradony	állomás		-1
+738	Drávaszabolcs	állomás		0
+739	Bánrévei Vízmű	megállóhely		0
+740	Godóvár	kisvasúti állomás		-1
+741	Dubicsány	megállóhely		-1
+742	Szentmártonpuszta	kisvasúti megállóhely		-1
+743	Kund puszta	kisvasúti		0
+744	Körösszakál	állomás		0
+745	Nagycsere	állomás		-1
+746	Örjeg	megállóhely		0
+747	Zalaapáti	állomás		0
+748	Batyk-kitérő	állomás		0
+749	Bikács	megállóhely		0
+750	Helemba	megállóhely	SK	0
+751	Városföld	állomás		-1
+752	Kőbánya-Teher	teherpályaudvar		0
+753	Szapárfalu	kisvasúti		0
+754	Locsmánd	állomás	A	0
+755	Terehegy	megállóhely		0
+756	Tótkomlós Templom tér	kisvasúti állomás		0
+757	Tata	állomás		-1
+758	Esztergom	állomás		-1
+759	Szulimán	megállóhely		0
+760	Kópháza	megállóhely		-1
+761	Kassa-Erzsébetváros	megállóhely	SK	-1
+762	Kisköre-Tiszahíd	megállóhely		-1
+763	Nyírlak	megállóhely		0
+764	Balatonarács	megállóhely		-1
+765	Kismindszenti út	megállóhely		-1
+766	Ópaks	állomás		0
+767	Nagypeleske	megállóhely	RO	0
+768	Zöldhalom	állomás		0
+769	Vajszlói téglagyár	megállóhely		0
+770	Tarnaörs	megállóhely		0
+771	Edelény alsó	megállóhely		-1
+772	Dör	megállóhely		0
+773	Felsőtárkány Mészégető	kisvasúti		0
+774	Ortutay major	kisvasúti megállóhely		0
+775	Zalacséb-Salomvár	állomás		-1
+776	Hejce-Vilmány	megállóhely		-1
+777	Besnyői út	megállóhely		0
+778	Piliscsév	megállóhely		-1
+779	Egyházasrádóc	állomás		-1
+780	Pusztabánréve	megállóhely		-1
+781	Veszprémvarsány	állomás		-1
+782	Sóstóhegy	állomás		-1
+783	Pálinkás	kisvasúti állomás		0
+784	Kék	megállóhely		-1
+785	Rákhát	megállóhely		0
+786	Őrtilos	állomás		-1
+787	Állampuszta	állomás		0
+788	Dobaipuszta	megállóhely		0
+789	Soltvadkert	állomás		-1
+790	Gátér	állomás		-1
+791	Újharangod	kisvasúti		0
+792	Szentmártonkáta	megállóhely		-1
+793	Szabadkígyós GV	kisvasúti állomás		0
+794	Kenézlő	kisvasúti állomás		0
+795	Belecska	megállóhely		-1
+796	Chernelházadamonya	megállóhely		0
+797	Vámoscsalád	feltételes megállóhely		-1
+798	Hajdúnánás-Vásártér	megállóhely		-1
+799	Menyecske	kisvasúti		0
+800	Hamuháza	kisvasúti		0
+801	Felsőjánosfa régi	megállóhely		0
+802	Nagylaki Kendergyár	megállóhely		-1
+803	Kisivánszék	kisvasúti megállóhely		0
+804	Tarjánpuszta	állomás		-1
+805	Mindszent	állomás		-1
+806	Búcsúszentlászló	állomás		-1
+807	Paks-Dunapart	megállóhely		0
+808	Tiszadada	állomás		0
+809	Csugar	megállóhely		-1
+810	Fürjes	megállóhely		-1
+811	Lesencetomaj	állomás		0
+812	Barackos mh.	kisvasúti megállóhely		-1
+813	Marcaltő	megállóhely		-1
+814	Drávacsepely	megállóhely		0
+815	Gönc	állomás		-1
+816	Vadász	kisvasúti	RO	0
+817	Gorzsa	megállóhely		0
+818	Vaja-Rohod	állomás		-1
+819	Kecskemét	állomás		-1
+820	Konyhadűlő	megállóhely		0
+821	Boldog	megállóhely		0
+822	Sárrétudvari	megállóhely		-1
+823	Pécs-Gyárváros	megállóhely		0
+824	Balatonkeresztúr	állomás		0
+825	Mikófalva	megállóhely		0
+826	Töviskes	kisvasúti		0
+827	Nagyállás	megállóhely		0
+828	Törökér	kisvasúti megállóhely		0
+829	Mátéházapuszta	állomás		0
+830	Herminatanya	kisvasúti állomás		0
+831	Nagyút	állomás		-1
+832	Nyírjákó	megállóhely		0
+833	Lyukóbánya alsó	kisvasúti megállóhely		0
+834	Hernádgönyű	megállóhely	SK	-1
+835	Mátrafüred alsó	kisvasúti		-1
+836	Zánka-Köveskál	állomás		-1
+837	Muraszombat	állomás	SLO	-1
+838	Kaposszentjakab	megállóhely		-1
+839	Sóstó	megállóhely		-1
+840	Szentléránt	megállóhely		-1
+841	Zalahosszúfalu	megállóhely		0
+842	Nógrád	állomás		-1
+843	Tófürdő	megállóhely		0
+844	Bük	állomás		-1
+845	Kistelek	állomás		-1
+846	Ajak	állomás		-1
+847	Körösszeg	megállóhely	RO	-1
+848	Végegyháza	megállóhely		-1
+849	Tőserdő	megállóhely		-1
+850	Gacsály	megállóhely		-1
+851	Keszthely	állomás		-1
+852	Palkonya	megállóhely		-1
+853	Szilsárkány	megállóhely		0
+854	Tompa	megállóhely		-1
+855	Kerekegyháza alsó	megállóhely		0
+856	Dunatetétlen	megállóhely		0
+857	Szombathely-Rendező	teherpályaudvar		0
+858	Nagygyanté	megállóhely		0
+859	Tiszaszentimre	állomás		-1
+860	Nyíracsád	kisvasúti megállóhely		0
+861	Cserepesi tanyák	kisvasúti megállóhely		0
+862	Csemő	állomás		0
+863	Szentmihálytelek	megállóhely		0
+864	Vadasmajor	kisvasúti állomás		0
+865	Nagykőrös	állomás		-1
+866	Zalaszentlőrinc	megállóhely		-1
+867	Szalatnak	megállóhely		-1
+868	Lövő	állomás		-1
+869	Gyomai elágazás	szolgálati hely		0
+870	Dunavarsány	megállóhely		-1
+871	Sárkeresztúr	megállóhely		0
+872	Sártó	megállóhely		0
+873	Újkenéz	megállóhely		-1
+874	Balatonudvari	megállóhely		-1
+875	Kiskunfélegyházi határút	megállóhely		0
+876	Balatonboglár felső	megállóhely		0
+877	Hortobágyi Halastó	megállóhely		-1
+878	Váckisújfalu	megállóhely		0
+879	Godisa	állomás		-1
+880	Péterhida-Komlósd	megállóhely		-1
+881	Nagytanya NyK	kisvasúti megállóhely		0
+882	Vadaspark	kisvasúti megállóhely		-1
+883	Karancs	megállóhely	HR	0
+884	Tiszalök	állomás		-1
+885	Somogyaszaló	megállóhely		-1
+886	Csorvás	állomás		-1
+887	Őrszállás	állomás	SRB	0
+888	Szikra	megállóhely		-1
+889	Kisszállás	állomás		-1
+890	Rábapatona	megállóhely		-1
+891	Budapest-Déli	állomás		-1
+892	Budapest-Kelenföld	állomás		-1
+893	Kunhegyes	állomás		-1
+894	Vilmaszállás	megállóhely		-1
+895	Hernádgecse	megállóhely	SK	-1
+896	Szarkahegy	kisvasúti megállóhely		0
+897	Taktaharkány felső	kisvasúti		0
+898	Balatonederics régi	állomás		0
+899	Leperdpuszta	megállóhely		0
+900	Szalajkavölgy-Lovaspálya	kisvasúti állomás		0
+901	Mosonmagyaróvár	állomás		-1
+902	Bátaszék	állomás		-1
+903	Sajószöged	megállóhely		0
+904	Pusztadomaháza	megállóhely		0
+905	Ivánbattyán	kisvasúti		0
+906	Bicsérd	állomás		-1
+907	Salköveskút-Vassurány	megállóhely		-1
+908	Felsőgöd	megállóhely		-1
+909	Apostag	állomás		0
+910	Magyarút	megállóhely	SRB	0
+911	Áta	állomás		-1
+912	Krinolin kert	kisvasúti		0
+913	Kismegyer	megállóhely		0
+914	Márfa	megállóhely		0
+915	Levél	megállóhely		-1
+916	Szank	kisvasúti megállóhely		0
+917	Tarcal	állomás		-1
+918	Kispáhi	kisvasúti		0
+919	Inárcsi szőlőtelep	megállóhely		0
+920	Borosgyán	kisvasúti állomás		0
+921	Buj község	kisvasúti megállóhely		0
+922	Lepsény	állomás		-1
+923	Porcsalma-Tyukod	állomás		-1
+924	Hosszúhomok	megállóhely		0
+925	Apc-Zagyvaszántó	állomás		-1
+926	Radostyán	kisvasúti		0
+927	Szőlősnyaraló régi	megállóhely		0
+928	Szolnok	állomás		-1
+929	Vámospércs	állomás		-1
+930	Országúti őrház	kisvasúti állomás		0
+931	Ukk	állomás		-1
+932	Villány	állomás		-1
+933	Aranyosapáti	állomás		-1
+934	Nyárlőrinci szőlők	megállóhely		-1
+935	Horváth tanyák	megállóhely	SRB	0
+936	Pozsonyligetfalu	állomás	SK	-1
+937	Pusztaszenttornya	megállóhely		0
+938	Szulok	állomás		0
+939	Kunmadaras	állomás		-1
+940	Szarvaskő	megállóhely		-1
+941	Siófok-Tisztviselőtelep	megállóhely		0
+942	Bíró megálló	kisvasúti megállóhely		0
+943	Felsőlajos	megállóhely		-1
+944	Fityeház	megállóhely		0
+945	Kiskunhalas	állomás		-1
+946	Tolnanémedi	állomás		-1
+947	Klotildliget	megállóhely		-1
+948	Taszár	állomás		-1
+949	Tizesbérc	megállóhely		0
+950	Jánosszállás	megállóhely		-1
+951	Csikéria kitérő	állomás	SRB	0
+952	Budahomok	kisvasúti megállóhely		0
+953	Kengyel	állomás		-1
+954	Kocsola	megállóhely		0
+955	Pinnye	állomás		-1
+956	Ranódfai elágazás	kisvasúti		0
+957	Nagykónyi Halastó	kisvasúti		0
+958	Kunbaja-Bácsalmási szőlők	állomás		0
+959	Siklósi szőlők	megállóhely		0
+960	Turistaház	kisvasúti megállóhely		0
+961	Derecske-Vásártér	megállóhely		-1
+962	Kádárta	megállóhely		0
+963	Fűzfás	kisvasúti		0
+964	Előhát	megállóhely		-1
+965	Baté	állomás		-1
+966	Szenta EV	kisvasúti állomás		-1
+967	Őszeszék	megállóhely		-1
+968	Újudvar	állomás		-1
+969	Mosonszolnok	állomás		-1
+970	Heresznye	megállóhely		0
+971	Nyársapát	állomás		-1
+972	Egeresvölgy-Varróház	kisvasúti megállóhely		-1
+973	Polgárdi	állomás		-1
+974	Őrbottyán	állomás		-1
+975	Károlyi Mihály-telep	kisvasúti megállóhely		0
+976	Gerencepuszta	kisvasúti		0
+977	Baranyavár-Pélmonostor	állomás	HR	-1
+978	Nagybaracskai szőlők	megállóhely		0
+979	Celldömölk	állomás		-1
+980	Sarkad	állomás		-1
+981	Magyarkút	megállóhely		-1
+982	Dénesmajor	kisvasúti állomás		0
+983	Galambos	állomás		-1
+984	Óbuda	állomás		-1
+985	Dabronc	megállóhely		-1
+986	Szombathely	állomás		-1
+987	Vitka	megállóhely		-1
+988	Hernádszurdok	megállóhely		-1
+989	Kisjenő-Erdőhegy	állomás	RO	0
+990	Gálosfa	állomás		0
+991	Halászlak	megállóhely		-1
+992	Szalai megálló	kisvasúti	RO	0
+993	Csomád	állomás		-1
+994	Kőbánya-Kispest	állomás		-1
+995	Enese	állomás		-1
+996	Pinkóc	kisvasúti megállóhely		0
+997	Görénypuszta	megállóhely		0
+998	Kórház	kisvasúti		0
+999	Jankovich-telep	megállóhely		0
+1000	Vörösmart	megállóhely	HR	0
+1001	Lórántháza	megállóhely		0
+1002	Fodortanya	kisvasúti megállóhely		0
+1003	Depónia	kisvasúti		0
+1004	Sasrét	kisvasúti megállóhely		-1
+1005	Beremend felső	megállóhely		0
+1006	Veszprém	állomás		-1
+1007	Melindai tanyák	kisvasúti megállóhely		0
+1008	Mászlonyi út	kisvasúti megállóhely		0
+1009	Kiskőrös	állomás		-1
+1010	Sikló	megállóhely	RO	0
+1011	Magyaregres	kisvasúti		0
+1012	Felsőjánosfa	megállóhely		-1
+1013	Rozsály	megállóhely		-1
+1014	Kiscsákó	megállóhely		-1
+1015	Tiszadob	állomás		0
+1016	Szentdénes	megállóhely		-1
+1017	Ostffyasszonyfa	állomás		-1
+1018	Vésztő vásártér	kisvasúti állomás		0
+1019	Mirhó	megállóhely		0
+1020	Központ	kisvasúti megállóhely		0
+1021	Konta	kisvasúti		0
+1022	Károlyfalva	kisvasúti megállóhely		0
+1023	Vonyarcvashegy	állomás		-1
+1024	Szák-Szend	megállóhely		0
+1025	Darány	állomás		-1
+1026	Végardó	kisvasúti megállóhely		0
+1027	Kölesd-Alsótengelic	megállóhely		0
+1028	Rudics	megállóhely		0
+1029	Katonatelep	állomás		-1
+1030	Szilas	kisvasúti megállóhely		0
+1031	Nagyhalász-Kendergyár	kisvasúti állomás		0
+1032	Hunyadi út	kisvasúti állomás		0
+1033	Papkeszi	állomás		0
+1034	Hort-Csány	állomás		0
+1035	Előszállás	állomás		0
+1036	Lad	állomás		0
+1037	Tiszalúc	állomás		-1
+1038	Románd	megállóhely		0
+1039	Dunaújváros külső	megállóhely		-1
+1040	Csapod	állomás		0
+1041	Besnyő	kisvasúti megállóhely		0
+1042	Nagycenk-Hidegség	megállóhely		0
+1043	Fényeslitke	állomás		-1
+1044	Puskaporos	kisvasúti állomás		-1
+1045	Márianosztra	kisvasúti állomás		-1
+1046	Felsőméntelek	megállóhely		-1
+1047	Bösztör	állomás		-1
+1048	Felsőcebe	kisvasúti		0
+1049	Tatársánci iskola	kisvasúti megállóhely		0
+1050	Felnémet	kisvasúti állomás		0
+1051	Debrecen marhavásártér	megálló-rakodóhely		0
+1052	Attala	megállóhely		-1
+1053	Jánossomorja	állomás		-1
+1054	Zákányszék	kisvasúti állomás		0
+1055	Balatonfőkajár	megállóhely		0
+1056	Károlyderéki elágazás	kisvasúti		0
+1057	Balatonlelle	megállóhely		-1
+1058	Bő	állomás		0
+1059	Páli-Vadosfa	feltételes megállóhely		-1
+1060	Nagyszekeres	állomás		-1
+1061	Göncruszka	megállóhely		-1
+1062	Hetvehely	megállóhely		-1
+1063	Fegyverneki út	kisvasúti		0
+1065	Hortobágy	állomás		-1
+1066	Solymos major	kisvasúti		0
+1067	Vajszló	állomás		0
+1068	Borsodszirák	megállóhely		-1
+1069	Mád	állomás		-1
+1070	Orgovány	kisvasúti		0
+1071	Kastélyosdombó	megállóhely		0
+1072	Kiskundorozsma	állomás		-1
+1073	Balatonrendes	megállóhely		-1
+1074	Szepeshalom	megállóhely		0
+1075	Vásárhelyi határ	kisvasúti megállóhely		0
+1076	Nagyfalva	megállóhely	A	-1
+1077	Agárd	megállóhely		-1
+1078	Ete	megállóhely		0
+1079	Kunágota Széchenyi út	kisvasúti megállóhely		0
+1080	Győrtelek alsó	állomás		-1
+1081	Balatonfenyves GV	kisvasúti		-1
+1082	Lőrinci	megállóhely		-1
+1083	Kevermes Széchenyi út	kisvasúti megállóhely		0
+1084	Ihász	állomás		0
+1085	Guth	kisvasúti megállóhely		0
+1086	Hosszúhát	állomás		-1
+1087	Monyha	kisvasúti megállóhely		0
+1088	Tiszakécske	állomás		-1
+1089	Kettőshalom	megállóhely		-1
+1090	Kistótfalu	megállóhely		-1
+1091	Ábrahámhegy	megállóhely		-1
+1092	Gyopárosi szőlők	megállóhely		0
+1093	Harkány	állomás		0
+1094	Zalaháshágy-Szőce	megállóhely		0
+1095	Pécs felső	állomás		0
+1096	Döbrököz	állomás		-1
+1097	Lassi	kisvasúti állomás		-1
+1098	Tiszavasvári	állomás		-1
+1099	Középmező	megállóhely		-1
+1100	Máriaújfalu	megállóhely		0
+1101	Mecsekpölöske	megállóhely		-1
+1102	Sitke	állomás		0
+1103	Belsőkamaráspuszta	megállóhely		-1
+1104	Gyula GV	kisvasúti állomás		0
+1105	Kohárykertek	megállóhely		0
+1106	Kevermes szőlők	kisvasúti megállóhely		0
+1107	Telbisztanya	megállóhely		0
+1108	Kisvárda-Hármasút	megállóhely		-1
+1109	Gajdospuszta	megállóhely		0
+1110	Ziliz	megállóhely		0
+1111	Bánhida	megállóhely		-1
+1112	Kőszegfalva	megállóhely		-1
+1113	Borsod rakodó	rakodóhely		0
+1114	Nyírmihálydi	megállóhely		-1
+1115	Nagytótipuszta	megállóhely		0
+1116	Alsólászló	állomás	A	0
+1117	Fenyveshegy	megállóhely		-1
+1118	Fonyódliget	megállóhely		-1
+1119	Békés Köröspart	kisvasúti megállóhely		0
+1120	Szurdokpüspöki	állomás		-1
+1121	Kispest	állomás		-1
+1122	Zalagyömörő	megállóhely		-1
+1123	Bánhidymajor	megállóhely		0
+1124	Füzesgyarmat-Macskás	megállóhely		0
+1125	Orosháza Hatos	kisvasúti megállóhely		0
+1126	Balkány	állomás		0
+1127	Bélzerind	kisvasúti	RO	0
+1128	Hékéd	megállóhely		-1
+1129	Nagyecsed	állomás		-1
+1130	Kisfástanya	megállóhely		-1
+1131	Nagyrét	megállóhely		-1
+1132	Szabadka gyártelep	megállóhely	SRB	0
+1133	Balatonfűzfő	állomás		-1
+1134	Somogyszil alsó	kisvasúti megállóhely		0
+1135	Mátyásdomb felső	kisvasúti megállóhely		0
+1136	Alsóboldva	megállóhely		-1
+1137	Nagykónyi-Tamási köves út	kisvasúti		0
+1138	Sátorhely	kisvasúti állomás		0
+1139	Márkó	megállóhely		-1
+1140	Murakeresztúr	állomás		-1
+1141	Derecske	állomás		-1
+1142	Pereszteg	megállóhely		0
+1143	Szorgalmatos	megállóhely		-1
+1144	Almáskert	megállóhely		0
+1145	Ferencváros	állomás		-1
+1146	Abaújkér	megállóhely		-1
+1147	Bag	megállóhely		-1
+1148	Újszőreg	megállóhely		0
+1149	Tiszaföldvár	állomás		-1
+1150	Diósviszló	állomás		0
+1151	Kistölgyfa	kisvasúti állomás		0
+1152	Táborfalva	állomás		-1
+1153	Csempeszkopács	állomás		0
+1154	Tiszalöki Vízművek	megállóhely		0
+1155	Bük fürdőtelep	megállóhely		0
+1156	Biharszentandrás	megállóhely	RO	-1
+1157	Gyömöre	állomás		0
+1158	Budaörs	állomás		-1
+1159	Máriakönnye	megállóhely		0
+1160	Kéthely	állomás		0
+1161	Ugod	állomás		0
+1162	Máriabesnyő régi	megállóhely		0
+1163	Cserénfa	megállóhely		0
+1164	Darufalva	megállóhely	A	-1
+1165	Méra	megállóhely		-1
+1166	Sárszentmihály	állomás		0
+1167	Alsóörs	állomás		-1
+1168	Vörs	megállóhely		-1
+1169	Konda	kisvasúti megállóhely		0
+1170	Pitvaros	megállóhely		-1
+1171	Királyrét alsó	kisvasúti		-1
+1172	Mezőkövesd-Hőfürdő	megállóhely		0
+1173	Bajánsenye	megállóhely		-1
+1174	Beremend	állomás		0
+1175	Bratislava-Nové Mesto	állomás	SK	-1
+1176	Királyrét	kisvasúti állomás		-1
+1177	Sajókaza	megállóhely		-1
+1178	Belsőbáránd	megállóhely		-1
+1179	Feketegyarmat	kisvasúti	RO	0
+1180	Hajnalos	megállóhely		-1
+1181	Budapest-Városszéli telep	megállóhely		0
+1182	Rózsamajor	kisvasúti megállóhely		0
+1183	Galambház	megállóhely		0
+1184	Rödöny	megállóhely	A	0
+1185	Gelse	állomás		-1
+1186	Tápiószecső	állomás		-1
+1187	Gádoros	állomás		-1
+1188	Műkert	megállóhely		0
+1189	Tordac	kisvasúti megállóhely		0
+1190	Vinár	állomás		-1
+1191	Gyopárosfürdő	megállóhely		-1
+1192	Beleg	állomás		-1
+1193	Kazincbarcika alsó	megállóhely		-1
+1194	Hugyag	megállóhely		-1
+1195	Barátság	kisvasúti állomás		-1
+1196	Ököritófülpös	megállóhely		-1
+1197	Erdőkertes	megállóhely		-1
+1198	Kisszentpál puszta	kisvasúti állomás		0
+1199	Apagy	állomás		-1
+1200	Szerecseny	megállóhely		-1
+1201	Keselyűs	kisvasúti		-1
+1202	Fancsika GV	kisvasúti megállóhely		-1
+1203	Somoskőújfalu	állomás		-1
+1204	Móricgát	kisvasúti megállóhely		0
+1205	Balmazújváros	állomás		-1
+1206	Nagyszántó	állomás	RO	0
+1207	Piliscsaba	állomás		-1
+1208	Börzsönygyöngye	kisvasúti		0
+1209	Védeny	megállóhely	A	-1
+1210	Dombegyház Hunyadi út	kisvasúti		0
+1211	Rákoskeresztúr	megállóhely		0
+1212	Tiszabercel	kisvasúti		0
+1213	Aba-Sárkeresztúr	állomás		0
+1214	Szegi	állomás		-1
+1215	Ötvöskónyi	megállóhely		-1
+1216	Vilmosmajor elágazás	kisvasúti megállóhely		0
+1217	Kőszeg-Sörgyár	megállóhely		0
+1218	Eleki út	kisvasúti megállóhely		0
+1219	Almásfüzitő	állomás		-1
+1220	Sümegi bazaltbánya	állomás		-1
+1221	Velence	megállóhely		-1
+1222	Záhony	állomás		-1
+1223	Nagylók	állomás		-1
+1224	Jászberény	állomás		-1
+1225	Balatonederics	állomás		-1
+1226	Szalajkaház	kisvasúti állomás		-1
+1227	Kősziget	megállóhely		0
+1228	Velencefürdő	megállóhely		-1
+1229	Veresegyház	állomás		-1
+1230	Nagymányok	megállóhely		-1
+1231	Röszke	állomás		0
+1232	Baktó	megállóhely		0
+1233	Zalaegerszeg	állomás		-1
+1234	Tajó	állomás		-1
+1235	Eplény	állomás		-1
+1236	Sé	megállóhely		0
+1237	Nagynyír	megállóhely		-1
+1238	Nádtelep	kisvasúti megállóhely		-1
+1239	Kisköre	állomás		-1
+1240	Biharpüspöki	állomás	RO	-1
+1241	Abádszalók	állomás		-1
+1242	Sátoraljaújhely köztemető	kisvasúti megállóhely		0
+1243	Gyöngyössolymos	kisvasúti		-1
+1244	23. majori elágazás	kisvasúti		0
+1245	Ózd külső	teherpályaudvar		0
+1246	Mariházi rakodó	megállóhely		0
+1247	Székkutas	állomás		-1
+1248	Dorog	állomás		-1
+1249	Szentannapuszta	megállóhely		-1
+1250	Béreg	állomás	SRB	0
+1251	Csongrádi úti tanyák	megállóhely		-1
+1252	Sirató	megállóhely		-1
+1253	Csaba alsó	kisvasúti megállóhely		0
+1254	Rábahíd	megállóhely		-1
+1255	Gyál felső	megállóhely		-1
+1256	Sajólászlófalva	kisvasúti		0
+1257	Agárdytelep	megállóhely		0
+1258	Ludastó	kisvasúti		0
+1259	Berekfürdő	megállóhely		-1
+1260	Fehérvízpuszta	kisvasúti		0
+1261	Kálmánd	megállóhely	RO	0
+1262	Körösgyéres	megállóhely	RO	-1
+1263	Bojár-Hollós	állomás		0
+1264	Justhmajor	megállóhely		-1
+1265	Ráckeresztúr Hősök tere	kisvasúti		0
+1266	Jászkisér	állomás		-1
+1267	Szolnok-Alcsi régi	megállóhely		0
+1268	Dózsa tsz	kisvasúti		0
+1269	Dalmand	állomás		0
+1270	Abapuszta	megállóhely		0
+1271	Ürgehát	megállóhely		0
+1272	Bogdása	megállóhely		0
+1273	Normafa	kisvasúti megállóhely		-1
+1274	Máriabesnyő	megállóhely		-1
+1275	Sajószentpéter-Piactér	megállóhely		0
+1276	Bácsbokod-Bácsborsód	állomás		-1
+1277	Konyári Sóstófürdő	megállóhely		-1
+1278	Hatmajor forgalmi kitérő	szolgálati hely		0
+1279	Vásárosnamény	állomás		-1
+1280	Csanyik-Erdei iskola	kisvasúti		-1
+1281	Kecskemét alsó	állomás		-1
+1282	Sajószentpéter	állomás		-1
+1283	Kapostüskevár	megállóhely		-1
+1284	Tarnaszentmiklós Pélyi út	kisvasúti		0
+1285	Földeák	állomás		0
+1286	Majláth mh.	kisvasúti megállóhely		-1
+1287	Nyíregyháza külső	állomás		-1
+1288	Lukácsháza alsó	megállóhely		-1
+1289	Vokány	megállóhely		-1
+1290	Rosszmalom elágazás	kisvasúti állomás		0
+1291	Vágó	kisvasúti megállóhely		0
+1292	Tokaj	állomás		-1
+1293	Kászonyi megálló	kisvasúti megállóhely		0
+1294	Káld	állomás		0
+1295	Regöly	megállóhely		-1
+1296	Dévaványa	állomás		-1
+1297	Szendrőlád	megállóhely		-1
+1298	Ormosbánya	megállóhely		0
+1299	Kisvarsány	megállóhely		-1
+1300	Nádasmajor	kisvasúti	RO	0
+1301	Ecser	megállóhely		-1
+1302	Vásárosdombó	állomás		-1
+1303	Diósjenő	állomás		-1
+1304	Elágazás GV	kisvasúti állomás		0
+1305	Berekhát	megállóhely		0
+1306	Görbemajor	kisvasúti		0
+1307	Kunágota felső	kisvasúti megállóhely		0
+1308	Külsőmezőhegyespuszta	megállóhely		0
+1309	Magyarbánhegyesi út	kisvasúti megállóhely		0
+1310	Mácsa kitérő	megállóhely	RO	0
+1311	Pándorfalu	állomás	A	-1
+1312	Szakály-Hőgyész	állomás		-1
+1313	Babómajor	kisvasúti megállóhely		0
+1314	Nyírbéltek alsó	kisvasúti megállóhely		0
+1315	Istvánmajor	kisvasúti		0
+1316	Korlát-Vizsoly	megállóhely		-1
+1317	Szabadkígyós	állomás		0
+1318	Eger-Rendező	teherpályaudvar		0
+1319	Homokosi	kisvasúti megállóhely		0
+1320	Ikrény	állomás		-1
+1321	Rátót	megállóhely		-1
+1322	Vörösberény-Budatava	megállóhely		0
+1323	Gálos	megállóhely	A	-1
+1324	Iskola keresztút	kisvasúti		0
+1325	Sorkifalud	megállóhely		-1
+1326	Bodajk	állomás		-1
+1327	Somogyudvarhely	megállóhely		-1
+1328	Tiszahídfő	megállóhely		0
+1329	Ceglédi közkórház	kisvasúti megállóhely		0
+1330	Kungyalu alsó	megállóhely		0
+1331	Kecskemét-Máriaváros	állomás		-1
+1332	Újváros mh.	megállóhely		0
+1333	Somogyszentimre	megállóhely		0
+1334	Vizesgyán régi	megállóhely	RO	0
+1335	Jámborhalom	megállóhely		0
+1336	Végegyháza alsó	megállóhely		-1
+1337	Nyírszőlős	kisvasúti megállóhely		0
+1338	Tarnaszentmiklós	állomás		-1
+1339	Cegléd	állomás		-1
+1340	Balatonszepezd felső	megállóhely		0
+1341	Árpádszállás	megállóhely		-1
+1342	Ártánd	állomás		0
+1343	Balladűlő	megállóhely		0
+1344	Dénesfa	feltételes megállóhely		-1
+1345	Pápa	állomás		-1
+1346	Bezenye	megállóhely		-1
+1347	Beremendi Cementmű	állomás		0
+1348	Felsőöreghegy	megállóhely		0
+1349	Pörböly	állomás		-1
+1350	Pári	megállóhely		0
+1351	Chinoin	kisvasúti		-1
+1352	Prügy alsó	kisvasúti		0
+1353	Jánoshalma	állomás		-1
+1354	Hetes kitérő	kisvasúti állomás		0
+1355	Vasegerszeg	feltételes megállóhely		-1
+1356	Szepezdfürdő	megállóhely		-1
+1357	Kismaros ÁEV	kisvasúti állomás		-1
+1358	Pózva	megállóhely		0
+1359	Mezőkövesd	állomás		-1
+1360	Kismacs	megállóhely		0
+1361	Ócsa	állomás		-1
+1362	Pusztakettős	megállóhely		-1
+1363	Báránd	állomás		-1
+1364	Türje	megállóhely		-1
+1365	Szár	megállóhely		-1
+1366	Zalaszentjakab	állomás		-1
+1367	Pinkamindszent	állomás		0
+1368	Csermajor	kisvasúti		0
+1369	Rudnaykert	megállóhely		-1
+1370	Madaras	állomás		0
+1371	Uzovicstelep	megállóhely		0
+1372	Szárazd	megállóhely		-1
+1373	Lőtér	kisvasúti		0
+1374	Ottlaka	állomás	RO	0
+1375	Marcali	állomás		0
+1376	Szentkozma	megállóhely		0
+1377	Ádánd	állomás		-1
+1378	Sajómercse	megállóhely		0
+1379	Tiszaszőlős	állomás		-1
+1380	Somogymeggyes	állomás		-1
+1381	Halmaj	állomás		-1
+1382	Csala	megállóhely		0
+1383	Nyírcsászári	állomás		-1
+1384	Virágvölgy	kisvasúti állomás		-1
+1385	Babó II.	kisvasúti		0
+1386	Szihalom	megállóhely		-1
+1387	Bakonygyirót	megállóhely		-1
+1388	Ágerdőmajor	megállóhely		0
+1389	Lakitelek	állomás		-1
+1390	Máriamajor GV	kisvasúti állomás		0
+1391	Nagycsécs	megállóhely		0
+1392	Őrhegy	kisvasúti megállóhely		0
+1393	Mosztonga major	kisvasúti megállóhely		0
+1394	Sátorosbánya	megállóhely	SK	0
+1395	Lillafüred	kisvasúti állomás		-1
+1396	Maglód	állomás		-1
+1397	Boldva	állomás		-1
+1398	Tabdi	megállóhely		-1
+1399	Víznyomó	kisvasúti megállóhely		-1
+1400	Angyaltelek	kisvasúti megállóhely		0
+1401	Gyömrő-Tófürdő	megállóhely		0
+1402	Fegyvernek-Örményes	állomás		-1
+1403	Nagytálya	megállóhely		0
+1404	Tiszajenő-Vezseny	megállóhely		-1
+1405	Sződ-Sződliget	megállóhely		-1
+1406	Küllőd	megállóhely	SRB	0
+1407	Kungyalu	megállóhely		-1
+1408	Karácsond	megállóhely		-1
+1409	Nemesbikk	megállóhely		0
+1410	Aranyvölgy	megállóhely		-1
+1411	Tóvároskert	megállóhely		-1
+1412	Molvány	megállóhely		-1
+1413	Tiszaszentmárton	megállóhely		0
+1414	Érd	állomás		-1
+1415	Sofronya	állomás	RO	-1
+1416	Alsógyenes	megállóhely		-1
+1417	Kiscséripuszta	állomás		-1
+1418	Kőszeg	állomás		-1
+1419	Gégény	állomás		-1
+1420	Pósfa	megállóhely		-1
+1421	Egervár-Vasboldogasszony	állomás		-1
+1422	Csókakő	megállóhely		-1
+1423	Okorág-Kárászpuszta	megállóhely		-1
+1424	Lepsény GV	állomás		0
+1425	Center alsó	megállóhely		0
+1426	Urrét elágazás	kisvasúti		0
+1427	Jászárokszállás	állomás		-1
+1428	Pörböly felső	megállóhely		0
+1429	Rákosrendező	állomás		-1
+1430	Kaszaperi tanyák	kisvasúti megállóhely		0
+1431	Ráróspuszta	megállóhely		-1
+1432	Keresztespuszta	megállóhely		0
+1433	Hernád	megállóhely		-1
+1434	Fertőendréd	szolgálati hely		0
+1435	Baja	állomás		-1
+1436	Kaposdada	megállóhely		0
+1437	Kárász-Köblény	megállóhely		0
+1438	Ricse	kisvasúti állomás		0
+1439	Fényes	megállóhely		-1
+1440	Csömödéri-tó	kisvasúti		-1
+1441	Sárpentele	megállóhely		0
+1442	Győrszabadhegy	állomás		-1
+1443	Hittanya	kisvasúti megállóhely		0
+1444	Szegfű	megállóhely		0
+1445	Horvátnádalja	megállóhely		-1
+1446	Hajmáskér	állomás		-1
+1447	Égerláp	megállóhely		-1
+1448	Pusztatemplom	megállóhely		-1
+1449	Fertőszentmiklós alsó	megállóhely		0
+1450	Mágorpuszta	megállóhely		0
+1451	Sávoly	állomás		-1
+1452	Császár	megállóhely		0
+1453	Nádújfalu	megállóhely		0
+1454	Bezinarét	kisvasúti		-1
+1455	Tiszafüred	állomás		-1
+1456	Jákó-Nagybajom	állomás		-1
+1457	Apafa	állomás		-1
+1458	Kétérköz	kisvasúti megállóhely		0
+1459	Görbed	kisvasúti megállóhely		0
+1460	Kaposszekcső	megállóhely		-1
+1461	Szőkehalom	megállóhely		0
+1462	Zirc	állomás		-1
+1463	Bácsborsódi tanyák	megállóhely		0
+1464	Góla	állomás		0
+1465	Berkenye	megállóhely		-1
+1466	József Szanatórium	megállóhely		-1
+1467	Zákányszék alsó	kisvasúti állomás		0
+1468	Szob	állomás		-1
+1469	Ballószög	megállóhely		0
+1470	Tápiómajor	megállóhely		0
+1471	Nagycenk	állomás		-1
+1472	Ásotthalom	kisvasúti állomás		0
+1473	Raposka	megállóhely		-1
+1474	Ajka	állomás		-1
+1475	Ceglédi kiserdők	kisvasúti megállóhely		0
+1476	Csárdaszállás	állomás		-1
+1477	Nagykarácsony	megállóhely		-1
+1478	Szada	állomás		0
+1479	Kopáncs	szolgálati hely		0
+1480	Istvántelek	megállóhely		-1
+1481	Magyarnándor	állomás		-1
+1482	Somogyaszalói út	kisvasúti		0
+1483	Iván	állomás		0
+1484	Aszófő	állomás		-1
+1485	Nagyhát	állomás		-1
+1486	Tápiószentmárton	megállóhely		-1
+1487	Szanki tanyák	kisvasúti megállóhely		0
+1488	Világoshegy	megállóhely		-1
+1489	Ferencszállás	megállóhely		0
+1490	Kemenespálfa	megállóhely		-1
+1491	Kistapolca régi	állomás		0
+1492	Dombóvár alsó	állomás		-1
+1493	Délegyháza	állomás		-1
+1494	Kenderföldek	kisvasúti megállóhely		0
+1495	Klementina	megálló-rakodóhely		0
+1496	Deszk	megállóhely		-1
+1497	Bárdudvarnok	megállóhely		0
+1498	Hidas-Bonyhád	állomás		-1
+1499	Jászszentlászló	állomás		-1
+1500	Jászszentandrási út	megállóhely		0
+1501	Komoró	állomás		-1
+1502	Balatonmáriafürdő	állomás		-1
+1503	Bodolyabér	megállóhely		-1
+1504	Nagyszentpál puszta	kisvasúti állomás		0
+1505	Csemetekert	megállóhely		0
+1506	Újtikos	megállóhely		0
+1507	Siójut	megállóhely		-1
+1508	Hejőbába-Hejőpapi	megállóhely		0
+1509	Vadászlak	megállóhely		0
+1510	Mátraverebély	megállóhely		-1
+1511	Sopronkövesd	megállóhely		-1
+1512	Keszthely régi	állomás		0
+1513	Vilmatanya	kisvasúti megállóhely		0
+1514	Mágocs-Alsómocsolád	állomás		-1
+1515	Jósvafő-Aggtelek	állomás		-1
+1516	Kunágota tanácsháza	kisvasúti megállóhely		0
+1517	Mezőtárkány	állomás		-1
+1518	Békéscsaba Kossuth tér	kisvasúti állomás		0
+1519	Dunaegyháza	megállóhely		0
+1520	Nagyatád-Bodvica	megállóhely		0
+1521	Nagyszéksós	megállóhely		0
+1522	Lázári	állomás	RO	0
+1523	Ménesmajor	megállóhely		0
+1524	Pécsbánya-Rendező	állomás		-1
+1525	Csopak	állomás		-1
+1526	Nádorszállás	megállóhely	SRB	0
+1527	6. major	kisvasúti		0
+1528	Rákos	állomás		-1
+1529	Pozsony	állomás	SK	-1
+1530	Kaskantyú	kisvasúti		0
+1531	Miskolc Győri kapu	kisvasúti		0
+1532	Veszkény	megállóhely		-1
+1533	Mór-Sporttelep	megállóhely		0
+1534	Felsőújváros	kisvasúti megállóhely		-1
+1535	Béna	megállóhely	SK	0
+1536	Pestszentimre	állomás		-1
+1537	Tyúkfarm	kisvasúti		0
+1538	Kecel	állomás		0
+1539	Szentbalázs	állomás		0
+1540	Ludas	állomás		-1
+1541	Toponári út	kisvasúti		0
+1542	Szécsény	állomás		-1
+1543	Püspökladány	állomás		-1
+1544	Nagynyárád	megállóhely		-1
+1545	Zákány	megállóhely		-1
+1546	Tunyogmatolcs	állomás		-1
+1547	Zalacsány	állomás		0
+1548	Nagyrákos	megállóhely		-1
+1549	Dömösi átkelés	megállóhely		-1
+1550	Máriakút	kisvasúti megállóhely		-1
+1551	Ohat-Pusztakócs	állomás		-1
+1552	Balatonszéplak felső	megállóhely		-1
+1553	Pörböly ÁEV	kisvasúti állomás		-1
+1554	Kovácshida	megállóhely		0
+1555	Tolmács	állomás		0
+1556	70-es kitérő	kisvasúti állomás		0
+1557	Nick	állomás		0
+1558	Gencsapáti felső	megállóhely		-1
+1559	Érd-Elágazás	szolgálati hely		0
+1560	Tétényliget	megállóhely		-1
+1561	Mátészalka régi	állomás		0
+1562	Györgyliget	megállóhely		0
+1563	Bélatelep	megállóhely		-1
+1564	Nyúlmály	kisvasúti		-1
+1565	Alsórönök	állomás		-1
+1566	Kimle-Károlyháza	állomás		-1
+1567	Gencsapáti alsó	megállóhely		-1
+1568	Kunfehértó	állomás		-1
+1569	Rákospalota-Kertváros	megállóhely		-1
+1570	Bélapátfalvi Cementgyár	megállóhely		-1
+1571	Medinci-Senkovac	megállóhely	HR	0
+1572	Kemecse	állomás		-1
+1573	Dombay-tó	megállóhely		0
+1574	Pinkaóvár	megállóhely	A	0
+1575	Zelemér	megállóhely		-1
+1576	Fertőboz-Múzeumvasút	kisvasúti		-1
+1577	Gyenesdiás	megállóhely		-1
+1578	Ipolytarnóc	állomás		-1
+1579	Almamellék alsó	megállóhely		0
+1580	Cece	állomás		-1
+1581	Tüskevár	állomás		-1
+1582	Törvényszék	kisvasúti		0
+1583	Fehérvárcsurgó	megállóhely		0
+1584	Felsőtárkány Sziklaforrás	kisvasúti		-1
+1585	Gyermekotthon	kisvasúti		0
+1586	Újbög	megálló-rakodóhely		-1
+1587	Napkor	megállóhely		-1
+1588	Füle	megállóhely		-1
+1589	Almamellék	állomás		0
+1590	Homokszentgyörgy	állomás		0
+1591	Polgárdi-Ipartelepek	állomás		-1
+1592	Réhely	megállóhely		0
+1593	Hajdúszentgyörgy	megállóhely		-1
+1594	Felcsút	megállóhely		0
+1595	Matkó felső	kisvasúti		0
+1596	Mária kitérő	kisvasúti		0
+1597	Tósokberénd	megállóhely		0
+1598	Szentetornya	megállóhely		-1
+1599	Harka	állomás		0
+1600	Hajmáskér-Újtelep	megállóhely		0
+1601	Miklóshalma	megállóhely	A	-1
+1602	Ágostonpuszta	kisvasúti megállóhely		0
+1603	Odvaskő	kisvasúti		0
+1604	Tiszacsege	állomás		0
+1605	Öreglak	állomás		-1
+1606	Füzesgyarmat	állomás		-1
+1607	Bugac felső	kisvasúti állomás		0
+1608	Kossuth tér	megállóhely		0
+1609	Pécel	állomás		-1
+1610	Balatonszéplak alsó	megállóhely		-1
+1611	Rapp	állomás	SK	0
+1612	Újváros	megállóhely		-1
+1613	Tatárvár	megállóhely		-1
+1614	Kazincbarcika	állomás		-1
+1615	Kisbócsa	kisvasúti		0
+1616	Kengyel BV	kisvasúti megállóhely		0
+1617	Segesd	megállóhely		0
+1618	Balatonberény	megállóhely		-1
+1619	Erzsébetmajor	kisvasúti megállóhely		0
+1620	Nagykarácsony felső	megállóhely		-1
+1621	Bakonykoppány	kisvasúti		0
+1622	Malomvölgy	kisvasúti megállóhely		-1
+1623	Hartmann kitérő	megállóhely	SRB	-1
+1624	Csór-Nádasdladány	állomás		0
+1625	Törökbálint	megállóhely		-1
+1626	Dunavecse	állomás		0
+1627	Gávavencsellő felső	kisvasúti megállóhely		0
+1628	Konyár	állomás		-1
+1629	Kadocsa kitérő	kisvasúti megállóhely		0
+1630	Zalaudvarnok	megállóhely		0
+1631	Nádasd	megállóhely		0
+1632	Kámaháza	kisvasúti		-1
+1633	Haláp	megállóhely		-1
+1634	Katádfa	kisvasúti		0
+1635	Kenyeri	állomás		0
+1636	Szügy	megállóhely		-1
+1637	Bátmonostor	állomás		0
+1638	Szelevény	megállóhely		-1
+1639	Tápiószele	állomás		-1
+1640	Zajta	állomás		-1
+1641	Mezőfalva	állomás		-1
+1642	Martonvásár	állomás		-1
+1643	Battyánd	megállóhely	SLO	-1
+1644	Ágasegyháza	állomás		0
+1645	Zalakomár	állomás		-1
+1646	Mesterháza-Tompaládony	állomás		0
+1647	Széchenyi tér	megállóhely		0
+1648	Szabadkígyós alsó	kisvasúti megállóhely		0
+1649	Gyömöre-Tét	megállóhely		-1
+1650	Katraszél	megállóhely		0
+1651	Balatonaliga	állomás		-1
+1652	Magdolnatelep	megállóhely		0
+1653	Bélatanya	megállóhely		0
+1654	Szőreg	állomás		-1
+1655	Somlóvásárhely	megállóhely		-1
+1656	Galgamácsa	állomás		-1
+1657	Kaposmérő	állomás		-1
+1658	Szabadisóstó	állomás		-1
+1659	Mende	állomás		-1
+1660	Bajonta	megállóhely		0
+1661	Rétság	állomás		0
+1662	Katymári Téglagyár	megállóhely		0
+1663	Nyomási földek	kisvasúti megállóhely		0
+1664	Pécsudvard	megállóhely		-1
+1665	Klábertelep	állomás		-1
+1666	Szentiván	kisvasúti állomás		0
+1667	Újszász	állomás		-1
+1668	Andráshida	állomás		-1
+1669	Reje	megállóhely		0
+1670	Kecskéd	megállóhely		0
+1671	Bolhacsárda	kisvasúti		0
+1672	Várhegyalja	megállóhely		-1
+1673	Balatonfőkajár felső	megállóhely		-1
+1674	Tardosi kőbányák	megállóhely		0
+1675	Karoshíd	kisvasúti megállóhely		-1
+1676	Nemesgulács-Kisapáti	megállóhely		-1
+1677	Kiskapud	megállóhely		0
+1678	Rárós	megállóhely		0
+1679	Kórógy	megállóhely		0
+1680	Hernádnémeti-Bőcs	állomás		-1
+1681	Óalmás	megállóhely		0
+1682	Békéscsaba villanytelep	kisvasúti megállóhely		0
+1683	Vácrátót	állomás		-1
+1684	Zánka-Erzsébettábor	megállóhely		-1
+1685	Tornyospálca	állomás		-1
+1686	Kastélypark	megállóhely		-1
+1687	Iklódbördőce temető	kisvasúti		-1
+1688	Békés kikötő	kisvasúti		0
+1689	Kunágota posta	kisvasúti megállóhely		0
+1690	Kállósemjén	állomás		-1
+1691	Határcsárda	kisvasúti		0
+1692	Ménfőcsanak felső	megállóhely		-1
+1693	Görgeteg	állomás		0
+1694	Csörögi szőlők	megállóhely		0
+1695	Csorba fmsz. bolt	kisvasúti		0
+1696	Tüzép	kisvasúti megállóhely		0
+1697	Vica	feltételes megállóhely		-1
+1698	Bakonytamási	megállóhely		0
+1699	Békéscsaba Sztálin úti kitérő	kisvasúti megállóhely		0
+1700	Veszprém ipartelepek	megállóhely		0
+1701	Üröm	megállóhely		-1
+1702	Pátyod	megállóhely		0
+1703	Mikóháza	kisvasúti megállóhely		0
+1704	Királyegyháza-Cementgyár	szolgálati hely		0
+1705	Nagyesztergár	állomás		0
+1706	Nagymajor	megállóhely		0
+1707	Szeged-Rendező	állomás		0
+1708	Kertészsziget	kisvasúti		0
+1709	Mátravidéki Erőmű	állomás		-1
+1710	Hárshegy	kisvasúti állomás		-1
+1711	Drávasztára-Zaláta	állomás		0
+1712	Hosszúpereszteg	állomás		0
+1713	Szentgál	állomás		-1
+1714	Öttevény	állomás		-1
+1715	Aradványpuszta	állomás		-1
+1716	Nagymaros-Visegrád	megállóhely		-1
+1717	Nyírlugos	kisvasúti megállóhely		0
+1718	Fenyves baromfitelep	kisvasúti megállóhely		0
+1719	Debrecen-Szabadságtelep	megállóhely		-1
+1720	Jánoshegy	kisvasúti állomás		-1
+1721	Harangod	kisvasúti		0
+1722	Alsóregmec	kisvasúti megállóhely		0
+1723	Békés	állomás		0
+1724	Tiszabezdéd	megállóhely		-1
+1725	Balffürdő	megállóhely		0
+1726	Regőce	állomás	SRB	0
+1727	Váchartyán	megállóhely		-1
+1728	Győr	állomás		-1
+1729	Karád	állomás		-1
+1730	Királd	megállóhely		0
+1731	Felsőnyék	megállóhely		0
+1732	Mezőkovácsháza GV	kisvasúti állomás		0
+1733	Pusztaszentistván	megállóhely		-1
+1734	Jászdózsa	megállóhely		-1
+1735	Acsa-Erdőkürt	állomás		-1
+1736	Écs	megállóhely		0
+1737	Sósvertike	megállóhely		0
+1738	Dencsháza	kisvasúti		0
+1739	Gyöngyösoldal	kisvasúti		-1
+1740	Újpest	megállóhely		-1
+1741	Kétújfalu	megállóhely		0
+1742	Ászár	megállóhely		0
+1743	Budapest-Keleti	állomás		-1
+1744	Taktaharkány	állomás		-1
+1745	Várfok	megállóhely		0
+1746	Diósgyőr LÁEV	kisvasúti megállóhely		-1
+1747	Tótkomlós vásártér	kisvasúti megállóhely		0
+1748	Hídvégardó	megállóhely		0
+1749	Piroska	megállóhely		-1
+1750	Borsmonostor	megállóhely	A	0
+1751	Magdolnavölgy	megállóhely		-1
+1752	Nagypall	megállóhely		0
+1753	Köveshegy	kisvasúti megállóhely		0
+1754	Zalaszentiván	állomás		-1
+1755	Abda	megállóhely		-1
+1756	Felsőmocsolád	állomás		-1
+1757	Neszmély	állomás		-1
+1758	Rábasömjén	megállóhely		0
+1759	Soroksár	állomás		-1
+1760	Terézhalom	megállóhely		0
+1761	Magyarbánhegyes-Újtelep	megállóhely		0
+1762	Magyarszék	állomás		-1
+1763	Telekföld	megállóhely		0
+1764	Sámfalva	megállóhely	A	0
+1765	Százhalombatta	állomás		-1
+1766	Pellérd	állomás		0
+1767	Dávod	állomás		0
+1768	Nagykónyi Pári út	kisvasúti		0
+1769	Hajdúvid	megállóhely		-1
+1770	Feketehalomtanya	megállóhely		0
+1771	Hanságliget	megállóhely		-1
+1772	Pély Hatrongyos elágazás	kisvasúti		0
+1773	Pityur-rétje	kisvasúti megállóhely		0
+1774	Hajdúnánás	állomás		-1
+1775	Virányos	megállóhely		-1
+1776	Tiszaeszlár	megállóhely		-1
+1777	Szalajka-Halastó	kisvasúti állomás		-1
+1778	Székesfehérvár-Repülőtér	megállóhely		-1
+1779	Lukácsháza	megállóhely		-1
+1780	Mezőlak	állomás		-1
+1781	Kétpó	megállóhely		-1
+1782	Érdülő	kisvasúti megállóhely		0
+1783	Mórahalom	kisvasúti állomás		0
+1784	Nosztány	kisvasúti állomás		0
+1785	Ófehértó	állomás		-1
+1786	39. major	kisvasúti		0
+1787	Újpalota (Palota)	állomás	RO	-1
+1788	Kisjakabfalva	kisvasúti		0
+1789	Hegyfalu	állomás		-1
+1790	Gyöngyöshermán	megállóhely		-1
+1791	Kiskunmajsa	állomás		-1
+1792	Porpác	állomás		-1
+1793	Acsád	állomás		-1
+1794	Cseger elágazás	kisvasúti állomás		0
+1795	Fehértó felső	kisvasúti		0
+1796	Dudar	megállóhely		0
+1797	Nagytétény	szolgálati hely		0
+1798	Győrasszonyfa	megállóhely		-1
+1799	Kútvölgy	állomás		-1
+1800	Andocs	megállóhely		-1
+1801	Nemeskeresztúr	állomás		-1
+1802	Drégely	megállóhely		-1
+1803	Kelebia	állomás		-1
+1804	Nemesgörzsöny	megállóhely		-1
+1805	Anarcs	megállóhely		0
+1806	Nagylapos	megállóhely		-1
+1807	Bölcske	megállóhely		0
+1808	Szántód-Kőröshegy	állomás		-1
+1809	Balástya	állomás		-1
+1810	Boba	állomás		-1
+1811	Széchenyihegy	kisvasúti állomás		-1
+1812	Aquincum	megállóhely		-1
+1813	Eternitgyár	megállóhely		-1
+1814	Kardoskút	állomás		-1
+1815	Gic-Hathalom	állomás		0
+1816	Paradicsommajor	kisvasúti		0
+1817	Mónosbél	állomás		-1
+1818	Rum kastély	megállóhely		0
+1819	Macs	állomás		0
+1820	Balatonszepezd	megállóhely		-1
+1821	Mezőtúr	állomás		-1
+1822	Dunaharaszti alsó	megállóhely		-1
+1823	Dejtár	állomás		-1
+1824	Verőce	állomás		-1
+1825	Cegléd-Vigadó	kisvasúti megállóhely		0
+1826	Komjáti	megállóhely		-1
+1827	Toponár	állomás		-1
+1828	Szabadbattyán	állomás		-1
+1829	Mezőhegyes GV	kisvasúti állomás		0
+1830	Eger-Tihamér	állomás		0
+1831	Méntelek	megállóhely		-1
+1832	Szekszárd	állomás		-1
+1833	Nádashalom	megállóhely		0
+1834	73. major	kisvasúti megállóhely		0
+1835	Salgótarján	megállóhely		-1
+1836	Balatonakarattya	megállóhely		-1
+1837	Sajóecseg	állomás		-1
+1838	Érhát	kisvasúti megállóhely		0
+1839	Széleshát	kisvasúti		0
+1840	Andráshida régi	állomás		0
+1841	Közép-Garadna	kisvasúti megállóhely		-1
+1842	Zamárdi felső	állomás		-1
+1843	Dorkó	kisvasúti megállóhely		0
+1844	Kiskunfélegyházi út	megállóhely		0
+1845	Magyarkeresztúr-Zsebeháza	feltételes megállóhely		-1
+1846	Pétfürdő	állomás		-1
+1847	Kálózbelmajor	kisvasúti megállóhely		0
+1848	Mikepércs	megállóhely		0
+1849	Badacsonylábdihegy	megállóhely		-1
+1850	Sáp	állomás		-1
+1851	Galgahévíz	megállóhely		-1
+1852	Lenti-Gyöngyvirág u.	kisvasúti		-1
+1853	Csanádpalota	állomás		-1
+1854	Tokod felső	megállóhely		0
+1855	Kóny	állomás		-1
+1856	Farkasmály-Borpincék	kisvasúti		-1
+1857	Korhánköz	megállóhely		0
+1858	Jászkisér felső	megállóhely		-1
+1859	Medgyesegyháza	állomás		-1
+1860	Csajta	állomás	A	0
+1861	Valla	állomás	A	-1
+1862	Siófok	állomás		-1
+1863	Jakushegy	kisvasúti megállóhely		0
+1864	Fényesi szőlők	megállóhely		0
+1865	Lujzamajor	kisvasúti		0
+1866	Sávoly-Tőzegtelep	megállóhely		0
+1867	Nagybátony	állomás		-1
+1868	Úrihegy	megállóhely		-1
+1869	Ludad	kisvasúti állomás		0
+1870	Gyöngyös EV	kisvasúti állomás		-1
+1871	Hatvan Rendező pu.	teherpályaudvar		0
+1872	Ötvös forgalmi kitérő	állomás		-1
+1873	Fácánkert	megállóhely		-1
+1874	Biri	állomás		0
+1875	Szigetvár	állomás		-1
+1876	Tiszapalkonya-Erőmű	teherpályaudvar		0
+1877	Pusztagyimót	megállóhely		0
+1878	Soltszentimre	megállóhely		-1
+1879	Újistálló puszta	kisvasúti		0
+1880	Szeged	állomás		-1
+1881	Lajtaújfalu	állomás	A	-1
+1882	Zalaszentgyörgy	megállóhely		-1
+1883	Drávapalkonya-Drávaszabolcs	megállóhely		0
+1884	Nagydobos	állomás		-1
+1885	Kötegyán	állomás		-1
+1886	Nagyrécse	állomás		-1
+1887	Szárliget	állomás		-1
+1888	Scheieri elágazás	kisvasúti		0
+1889	Lipótfa	állomás		0
+1890	Ásotthalom felső	kisvasúti megállóhely		0
+1891	Simontornya	állomás		-1
+1892	Nagyirtás-Szent Orbán Erdei Hotel	kisvasúti		-1
+1893	Szuhakálló-Múcsony	állomás		0
+1894	Budapest-Nyugati	állomás		-1
+1895	Látókép	megállóhely		0
+1896	Bakonybánk	állomás		0
+1897	Kákics	megállóhely		-1
+1898	Gádor	állomás	SRB	0
+1899	Mannersdorf a d Rabnitz	feltételes megállóhely	A	0
+1900	Mőcsény	megállóhely		-1
+1901	Debrecen-Tégláskert	megállóhely		0
+1902	Újtelep-kitérő	kisvasúti		0
+1903	Gyulamező	megállóhely		0
+1904	Andornaktálya	megállóhely		-1
+1905	Nagymágocs tanácsháza	kisvasúti állomás		0
+1906	Nyírlugos felső	kisvasúti megállóhely		0
+1907	Huszárokelőpuszta	kisvasúti		0
+1908	Tócóvölgy	állomás		-1
+1909	Szabadifürdő	megállóhely		-1
+1910	Olaszliszka-Tolcsva	állomás		-1
+1911	Szalajka-Fatelep	kisvasúti állomás		-1
+1912	Tiszatenyő	állomás		-1
+1913	Vértesboglár	állomás		0
+1914	Rákoshegy	állomás		-1
+1915	Csenger	állomás		-1
+1916	Hódmezővásárhely-Újváros	megállóhely		0
+1917	Csém	megállóhely	A	0
+1918	Mezőberény	állomás		-1
+1919	Vásárosmiske	állomás		0
+1920	Felsőtárkány Vadaskert	kisvasúti		0
+1921	Nyírbogát	állomás		-1
+1922	Szentmihálytelek GV	kisvasúti megállóhely		0
+1923	Nagykáta	állomás		-1
+1924	Sumony	állomás		-1
+1925	Szárazvám	állomás	A	-1
+1926	Piszke	megálló-rakodóhely		-1
+1927	Tamási	állomás		0
+1928	Szegedi halastó	megállóhely		0
+1929	Kapoly	állomás		-1
+1930	Simonyifalva piactér	kisvasúti	RO	0
+1931	Oros	állomás		-1
+1932	Sóly	megállóhely		0
+1933	Csémpuszta	megállóhely		0
+1934	Kéthalom	megállóhely		0
+1935	Ópályi	megállóhely		-1
+1936	Nagycsány	megállóhely		0
+1937	Ligettanya	megállóhely		-1
+1938	Őriszentpéter régi	állomás		0
+1939	Vásárosnamény külső	megállóhely		-1
+1940	Kapuvár	állomás		-1
+1941	Kaposfüred	állomás		-1
+1942	Biharnagybajom	állomás		-1
+1943	Agyagbánya	megállóhely		0
+1944	Gerecse	kisvasúti		0
+1945	Körösladány	állomás		-1
+1946	Békéscsaba	állomás		-1
+1947	Hagymás	megállóhely		0
+1948	Tiszakarád	kisvasúti állomás		0
+1949	Szirmabesenyő	megállóhely		-1
+1950	Városi kert	kisvasúti megállóhely		0
+1951	Andókút	kisvasúti megállóhely		-1
+1952	Rókabögyös	kisvasúti megállóhely		0
+1953	Almás	megállóhely		-1
+1954	Mélykúti tanyák	megállóhely		0
+1955	Eger-Felnémet	állomás		-1
+1956	Borsosberény	állomás		-1
+1957	Remerenció	megállóhely		0
+1958	Fülekipuszta	megállóhely		0
+1959	Szellőhát	megállóhely		-1
+1960	Kalonda	megállóhely	SK	0
+1961	Sátoraljaújhely dohánygyár	kisvasúti megállóhely		0
+1962	Kaposújlak	megállóhely		-1
+1963	67. majori delta	kisvasúti		0
+1964	Sóstelep	megállóhely		0
+1965	Jakabszállás	kisvasúti		0
+1966	Nyírcsaholy	megállóhely		-1
+1967	Rétszilas	állomás		-1
+1968	Mezőhegyes Újtelep	kisvasúti		0
+1969	Vasvörösvár	megállóhely	A	0
+1970	Vác	állomás		-1
+1971	Kétegyháza	állomás		-1
+1972	Becske alsó	megállóhely		-1
+1973	Hódmezővásárhely-Ipartelepek	megállóhely		0
+1974	Bicske alsó	megállóhely		-1
+1975	Orosháza-Üveggyár	megállóhely		-1
+1976	Hatvan	állomás		-1
+1977	Nak alsó	kisvasúti megállóhely		0
+1978	Ságvári	kisvasúti		0
+1979	Balatonalmádi	állomás		-1
+1980	Fony	megállóhely		-1
+1981	Mezőkeresztes-Mezőnyárád	állomás		-1
+1982	Abaújszina	állomás	SK	-1
+1983	Lábod	állomás		0
+1984	Sopronkertes	állomás	A	-1
+1985	Sikló GV	kisvasúti		0
+1986	Bodorfa	kisvasúti		0
+1987	Monori tanyák	megállóhely		0
+1988	Köröstetétlen	kisvasúti állomás		0
+1989	Algyő	állomás		-1
+1990	Galgagyörk	megállóhely		-1
+1991	Akasztó	kisvasúti		0
+1992	Bánréve	állomás		-1
+1993	Budafok	megállóhely		-1
+1994	Kisvác	megállóhely		-1
+1995	Bánhalma-Halastó	állomás		-1
+1996	Drávafok	állomás		0
+1997	Kürtös	állomás	RO	-1
+1998	Toppancshíd	kisvasúti		-1
+1999	Széphalom-Hosszúláz	kisvasúti megállóhely		0
+2000	Öregtanyák	megállóhely		0
+2001	Máriakápolna	megállóhely		0
+2002	Jakabszállás felső	kisvasúti		0
+2003	Ortástető	kisvasúti		-1
+2004	Szabadkai út	kisvasúti megállóhely		0
+2005	Pécs	állomás		-1
+2006	Knézits Károly út	megállóhely		0
+2007	Demecser	állomás		-1
+2008	Imremajor	kisvasúti		-1
+2009	Nádudvar alsó	megállóhely		0
+2010	Dózsa kitérő	kisvasúti állomás		0
+2011	Bicske	állomás		-1
+2012	Adács	megállóhely		-1
+2013	Várda	megállóhely		-1
+2014	Máriapócs	állomás		-1
+2015	Eötvös major	megállóhely		0
+2016	Székes	kisvasúti megállóhely		0
+2017	Füzesgyarmat-Téglagyár	megállóhely		0
+2018	Pátka	állomás		0
+2019	Jurenák-major	megállóhely		0
+2020	Szilfás	kisvasúti állomás		0
+2021	Buj	kisvasúti állomás		0
+2022	Ercsi	állomás		-1
+2023	Ferenctelep	megállóhely		0
+2024	Püspökmolnári	állomás		-1
+2025	Juliskamajor	kisvasúti megállóhely		0
+2026	Dunakeszi megálló	megállóhely		0
+2027	Mátészalka	állomás		-1
+2028	Bácsalmás	állomás		-1
+2029	Zemplénagárd	kisvasúti állomás		0
+2030	Nyírtelek	állomás		-1
+2031	Halipuszta	megállóhely		0
+2032	Kisújszállás	állomás		-1
+2033	Fótújfalu	megállóhely		-1
+2034	Mezőzombor	állomás		-1
+2035	Oszkó	állomás		0
+2036	Sándormajor	megállóhely		0
+2037	Adorjánpuszta	megállóhely		0
+2038	Pély kitérő	kisvasúti		0
+2039	Mezőkovácsháza felső	megállóhely		-1
+2040	Hejőkeresztúr	állomás		-1
+2041	Templom	kisvasúti		0
+2042	Fonyód	állomás		-1
+2043	Káptalanfüred	megállóhely		-1
+2044	Diósgyőr-Majláth	kisvasúti teherpályaudvar		-1
+2045	Ludányhalászi	megállóhely		-1
+2046	Lesenceistvánd	megállóhely		0
+2047	Orosháza főtér	kisvasúti		0
+2048	Dunakeszi	állomás		-1
+2049	Belatinc	állomás	SLO	-1
+2050	Gyüre	állomás		-1
+2051	Füzesabony	állomás		-1
+2052	Szászvár	megállóhely		-1
+2053	Tar	állomás		-1
+2054	Miskolc-Dorottya utca	kisvasúti		-1
+2055	Kőrózsa	kisvasúti megállóhely		-1
+2056	Petneháza	megállóhely		0
+2057	Drégelypalánk	állomás		-1
+2058	Rákospalota-Újpest	állomás		-1
+2059	Okány	állomás		-1
+2060	Alsóöreghegy	megállóhely		0
+2061	18. kitérő	kisvasúti		0
+2062	Rákosliget	megállóhely		-1
+2063	Vereb	megállóhely		0
+2064	Várkonyi szőlők	kisvasúti megállóhely		0
+2065	Orosháza alsó	megállóhely		0
+2066	Alsókara	kisvasúti megállóhely		0
+2067	Rákoscsaba	megállóhely		-1
+2068	Dobó iskola	kisvasúti megállóhely		0
+2069	Drégelyvár	megállóhely		-1
+2070	Szunyogvár	kisvasúti		0
+2071	Nyergesújfalu felső	megállóhely		-1
+2072	Orosháza felső	megállóhely		-1
+2073	Rábatamási	állomás		-1
+2074	Törösznek	kisvasúti állomás		-1
+2075	Pankasz	állomás		-1
+2076	Méhkerék	megállóhely		-1
+2077	Erdőtelek	állomás		-1
+2078	Hevesvezekény	megállóhely		-1
+2079	Mórágy-Alsónána	megállóhely		0
+2080	Alsóméntelek	megállóhely		-1
+2081	Kemenespuszta	megállóhely		0
+2082	Pannonhalma	állomás		-1
+2083	Köncsögpuszta	kisvasúti megállóhely		0
+2084	Dunaföldvár	állomás		0
+2085	Gyulai városerdő	megállóhely		-1
+2086	Szerencs	állomás		-1
+2087	Hamuház	kisvasúti		-1
+2088	Dunaalmás	megállóhely		-1
+2089	Fegyvernek vásártér	kisvasúti		0
+2090	Szendrei major	kisvasúti megállóhely		0
+2091	Tüskepuszta	kisvasúti megállóhely		0
+2092	Szajki erdő	megállóhely		0
+2093	Kutasi puszta	megállóhely		0
+2094	Telekgerendás	állomás		-1
+2095	Ruzsa	kisvasúti állomás		0
+2096	Vilonya-Királyszentistván	megállóhely		0
+2097	Szatmárnémeti gőzfűrész	állomás	RO	0
+2098	Galgaguta	állomás		-1
+2099	Gyulavári	kisvasúti		0
+2100	Tokod	állomás		-1
+2101	Bugacpuszta	kisvasúti megállóhely		0
+2102	Bize	megállóhely		0
+2103	Felsőbogátpuszta	megállóhely		0
+2104	Debrecen-Kertváros	megállóhely		0
+2105	Veszprém régi	állomás		0
+2106	Kisnémedi	megállóhely		0
+2107	Cegléd-Béke tér	kisvasúti megállóhely		0
+2108	Mártabánya	kisvasúti		-1
+2109	Gyál	állomás		-1
+2110	Soltvadkerti út	kisvasúti megállóhely		0
+2111	Őrihódos	állomás	SO	-1
+2112	Bánfa	kisvasúti		0
+2113	Szilvásvárad-Szalajkavölgy	megállóhely		-1
+2114	Kossuth tér GV	kisvasúti		0
+2115	Alsógöd	megállóhely		-1
+2116	Pikó tanya	kisvasúti		0
+2117	Sülysáp	állomás		-1
+2118	Badacsonytomaj	állomás		-1
+2119	Somodi	megállóhely	SK	-1
+2120	Ráckeresztúr alsó	kisvasúti		0
+2121	Horgos	állomás	SRB	-1
+2122	Beretvástelep	megállóhely		0
+2123	Biatorbágy régi	állomás		0
+2124	Nak	kisvasúti állomás		0
+2125	Tornyosnémeti	állomás		0
+2126	Csorvás alsó	megállóhely		-1
+2127	Elzaszállás	megállóhely	SRB	0
+2128	Orosházi tanyák	megállóhely		-1
+2129	Haraszt GV	kisvasúti megállóhely		0
+2130	Kisfái	megállóhely		-1
+2131	Külsővat	állomás		-1
+2132	Pilisvörösvár	állomás		-1
+2133	Seregélyes-Szőlőhegy	megállóhely		-1
+2134	Miskolc-Tiszai	állomás		-1
+2135	Gasthaus Pia	megállóhely	A	0
+2136	Kántorhalom	megállóhely		0
+2137	Lapistó	megállóhely		0
+2138	Kondó	kisvasúti állomás		0
+2139	Őrhalom	megállóhely		-1
+2140	Magyarszerdahely	megállóhely		0
+2141	Kapitányság	megállóhely		-1
+2142	Hegykő	megállóhely		0
+2143	Jobbágyi	megállóhely		-1
+2144	Békési tanyák	kisvasúti megállóhely		0
+2145	Máriaudvar	megállóhely		-1
+2146	Felsőcsemő	megállóhely		0
+2147	Hódmezővásárhely	állomás		-1
+2148	Dabas	állomás		-1
+2149	Osli elágazás	kisvasúti állomás		0
+2150	Lehóczki kitérő	kisvasúti		0
+2151	Rátka	megállóhely		-1
+2152	Mecsekalja-Cserkút	állomás		-1
+2153	Szekszárd-Palánk	megállóhely		-1
+2154	Perdócmajor	megállóhely		0
+2155	Mezőpeterd	állomás		-1
+2156	Bakonyszombathely	megállóhely		0
+2157	Borsihalom	megállóhely		-1
+2158	Bakonyszentlászló	állomás		-1
+2159	Kulcs	megállóhely		-1
+2160	Tokorcs forgalmi kitérő	szolgálati hely		0
+2161	Malomkert	kisvasúti megállóhely		-1
+2162	Dömefölde	kisvasúti állomás		-1
+2163	Palotabozsok	állomás		0
+2164	Kissor	kisvasúti állomás		0
+2165	Tuzsér	állomás		-1
+2166	Nyárilegelő	kisvasúti megálló-rakodóhely		-1
+2167	Börzsönyliget	kisvasúti megállóhely		-1
+2168	Sarkadkeresztúr	megállóhely		-1
+2169	Abonyi út	megállóhely		-1
+2170	Angyalföld	állomás		-1
+2171	Zarany puszta	kisvasúti		0
+2172	Törökfái	kisvasúti állomás		0
+2173	Kemence	kisvasúti állomás		-1
+2174	Mecsekjánosi	állomás		-1
+2175	Bors	megállóhely	RO	0
+2176	Őssipuszta	állomás	RO	-1
+2177	Vinye	megállóhely		-1
+2178	Palotai úti iskola	kisvasúti		0
+2179	Táncsicstelep	megállóhely		0
+2180	Rajka	állomás		-1
+2181	Alsóerdő	megállóhely		0
+2182	Olaszfalu	megállóhely		0
+2183	Nyíregyháza	állomás		-1
+2184	Dombegyház felső	kisvasúti		0
+2185	Tárkány-Csép	megállóhely		0
+2186	Haris	megállóhely		-1
+2187	Józsefmajor	kisvasúti megállóhely		0
+2188	Somogyvár	állomás		-1
+2189	Cseres-táró	kisvasúti megállóhely		0
+2190	Pusztaecseg	állomás		0
+2191	Dad	megállóhely		0
+2192	Hunyadi akol	kisvasúti		0
+2193	Csabacsűd felső	megállóhely		-1
+2194	Mikosfalva	megállóhely	SK	0
+2195	Baja-Dunafürdő	megállóhely		-1
+2196	Sáregres	megállóhely		-1
+2197	Nagykapornak	állomás		-1
+2198	Magyarkút-Verőce	megállóhely		-1
+2199	Ördögárka	kisvasúti		0
+2200	Nagyvisnyó-Dédes	megállóhely		0
+2201	Kiszombor	állomás		-1
+2202	Bélmegyeri tanyák	kisvasúti megállóhely		0
+2203	Vép	állomás		-1
+2204	Kuriapuszta	kisvasúti		0
+2205	Ajka-Gyártelep	megállóhely		-1
+2206	Apátfalva	állomás		-1
+2207	Tatabánya	állomás		-1
+2208	Zemanek	kisvasúti megállóhely		-1
+2209	Sásd	állomás		-1
+2210	Teklafalu	megállóhely		0
+2211	Nagyér	megállóhely		-1
+2212	Bagod	megállóhely		-1
+2213	Mikosdpuszta	állomás		0
+2214	Ráckeresztúr mérlegház	kisvasúti		0
+2215	Gór	megállóhely		0
+2216	Balatonkenese	állomás		-1
+2217	Nagykereki	állomás		-1
+2218	Nágel major	kisvasúti megállóhely		0
+2219	Szob kisvasút	kisvasúti		-1
+2220	Felsőerzsébetpuszta	megállóhely		0
+2221	Újtelep (Iregszemcse)	kisvasúti		0
+2222	Magyarcsanád	megállóhely		-1
+2223	Nagymaros	állomás		-1
+2224	Alagimajor	megállóhely		-1
+2225	Süttő felső	megállóhely		-1
+2226	Zalabér	megállóhely		0
+2227	Zajda-Doboskert	megállóhely		0
+2228	Kerta	állomás		-1
+2229	Felsőrajk	állomás		-1
+2230	Nyírkarász	állomás		0
+2231	Bábolna	kisvasúti megállóhely		0
+2232	Ravazd	megállóhely		0
+2233	Rózsás	kisvasúti megállóhely		0
+2234	Tedej	megállóhely		-1
+2235	Kecel-Szilos	megállóhely		0
+2236	Jánoska	kisvasúti		-1
+2237	Nenadics	megállóhely	SRB	0
+2238	Balatonalmádi-Remetevölgy	állomás		0
+2239	Lajosmizse alsó	megállóhely		-1
+2240	Vasas-Hird	megállóhely		0
+2241	Lovasberény	állomás		0
+2242	Kapuvár Belsőmajor	kisvasúti állomás		0
+2243	Makó-Újváros	állomás		0
+2244	Fazola-kohó	kisvasúti megállóhely		-1
+2245	Szeged Rudolf tér	kisvasúti állomás		0
+2246	Szabadságtelep GV	kisvasúti		0
+2247	Máriahullámtelep	megállóhely		-1
+2248	Hanság-Nagyerdő	feltételes megállóhely		0
+2249	Hajdúvölgy	megállóhely		0
+2250	Szedres	megállóhely		0
+2251	Cserdi-Helesfa	megállóhely		-1
+2252	Zákány iskola	kisvasúti állomás		0
+2253	Haláperdő	kisvasúti		-1
+2254	Barantóhegy	állomás	RO	0
+2255	Tatárkő	megállóhely		0
+2256	Déllő	kisvasúti megállóhely		0
+2257	Pécsudvard régi	megállóhely		-1
+2258	Fehérgyarmat	állomás		-1
+2259	Tarnaszentmiklós község	kisvasúti		0
+2260	Újkér	megállóhely		-1
+2261	Hajdúsámson	állomás		-1
+2262	Mátyásdomb	megállóhely	SLO	-1
+2263	Jajhalom	kisvasúti		0
+2264	Tápiógyörgye	állomás		-1
+2265	Csorna	állomás		-1
+2266	48. kitérő	kisvasúti		0
+2267	Hendrik major	kisvasúti megállóhely		0
+2268	Harkakötöny	állomás		-1
+2269	Felsőkörtvélyes	megállóhely		0
+2270	Portelek	állomás		-1
+2271	Hont	megállóhely		0
+2272	Rigács	megállóhely		-1
+2273	Vicziántelep	megállóhely		-1
+2274	Köröshíd	kisvasúti		0
+2275	Pásztó	állomás		-1
+2276	Kakasszék	megállóhely		0
+2277	Gyóta-Busvár	kisvasúti		-1
+2278	Debrecen-Csapókert	megállóhely		-1
+2279	Óvári	állomás	RO	0
+2280	Pápateszér	állomás		0
+2281	Hosszúpályi	állomás		0
+2282	Dózsalaktanya	kisvasúti megállóhely		0
+2283	Gávavencsellő	kisvasúti		0
+2284	Martfű	állomás		-1
+2285	Inárcs-Kakucs	állomás		-1
+2286	Örményes kétárok	kisvasúti		0
+2287	Nagytanya	kisvasúti		0
+2288	Gyulaháza	megállóhely		0
+2289	Nemeskocs	megállóhely		-1
+2290	Bácsalmási vöröserdő	megállóhely		0
+2291	Egyek	állomás		-1
+2292	Öskü	megállóhely		-1
+2293	Cigándi tanyák	kisvasúti megállóhely		0
+2294	Nagykarácsony régi	rakodóhely		0
+2295	Csongrád alsó	megállóhely		-1
+2296	Szászberek	megállóhely		-1
+2297	Kengyel GV	kisvasúti megállóhely		0
+2298	Komárom	állomás		-1
+2299	Rakamaz	állomás		-1
+2300	Sövénykút	megállóhely		0
+2301	Kerekdomb	megállóhely		-1
+2302	Soponya	kisvasúti állomás		0
+2303	Szárföld	megállóhely		-1
+2304	Onga	állomás		-1
+2305	Kistőke	megállóhely		-1
+2306	Selyp	állomás		-1
+2307	Sorompóőrhely (Nagycenk)	kisvasúti szolgálati hely		-1
+2308	Gara	állomás		0
+2309	52. majori elágazás	kisvasúti		0
+2310	Ivánszőlős	kisvasúti állomás		0
+2311	Hagymás GV	kisvasúti		0
+2312	Sarród	állomás		0
+2313	Inám	kisvasúti állomás		0
+2314	Fülöpszállás	állomás		-1
+2315	Toboliu	megállóhely	RO	-1
+2316	Csurgó	állomás		-1
+2317	Dinnyés	megállóhely		-1
+2318	Ócsárd	állomás		0
+2319	Ócsai szőlők	megállóhely		0
+2320	Pácsony	állomás		-1
+2321	Véménd	állomás		0
+2322	Balatonföldvár	megállóhely		-1
+2323	Uzsabánya alsó	megállóhely		-1
+2324	Szeged-Feketehalom	sosem létezett megállóhely		0
+2325	Mátramindszent	állomás		0
+2326	Felsővadács	kisvasúti		0
+2327	Kerekes- és Csete-tanyák	kisvasúti megállóhely		0
+2328	Széksóstó	kisvasúti állomás		0
+2329	Debrecen-Újföld	megállóhely		0
+2330	Szajol	állomás		-1
+2331	Bükkösd	állomás		-1
+2332	Soponya felső	kisvasúti állomás		0
+2333	Iváncsa	állomás		-1
+2334	Gávavencsellő alsó	kisvasúti		0
+2335	Egyed-Rábacsanak	állomás		-1
+2336	Fűperegpuszta	megállóhely		0
+2337	Vésztő piactér	kisvasúti megállóhely		0
+2338	Nagysimonyi	megállóhely		-1
+2339	Szabadságtér	kisvasúti		0
+2340	Nyírgelse	állomás		-1
+2341	Gárdony	állomás		-1
+2342	Budatétény	megállóhely		-1
+2343	Diriczi tanya	kisvasúti		0
+2344	Csokonyavisonta	állomás		0
+2345	Bedőszeg	kisvasúti	RO	0
+2346	Tác	kisvasúti állomás		0
+2347	Hajdújárás	állomás	SRB	-1
+2348	Szendrő	állomás		-1
+2349	Sáta	megállóhely		0
+2350	Nyergesújfalu	állomás		-1
+2351	Kikerics mh.	kisvasúti megállóhely		-1
+2352	84. kitérő	kisvasúti		0
+2353	Örvényes	megállóhely		-1
+2354	Jalsoviczky-tanya	kisvasúti megállóhely		0
+2355	Dónát	megállóhely		-1
+2356	Baracska	megállóhely		-1
+2357	Szarkás	megállóhely		0
+2358	Zamárdi	megállóhely		-1
+2359	Országút	megállóhely		0
+2360	Cegléd KCK	kisvasúti állomás		0
+2361	Szegvár	állomás		-1
+2362	Bélavár	megállóhely		-1
+2363	Szőllőspuszta	kisvasúti állomás		0
+2364	Dunai Finomító	állomás		-1
+2365	Tamásipuszta	megállóhely		-1
+2366	Ikladi kitérő	kisvasúti		0
+2367	Nógrádszakál	állomás		-1
+2368	Folyás	megállóhely		0
+2369	Mezőkövesd felső	megállóhely		-1
+2370	Bajai szőlők	megállóhely		0
+2371	Vadna	megállóhely		-1
+2372	Nagydorog	állomás		-1
+2373	Sarkadi Cukorgyár	megállóhely		-1
+2374	Tiszavárkony	állomás		-1
+2375	Szava	megállóhely		0
+2376	Alsóbélatelep	megállóhely		-1
+2377	Vetés	állomás	RO	0
+2378	Hermina u.	kisvasúti		0
+2379	Kanizsavár	állomás		0
+2380	Sámsoni út	kisvasúti megállóhely		-1
+2381	Rábapordány	állomás		-1
+2382	Tengelic	megállóhely		-1
+2383	Almásfüzitő felső	állomás		-1
+2384	Kisbárapáti	állomás		-1
+2385	Neszehíd	kisvasúti megállóhely		0
+2386	Baja-Dunapart	teherpályaudvar		0
+2387	81. majori elágazás	kisvasúti		0
+2388	Kótaji szeszgyár	megállóhely		0
+2389	Szépjuhászné	kisvasúti állomás		-1
+2390	Koportos	megállóhely		0
+2391	Bélmegyer	kisvasúti állomás		0
+2392	Felsőpakony	megállóhely		-1
+2393	Hetényegyháza alsó	megállóhely		0
+2394	Gerje	állomás		0
+2395	Abaújszántói fürdő	megállóhely		-1
+2396	Kémes	állomás		0
+2397	Bókaháza	megállóhely		0
+2398	Diósgyőr-Városközpont	kisvasúti		-1
+2399	Dunaújváros	állomás		-1
+2400	Komló szálló	kisvasúti		0
+2401	Püspökladány-Vásártér	megállóhely		-1
+2402	Bágyogszovát	megállóhely		0
+2403	Kisbózsva	kisvasúti megállóhely		0
+2404	Vasútmúzeum	megállóhely		-1
+2405	Tarjáni út	megállóhely		0
+2406	Inám alsó	kisvasúti megállóhely		0
+2407	Bácsalmási gyümölcsös	megállóhely		0
+2408	Kápolnadűlő	kisvasúti		0
+2409	Nyíregyháza NyK	kisvasúti megállóhely		0
+2410	Attala GV	kisvasúti megállóhely		0
+2411	Klemimajor	kisvasúti állomás		0
+2412	Alsónyék	megállóhely		-1
+2413	Göd	állomás		-1
+2414	Vízjárás	kisvasúti megállóhely		0
+2415	Kunszállás	megállóhely		-1
+2416	Újvilág	kisvasúti		0
+2417	Zalapataka	megállóhely		0
+2418	Fövenypuszta	megállóhely		0
+2419	Váralja	megállóhely		-1
+2420	Lajosmizse	állomás		-1
+2421	Zádor	megállóhely		0
+2422	Szakmár	megállóhely		0
+2423	Kőkapu	kisvasúti		-1
+2424	Tiszakarád megálló	kisvasúti megállóhely		0
+2425	Kishagymás	megállóhely		0
+2426	Erdőszél	megállóhely		-1
+2427	Csányoszró	állomás		0
+2428	Péterfa	kisvasúti		0
+2429	Beled	állomás		-1
+2430	Ujkitérő	kisvasúti		0
+2431	Csepreg	állomás		0
+2432	Csorba alsó	kisvasúti		0
+2433	Tiszaalpár	állomás		-1
+2434	Tiszacsermely	kisvasúti állomás		0
+2435	Olad	állomás		0
+2436	Karakószörcsök	megállóhely		-1
+2437	Monostorpályi	állomás		0
+2438	Hosszúhetény	megállóhely		0
+2439	Biatorbágy	állomás		-1
+2440	Decs	állomás		-1
+2441	Poroszló	állomás		-1
+2442	Csokvaomány	megállóhely		0
+2443	Vasalja	megállóhely		0
+2444	Abaújszántó	állomás		-1
+2445	Gyömrő	állomás		-1
+2446	Zalaszentiván-Kisfaludpuszta	állomás		0
+2447	Ópécskai tanyák	megállóhely	RO	0
+2448	Balatonfüred	állomás		-1
+2449	Mezőcsát	állomás		0
+2450	Kővágóér	megállóhely		0
+2451	Péterhegy-Tótkeresztúr	megállóhely	SLO	-1
+2452	Tótkomlósi tanyák	kisvasúti állomás		0
+2453	11. majori elágazás	kisvasúti		0
+2454	Görögszállás	állomás		-1
+2455	Sajónémeti	megállóhely		0
+2456	Mezőkovácsháza	állomás		-1
+2457	Vizi	kisvasúti állomás		0
+2458	Mezőhegyes	állomás		-1
+2459	Szeged-átrakó	kisvasúti állomás		0
+2460	Bede megálló	kisvasúti megállóhely		0
+2461	Igrici	megállóhely		0
+2462	Zalaszentgrót	állomás		0
+2463	Ólegyen	állomás		0
+2464	Pécsvárad	állomás		0
+2465	Bácsalmási tanyák	megállóhely		0
+2466	Perbenyik átrakó	kisvasúti állomás	SK	0
+2467	Tiszakarád határszél	kisvasúti megállóhely		0
+2468	Tompapuszta	megállóhely		-1
+2469	Nyírbogdány	állomás		-1
+2470	Pusztaszabolcs	állomás		-1
+2471	Pusztaszentmihályfa	megállóhely		0
+2472	Oroszvár	állomás	SK	-1
+2473	Szombathely-Szőlős	megállóhely		-1
+2474	Mátyásdomb GV	kisvasúti állomás		0
+2475	Sátoraljaújhely Kossuth tér	kisvasúti állomás		0
+2476	Őcsény	megállóhely		-1
+2477	Nyírmártonfalva	kisvasúti megállóhely		0
+2478	Balatonlelle felső	állomás		-1
+2479	Kunágota rakodó	kisvasúti megállóhely		0
+2480	Kelebiai tanyák	megállóhely	SRB	0
+2481	Szentlászló	állomás		0
+2482	Sáferkút	megállóhely		-1
+2483	Ebszőnybánya	állomás		0
+2484	Pécs-Külváros	állomás		-1
+2485	Pusztaföldvári elágazás	kisvasúti állomás		0
+2486	Nádiga rakodó	rakodóhely		0
+2487	Nyírmada	állomás		-1
+2488	Városi park	megállóhely		-1
+2489	Kistokaj	megállóhely		0
+2490	Sárközi tanyák	kisvasúti megállóhely		0
+2491	Sárszentágota	megállóhely		0
+2492	Hercegszőllős	megállóhely	HR	0
+2493	Ibrány	kisvasúti		0
+2494	Székesfehérvár	állomás		-1
+2495	Mezőmegyer	megállóhely		0
+2496	Baranyaszentistván	megállóhely	HR	0
+2497	Vejke	megállóhely		0
+2498	Szeged-Rókus	állomás		-1
+2499	Morgó	kisvasúti állomás		-1
+2500	Galbács kert	kisvasúti		0
+2501	Nyíri	kisvasúti megállóhely		0
+2502	Kaposhomok	megállóhely		-1
+2503	Őriszentpéter	állomás		-1
+2504	Edelény	állomás		-1
+2505	Kaposgyarmat-Hajmás	megállóhely		0
+2506	Ódinnyés	állomás		0
+2507	Augusztamajor	kisvasúti	RO	0
+2508	Nagykálló	állomás		-1
+2509	Balatonszentmihály	megállóhely		0
+2510	Szikáncs	megállóhely		0
+2511	28. major	kisvasúti		0
+2512	Hercegszántó	állomás		0
+2513	Répcevis	állomás		0
+2514	Emmamajor	megállóhely		0
+2515	Kaszaperi iskola	kisvasúti megállóhely		0
+2516	Fekete	megállóhely		0
+2517	Szentlőrinc	állomás		-1
+2518	Tiszabő szigori	kisvasúti		0
+2519	Középrigóc	állomás		-1
+2520	Kolontár	megállóhely		0
+2521	Székudvar	megállóhely	RO	0
+2522	Sántos	állomás		0
+2523	Domaszék	kisvasúti állomás		0
+2524	47. és 57. elágazás	kisvasúti		0
+2525	Nagyatád	állomás		-1
+2526	Várpalota	állomás		-1
+2527	Csajág régi	állomás		0
+2528	Szentgotthárd	állomás		-1
+2529	Szendrő felső	megállóhely		-1
+2530	Lőkösháza	állomás		-1
+2531	Tiszabercel-Vásártér	kisvasúti		0
+2532	Zalabér-Batyk	állomás		-1
+2533	Paszab	kisvasúti		0
+2534	Győrszemere	állomás		0
+2535	Nemesvita	megállóhely		0
+2536	Battonya	állomás		-1
+2537	Cserepespuszta	kisvasúti állomás		0
+2538	Póhamara	megállóhely		0
+2539	Ölbő-Alsószeleste	állomás		-1
+2540	Nagyhalász	kisvasúti állomás		0
+2541	Kendergyár	kisvasúti		0
+2542	Sámod	megállóhely		0
+2543	Lókuca	kisvasúti megállóhely		0
+2544	Maglódi Nyaraló	megállóhely		-1
+2545	Kónyaszék	megállóhely		-1
+2546	Kőérberek	megállóhely		0
+2547	Aszaló	megállóhely		-1
+2548	Pacsmag	megállóhely		0
+2549	Dunakömlőd	megállóhely		0
+2550	Izsófalva	megállóhely		0
+2551	Petárda	megállóhely	HR	0
+2552	Nyírmártonfalva alsó	kisvasúti megállóhely		0
+2553	Nyékes	kisvasúti megállóhely		0
+2554	Palicsfürdő	állomás	SRB	-1
+2555	Zalaszentlászló	állomás		0
+2556	Márialaka	megállóhely		0
+2557	Répcesarud	megállóhely	A	0
+2558	Kisteleki szőlők	megállóhely		-1
+2559	Nyírbátor	állomás		-1
+2560	Klárafalva	megállóhely		0
+2561	Bélapátfalva	állomás		-1
+2562	Gyékényes-Kavicsbánya	teherpályaudvar		0
+2563	Görbeháza	megállóhely		0
+2564	Pálmatér	megállóhely		0
+2565	Bajai műút	kisvasúti megállóhely		0
+2566	Szokolya-Mányoki	kisvasúti megállóhely		-1
+2567	Ipolyszög	megállóhely		-1
+2568	Petőfiszállás	állomás		-1
+2569	Mezőhegyesi elágazás	kisvasúti állomás		0
+2570	Köncsög	megállóhely		0
+2571	Táplánszentkereszt alsó	megállóhely		0
+2572	Gyülevész	megállóhely		0
+2573	Felsőgalla	állomás		0
+2574	Sióvölgy	megállóhely		-1
+2575	50. sz. istálló	kisvasúti		0
+2576	Északi kitérő	teherpályaudvar		0
+2577	Nagytanya AGV	kisvasúti		0
+2578	Terecsenypuszta	megállóhely		0
+2579	Pomogy	állomás	A	-1
+2580	Kishuta	kisvasúti megállóhely		-1
+2581	Újdombrád	kisvasúti megállóhely		0
+2582	Szőllősi tanyák	kisvasúti megállóhely		0
+2583	Nagytétény-Diósd	állomás		-1
+2584	Csobád	megállóhely		-1
+2585	Kaskantyúi tanyák	kisvasúti		0
+2586	Lenti ÁEV	kisvasúti		-1
+2587	Szentes	állomás		-1
+2588	Salgótarján külső	állomás		-1
+2589	Törökfái-Felső	kisvasúti		0
+2590	Püspökhatvan	megállóhely		-1
+2591	Zrínyitelep	megállóhely		-1
+2592	Feked	megállóhely		0
+2593	Tiszaalpár alsó	megállóhely		-1
+2594	Mórágy	megállóhely		-1
+2595	Csibrák	megállóhely		-1
+2596	Kányavár	kisvasúti		-1
+2597	Fűzfőfürdő	megállóhely		0
+2598	Kismargita	megállóhely		0
+2599	Tiszaug	állomás		-1
+2600	Vésztő	állomás		-1
+2601	Szatymaz	állomás		-1
+2602	Kisiváni tároló	kisvasúti		0
+2603	Mesztegnyő EV	kisvasúti állomás		-1
+2604	Zurány	állomás	A	-1
+2605	Bánkút	megállóhely		-1
+2606	Pocsaj-Esztár	állomás		-1
+2607	Almár	megállóhely		-1
+2608	Kál-Kápolna	állomás		-1
+2609	Maklár	állomás		-1
+2610	Kisvárdai szőlők	megállóhely		0
+2611	Villánykövesd	megállóhely		-1
+2612	Danckapart	rakodóhely		0
+2613	Pirtói szőlők	megállóhely		-1
+2614	Csősz	kisvasúti állomás		0
+2615	Nagyrákos régi	megálló-rakodóhely		0
+2616	Nagyszentmihály	állomás	A	0
+2617	Pusztapó	megállóhely		-1
+2618	Pusztamonostor	állomás		-1
+2619	Halasi tanyák	megállóhely		0
+2620	Arany János u.	kisvasúti		0
+2621	Debrecen-Fatelep	kisvasúti		-1
+2622	67. major	kisvasúti		0
+2623	Drávatamási	megállóhely		0
+2624	Berettyóújfalu	állomás		-1
+2625	Kutitanya	kisvasúti		0
+2626	Csurgaszi csárda	megállóhely		0
+2627	Andornaktálya alsó	megállóhely		0
+2628	Cserhát	állomás		0
+2629	Felsőzsolca	állomás		-1
+2630	Vöröscsillag tsz. elágazás	kisvasúti		0
+2631	Feketebézseny	megállóhely		0
+2632	Barcs	állomás		-1
+2633	Süttő	állomás		-1
+2634	Kiskunlacháza	állomás		-1
+2635	Balatonboglár	állomás		-1
+2636	Nyírábrány	állomás		-1
+2637	Zalaegerszeg-Ola	megállóhely		-1
+2638	Csillebérc	kisvasúti állomás		-1
+2639	Vajta	állomás		-1
+2640	Ereklyés	megálló-rakodóhely		0
+2641	Böhönye	állomás		0
+2642	Gősfa	sosem létezett megállóhely		-1
+2643	Vízvár	állomás		-1
+2644	Penyige	állomás		-1
+2645	Szőkéd	megállóhely		-1
+2646	Ászár-Keményítőgyár	megállóhely		0
+2647	Pakod	megállóhely		-1
+2648	Szophomok	kisvasúti megállóhely		0
+2649	Tiszaug-Tiszahídfő	megállóhely		-1
+2650	Dunakeszi alsó	megállóhely		-1
+2651	Rinyaszentkirályi úti kitérő	kisvasúti megállóhely		0
+2652	Szokolya	állomás		-1
+2653	Belsőnyír	megállóhely		0
+2654	Garamkövesd	állomás	SK	0
+2655	Cukorgyár	kisvasúti megállóhely		0
+2656	Szárazrét	megállóhely		0
+2657	Szalkszentmárton	állomás		0
+2658	Bódvaszilas	állomás		-1
+2659	Csarnapuszta	kisvasúti megállóhely		-1
+2660	Vizslak	kisvasúti		0
+2661	Gemenci delta	kisvasúti		-1
+2662	Táplánszentkereszt felső	megállóhely		0
+2663	Csikóstőttős	megállóhely		-1
+2664	Ócsai szőlők régi	megállóhely		0
+2665	Felsőbikol	kisvasúti állomás		0
+2666	Keszőhidegkút-Gyönk	állomás		-1
+2667	Nemeskér-Egyházasfalu	megállóhely		0
+2668	Komádi	állomás		0
+2669	Belenfűz	kisvasúti		0
+2670	Vily-Vitány	kisvasúti megállóhely		0
+2671	Józsefmajor GV	kisvasúti		0
+2672	Városlőd-Kislőd	állomás		-1
+2673	Őrhegy forgalmi kitérő	szolgálati hely		0
+2674	Pécs-Vasas	állomás		0
+2675	18. és 35. elágazás	kisvasúti		0
+2676	Solymár	állomás		-1
+2677	Debrecen	állomás		-1
+2678	Ötfa	megállóhely		0
+2679	Vilmamajor	kisvasúti állomás		0
+2680	Medgyes GV	kisvasúti		0
+2681	Istvánfürdő	megállóhely		0
+2682	Erdőbénye	megállóhely		-1
+2683	Győrvár	megállóhely		-1
+2684	Márok	megállóhely		-1
+2685	Szakolykert	megállóhely		0
+2686	Hévízgyörk	megállóhely		-1
+2687	Malomtelelő	kisvasúti		-1
+2688	Ceglédi szállások	megállóhely		-1
+2689	Tát régi	megállóhely		0
+2690	Nagypeterd	megállóhely		-1
+2691	Porrogszentkirály	megállóhely		-1
+2692	Eperjeske alsó	megállóhely		-1
+2693	Lajosháza	kisvasúti állomás		-1
+2694	Kőbánya felső	állomás		-1
+2695	Szenta	állomás		-1
+2696	Börgönd	állomás		-1
+2697	Tóth tanya	kisvasúti		0
+2698	Szarvas	állomás		-1
+2699	Újmezőhegyes	megállóhely		0
+2700	Kunszentmárton	állomás		-1
+2701	Badacsonytördemic-Szigliget	állomás		-1
+2702	Pestszentimre felső	megállóhely		-1
+2703	Zsédeny-Rózsamajor	állomás		0
+2704	Bábonymegyer	állomás		-1
+2705	Kaposfő	megállóhely		-1
+2706	Turgony GV	kisvasúti		0
+2707	Nagybaracska	állomás		0
+2708	Hajdúböszörmény	állomás		-1
+2709	Kilimán	megállóhely		0
+2710	Fót	állomás		-1
+2711	Szabadszállás	állomás		-1
+2712	Kismaros	megállóhely		-1
+2713	Strém	állomás	A	0
+2714	Pesterzsébet	megállóhely		-1
+2715	Tisztavíz	megállóhely		0
+2716	Welgersdorf	megállóhely	A	0
+2717	Bruck-Királyhida	állomás	A	-1
+2718	Ebenfurth	állomás	A	-1
+2719	Nezsider	állomás	A	-1
+2720	Oroszlány	állomás		-1
+2721	Gyanafalva	állomás	A	-1
+2722	Murahely	állomás	SLO	0
+2723	Paks	állomás		0
+2724	Komló	állomás		-1
+2725	Párkánynána	állomás	SK	-1
+2726	Romhány	állomás		0
+2727	Losonc	állomás	SK	-1
+2728	Sátoraljaújhely	állomás		-1
+2729	Fülek	állomás	SK	-1
+2730	Mátranovák-Homokterenye	állomás		0
+2731	Gyöngyös	állomás		-1
+2732	Kassa	állomás	SK	-1
+2733	Ózd	állomás		-1
+2734	Szepsi	állomás	SK	-1
+2735	Rudabánya	állomás		0
+2736	Csap	állomás	UA	-1
+2737	Nagyvárad	állomás	RO	-1
+2738	Érmihályfalva	állomás	RO	-1
+2739	Létavértes	állomás		0
+2740	Szatmárnémeti	állomás	RO	-1
+2741	Nagykároly	állomás	RO	-1
+2742	Arad	állomás	RO	-1
+2743	Újszeged	állomás		-1
+2744	Ópécska	állomás	RO	-1
+2745	Kondoros	állomás		0
+2746	Szabadka	állomás	SRB	-1
+2747	Dunapataj	állomás		0
+2748	Kalocsa	állomás		0
+2749	Hűvösvölgy	kisvasúti állomás		-1
+2750	Kistolmács	kisvasúti állomás		-1
+2751	Kaszó	kisvasúti állomás		-1
+2752	Sasrét-Fűrésztelep	kisvasúti állomás		-1
+2753	Lukafa	kisvasúti		-1
+2754	Bárányfok	kisvasúti		-1
+2755	Felsőkak	kisvasúti állomás		-1
+2756	Pollai erdő	kisvasúti		0
+2757	Nagyhideghegy	kisvasúti állomás		0
+2758	Csóványos	kisvasúti állomás		0
+2759	Nagybörzsöny	kisvasúti		-1
+2760	Halyagos	kisvasúti		-1
+2761	Stimeczház	kisvasúti állomás		-1
+2762	Istállóskő-Ősemberbarlang feljáró	kisvasúti állomás		0
+2763	Blokkház	kisvasúti		0
+2764	Mátrafüred	kisvasúti		-1
+2765	Garadna	kisvasúti állomás		-1
+2766	Farkasgödör-Örvénykő	állomás		0
+2767	Rostalló	kisvasúti állomás		-1
+2768	Nyírbéltek	kisvasúti állomás		0
+2769	Csisztafürdő	kisvasúti		-1
+2770	Somogyszentpál	kisvasúti állomás		-1
+2771	Táska	kisvasúti állomás		-1
+2772	Kiskőrös KK	kisvasúti állomás		0
+2773	Kiskunmajsa KK	kisvasúti állomás		0
+2774	Alsóvadács	kisvasúti állomás		0
+2775	Pusztamarót	kisvasúti állomás		0
+2776	Móricháza	kisvasúti állomás		0
+2777	Kastély (Nagycenk)	kisvasúti állomás		0
+2778	Tiszajenő-Vezseny KCK	kisvasúti állomás		0
+2779	Vörösegyháza GV	kisvasúti állomás		0
+2780	Pusztamérges	kisvasúti állomás		0
+2781	Halastelki iskola	kisvasúti megállóhely		0
+2782	Balsa-Tiszapart	kisvasúti		0
+2783	Dombrád	kisvasúti állomás		0
+2784	Vizesfás	kisvasúti állomás		0
+2785	Barátréti romok	kisvasúti állomás		0
+2786	Békéssámson	kisvasúti állomás		0
+2787	Pusztaföldvár	kisvasúti állomás		0
+2788	Kenézlői Tisza-part	kisvasúti állomás		0
+2789	Füzérkomlós	kisvasúti állomás		0
+2790	Királyhelmec	kisvasúti állomás	SK	0
+2791	Barosakna	kisvasúti állomás		0
+2792	Lyukóbánya	kisvasúti állomás		0
+2793	Osli	kisvasúti állomás		0
+2794	Tőzeggyár	kisvasúti állomás		0
+2795	Koroncó	kisvasúti állomás		0
+2796	Ercsi Marx tér	kisvasúti állomás		0
+2797	Szentlászló GV	kisvasúti állomás		0
+2798	Dég	kisvasúti állomás		0
+2799	Kálóz	kisvasúti állomás		0
+2800	Somogyszil	kisvasúti állomás		0
+2801	Iregszemcse	kisvasúti állomás		0
+2802	Árpádhalom	állomás		0
+2803	Erdőfű	kisvasúti állomás		0
+2804	Kiskassa	kisvasúti állomás		0
+2805	Alsóbogát	kisvasúti állomás		0
+2806	Kunbaja GV	kisvasúti állomás		0
+2807	Tiszabő terményraktár	kisvasúti állomás		0
+2808	Szentegát	kisvasúti állomás		0
+2809	Ranódfa	kisvasúti állomás		0
+2810	Danitanya	kisvasúti állomás		0
+2811	Pély	kisvasúti állomás		0
+2812	Cserepes GV	kisvasúti állomás		0
+2813	Simonyifalva	kisvasúti	RO	0
+2814	Ágya	kisvasúti	RO	0
+2815	Vilmos major	kisvasúti állomás		0
+2816	Battonya GV	kisvasúti állomás		0
+2817	Megyaszó	kisvasúti állomás		0
+2818	Prügy	kisvasúti állomás		0
+2819	Harica	kisvasúti állomás		0
+2820	Nádudvar	állomás		0
+2821	Annavölgyibánya-Sárisáp	állomás		0
+2822	Felsőlászló	állomás	A	0
+2823	Rum	állomás		0
+2824	Pinkafő	állomás	A	0
+2825	Felsőlövő	megállóhely	A	0
+2826	Németújvár	állomás	A	0
+2827	Dudarbánya	állomás		0
+2828	Pusztavám	állomás		0
+2829	Balinka	állomás		0
+2830	Kincsesbánya	állomás		0
+2831	Kerekegyháza	állomás		0
+2832	Hantháza	állomás		0
+2833	Nadab	állomás	RO	-1
+2834	Kiskőszeg	állomás	HR	0
+2835	Donji Miholjac	állomás	HR	-1
+2836	Zombor	állomás	SRB	-1
+2837	Slatina	állomás	HR	-1
+2838	Ipolyság	állomás	SK	-1
+3000	Pestszentlőrinc	állomás		-1
+3001	Szemeretelep	megállóhely		-1
+3002	Ferihegy	megállóhely		-1
+3003	Vecsés	állomás		-1
+3004	Vecsés-Kertekalja	megállóhely		0
+3005	Üllő	állomás		-1
+3006	Hosszúberek-Péteri	megállóhely		0
+3007	Monor	állomás		-1
+3008	Monorierdő	megállóhely		-1
+3009	Pilis	állomás		-1
+3010	Albertirsa	állomás		-1
+3011	Ceglédbercel	megállóhely		-1
+3012	Ceglédbercel-Cserő	állomás		-1
+3013	Budai út	megállóhely		-1
+3015	Kecskéscsárda	megállóhely		0
+3016	Abony	állomás		-1
+3017	Paládicspuszta	megállóhely		0
+3020	Pusztaszuri	megállóhely		0
+3021	Törökszentmiklós	állomás		-1
+3022	Barta	megállóhely		0
+3023	Pusztaszakállas	megállóhely		0
+3025	Turgony	megállóhely		0
+3027	Karcagi puszta	megállóhely		0
+3029	Apavára	megállóhely		0
+3031	Kelenc	megállóhely		0
+3033	Benedekvölgy	megállóhely		0
+3034	Hajdúszoboszló	állomás		-1
+3035	Vérvölgy	megállóhely		0
+3036	Ebes	állomás		-1
+3037	Ondód	megállóhely		0
+3041	Pallagpusztai major	megállóhely		0
+3042	Bocskaikert	megállóhely		-1
+3043	Hajdúhadház	állomás		-1
+3044	Téglás	megállóhely		-1
+3045	Kismicske	megállóhely		0
+3046	Újfehértó	állomás		-1
+3047	Császárszállás	állomás		0
